@@ -1,0 +1,368 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Combining Like Terms Using Addition and Subtraction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35039</md:content-id>
+  <md:title>Combining Like Terms Using Addition and Subtraction</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to combine like terms using addition and subtraction. By the end of the module students should be able to combine like terms in an algebraic expression.</md:abstract>
+  <md:uuid>b6df2338-8ec8-46eb-8a5f-128091bc3601</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1166018065866">
+      <title>Section Overview</title>
+      <list id="id1166017260736" list-type="bulleted">
+        <item>Combining Like Terms</item>
+      </list>
+    </section>
+    <section id="id1166016062839"><title>Combining Like Terms</title><para id="id943071">From our examination of terms in <link document="m35038"/>, we know that <term>like terms</term> are terms in which the variable parts are identical. Like terms is an appropriate name since terms with identical variable parts and different numerical coefficients represent different amounts of the same quantity. When we are dealing with quantities of the same type, we may combine them using addition and subtraction.</para>
+      <para id="id1166013831820"><title>Simplifying an Algebraic Expression</title>An algebraic expression may be <term>simplified</term> by combining like terms.</para>
+      <para id="id1166014793335">This concept is illustrated in the following examples.</para>
+<list id="eip-id1170283117818" list-type="enumerated" number-style="arabic"><item>
+       
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>8 records </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 5 records </m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext> 13 records</m:mtext></m:mrow><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"8 records "+" 5 records "=" 13 records" "." } {}</m:annotation></m:semantics></m:mstyle></m:math><newline/>
+      <para id="id1166014700854">Eight and 5 of the same type give 13 of that type. We have combined quantities of the same type.</para>
+</item>
+<item>
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>8 records </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 5 records </m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext> 3 tapes </m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext> 13 records </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 3 tapes</m:mtext></m:mrow></m:mrow><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"8 records "+" 5 records "+" 3 tapes "=" 13 records "+" 3 tapes" "." } {}</m:annotation></m:semantics></m:mstyle></m:math>
+      <para id="id1166015476415">Eight and 5 of the same type give 13 of that type. Thus, we have 13 of one type and 3 of another type. We have combined only quantities of the same type.</para>
+</item>
+<item>
+Suppose we let the letter <m:math><m:mstyle displaystyle="true">
+<m:mi>x</m:mi>
+</m:mstyle></m:math> represent "record." Then, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn> 5</m:mn>
+<m:mi>x </m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mn> 13</m:mn>
+<m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"8x "+" 5x "=" 13x"} {}</m:annotation></m:semantics></m:mstyle></m:math>. The terms 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>8</m:mn>
+<m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"8x"} {}</m:annotation></m:semantics></m:mstyle></m:math> and 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>5</m:mn>
+<m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"5x"} {}</m:annotation></m:semantics></m:mstyle></m:math> are like terms. So, 8 and 5 of the same type give 13 of that type. We have combined like terms.
+</item>
+<item>Suppose we let the letter <m:math><m:mstyle displaystyle="true">
+<m:mi>x</m:mi>
+</m:mstyle></m:math> represent "record" and <m:math><m:mstyle displaystyle="true">
+<m:mi>y</m:mi>
+</m:mstyle></m:math> represent "tape." Then,
+      <para id="id3963883"><m:math><m:mstyle displaystyle="true">
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>8</m:mn><m:mi>x</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>5</m:mn><m:mi>x</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                     <m:mn>3</m:mn><m:mi>y</m:mi>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+              <m:mn>13</m:mn><m:mi>x</m:mi>
+                      <m:mo stretchy="false">+</m:mo>
+             <m:mn>5</m:mn><m:mi>y</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"8x "+" 5x "+" 6y "=" 13x "+" 5y"} {}</m:annotation>
+          </m:semantics>
+        </m:mstyle></m:math>
+      </para>
+      <para id="id1166012410906">We have combined only the like terms.</para>
+</item>
+</list>
+      <para id="id1166016296278">After observing the problems in these examples, we can suggest a method for simplifying an algebraic expression by combining like terms.</para>
+      <para id="id1166014660766"><title>Combining Like Terms</title>Like terms may be combined by adding or subtracting their coefficients and affixing the result to the common variable.</para>
+      <section id="id1166011505253"><title>Sample Set A</title><para id="id1166016643093">Simplify each expression by combining like terms.</para>
+<example id="eip-id1170956895826"><para id="id1166013132893"><m:math><m:mstyle displaystyle="true"><m:mn>2</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>6</m:mn><m:mi>m</m:mi><m:mo>-</m:mo><m:mn>4</m:mn><m:mi>m</m:mi></m:mstyle></m:math>. All three terms are alike. Combine their coefficients and affix this result to <m:math><m:mstyle displaystyle="true"><m:mi>m</m:mi></m:mstyle></m:math>: <m:math><m:mstyle displaystyle="true"><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>-</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>4</m:mn></m:mstyle></m:math>.</para>
+        <para id="id1166014797047">Thus, 
+<m:math><m:mstyle displaystyle="true"><m:mn>2</m:mn><m:mi>m</m:mi><m:mo>+</m:mo><m:mn>6</m:mn><m:mi>m</m:mi><m:mo>-</m:mo><m:mn>4</m:mn><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>4</m:mn><m:mi>m</m:mi></m:mstyle></m:math> .</para>
+</example>
+<example id="eip-id1170956878592">
+        <para id="id1166014674795"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn><m:mi>y</m:mi></m:mrow><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5x+2y-9y "." } {}</m:annotation></m:semantics></m:mstyle></m:math> The terms 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2y} {}</m:annotation></m:semantics></m:mstyle></m:math> and 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn><m:mi>y</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-9y} {}</m:annotation></m:semantics></m:mstyle></m:math> are like terms. Combine their coefficients: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow><m:mo>=</m:mo>
+<m:mo>-</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2-9"=-"7} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+        <para id="id1166011974914">Thus, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn><m:mi>y</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>5</m:mn><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn><m:mi>y</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5x+2y-9y=5x-7y} {}</m:annotation></m:semantics></m:mstyle></m:math> .</para>
+</example>
+<example id="eip-id1170956857149">
+        <para id="id1166012081666"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow>
+<m:mo>-</m:mo>
+<m:mn>3</m:mn><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn><m:mi>b</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn><m:mi>b</m:mi></m:mrow><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-3a+2b-5a+a+6b "." } {}</m:annotation></m:semantics></m:mstyle></m:math> The like terms are</para>
+        <para id="id3039202"><m:math><m:mstyle displaystyle="true">
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mrow><m:mo>-</m:mo>
+<m:mn>3</m:mn><m:mi>a</m:mi><m:mo>,</m:mo><m:mtext>   </m:mtext><m:mo>-</m:mo>
+<m:mn>5</m:mn><m:mi>a</m:mi><m:mo>,</m:mo><m:mtext>   </m:mtext><m:mi>a</m:mi></m:mrow>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mrow><m:mo>-</m:mo>
+<m:mn>3</m:mn><m:mo>-</m:mo><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mo>-</m:mo>
+<m:mn>7</m:mn></m:mrow>
+</m:munder>
+</m:mrow>
+<m:mrow><m:mo>-</m:mo>
+<m:mn>7</m:mn><m:mi>a</m:mi></m:mrow>
+</m:munder>
+</m:mstyle></m:math>
+   
+<m:math><m:mstyle displaystyle="true">
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mrow><m:mn>2</m:mn><m:mi>b</m:mi><m:mo>,</m:mo><m:mtext>   </m:mtext><m:mn>6</m:mn><m:mi>b</m:mi></m:mrow>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mrow><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>8</m:mn></m:mrow>
+</m:munder>
+</m:mrow>
+<m:mrow><m:mn>8</m:mn><m:mi>b</m:mi></m:mrow>
+</m:munder>
+</m:mstyle></m:math></para>
+        <para id="id6699109">Thus, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn><m:mi>b</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn><m:mi>b</m:mi></m:mrow><m:mtext>=</m:mtext><m:mrow>
+<m:mo>-</m:mo>
+<m:mn>7</m:mn><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn><m:mi>b</m:mi></m:mrow><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-3a+2b-5a+a+6b"=-"7a+8b "." } {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+</example>
+<example id="eip-id1170963618078">
+        <para id="id1166014671521"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>r</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn><m:mi>s</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn><m:mi>s</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn><m:mi>r</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn><m:mi>r</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn><m:mi>s</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r-2s+7s+3r-4r-5s} {}</m:annotation></m:semantics></m:mstyle></m:math> . The like terms are</para>
+        <para id="id1166012308315"><media id="eip-id1166847168731" alt="Two bracketed lists. The first list is r, 3r, and -4r. Below this is the equation, 1+3-4=0. Below this is the expression, 0r. The second list is -2s, 7s, and -5s. Below this is the equation -2+7-5=0. Below this is the expression, 0s. The results of the two lists can be simplified to 0r + 0s = 0."><image mime-type="image/png" src="../../media/brackets.png" width="225" print-width="2in"/></media></para>
+        <para id="id1166017401338">Thus, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>r</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn><m:mi>s</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn><m:mi>s</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn><m:mi>r</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn><m:mi>r</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn><m:mi>s</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r-2s+7s+3r-4r-5s=0} {}</m:annotation></m:semantics></m:mstyle></m:math> .</para>
+      </example></section>
+      <section id="id1166016855398"><title>Practice Set A</title><para id="id1166017179411">Simplify each expression by combining like terms.</para>
+        <exercise id="id1166012504691">
+          <problem id="oo-id1166017055174">
+            <para id="id1166014691839">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4x+3x+6x} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+          </problem>
+<solution id="eip-id1170310306187"><para id="eip-id1170293414505"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>13</m:mtext><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"13"x} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+        </exercise>
+        <exercise id="id1166016476936">
+          <problem id="oo-id1166024814971">
+            <para id="id1166014561369">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn><m:mi>b</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5a+8b+6a-2b} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+          </problem>
+<solution id="eip-id1170284873011"><para id="eip-id1170280335796"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn><m:mi>b</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11"a+6b} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+        </exercise>
+        <exercise id="id5935446">
+          <problem id="oo-id1166016904541">
+            <para id="id1166016951488">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn><m:mi>n</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn><m:mi>n</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mi>m</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>n</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10"m-6n-2n-m+n} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+          </problem>
+<solution id="eip-id1170306327313"><para id="eip-id1170283321430"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mi>m</m:mi><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn><m:mi>n</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9m-7n} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+        </exercise>
+        <exercise id="id1166023553317">
+          <problem id="oo-id1166024423454">
+            <para id="id1166027609797">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>16</m:mtext><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn><m:mi>m</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn><m:mi>r</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn><m:mi>r</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>18</m:mtext></m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mi>m</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn><m:mi>m</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16"a+6m+2r-3r-"18"a+m-7m} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+          </problem>
+<solution id="eip-id1170286703570"><para id="eip-id1170282134062"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow>
+<m:mo>-</m:mo>
+<m:mn>2</m:mn><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mi>r</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-2a-r} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+        </exercise>
+        <exercise id="id6684052">
+          <problem id="oo-id1166014031661">
+            <para id="id1166015783649">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mi>h</m:mi><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn><m:mi>k</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn><m:mi>h</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn><m:mi>h</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn><m:mi>k</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn><m:mi>k</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5h-8k+2h-7h+3k+5k} {}</m:annotation></m:semantics></m:mstyle></m:math> </para>
+          </problem>
+<solution id="eip-id1170297371034"><para id="eip-id1170283232497"> 0</para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1166021597375"><title>Exercises</title><para id="id1166021622167">Simplify each expression by combining like terms.</para>
+      <exercise id="id1166014942728">
+        <problem id="oo-id1166014561253">
+          <para id="id1166014924659">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn><m:mi>a</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4a+7a} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+<solution id="eip-id1168608566514"><para id="eip-id1168606510919"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mi>a</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11"a} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166011645357">
+        <problem id="oo-id1166017304469">
+          <para id="id1166014794669">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mi>m</m:mi><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn><m:mi>m</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3m+5m} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1166014472528">
+        <problem id="oo-id1166015783858">
+          <para id="id1166012409766">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mi>h</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn><m:mi>h</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6h-2h} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+<solution id="eip-id1168607709430"><para id="eip-id1168607246361"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>4</m:mn><m:mi>h</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4h} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166016822955">
+        <problem id="oo-id1166014520240">
+          <para id="id1166024380679">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn><m:mi>k</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11"k-8k} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1166014473166">
+        <problem id="oo-id1166021577476">
+          <para id="id1460624">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mi>m</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn><m:mi>n</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn><m:mi>m</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5m+3n-2m} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+<solution id="eip-id1168606611151"><para id="eip-id1168607692805"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mi>m</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn><m:mi>n</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3m+3n} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166014666286">
+        <problem id="oo-id1166025533608">
+          <para id="id1166012299548">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn><m:mi>y</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7x-6x+3y} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1166021561828">
+        <problem id="oo-id1166023198772">
+          <para id="id1166014691723"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>14</m:mtext><m:mrow><m:mrow><m:mrow><m:mi>s</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn><m:mi>s</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn><m:mi>r</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn><m:mi>r</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"14"s+3s-8r+7r} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+<solution id="eip-id1168614468278"><para id="eip-id1168605256337"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>17</m:mtext><m:mrow><m:mi>s</m:mi><m:mo stretchy="false">−</m:mo><m:mi>r</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"17"s-r} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166012873822">
+        <problem id="oo-id1166017347431">
+          <para id="id1166014562935">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn><m:mi>m</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn><m:mi>n</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn><m:mi>m</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn><m:mi>n</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-5m-3n+2m+6n} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1166014832717">
+        <problem id="oo-id1166022253493">
+          <para id="id1166014850152">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mi>h</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn><m:mi>h</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn><m:mi>k</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn><m:mi>k</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7h+3a-"10"k+6a-2h-5k-3k} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+<solution id="eip-id1168616764085"><para id="eip-id1168612480769"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mi>h</m:mi><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>18</m:mtext></m:mrow><m:mi>k</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5h+9a-"18"k} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166024753436">
+        <problem id="oo-id1166012301288">
+          <para id="id1166015787346">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn><m:mi>y</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn><m:mi>z</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mi>y</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mi>z</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn><m:mi>y</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn><m:mi>z</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4x-8y-3z+x-y-z-3y-2z} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1166016967791">
+        <problem id="oo-id1166014853168">
+          <para id="id1166014566102">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>w</m:mi><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn><m:mi>w</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn><m:mi>w</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>11</m:mtext></m:mrow><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11"w+3x-6w-5w+8x-"11"x} {}</m:annotation></m:semantics></m:mstyle></m:math>  </para>
+        </problem>
+<solution id="eip-id1168610983923"><para id="eip-id1168606863645">0</para></solution>
+      </exercise>
+      <exercise id="id1166026111902">
+        <problem id="oo-id1166014549188">
+          <para id="id1166014520588">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>15</m:mtext><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>r</m:mi><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn><m:mi>s</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn><m:mi>r</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn><m:mi>s</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn><m:mi>r</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn><m:mi>s</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mi>s</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn><m:mi>r</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15"r-6s+2r+8s-6r-7s-s-2r} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1166013856583">
+        <problem id="oo-id1166014451424">
+          <para id="id1166016587482">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mo>-</m:mo>
+<m:mn>7</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∣</m:mo><m:mn>6</m:mn><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow><m:mi>m</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline -7 rline m+ lline 6 rline m+ lline -3 rline m} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+<solution id="eip-id1168607278928"><para id="eip-id1168608020504"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>16</m:mtext><m:mi>m</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16"m} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166013321131">
+        <problem id="oo-id7520264">
+          <para id="id1166016631020">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∣</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∣</m:mo><m:mtext>10</m:mtext><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline -2 rline x+ lline -8 rline x+ lline "10" rline x} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1166014477110">
+        <problem id="oo-id1166017261542">
+          <para id="id1166014956052"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mrow>
+<m:mo>-</m:mo>
+<m:mn>4</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">+</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mi>k</m:mi><m:mo stretchy="false">+</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">+</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow><m:mi>k</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left (-4+1 right )k+ left (6-3 right )k+ left ("12"-4 right )h+ left (5+2 right )k} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+<solution id="eip-id1168607806362"><para id="eip-id7736144"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mi>h</m:mi><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn><m:mi>k</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8h+7k} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166014815723">
+        <problem id="oo-id1166020398849">
+          <para id="id1166014612403"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mrow>
+<m:mo>-</m:mo>
+<m:mn>5</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow></m:mfenced></m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow></m:mfenced></m:mrow><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left (-5+3 right )a- left (2+5 right )b- left (3+8 right )b} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1166015506070">
+        <problem id="oo-id1166012433376">
+          <para id="id1166017186393"><m:math><m:mstyle displaystyle="true"><m:mn>5</m:mn><m:mi>⋆</m:mi><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>Δ</m:mi><m:mo>+</m:mo><m:mn>3</m:mn><m:mi>Δ</m:mi><m:mo>-</m:mo><m:mn>8</m:mn><m:mi>⋆</m:mi></m:mstyle></m:math> </para>
+        </problem>
+<solution id="eip-id1168606893583"><para id="eip-id1168607615011"><m:math><m:mstyle displaystyle="true"><m:mn>5</m:mn><m:mi>Δ</m:mi><m:mo>-</m:mo><m:mn>3</m:mn><m:mi>⋆</m:mi></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166014977872">
+        <problem id="oo-id1166014994618">
+          <para id="id1166014604099"><m:math><m:mstyle displaystyle="true"><m:mn>9</m:mn><m:mi>⊠</m:mi><m:mo>+</m:mo><m:mn>10</m:mn><m:mi>⊞</m:mi><m:mo>-</m:mo><m:mn>11</m:mn><m:mi>⊠</m:mi><m:mo>-</m:mo><m:mn>12</m:mn><m:mi>⊞</m:mi></m:mstyle></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1166023306262">
+        <problem id="oo-id1166024173858">
+          <para id="id1166014481106">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>16</m:mtext><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn><m:mi>y</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16"x-"12"y+5x+7-5x-"16"-3y} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+<solution id="eip-id1168610963950"><para id="eip-id1168607789430"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>16</m:mtext><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16"x-"15"y-9} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166014680768">
+        <problem id="oo-id1166015000128">
+          <para id="id1166015279307">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn><m:mi>y</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn><m:mi>z</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>11</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn><m:mi>z</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-3y+4z-"11"-3z-2y+5-4 left (8-3 right )} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+        </problem>
+      </exercise>
+      <section id="id1166013325827">
+        <title>Exercises for Review</title>
+        <exercise id="id7578467">
+          <problem id="oo-id1166021387191">
+            <para id="id1166015343549">(<link document="m34912"/>) Convert 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>24</m:mtext><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"24"}  over  {"11"} } } {}</m:annotation></m:semantics></m:mstyle></m:math> to a mixed number    
+</para>
+          </problem>
+<solution id="eip-id7988886"><para id="eip-id1168607434113"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 {  {2}  over  {"11"} } } {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+        </exercise>
+        <exercise id="id1166014451830">
+          <problem id="oo-id1166017162996">
+            <para id="id1166014965938">(<link document="m34927"/>) Determine the missing numerator: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>64</m:mtext></m:mfrac></m:mrow><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} } = {  {?}  over  {"64"} }  "." } {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id658590">
+          <problem id="oo-id1166014688591">
+            <para id="id1166019813591">(<link document="m34941"/>) Simplify 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { {  {5}  over  {6} } - {  {1}  over  {4} } }  over  { {  {1}  over  {"12"} } } } } {}</m:annotation></m:semantics></m:mstyle></m:math>.      </para>
+          </problem>
+<solution id="eip-id1168607267602"><para id="eip-id1168607880133"> 7</para></solution>
+        </exercise>
+        <exercise id="id1166021445011">
+          <problem id="oo-id7736326">
+            <para id="id1166017354705">(<link document="m34983"/>) Convert 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"16"} } } {}</m:annotation></m:semantics></m:mstyle></m:math> to a percent.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1166014685139">
+          <problem id="oo-id988101">
+            <para id="id1166017717010">(<link document="m35038"/>) In the expression 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>6</m:mn>
+<m:mi>k</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6k} {}</m:annotation></m:semantics></m:mstyle></m:math>, how many <emphasis effect="italics">k</emphasis>’s are there?  </para>
+          </problem>
+<solution id="eip-id1168605977231"><para id="eip-id1168609390783"> 6</para></solution>
+        </exercise>
+      </section>
+    </section>
+  </content>
+</document>

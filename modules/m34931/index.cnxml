@@ -1,0 +1,329 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Summary of Key Concepts </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34931</md:content-id>
+  <md:title>Summary of Key Concepts </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module reviews the key concepts from the chapter "Introduction to Fractions and Multiplication and Division of Fractions."</md:abstract>
+  <md:uuid>b4edbc00-d74b-4778-bed5-22ef9403646d</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1164371292215"><title>Summary of Key Concepts</title><para id="id1164370441311"><title>Fraction (<link document="m34908"/>)</title>The idea of breaking up a whole quantity into equal parts gives us the word <emphasis>fraction</emphasis>. </para>
+      <para id="id1164370170250"><title>Fraction Bar, Denominator, Numerator (<link document="m34908"/>)</title> A fraction has three parts:
+      <list id="id1164368069195" list-type="enumerated" number-style="arabic"><item>The fraction bar <m:math>
+<m:mfrac>
+<m:mo>   </m:mo>
+<m:mo>   </m:mo>
+</m:mfrac>
+</m:math>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow/><m:mrow/></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {}  over  {} } } {}</m:annotation></m:semantics></m:math></item>
+        <item>The nonzero whole number below the fraction bar is the <emphasis>denominator</emphasis>.</item>
+        <item>The whole number above the fraction bar is the <emphasis>numerator</emphasis>.</item>
+      </list>
+</para>
+      <para id="id1164368150165"><media id="id1164368150165_media" alt="Four-fifths. Four is the numerator, five is the denominator, and a line between them is the fraction bar.">
+          <image mime-type="image/png" src="../../media/graphics1-1398.png" id="id1164368150165__onlineimage" width="175" print-width="1.5in"/>
+        </media>
+      </para>
+      <para id="id1164370578021"><title>Proper Fraction (<link document="m34912"/>)</title> <emphasis>Proper fractions</emphasis> are fractions in which the numerator is strictly less than the denominator.</para>
+      <para id="id1164368110961"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } } {}</m:annotation></m:semantics></m:math> is a proper fraction</para>
+      <para id="id1164371758226"><title>Improper Fraction (<link document="m34912"/>)</title> <emphasis>Improper fractions</emphasis> are fractions in which the numerator is greater than or equal to the denominator. Also, any nonzero number placed over 1 is an improper fraction.</para>
+      <para id="id1164370337596"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {4} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {5} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {1} } } {}</m:annotation></m:semantics></m:math> are improper fractions</para>
+      <para id="id1164373828293"><title>Mixed Number (<link document="m34912"/>)</title> A <emphasis>mixed number</emphasis> is a number that is the sum of a whole number and a proper fraction.</para>
+      <para id="id1164370337725"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {1}  over  {5} } } {}</m:annotation></m:semantics></m:math> is a mixed number 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mn>1</m:mn><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left (1 {  {1}  over  {5} } =1+ {  {1}  over  {5} }  right )} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1164368179657"><title>Correspondence Between Improper Fractions and Mixed Numbers (<link document="m34912"/>)</title> Each improper fraction corresponds to a particular mixed number, and each mixed number corresponds to a particular improper fraction.</para>
+      <para id="id1164370337385"><title>Converting an Improper Fraction to a Mixed Number (<link document="m34912"/>)</title> A method, based on division, converts an improper fraction to an equivalent mixed number.</para>
+      <para id="id1164370465323"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {4} } } {}</m:annotation></m:semantics></m:math> can be converted to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1164370830882"><title>Converting a Mixed Number to an Improper Fraction (<link document="m34912"/>)</title> A method, based on multiplication, converts a mixed number to an equivalent improper fraction.</para>
+      <para id="id3067666"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math> can be converted to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>47</m:mtext><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"47"}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1164368912574"><title>Equivalent Fractions (<link document="m34927"/>)</title> Fractions that represent the same quantity are <emphasis>equivalent fractions</emphasis>.</para>
+      <para id="id1164368940505"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {8} } } {}</m:annotation></m:semantics></m:math> are equivalent fractions</para>
+      <para id="id1164368114752"><title>Test for Equivalent Fractions (<link document="m34927"/>)</title> If the <emphasis>cross products</emphasis> of two fractions are equal, then the two fractions are equivalent.</para>
+      <para id="id1164368282712"><media id="eip-id1165353863218" alt="Three fourths and six eighths, with an arrow from each denominator pointing up at the opposite fraction's numerator. This makes three times eight equals four times six, which is equal to twenty-four on both sides."><image mime-type="image/png" src="../../media/summ1.png" width="75" print-width=".75in"/></media></para>
+      <para id="id1164369056139">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {8} } } {}</m:annotation></m:semantics></m:math> are equivalent.</para>
+      <para id="id1164371289387"><title>Relatively Prime (<link document="m34927"/>)</title>  Two whole numbers are <emphasis>relatively prime</emphasis> when 1 is the only number that divides both of them.</para>
+      <para id="id1164369212056">3 and 4 are relatively prime</para>
+      <para id="id1164370824050"><title>Reduced to Lowest Terms (<link document="m34927"/>)</title> A fraction is <emphasis>reduced to lowest terms</emphasis> if its numerator and denominator are relatively prime.</para>
+      <para id="id1164368352035">The number 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> is reduced to lowest terms, since 3 and 4 are relatively prime.</para>
+      <para id="id1164368062117">The number 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {8} } } {}</m:annotation></m:semantics></m:math> is <emphasis effect="italics">not</emphasis> reduced to lowest terms since 6 and 8 are not relatively prime.</para>
+      <para id="id1164376928645"><title>Reducing Fractions to Lowest Terms (<link document="m34927"/>)</title> Two methods, one based on dividing out common primes and one based on dividing out any common factors, are available for reducing a fraction to lowest terms.</para>
+      <para id="id1164368108080"><title>Raising Fractions to Higher Terms (<link document="m34927"/>)</title> A fraction can be raised to higher terms by multiplying both the numerator and denominator by the same nonzero number.</para>
+      <para id="id1164369755694">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>3</m:mn>
+                        <m:mn>4</m:mn>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>4</m:mn>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>6</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } = {  {3 cdot 2}  over  {4 cdot 2} } = {  {6}  over  {8} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1164370518974"><title>The Word “OF” Means Multiplication (<link document="m34928"/>)</title> In many mathematical applications, the word "of" means multiplication.</para>
+      <para id="id1164368225428"><title>Multiplication of Fractions (<link document="m34928"/>)</title> To multiply two or more fractions, multiply the numerators together and multiply the denominators together. Reduce if possible.</para>
+      <para id="id1164368927236">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>5</m:mn>
+                            <m:mn>8</m:mn>
+                          </m:mfrac>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mfrac>
+                            <m:mn>4</m:mn>
+                            <m:mtext>15</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>5</m:mn>
+                            <m:mo stretchy="false">⋅</m:mo>
+                            <m:mn>4</m:mn>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mn>8</m:mn>
+                            <m:mo stretchy="false">⋅</m:mo>
+                            <m:mtext>15</m:mtext>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mtext>20</m:mtext>
+                        <m:mtext>120</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>6</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} }  cdot  {  {4}  over  {"15"} } = {  {5 cdot 4}  over  {8 cdot "15"} } = {  {"20"}  over  {"120"} } = {  {1}  over  {6} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1164370616957"><title>Multiplying Fractions by Dividing Out Common Factors (<link document="m34928"/>)</title> Two or more fractions can be multiplied by first dividing out common factors and then using the rule for multiplying fractions.</para>
+      <para id="id1164369383023">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mover>
+                           <m:menclose notation="updiagonalstrike"> <m:mn>5</m:mn></m:menclose>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mover>
+                          <m:munder>
+                            <m:menclose notation="updiagonalstrike"><m:mn>8</m:mn></m:menclose>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:munder>
+                        </m:mfrac>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mfrac>
+                          <m:mover>
+                           <m:menclose notation="updiagonalstrike"> <m:mn>4</m:mn></m:menclose>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mover>
+                          <m:munder>
+                            <m:mrow>
+                             <m:menclose notation="updiagonalstrike"> <m:mn>15</m:mn></m:menclose>
+                              
+                            </m:mrow>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:munder>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>6</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  { { { {5}}}  cSup { size 8{1} } }  over  { { { {8}}}  cSub { size 8{2} } } }  cdot  {  { { { {4}}}  cSup { size 8{1} } }  over  { { { {1}} { {5}}}  cSub { size 8{3} } } } = {  {1 cdot 1}  over  {2 cdot 3} } = {  {1}  over  {6} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1164369331448"><title>Multiplication of Mixed Numbers (<link document="m34928"/>)</title> To perform a multiplication in which there are mixed numbers, first convert each mixed number to an improper fraction, then multiply. This idea also applies to division of mixed numbers.</para>
+      
+      <para id="id1164371136712"><title>Reciprocals (<link document="m34929"/>)</title> Two numbers whose product is 1 are reciprocals.</para>
+      <para id="id1164368354406">7 and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {7} } } {}</m:annotation></m:semantics></m:math> are reciprocals</para>
+      <para id="id1164368697590"><title>Division of Fractions (<link document="m34929"/>)</title> To divide one fraction by another fraction, multiply the dividend by the reciprocal of the divisor.</para>
+      <para id="id1164369763876">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>4</m:mn>
+                        <m:mn>5</m:mn>
+                      </m:mfrac>
+                      <m:mo stretchy="false">÷</m:mo>
+                      <m:mfrac>
+                        <m:mn>2</m:mn>
+                        <m:mtext>15</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>4</m:mn>
+                        <m:mn>5</m:mn>
+                      </m:mfrac>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mfrac>
+                        <m:mtext>15</m:mtext>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} }  div  {  {2}  over  {"15"} } = {  {4}  over  {5} }  cdot  {  {"15"}  over  {2} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1164368971507"><title>Dividing 1 by a Fraction (<link document="m34929"/>)</title> When dividing 1 by a fraction, the quotient is the reciprocal of the fraction.</para>
+      <para id="id1164368731272">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mfrac>
+                        <m:mn>3</m:mn>
+                        <m:mn>7</m:mn>
+                      </m:mfrac>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>7</m:mn>
+                      <m:mn>3</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  { {  {3}  over  {7} } } } = {  {7}  over  {3} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1164368767010"><title>Multiplication Statements (<link document="m34930"/>)</title> A mathematical statement of the form </para>
+      <para id="id1164370591575">product = (factor 1) (factor 2)</para>
+      <para id="id1164372531304">is a multiplication statement.</para>
+      <para id="id1164368878764">By omitting one of the three numbers, one of three following problems result:</para>
+<list id="eip-id1165353871258" list-type="enumerated"><item id="id1164373599769"><emphasis effect="italics">M</emphasis> = (factor 1) ⋅ (factor 2) Missing product statement.</item>
+      <item id="id1164372543826">product = (factor 1) ⋅ <emphasis effect="italics">M</emphasis> Missing factor statement.</item>
+      <item id="id1164369859655">product = <emphasis effect="italics">M</emphasis> ⋅ (factor 2) Missing factor statement.</item></list>
+      <para id="id1164368985329"><emphasis effect="italics">Missing products</emphasis> are determined by simply multiplying the known factors. <emphasis effect="italics">Missing factors</emphasis> are determined by</para>
+      <para id="id1164368940395">missing factor = (product) ÷ (known factor)</para>
+    </section>
+  </content>
+</document>

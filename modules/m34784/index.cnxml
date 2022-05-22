@@ -1,0 +1,3243 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Subtraction of Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34784</md:content-id>
+  <md:title>Subtraction of Whole Numbers</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to subtract whole numbers. By the end of this module, students should be able to understand the subtraction process, subtract whole numbers, and use a calculator to subtract one whole number from another whole number.</md:abstract>
+  <md:uuid>c026aca1-4ed9-4fa5-9222-ec84421ffe6f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1170184265756">
+      <title>Section Overview</title>
+      <list id="id1170184595235" list-type="bulleted">
+        <item>Subtraction</item>
+        <item>Subtraction as the Opposite of Addition</item>
+        <item>The Subtraction Process</item>
+        <item>Subtraction Involving Borrowing</item>
+        <item>Borrowing From Zero</item>
+        <item>Calculators</item>
+      </list>
+    </section>
+    <section id="id1170203286208"><title>Subtraction</title><para id="id1170201091961"><title>Subtraction</title><term>Subtraction</term> is the process of determining the remainder when part of the total is removed.
+</para>
+      <para id="id1170185960470">Suppose the sum of two whole numbers is 11, and from 11 we remove 4. Using the number line to help our visualization, we see that if we are located at 11 and move 4 units to the left, and thus remove 4 units, we will be located at 7. Thus, 7 units remain when we remove 4 units from 11 units.</para>
+      <para id="eip-id1168824523822"><media id="id1170206077346_media" alt="A number line, with an arrow, labeled -4, drawn from the mark for 11 to the mark for 7.">
+          <image mime-type="image/png" src="../../media/graphics1-2c71.png" id="id1170206077346__onlineimage" width="450" print-width="4.5in"/>
+        </media>
+     </para> 
+      
+      <para id="id1170183554115"><title>The Minus Symbol</title>The <term>minus symbol </term>(-) is used to indicate subtraction. For example, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11" - 4} {}</m:annotation></m:semantics></m:math> indicates that 4 is to be subtracted from 11. </para>
+      <para id="id1170185165268"><title>Minuend</title>The number immediately in front of or the minus symbol is called the <term>minuend</term>, and it represents the <emphasis effect="italics">original</emphasis> number of units. </para>
+      <para id="id1170196597335"><title>Subtrahend</title>The number immediately following or below the minus symbol is called the <term>subtrahend</term>, and it represents the number of units <emphasis effect="italics">to be removed</emphasis>. </para>
+      <para id="id1170201057582"><title>Difference</title>The <emphasis effect="italics">result</emphasis> of the subtraction is called the <term>difference</term> of the two numbers. For example, in 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11" - 4=7} {}</m:annotation></m:semantics></m:math>, 11 is the minuend, 4 is the subtrahend, and 7 is the difference.</para>
+      
+    </section>
+    <section id="id1170184824871">
+      <title>Subtraction as the Opposite of Addition</title>
+      <para id="id1170192526201">Subtraction can be thought of as the opposite of addition. We show this in the problems in Sample Set A.</para>
+      <section id="id1170187540140"><title>Sample Set A</title><example id="eip-id1170179315132"><para id="id1170215408756"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 - 5=3} {}</m:annotation></m:semantics></m:math> since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3+5=8} {}</m:annotation></m:semantics></m:math>.</para></example>
+        <example id="eip-id1170179315379"><para id="id1170205718165"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 - 3=6} {}</m:annotation></m:semantics></m:math> since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6+3=9} {}</m:annotation></m:semantics></m:math>.</para></example>
+      </section>
+      <section id="id1170197891264"><title>Practice Set A</title><para id="eip-371">Complete the following statements.</para><exercise id="eip-id1165729523594"><problem id="eip-id1165710926403"><para id="id1170196196776"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 - 5={}} {}</m:annotation></m:semantics></m:math><space count="10" effect="underline"/> since <space count="10" effect="underline"/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{+5=7} {}</m:annotation></m:semantics></m:math>.</para></problem>
+<solution id="eip-id1170656729430"><para id="eip-id1170644071317"><m:math><m:mrow><m:mi>7</m:mi><m:mo>-</m:mo><m:mi>5</m:mi><m:mo>=</m:mo><m:mi>2</m:mi></m:mrow></m:math> since <m:math><m:mrow><m:mi>2</m:mi><m:mo>+</m:mo><m:mi>5</m:mi><m:mo>=</m:mo><m:mi>7</m:mi></m:mrow></m:math></para></solution></exercise>
+        <exercise id="eip-id1165740377577"><problem id="eip-id1165727074018"><para id="id1170192844535"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 - 1={}} {}</m:annotation></m:semantics></m:math><space count="10" effect="underline"/> since <space count="10" effect="underline"/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{+1=9} {}</m:annotation></m:semantics></m:math>.</para></problem>
+
+<solution id="eip-id1166544032543"><para id="eip-id1166549003454"><m:math><m:mrow><m:mi>9</m:mi><m:mo>-</m:mo><m:mi>1</m:mi><m:mo>=</m:mo><m:mi>8</m:mi></m:mrow></m:math> since <m:math><m:mrow><m:mi>8</m:mi><m:mo>+</m:mo><m:mi>1</m:mi><m:mo>=</m:mo><m:mi>9</m:mi></m:mrow></m:math></para></solution></exercise>
+        <exercise id="eip-id1165724527572"><problem id="eip-id1165715433736"><para id="id1170198266060"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>17</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"17" - 8={}} {}</m:annotation></m:semantics></m:math><space count="10" effect="underline"/> since <space count="10" effect="underline"/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>17</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{+8="17"} {}</m:annotation></m:semantics></m:math>.</para></problem>
+<solution id="eip-id1165262525683"><para id="eip-id1165256030411"><m:math><m:mrow><m:mi>17</m:mi><m:mo>-</m:mo><m:mi>8</m:mi><m:mo>=</m:mo><m:mi>9</m:mi></m:mrow></m:math> since <m:math><m:mrow><m:mi>9</m:mi><m:mo>+</m:mo><m:mi>8</m:mi><m:mo>=</m:mo><m:mi>17</m:mi></m:mrow></m:math></para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1170183737408"><title>The Subtraction Process</title><para id="id1170184121190">We'll study the process of the subtraction of two whole numbers by considering the difference between 48 and 35.</para>
+      <para id="id1170201963560"><!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>48</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>35</m:mn>
+</m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math> -->
+
+
+
+<media id="eip-id1166221598003" alt="Vertical subtraction. 48 - 35 means, 4 tens + 8 ones, minus 3 tens - 5 ones = 1 ten + 3 ones."><image mime-type="image/png" src="../../media/redo1-8883.png" width="300px" print-width="2.5in"/></media>
+
+<!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mrow>
+<m:mtext>4 tens + 8 ones</m:mtext>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>- 3 tens - 5 ones</m:mtext>
+</m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mrow>
+<m:mtext>1 ten + 3 ones</m:mtext>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> --></para>
+      <para id="id1170185972431">which we write as 13.</para>
+     <example id="eip-id1169975777800"><title>The Process of Subtracting Whole Numbers </title><para id="id1170200530125"><emphasis effect="bold">To subtract two whole numbers,</emphasis></para>
+      <para id="id1170184892570"><emphasis effect="italics">The process</emphasis></para>
+      <list id="id1170205499791" list-type="enumerated" number-style="arabic"><item>Write the numbers vertically, placing corresponding positions in the same column.<newline/>
+      <para id="id1170203267745"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>48</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>35</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para></item>
+        <item>Subtract the digits in each column. Start at the right, in the ones position, and move to the left, placing the difference at the bottom.<newline/>
+      
+      <para id="id7000996"> 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>48</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>35</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>13</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></item></list></example>
+      <section id="id1170218340029"><title>Sample Set B</title><para id="id1170183677843">Perform the following subtractions.</para>
+        <example id="eip-id1171498968142"><para id="id1170184188704"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>275</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>142</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>133</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+        </para><para id="eip-857"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>5</m:mn>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>7</m:mn>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>4</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignr { stack {
+ size 12{5 - 2=3 "." }  {} # 
+ size 12{7 - 4=3 "." }  {} # 
+ size 12{2 - 1=1 "." }  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math></para></example>
+
+<example id="eip-id1171511169390">        <para id="id1170202868275"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>46,042</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  1,031</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>45,011</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para><para id="eip-993"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>4</m:mn>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>0</m:mn>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>0</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>0</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>6</m:mn>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>1</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>5</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                    <m:mtr>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>4</m:mn>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>0</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                              <m:mtext>.</m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignr { stack {
+ size 12{2 - 1=1 "." }  {} # 
+ size 12{4 - 3=1 "." }  {} # 
+ size 12{0 - 0=0 "." }  {} # 
+ size 12{6 - 1=5 "." }  {} # 
+ size 12{4 - 0=4 "." }  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math></para></example>
+
+<example id="eip-id1171509297572">        <para id="id1170183637904">Find the difference between 977 and 235. </para>
+        <para id="id1170213089983">Write the numbers vertically, placing the larger number on top. Line up the columns properly.</para>
+        
+        <para id="eip-793"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>977</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>235</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>742</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para><para id="id1170201574313">The difference between 977 and 235 is 742.</para>
+</example>
+
+<example id="eip-id1171492288140">
+        <para id="id1170196413880">In Keys County in 1987, there were 809 cable television installations. In Flags County in 1987, there were 1,159 cable television installations. How many more cable television installations were there in Flags County than in Keys County in 1987?</para>
+        <para id="id1170193923691">We need to determine the difference between 1,159 and 809.</para>
+        <para id="id1170197268548"><media id="id1170188074934_media" alt="1,159 - 809 = 350, with a 1 above the thousands and hundreds columns.">
+              <image mime-type="image/png" src="../../media/graphics2-f5b0.png" id="id1170188074934__onlineimage" width="97" print-width=".6in"/>
+            </media>
+       
+        </para>
+        <para id="id1170198652823">There were 350 more cable television installations in Flags County than in Keys County in 1987.</para></example>
+      </section>
+      <section id="id1170205477174"><title>Practice Set B</title><para id="id1170203177759">Perform the following subtractions.</para>
+       <exercise id="id1170184591813"><problem id="oo-id1170215712518"> <para id="eip-id1168814141278"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>534</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>203</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+        </para>
+</problem>
+<solution id="eip-id1170177703977"><para id="id1170216371553">331 </para></solution>
+        </exercise>
+
+        <exercise id="eip-id1171857553181"><problem id="eip-id1171855976995"><para id="eip-id1165108717501"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>857</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  43</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+        </para> </problem>
+        
+            <solution id="eip-id1171860625507"><para id="id1170196336184">814 </para></solution>
+         </exercise>
+
+<exercise id="eip-id1168868941509"><problem id="eip-id1168887950220">
+        <para id="eip-id1171701510458"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>95,628</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>34,510</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+        </para>
+  </problem>
+<solution id="eip-id1168881690603">
+            <para id="id1170200465742">61,118 </para>
+</solution>
+        </exercise>
+
+<exercise id="eip-id1168885541950"><problem id="eip-id1168905297907">
+        <para id="id1170196271153"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>11,005</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  1,005</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math>
+        </para>
+        </problem>
+<solution id="eip-id1168876289117">
+            <para id="id1170196308992">10,000 </para>
+          </solution>
+        </exercise>
+        <exercise id="id1170189137592">
+          <problem id="oo-id1170183406892">
+            <para id="id1170198672280">Find the difference between 88,526 and 26,412.</para></problem>
+<solution id="eip-id1168910996781"><para id="eip-id1168898390263">62,114</para></solution>
+        </exercise>
+
+        <para id="id1170182071461">In each of these problems, each bottom digit is less than the corresponding top digit. This may not always be the case. We will examine the case where the bottom digit is greater than the corresponding top digit in the next section.</para>
+      </section>
+    </section>
+    <section id="id1170181964167"><title>Subtraction Involving Borrowing</title><para id="id1170181956917"><title>Minuend  and Subtrahend</title>It often happens in the subtraction of two whole numbers that a digit in the <term>minuend</term> (top number) will be less than the digit in the same position in the <term>subtrahend</term> (bottom number). This happens when we subtract 27 from 84.</para>
+      
+      <para id="eip-746"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>84</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>27</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para><para id="id1170216561131">We do not have a name for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 - 7} {}</m:annotation></m:semantics></m:math>. We need to rename 84 in order to continue. We'll do so as follows:</para>
+      
+      <para id="eip-59"><!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>84</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>  -->
+<!-- <m:mtd>
+<m:mrow><m:mtext>8 tens + 4 ones</m:mtext>
+</m:mrow>
+</m:mtd> -->
+<!-- </m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>27</m:mn>
+</m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd> -->
+<!-- <m:mtd>
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>2 tens + 7 ones</m:mtext></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd> -->
+<!-- </m:mtr>
+</m:mtable>
+</m:math> -->
+
+<media id="eip-id1166098459883" alt="Vertical subtraction. 84 - 27 is equal to 8 tens + 4 ones, over 2 tens + 7 ones."><image mime-type="image/png" src="../../media/redo2-c3ed.png" width="200px" print-width="1.75in"/></media></para>
+      
+      <para id="eip-863"><media id="eip-id1165830307908" alt="Vertical subtraction. 7 tens + 1 ten + 4 ones, over 2 tens + 7 ones."><image mime-type="image/png" src="../../media/15pic3-0763.png" width="200px" print-width="1.75in"/></media>
+
+
+
+<!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mrow><m:mtext>7 tens + 1 ten + 4 ones</m:mtext>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>2 tens</m:mtext><m:mspace width="48px"/><m:mtext>+ 7 ones</m:mtext></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> --></para><para id="eip-359"><!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mrow><m:mtext>7 tens + 10 ones + 4 ones</m:mtext>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>2 tens</m:mtext><m:mspace width="60px"/><m:mtext>+ 7 ones</m:mtext></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> -->
+
+<media id="eip-id1166095362389" alt="Vertical subtraction. 7 tens + 10 ones + 4 ones, over 2 tens + 7 ones."><image mime-type="image/png" src="../../media/15pic4-f232.png" width="200" print-width="1.75in"/></media></para><para id="id1170190914514">Our new name for 84 is 7 tens + 14 ones.</para>
+      
+      <para id="eip-325"><media id="eip-id1165008480631" alt="Vertical subtraction. 7 tens + 14 ones, over 2 tens + 7 ones = 5 tens + 7 ones."><image mime-type="image/png" src="../../media/15pic5-e805.png" width="160px" print-width="1.25in"/></media>
+<newline/>
+
+<m:math>
+<m:mtable>
+<!-- <m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mrow><m:mtext>7 tens + 14 ones</m:mtext>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>2 tens +  7 ones</m:mtext></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mrow><m:mtext>5 tens +  7 ones</m:mtext>
+</m:mrow></m:mtd></m:mtr> -->
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mrow><m:mtext>= 57</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para><para id="id1170186822257">Notice that we converted 8 tens to 7 tens + 1 ten, and then we converted the 1 ten to 10 ones. We then had 14 ones and were able to perform the subtraction.</para>
+      <para id="id6115366"><title>Borrowing</title>The process of <term>borrowing</term> (converting) is illustrated in the problems of Sample Set C.</para>
+      <section id="id1170185540053"><title>Sample Set C</title><example id="eip-id1165271559945"><para id="eip-id1170039380940"><media id="id1860797_media" alt="84 - 27 = 57. The 8 in 84 is crossed out, with a 7 above it. There is a 14 above the ones column.">
+            <image mime-type="image/png" src="../../media/graphics3-71f7.png" id="id1860797__onlineimage" width="80" print-width=".5in"/>
+          </media>
+      </para>  
+        <list id="id1170182190036" list-type="enumerated" number-style="arabic">
+          <item>Borrow 1 ten from the 8 tens. This leaves 7 tens.</item>
+          <item>Convert the 1 ten to 10 ones.</item>
+          <item>Add 10 ones to 4 ones to get 14 ones.</item>
+        </list>
+</example>
+<example id="eip-id1165265305899"><para id="eip-id1171993675636"><media id="id1170199467413_media" alt="672 - 91 = 581. The 6 in 672 is crossed out, with a 5 above it. The 7 in 672 is crossed out, with 17 above it.">
+            <image mime-type="image/png" src="../../media/graphics4-f760.png" id="id1170199467413__onlineimage" width="75" print-width=".5in"/>
+          </media></para>
+        
+        <list id="id1170196623418" list-type="enumerated" number-style="arabic">
+          <item>Borrow 1 hundred from the 6 hundreds. This leaves 5 hundreds.</item>
+          <item>Convert the 1 hundred to 10 tens.</item>
+          <item>Add 10 tens to 7 tens to get 17 tens.</item>
+        </list>
+</example></section>
+      <section id="id1170200253291"><title>Practice Set C </title><para id="id1170196775876">Perform the following subtractions. Show the expanded form for the first three problems.</para>
+
+<exercise id="eip-id1166564561753"><problem id="eip-id1166565471101">
+        <para id="eip-id1166540706743"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>53</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>35</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para></problem>
+<solution id="eip-id1165441435733"><para id="eip-id1165449505886"><media id="eip-id1167262887764" alt="The solution is 18. The subtraction can be broken into the quantity 5 tens + 3 ones, minus  the quantity 3 tens + 5 ones. 5 tens + 3 ones can be broken down to 4 tens + 1 ten + 3 ones, or 4 tens + 13 ones. The difference is 1 ten + 8 ones, or 18."><image mime-type="image/png" src="../../media/c1.png" width="250" print-width="2.25in"/></media></para></solution></exercise>
+
+
+        <exercise id="eip-id1166554630205"><problem id="eip-id1166577347592"><para id="eip-id1166566392516"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>76</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>28</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para></problem>
+<solution id="eip-id1168662692116"><para id="eip-id1168668799210"><media id="eip-id1166415463034" alt="The solution is 48. The subtraction problem can be expanded to the quantity 7 tens + 6 ones, minus the quantity 2 tens + 8 ones. 7 tens + 6 ones can be expanded to be 6 tens + 1 ten + 6 ones, or 6 tens + 16 ones. The sum becomes 4 tens + 8 ones, or 48."><image mime-type="image/png" src="../../media/c2.png" width="250" print-width="2.25in"/></media></para></solution></exercise>
+
+<exercise id="eip-id1166547223517"><problem id="eip-id1799885">
+        <para id="eip-id1166555962506"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>872</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>565</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para></problem>
+
+<solution id="eip-id1164919643154"><para id="eip-id1164919643155"><media id="eip-id1169130999375" alt="The solution is 307. The subtraction problem can be expanded to be the quantity, 8 hundreds + 7 tens + 2 ones, minus the quantity, 5 hundreds + 6 tens + 5 ones. 8 hundreds + 7 tens + 2 ones can be expanded to 8 hundreds + 6 tens + 1 ten + 2 ones, or 8 hundreds + 6 tens + 12 ones. The difference is 3 hundreds + 0 tens + 7 ones, or 307."><image mime-type="image/png" src="../../media/c3.png" width="350" print-width="3.5in"/></media></para></solution></exercise>
+
+<exercise id="eip-id1166576213100"><problem id="eip-id7004215">
+        <para id="eip-id1166555543540"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>441</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>356</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para></problem>
+<solution id="eip-id1170663753364"><para id="eip-id1170656240644">85</para></solution></exercise>
+        
+<exercise id="eip-id1166558645329"><problem id="eip-id1166562789723">       
+ <para id="eip-id1166555557942"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>775</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  66</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para></problem>
+<solution id="eip-id1168666459711"><para id="eip-id1168668811041">709</para></solution></exercise>
+
+<exercise id="eip-id1166558862485"><problem id="eip-id1166570503137">
+        <para id="eip-id1166574360504">
+          <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5,663</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>2,559</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+        </para></problem>
+<solution id="eip-id1169262728200"><para id="eip-id1169275250826">3,104</para></solution></exercise>
+
+
+        
+      </section>
+
+<para id="id1170213115584"><title>Borrowing More Than Once</title>Sometimes it is necessary to <term>borrow more than once</term>. This is shown in the problems in <link target-id="id1170216660247"/>.</para>
+
+      <section id="id1170216660247"><title>Sample Set D</title><para id="id1170184913524">Perform the Subtractions. Borrowing more than once if necessary</para>
+<example id="eip-id1165029546782">
+        <para id="eip-id1170666030614"><media id="id1170184750658_media" alt="641 - 358 = 283. the 4 in 641 is crossed out, with a 3 marked above it. Above the 1 in 641 is 11. The 6 in 641 is then crossed out, with a 5 marked above it. The 3 above the 4 is crossed out, with a 13 marked above it.">
+            <image mime-type="image/png" src="../../media/graphics5-b5b7.png" id="id1170184750658__onlineimage" width="90" print-width=".7in"/>
+          </media>
+        </para>
+        <list id="id1170184252970" list-type="enumerated" number-style="arabic">
+          <item>Borrow 1 ten from the 4 tens. This leaves 3 tens.</item>
+          <item>Convert the 1 ten to 10 ones.</item>
+          <item>Add 10 ones to 1 one to get 11 ones. We can now perform 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11" - 8} {}</m:annotation></m:semantics></m:math>.</item>
+          <item>Borrow 1 hundred from the 6 hundreds. This leaves 5 hundreds.</item>
+          <item>Convert the 1 hundred to 10 tens.</item>
+          <item>Add 10 tens to 3 tens to get 13 tens.</item>
+          <item>Now 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>13</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"13" - 5=8} {}</m:annotation></m:semantics></m:math>.</item>
+          <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 - 3=2} {}</m:annotation></m:semantics></m:math>.</item>
+        </list> 
+</example>
+<example id="eip-id1165028807571">
+        <para id="id1170183066563"><media id="id1170185534253_media" alt="534 - 85 = 449. The 3 in 534 is crossed out, with a 2 above it. Above the 4 is a 14. The 5 in 534 is then crossed out, with a 4 marked above it. The 2 above the 3 in 534 is crossed out, with a 12 above it.">
+              <image mime-type="image/png" src="../../media/graphics6-acf4.png" id="id1170185534253__onlineimage" width="100" print-width=".7in"/>
+            </media>
+          
+        </para>
+        <list id="id1170211299381" list-type="enumerated" number-style="arabic">
+          <item>Borrow 1 ten from the 3 tens. This leaves 2 tens.</item>
+          <item>Convert the 1 ten to 10 ones.</item>
+          <item>Add 10 ones to 4 ones to get 14 ones. We can now perform 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>14</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"14" - 5} {}</m:annotation></m:semantics></m:math>.</item>
+          <item>Borrow 1 hundred from the 5 hundreds. This leaves 4 hundreds.</item>
+          <item>Convert the 1 hundred to 10 tens.</item>
+          <item>Add 10 tens to 2 tens to get 12 tens. We can now perform 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12" - 8=4} {}</m:annotation></m:semantics></m:math>.</item>
+          <item>Finally, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 - 0=4} {}</m:annotation></m:semantics></m:math>.</item>
+        </list>
+        </example>
+<example id="eip-id1165022896407">
+        <para id="eip-585"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mtext>71529</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>
+                    </m:mtr>
+                    <m:mtr>
+<m:mtd columnalign="right">        
+              <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:munder accentunder="true">
+                              <m:mrow>
+                                
+                                <m:mtext>- 6952</m:mtext>
+                              </m:mrow>
+                              <m:mo>̲</m:mo>
+                            </m:munder>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>
+                    </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignr { stack {
+ size 12{"71529"}  {} # 
+ size 12{ {underline  { - "6952"}} }  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para><para id="id7193409">After borrowing, we have</para>
+        <para id="eip-id1165733542204"><media id="id1170208576224_media" alt="71529 - 6952 = 64577. Above the 5 is a 4, and above the 2 is a 12.  Above the 1 is a 0, and above the 7 is a 6. The 0 and the 4 are crossed out, with a 14 written above the 4, and a 10 written above the 0.">
+            <image mime-type="image/png" src="../../media/graphics7-5265.png" id="id1170208576224__onlineimage" width="90" print-width=".75in"/>
+          </media>
+        </para>
+      </example></section>
+      <section id="id1170184773454"><title>Practice Set D</title><para id="id1170184374115">Perform the following subtractions.</para>
+<exercise id="id1170183486396"><problem id="eip-id1170511969698">
+        <para id="eip-id1168600254212">
+          <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>526</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>358</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+        </para>
+        </problem>
+          <solution id="eip-id1170517656387">
+            <para id="id1170192863531">168 </para>
+          </solution>
+        </exercise>
+        <exercise id="id1170196610671"><problem id="oo-id1170196430964">
+            <para id="id1170199023464"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>63,419</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  7,779</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+            </para>
+          </problem>
+        <solution id="eip-id1165858695646">
+<para id="id1170184549320">55,640 </para></solution></exercise>
+        <exercise id="id1170187234649"><problem id="eip-id1166563478914">
+        <para id="eip-id1164522057510">
+          <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>4,312</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>3,123</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+        </para>
+        </problem>
+          <solution id="eip-id1166551275156">
+            <para id="id1170205895519">1,189</para>
+          </solution>
+        </exercise>
+      </section>
+     
+    </section>
+    <section id="eip-160"><title>Borrowing from Zero</title><para id="id1170207736022">It often happens in a subtraction problem that we have to borrow from one or more zeros. This occurs in problems such as</para>
+        
+        <list id="eip-id1171913124444" list-type="enumerated"><item id="eip-id1169268863004"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>503</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  37</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+<newline/>
+<newline/>
+and</item>
+
+<item id="eip-id1564204">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>    37</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></item></list>
+        
+        <para id="id1170206749919">We'll examine each case.</para>
+
+<example id="eip-id1166677929835"><title>Borrowing from a single zero.</title><para id="id1170199044802">Consider the problem 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>503</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  37</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1170183799322">Since we do not have a name for 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 - 7} {}</m:annotation></m:semantics></m:math>, we must borrow from 0.</para>
+        <para id="eip-id1164515386051"><!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mn>503</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd> -->
+<!-- <m:mtd columnalign="right">
+<m:mrow><m:mtext>5 hundreds + 0 tens + 3 ones</m:mtext>
+</m:mrow>
+</m:mtd> -->
+<!-- </m:mtr>
+<m:mtr>
+<m:mtd>
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>37</m:mn>
+</m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+<m:mtd>
+</m:mtd> -->
+<!-- <m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow><m:mspace width="64px"/>
+<m:mn>3</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd> -->
+<!-- </m:mtr>
+</m:mtable>
+</m:math> -->
+<media id="eip-id1169021891764" alt="Vertical subtraction. 503 - 37 is equal to 5 hundreds + 0 tens + 3 ones, minus 3 tens + 7 ones."><image mime-type="image/png" src="../../media/redo3.png" width="300" print-width="2.25in"/></media></para>
+        <para id="id1170208046251">Since there are no tens to borrow, we must borrow 1 hundred. One hundred = 10 tens.</para>
+        <para id="eip-id1164526445902"><media id="eip-id1171988589471" alt="Vertical subtraction. 4 hundreds + 10 tens + 3 ones, minus 3 tens + 7 ones."><image mime-type="image/png" src="../../media/15pic7.png" width="275" print-width="2in"/></media>
+
+<!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mrow><m:mn>4</m:mn><m:mspace width="2px"/><m:mn>hundreds</m:mn><m:mo>+</m:mo><m:mn>10</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow><m:mspace width="64px"/>
+<m:mn>3</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> --></para>
+        <para id="id1170189777230">We can now borrow 1 ten from 10 tens (leaving 9 tens). One ten = 10 ones and 10 ones + 3 ones = 13 ones.</para>
+        
+        <para id="eip-id1164515688199"><media id="eip-id1166961853800" alt="Vertical subtraction. 4 hundreds + 9 tens + 13 ones, minus 3 tens + 7 ones = 4 hundreds + 6 tens + 6 ones, equal to 466."><image mime-type="image/png" src="../../media/redo4.png" width="300" print-width="2.5in"/></media>
+
+<!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd> -->
+<!-- <m:mtd columnalign="right">
+<m:mrow><m:mn>4</m:mn><m:mspace width="2px"/><m:mn>hundreds</m:mn><m:mo>+</m:mo><m:mn>9</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>13</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn>
+</m:mrow>
+</m:mtd> -->
+<!-- <m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd> -->
+<!-- <m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow><m:mspace width="64px"/>
+<m:mn>3</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd> -->
+<!-- <m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd> -->
+<!-- <m:mtd columnalign="right">
+<m:mrow><m:mn>4</m:mn><m:mspace width="2px"/><m:mn>hundreds</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn>
+</m:mrow>
+</m:mtd> -->
+<!-- <m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd>
+<m:mn>466</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> --></para>
+</example>
+        <para id="id1170198812696">Now we can suggest the following method for borrowing from a single zero.</para>
+
+
+        <para id="id1170182686793"><title>Borrowing from a Single Zero </title>
+        To borrow from a single zero,
+        <list id="id1170216401641" list-type="enumerated" number-style="arabic">
+          <item>Decrease the digit to the immediate left of zero by one. </item>
+          <item>Draw a line through the zero and make it a 10. </item>
+          <item>Proceed to subtract as usual.</item>
+        </list></para>
+      
+      <section id="id1170200122271"><title>Sample Set E</title><example id="eip-id1172300398427"><para id="id1170202614917">Perform this subtraction.  </para>
+        <para id="eip-id1169824708068"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>503</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  37</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1170182637925">The number 503 contains a single zero</para>
+        <list id="id1170184643412" list-type="enumerated" number-style="arabic"><item><para id="eip-id1169821250882">The number to the immediate left of 0 is 5. Decrease 5 by 1.</para>
+        
+        <para id="eip-id1169814733229">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>4</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{5 - 1=4} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      <para id="eip-id1164486031028">  
+          <media id="id1170184228001_media" alt="503 - 37. The 5 is crossed out, with a 4 above it. The 0 is crossed out, with a 10 above it.">
+            <image mime-type="image/png" src="../../media/graphics8-a6f0.png" id="id1170184228001__onlineimage" width="80" print-width=".5in"/>
+          </media></para>
+        </item>
+        
+          <item>Draw a line through the zero and make it a 10.</item>
+        
+        
+          
+        
+          <item><para id="eip-id1172295895862">Borrow from the 10 and proceed.</para>
+   <para id="eip-id1171885976650"><media id="id1170185704325_media" alt="503 - 37. The 5 is crossed out, with a 4 above it. The 0 is crossed out, with a 10 above it. The 10 is crossed out, with a 9 above it. The 3 is crossed out, with a 13 above it. The difference is 466.">
+            <image mime-type="image/png" src="../../media/graphics9-6ac5.png" id="id1170185704325__onlineimage" width="75" print-width=".6in"/>
+          </media></para>
+        <para id="eip-id1169830713510"><m:math><m:mtext>1 ten</m:mtext><m:mo>+</m:mo><m:mtext>10 ones</m:mtext></m:math></para>
+        <para id="eip-id1169834886142"><m:math><m:mtext>10 ones</m:mtext><m:mo>+</m:mo> <m:mtext>3 ones</m:mtext><m:mo>=</m:mo><m:mtext>13 ones</m:mtext></m:math></para></item></list>
+      </example></section>
+      <section id="id1170185204164"><title>Practice Set E</title><para id="id1170207926922">Perform each subtraction.</para>
+        <exercise id="eip-id1171851305668"><problem id="eip-id1171856467548"><para id="eip-id1165250507019"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>906</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  18</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+</problem>
+        <solution id="eip-id1171841798128">
+            <para id="id1170185611872">888 </para>
+          </solution>
+        </exercise>
+<exercise id="eip-id1171840256466"><problem id="eip-id1171841185348">
+        <para id="eip-id1165253590745"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5102</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  559</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+</problem>
+        <solution id="eip-id1171847190775">
+            <para id="id1170213769388">4,543 </para>
+          </solution>
+        </exercise>
+<exercise id="eip-id2083376"><problem id="eip-id1171853174179">
+        <para id="eip-id1681046"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>9055</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  386</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+</problem>
+        <solution id="eip-id1171854415330">
+            <para id="id7069021">8,669</para>
+          </solution>
+        </exercise>
+        </section>
+<example id="eip-id1164919031720"><title>Borrowing from a group of zeros</title><para id="eip-id1164909323973">Consider the problem 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>    37</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1170205976034">In this case, we have a group of zeros.</para>
+        <para id="eip-id1168566986221"><!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mn>5000</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd> -->
+<!-- <m:mtd columnalign="right">
+<m:mrow><m:mn>5</m:mn><m:mspace width="2px"/><m:mn>thousands</m:mn><m:mo>+</m:mo><m:mn>0</m:mn><m:mspace width="2px"/><m:mn>hundreds</m:mn><m:mo>+</m:mo><m:mn>0</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>0</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn>
+</m:mrow>
+</m:mtd> -->
+<!-- </m:mtr>
+<m:mtr>
+<m:mtd>
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>37</m:mn>
+</m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd> -->
+<!-- <m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow><m:mspace width="160px"/>
+<m:mn>3</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd> -->
+<!-- </m:mtr>
+</m:mtable>
+</m:math> -->
+
+<media id="eip-id1166090527417" alt="Vertical subtraction. 5000 - 37 is equal to 5 thousands + 0 hundred + 0 tens + 0 ones, minus 3 tens + 7 ones."><image mime-type="image/png" src="../../media/redo5.png" width="350" print-width="3.5in"/></media></para>
+        <para id="id1170208374238">Since we cannot borrow any tens or hundreds, we must borrow 1 thousand. One thousand = 10 hundreds.</para>
+        <para id="eip-id1168556987582"><!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mrow><m:mn>4</m:mn><m:mspace width="2px"/><m:mn>thousands</m:mn><m:mo>+</m:mo><m:mn>10</m:mn><m:mspace width="2px"/><m:mn>hundreds</m:mn><m:mo>+</m:mo><m:mn>0</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>0</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow><m:mspace width="160px"/>
+<m:mn>3</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> -->
+
+<media id="eip-id1166226144073" alt="Vertical subtraction. 4 thousands + 10 hundreds + 0 tens + 0 ones, minus 3 tens + 7 ones."><image mime-type="image/png" src="../../media/15pic10.png" width="300" print-width="3.2in"/></media></para>
+        <para id="id1170200204549">We can now borrow 1 hundred from 10 hundreds. One hundred = 10 tens.</para>
+        <para id="eip-id1168557773640"><!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mrow><m:mn>4</m:mn><m:mspace width="2px"/><m:mn>thousands</m:mn><m:mo>+</m:mo><m:mn>9</m:mn><m:mspace width="2px"/><m:mn>hundreds</m:mn><m:mo>+</m:mo><m:mn>10</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>0</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow><m:mspace width="160px"/>
+<m:mn>3</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> -->
+
+<media id="eip-id1166971780104" alt="Vertical subtraction. 4 thousands + 9 hundreds + 10 tens + 0 ones, minus 3 tens + 7 ones."><image mime-type="image/png" src="../../media/15pic11.png" width="375" print-width="3.25in"/></media></para>
+        
+        <para id="id8343311">We can now borrow 1 ten from 10 tens. One ten = 10 ones. </para>
+        <para id="eip-id1168567063653"><media id="eip-id1165826827706" alt="Vertical subtraction. 4 thousands + 9 hundreds + 9 tens + 10 ones, minus 3 tens + 7 ones = 4 thousands + 9 hundreds + 6 tens + 3 ones, equal to 4,963"><image mime-type="image/png" src="../../media/redo6.png" width="375" print-width="3.75in"/></media>
+
+<!-- <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd> -->
+<!-- <m:mtd columnalign="right">
+<m:mrow><m:mn>4</m:mn><m:mspace width="2px"/><m:mn>thousands</m:mn><m:mo>+</m:mo><m:mn>9</m:mn><m:mspace width="2px"/><m:mn>hundreds</m:mn><m:mo>+</m:mo><m:mn>9</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>10</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn>
+</m:mrow>
+</m:mtd> -->
+<!-- <m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd> -->
+<!-- <m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow><m:mspace width="64px"/>
+<m:mn>3</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn></m:mrow>
+<m:mo stretchy="true">&#x0332;</m:mo>
+</m:munder>
+</m:mtd> -->
+<!-- <m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd> -->
+<!-- <m:mtd columnalign="right">
+<m:mrow><m:mn>4</m:mn><m:mspace width="2px"/><m:mn>thousands</m:mn><m:mo>+</m:mo><m:mn>9</m:mn><m:mspace width="2px"/><m:mn>hundreds</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mspace width="2px"/><m:mn>tens</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mspace width="2px"/><m:mn>ones</m:mn>
+</m:mrow>
+</m:mtd> -->
+<!-- <m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd>
+<m:mn>4,963</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> --></para>
+        <para id="id1170196425749">From observations made in this procedure we can suggest the following method for borrowing from a group of zeros.</para></example>
+
+        <para id="id1170196252408"><title>Borrowing from a Group of zeros</title>
+        To borrow from a group of zeros,
+        <list id="eip-id1164914564017" list-type="enumerated" number-style="arabic"><item>Decrease the digit to the immediate left of the group of zeros by one.</item>
+        <item>Draw a line through each zero in the group and make it a 9, except the rightmost zero, make it 10.</item>
+        <item>Proceed to subtract as usual.</item></list></para>
+     
+      <section id="id1170185168193"><title>Sample Set F</title><para id="id1170183022555">Perform each subtraction.</para>
+<example id="eip-id1166679186262"><para id="eip-id1165207672240"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>40,000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>    125</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1170191830669">The number 40,000 contains a group of zeros.</para>
+        <list id="id1170185539995" list-type="enumerated" number-style="arabic"><item><para id="eip-id1165119317801">The number to the immediate left of the group is 4. Decrease 4 by 1.</para><para id="eip-id7181074">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>4</m:mn>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{4 - 1=3} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para></item>
+        
+        
+        
+          <item><para id="eip-id1165110057006">Make each 0, except the rightmost one, 9. Make the rightmost 0 a 10.</para>  <para id="eip-id1163785327615"><media id="id1170183644864_media" alt="40,000 - 125. Each digit of 40,000 is crossed out, and above it from left to right are the numbers, 3, 9, 9, 9, and 10.">
+            <image mime-type="image/png" src="../../media/graphics10-b4e1.png" id="id1170183644864__onlineimage" width="115" print-width=".8in"/>
+          </media></para>
+        </item>
+          <item><para id="eip-id1165110639425">Subtract as usual.</para><para id="eip-id1163775439351"><media id="id1170201663925_media" alt="40,000 - 125. Each digit of 40,000 is crossed out, and above it from left to right are the numbers, 3, 9, 9, 9, and 10. The difference is 39,875.">
+              <image mime-type="image/png" src="../../media/graphics11-28f7.png" id="id1170201663925__onlineimage" width="115" print-width=".8in"/>
+            </media></para>
+          </item>
+    </list>
+</example>
+<example id="eip-id4491410"><para id="eip-id8531790"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>8,000,006</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>      41,107</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1170184867827">The number 8,000,006 contains a group of zeros.</para>
+        <list id="id1170208369950" list-type="enumerated" number-style="arabic"><item>The number to the immediate left of the group is 8. Decrease 8 by 1.
+       
+        <para id="eip-id1170891782673">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>8</m:mn>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{8 - 1=7} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+</item>
+        
+          <item><para id="eip-id1170658402423">Make each zero, except the rightmost one, 9. Make the rightmost 0 a 10.</para>
+        
+       <para id="eip-id4079761"> 
+          <media id="id1170182210379_media" alt="8,000,006 - 41,107. All but the ones digit are crossed out, and above them from left to right are 7, 9, 9, 9, 9, and 10.">
+            <image mime-type="image/png" src="../../media/graphics12-ccaa.png" id="id1170182210379__onlineimage" width="140" print-width="1.4in"/>
+          </media></para>
+        </item>
+          <item><para id="eip-id1170667874683">To perform the subtraction, we’ll need to borrow from the ten.</para>
+       
+        <para id="eip-id1166504216891">
+          <media id="id1170200217153_media" alt="8,000,006 - 41,107. All but the ones digit are crossed out, and above them from left to right are 7, 9, 9, 9, 9, and 10. The 10 is crossed out, with a 9 above it. Above the 6 is a 16. The difference is 7,958,899.">
+            <image mime-type="image/png" src="../../media/graphics13-ebee.png" id="id1170200217153__onlineimage" width="140" print-width="1.2in"/>
+          </media></para>
+        <newline/>
+        <para id="eip-id1170892162552"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow><m:mtext>1 ten = 10 ones</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mrow><m:mtext>10 ones + 6 ones = 16 ones</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+        </para>
+      </item></list></example></section>
+      <section id="id1170196142154"><title>Practice Set F</title><para id="id1170199943700">Perform each subtraction.</para>
+        <exercise id="eip-id1170669647107"><problem id="eip-id1170669647108">
+        <para id="eip-id1169254006181"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>21,007</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  4,873</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para></problem>
+        <solution id="eip-id1170665977098">        
+            <para id="id1170183768988">16,134 </para>
+          </solution>
+        </exercise>
+        <exercise id="id1170185825922"><problem id="oo-id1170207036884">
+        <para id="eip-id1165426759713"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>10,004</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  5,165</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        </problem>
+          <solution id="eip-id1170665715602">
+            <para id="id1170185833172">4,839 </para>
+          </solution>
+        </exercise>
+<exercise id="eip-id1170680890318"><problem id="eip-id1170658423557">
+        <para id="eip-id1170776515796"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>16,000,000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>     201,060</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+</problem>
+        <solution id="eip-id1170660468158">
+            <para id="id1170216708969">15,789,940</para>
+          </solution>
+        </exercise>
+      </section></section><section id="id1170196098097">
+      <title>Calculators</title>
+      <para id="id1170206185897">In practice, calculators are used to find the difference between two whole numbers.</para>
+      <section id="id1170183759751"><title>Sample Set G</title><para id="id1170196320816">Find the difference between 1006 and 284.</para>
+        <table id="id1170183609978" summary="Instructions for performing subtraction on a calculator."><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3">Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>1006</entry>
+                <entry>1006</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi/>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi/>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{` - `} {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>1006</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>284</entry>
+                <entry>284</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>722</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1170181561693">The difference between 1006 and 284 is 722.</para>
+        <para id="id1170205659864">(What happens if you type 284 first and then 1006? We'll study such numbers in <link document=""/>Chapter 10.)</para>
+      </section>
+      <section id="id1170182407876"><title>Practice Set G</title><exercise id="eip-id1164909453644">
+          <problem id="eip-id1164905266164"><para id="eip-id1164910941373">Use a calculator to find the difference between 7338 and 2809.</para></problem><solution id="eip-id1164910412444"><para id="eip-id1164913583980">4,529</para></solution></exercise>
+          <exercise id="eip-id1164911284569"><problem id="eip-id1164912885524"><para id="eip-id4744337">Use a calculator to find the difference between 31,060,001 and 8,591,774.</para></problem><solution id="eip-id1164915789079"><para id="eip-id1164902628114">22,468,227</para></solution>
+        </exercise>
+        
+      </section>
+    </section>
+    <section id="id1170196439893"><title>Exercises</title><para id="id1170195615266">For the following problems, perform the subtractions. You may check each difference with a calculator.</para>
+<exercise id="eip-id1170670282433"><problem id="eip-id1170670282434">      
+<para id="id1170203396841"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>15</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para>
+</problem>
+<solution id="eip-id1170660516297">
+      <para id="id1170196204170">7</para>
+</solution></exercise>
+<exercise id="eip-id1170679508382"><problem id="eip-id1767466">
+      <para id="id1170206833276"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>19</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para>
+</problem></exercise>
+
+<exercise id="eip-id1170672602091"><problem id="eip-id1170672602092">
+      <para id="id1170216568052"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>11</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  5</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para>
+</problem>
+
+        <solution id="eip-id1170664336384">
+          <para id="id1170215569291">6</para>
+        </solution>
+      </exercise>
+
+<exercise id="eip-id1170660397980"><problem id="eip-id1170660397981">
+      <para id="id1170185565705"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>14</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  6</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1171844584413"><problem id="eip-id1171853225517">
+      <para id="id1170216649279"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>12</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  9</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+
+      <solution id="eip-id1171851565629">
+          <para id="id1170195401022">3</para>
+        </solution>
+      </exercise>
+
+<exercise id="eip-id1171856343704"><problem id="eip-id1171854616050">
+      <para id="id2800970">
+       <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>56</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>12</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+</exercise>
+
+<exercise id="eip-id1171851317034"><problem id="eip-id4769976">
+      <para id="id1170199223011">
+       <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>74</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>33</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para>
+</problem>
+      <solution id="eip-id1171847577734">
+          <para id="id1170193647988">41</para>
+        </solution>
+      </exercise>
+
+<exercise id="eip-id1171857593419"><problem id="eip-id1171845243753">
+      <para id="id1170198722568">
+        <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>80</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>61</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1171857112022"><problem id="eip-id1171855756257">
+      <para id="id1170184493723">
+        <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>350</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>141</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+
+      <solution id="eip-id1171836275244">
+          <para id="id1170196591020">209</para>
+        </solution>
+      </exercise>
+
+
+      <exercise id="id1170183746920">
+        <problem id="oo-id1170182237565">
+      <para id="id1170199107941">
+       <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>800</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>650</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id2207363"><problem id="eip-id1432605">
+      <para id="id1170198400774">
+       <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>35,002</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>14,001</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+      <solution id="eip-id1169308052989">
+          <para id="id1170198636565">21,001</para>
+        </solution>
+      </exercise>
+
+<exercise id="eip-id1169299842823"><problem id="eip-id1169308183248">
+      <para id="id1170184224090">
+       <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5,000,566</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>2,441,326</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para>
+</problem></exercise>
+
+<exercise id="eip-id1169319790923"><problem id="eip-id7971075">
+      <para id="id1170183651940">
+        <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>400,605</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>121,352</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para>
+</problem>
+      <solution id="eip-id1169304784630">
+          <para id="id1170218633195">279,253</para>
+        </solution>
+      </exercise>
+
+
+      <exercise id="id2109035">
+        <problem id="oo-id1170194609283">
+          <para id="eip-id1166694828665"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>46,400</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  2,012</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+          </para>
+        </problem>
+      </exercise>
+
+<exercise id="eip-id1166680759767"><problem id="eip-id1166688189314">
+      <para id="id1170181960861"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>77,893</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>     421</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+
+      <solution id="eip-id1166554778314">
+          <para id="id1170196140546">77,472</para>
+        </solution>
+      </exercise>
+
+<exercise id="eip-id1166566522773"><problem id="eip-id1166559627152">
+      <para id="id1170187561531">
+        <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>42</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>18</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para>
+</problem></exercise>
+
+<exercise id="eip-id1166550339744"><problem id="eip-id1166555661472">
+      <para id="id1170197992449">
+       <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>51</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>27</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+      <solution id="eip-id1166550282254">
+          <para id="id1170182362388">24</para>
+        </solution>
+      </exercise>
+
+<exercise id="eip-id1166572920858"><problem id="eip-id1166571421592">
+      <para id="id1170204220117"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>622</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  88</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id2182291"><problem id="eip-id2182292">
+      <para id="id3580716"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>261</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  73</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+      <solution id="eip-id1168885711710">
+          <para id="id1170191341381">188</para>
+        </solution>
+      </exercise>
+
+      <exercise id="id1170218425226">
+        <problem id="oo-id1170183990493">
+          <para id="eip-id1168883595806">
+            <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>242</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>158</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+          </para>
+        </problem>
+      </exercise>
+
+<exercise id="eip-id1168884604022"><problem id="eip-id911646">
+      <para id="id1170196213636">
+        <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>3,422</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>1,045</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+      <solution id="eip-id1168880382828">
+          <para id="id1170199929877">2,377</para>
+        </solution>
+      </exercise>
+
+<exercise id="eip-id1613419"><problem id="eip-id5561194">
+      <para id="id1170208836079">
+        <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5,565</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>3,985</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para>
+</problem></exercise>
+
+<exercise id="eip-id1168881110540"><problem id="eip-id1168881110541">
+      <para id="id1170215028524">
+        <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>42,041</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>15,355</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+      <solution id="eip-id1168879881529">
+          <para id="id1170182275276">26,686</para>
+        </solution>
+      </exercise>
+
+<exercise id="eip-id1172302707856"><problem id="eip-id1172303454108">
+      <para id="id1170198856022"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>304,056</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  20,008</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1172301984383"><problem id="eip-id1172301206393">
+      <para id="id1170204415949"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>64,000,002</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>    856,743</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+      <solution id="eip-id1172308617028">
+          <para id="id1170201225049">63,143,259</para>
+        </solution>
+      </exercise>
+
+<exercise id="eip-id1172295093060"><problem id="eip-id1172300665321">
+      <para id="id1170184311587"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>4,109</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  856</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1172301650421"><problem id="eip-id1172292585829">
+      <para id="id8031877"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>10,113</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  2,079</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+      <solution id="eip-id1172300932840">
+          <para id="id1170184977139">8,034</para>
+        </solution>
+      </exercise>
+
+<exercise id="eip-id1172295780143"><problem id="eip-id1172306802404">
+      <para id="id1170208479032"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>605</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  77</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1172310361126"><problem id="eip-id1172300962380">
+      <para id="id1170183510462">
+        <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>59</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>26</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+      <solution id="eip-id1172300178056">
+          <para id="id1170205581264">33</para>
+        </solution>
+      </exercise>
+
+      <exercise id="id1170211467716">
+        <problem id="oo-id1170198761443">
+          <para id="eip-id1165271983757"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>36,107</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  8,314</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+          </para>
+        </problem>
+      </exercise>
+
+<exercise id="eip-id1165258451419"><problem id="eip-id1165263898230">
+      <para id="id4833060">
+        <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>92,526,441,820</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>59,914,805,253</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+      <solution id="eip-id1165270387580">
+          <para id="id1170208255745">32,611,636,567</para>
+        </solution>
+      </exercise>
+
+<exercise id="eip-id1165263643834"><problem id="eip-id1165259842998">
+      <para id="id1170196793288"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1,605</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  881</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem></exercise>
+
+<exercise id="eip-id1170657872761"><problem id="eip-id1170657872762">
+      <para id="id1170196142397">
+        <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>30,000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>26,062</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+      <solution id="eip-id4555200">
+          <para id="id1170187762284">3,938</para>
+        </solution>
+      </exercise>
+
+      <exercise id="id1170183983018">
+        <problem id="oo-id1170186370922">
+          <para id="eip-id1170657870658">
+            <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>600</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>216</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+          </para>
+        </problem>
+      </exercise>
+
+<exercise id="eip-id1170663933354"><problem id="eip-id7141810">
+      <para id="id1170182221921"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>9,000,003</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>   726,048</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+      </para>
+</problem>
+      <solution id="eip-id1170675349452">
+          <para id="id1170182422782">8,273,955</para>
+        </solution>
+      </exercise>
+
+      <para id="id1170208216923">For the following problems, perform each subtraction. </para>
+      <exercise id="id1170198818307"><problem id="oo-id1170183145878">
+          <para id="id1170184819071">Subtract 63 from 92.</para>
+<note id="eip-id1164933560617"><label>Hint</label> The word "from" means "beginning at." Thus, 63 from 92 means beginning at 92, or 
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>92</m:mtext>
+                      <m:mo stretchy="false">−</m:mo>
+                      <m:mtext>63</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"92" - "63"} {}</m:annotation>
+            </m:semantics>
+          </m:math>.
+        </note>
+        </problem>
+      </exercise>
+      
+      <exercise id="id1170195858566"><problem id="oo-id1170183304041">
+          <para id="id6527327">Subtract 35 from 86.</para>
+        </problem>
+<solution id="eip-id6637653"><para id="eip-id6637654">51</para></solution>
+      </exercise>
+      <exercise id="id1170200797669">
+        <problem id="oo-id7005244">
+          <para id="id1170199506382">Subtract 382 from 541. </para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id1170196234899"><problem id="oo-id1170181979468">
+          <para id="id1170206100184">Subtract 1,841 from 5,246.</para>
+        </problem>
+      <solution id="eip-id1169824544199"><para id="eip-id1169824544200">3,405</para></solution></exercise>
+      <exercise id="id1170184246366">
+        <problem id="oo-id1170200140211">
+          <para id="id1170183488484">Subtract 26,082 from 35,040. </para>
+        </problem>
+      </exercise>
+      <exercise id="id1170185825748"><problem id="oo-id1170199077609">
+          <para id="id4363751">Find the difference between 47 and 21.</para>
+        </problem>
+      <solution id="eip-id1168884769183"><para id="eip-id1168884769184">26</para></solution></exercise>
+      
+      <exercise id="id1170196618452">
+        <problem id="oo-id1170185094822">
+          <para id="id1170182359314">Find the difference between 1,005 and 314. </para>
+        </problem>
+      </exercise>
+      <exercise id="id1170203196201"><problem id="oo-id7782776">
+          <para id="id1170199268926">Find the difference between 72,085 and 16.</para>
+        </problem>
+      <solution id="eip-id1166698733713"><para id="eip-id1166685603417">72,069</para></solution></exercise>
+      <exercise id="id1170208926578">
+        <problem id="oo-id1170185626977">
+          <para id="id1170181950305">Find the difference between 7,214 and 2,049.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170192863013"><problem id="oo-id1170206314001">
+          <para id="id1170206744770">Find the difference between 56,108 and 52,911.</para>
+        </problem>
+      <solution id="eip-id1168877246691"><para id="eip-id1168874804562">3,197</para></solution></exercise>
+      <exercise id="id1170184823537">
+        <problem id="oo-id1170199155592">
+          <para id="id1170208669869">How much bigger is 92 than 47?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170181924860"><problem id="oo-id1170183674479">
+          <para id="id1170196610346">How much bigger is 114 than 85?</para>
+        </problem>
+      <solution id="eip-id1170814090803"><para id="eip-id1170814090804">29</para></solution></exercise>
+      <exercise id="id1170216543842">
+        <problem id="oo-id1170187487333">
+          <para id="id1170196184482">How much bigger is 3,006 than 1,918?</para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id1170196172911"><problem id="oo-id1170202255480">
+          <para id="id1170185029422">How much bigger is 11,201 than 816?</para>
+        </problem>
+      <solution id="eip-id1165274590205"><para id="eip-id1165260296953">10,385</para></solution></exercise>
+      <exercise id="id1170196409309">
+        <problem id="oo-id1170184927270">
+          <para id="id1170210627319">How much bigger is 3,080,020 than 1,814,161?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170185573549"><problem id="oo-id1170208400286">
+          <para id="id1170196587335">In Wichita, Kansas, the sun shines about 74% of the time in July and about 59% of the time in November. How much more of the time (in per­cent) does the sun shine in July than in No­vember?</para>
+        </problem>
+      <solution id="eip-id1169273816594"><para id="eip-id1169273816595">15%</para></solution></exercise>
+      <exercise id="id1170184014626">
+        <problem id="oo-id1170198140034">
+          <para id="id1170189671125">The lowest temperature on record in Concord, New Hampshire in May is 21°F, and in July it is 35°F. What is the difference in these lowest tem­peratures?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170201110873"><problem id="oo-id1170218156628">
+          <para id="id1170197105049">In 1980, there were 83,000 people arrested for prostitution and commercialized vice and 11,330,000 people arrested for driving while in­toxicated. How many more people were arrested for drunk driving than for prostitution?</para>
+        </problem>
+      <solution id="eip-id7802577"><para id="eip-id7802578">11,247,000</para></solution></exercise>
+      <exercise id="id1170184052318">
+        <problem id="oo-id1170185239628">
+          <para id="id1170183520730">In 1980, a person with a bachelor's degree in ac­counting received a monthly salary offer of $1,293, and a person with a marketing degree a monthly salary offer of $1,145. How much more was offered to the person with an accounting de­gree than the person with a marketing degree?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170191309898"><problem id="oo-id1170195620171">
+          <para id="id1170197208836">In 1970, there were about 793 people per square mile living in Puerto Rico, and 357 people per square mile living in Guam. How many more people per square mile were there in Puerto Rico than Guam? </para>
+        </problem>
+      <solution id="eip-id1170656177843"><para id="eip-id1170664094808">436</para></solution></exercise>
+      <exercise id="id1170183982032">
+        <problem id="oo-id1170207757664">
+          <para id="id1170183510810">The 1980 population of Singapore was 2,414,000 and the 1980 population of Sri Lanka was 14,850,000. How many more people lived in Sri Lanka than in Singapore in 1980?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170206305640"><problem id="oo-id1170200216459">
+          <para id="id1170184595003">In 1977, there were 7,234,000 hospitals in the United States and 64,421,000 in Mainland China. How many more hospitals were there in Mainland China than in the United States in 1977?</para>
+        </problem>
+      <solution id="eip-id1170654060292"><para id="eip-id1170654060293">57,187,000</para></solution></exercise>
+      <exercise id="id1170183140097">
+        <problem id="oo-id1170209287898">
+          <para id="id1170181637929">In 1978, there were 3,095,000 telephones in use in Poland and 4,292,000 in Switzerland. How many more telephones were in use in Switzerland than in Poland in 1978?</para>
+        </problem>
+      </exercise>
+      <para id="id1170200217353">For the following problems, use the corresponding graphs to solve the problems.</para>
+      <exercise id="id1170198684102"><problem id="oo-id1170182006438">
+          <para id="id1170182230373">How many more life scientists were there in 1974 than mathematicians? (<link target-id="id1170197188991_media"/>)</para>
+        </problem>
+      <solution id="eip-id1166688300401"><para id="eip-id1166691625403">165,000</para></solution></exercise>
+      <exercise id="id1170216305154">
+        <problem id="oo-id1170199261386">
+          <para id="id1170184651648">How many more social, psychological, mathe­matical, and environmental scientists were there than life, physical, and computer scientists? (<link target-id="id1170197188991_media"/>)</para>
+        </problem>
+      </exercise>
+      <para id="id1170193172498"><media id="id1170197188991_media" alt="A graph entitled employment status of mathematical scientists - 1974. On the graph are histograms with scientific field titles, and a labeled number of the scientists holding the titles. There are 266,000 life scientists, 248,000 physical scientists, 170,000 computer scientists, 217,000 social scientists, 109,000 psychologists, 101,000, mathematicians, and 79,000 environmental scientists.">
+            <image mime-type="image/png" src="../../media/graphics14-c663.png" id="id1170197188991__onlineimage" width="600" print-width="5in"/>
+          </media>
+     
+      </para>
+      <exercise id="id1170199163864"><problem id="oo-id1170205576708">
+          <para id="id1170187097498">How many more prosecutions were there in 1978 than in 1974? (<link target-id="id1170201292187_media"/>)</para>
+        </problem>
+      <solution id="eip-id1165447008616"><para id="eip-id2855593">74</para></solution></exercise>
+      <exercise id="id1170212267245">
+        <problem id="oo-id1170211797533">
+          <para id="id1170196635962">How many more prosecutions were there in 1976-1980 than in 1970-1975? (<link target-id="id1170201292187_media"/>)</para>
+        </problem>
+      </exercise>
+      
+      <para id="eip-2"><media id="id1170201292187_media" alt="A graph entitled prosecutions of federal officials 1970-1980, with histograms of the years on the horizontal axis, and number of prosecutions on the vertical axis. The years in ascending succession had the following number of prosecutions, 9, 58, 58, 60, 59, 53, 111, 129, 133, 114, 123.">
+          <image mime-type="image/png" src="../../media/graphics15-2934.png" id="id1170201292187__onlineimage" width="599" print-width="5in"/>
+        </media></para>
+      <exercise id="id1170183713625"><problem id="oo-id1170181629461">
+          <para id="id1170216751967">How many more dry holes were drilled in 1960 than in 1975? (<link target-id="id1170209301191_media"/>)</para>
+        </problem>
+<solution id="eip-id1165114919442"><para id="eip-id1165096590568">4,547</para></solution>
+      </exercise>
+      <exercise id="id1170184777731">
+        <problem id="oo-id1170218110664">
+          <para id="id1170193843429">How many more dry holes were drilled in 1960, 1965, and 1970 than in 1975, 1978 and 1979? (<link target-id="id1170209301191_media"/>)</para>
+        </problem>
+      </exercise>
+      
+      <para id="eip-773"><media id="id1170209301191_media" alt="A graph entitled, oil wells -  dry holes drilled 1960-1979. The histograms of the years in the period are displayed along the horizontal axis. The number of holes are measured on the vertical axis. The number of holes drilled, for each consecutive year 1960, 1965, 1970, 1975, 1978, and 1979, are 17,577, 15,967, 10,786, 13,030, 15,559, 15,201.">
+          <image mime-type="image/png" src="../../media/graphics16-385d.png" id="id1170209301191__onlineimage" width="600" print-width="5in"/>
+        </media></para><para id="id1170181549571">For the following problems, replace the ☐ with the whole number that will make the subtraction true.</para>
+     <exercise id="eip-id1168563325365"><problem id="eip-id1168559162725"> <para id="id1170193545928"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>14</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>□ </m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>3</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para></problem>
+<solution id="eip-id1168551777143"><para id="eip-id1168569337646">11</para></solution></exercise>
+
+<exercise id="eip-id1168551895227"><problem id="eip-id1168552093230">
+      <para id="id1170197179705"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>21</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>□ </m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>14</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para></problem></exercise>
+
+<exercise id="eip-id1168566172346"><problem id="eip-id1168559610256">
+      <para id="id1170190861587"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>35</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>□ </m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>25</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para></problem>
+<solution id="eip-id1168551965869"><para id="eip-id1168553019467">10</para></solution></exercise>
+
+<exercise id="eip-id4487167"><problem id="eip-id1168552145990">      
+<para id="id1170192882859"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>16</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>□ </m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>9</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>      </para></problem></exercise>
+
+<exercise id="eip-id1168566073018"><problem id="eip-id1168551340004">
+<para id="eip-id1168569282548"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>28</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>□ </m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>16</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+</problem>
+<solution id="eip-id1172314183825">
+<para id="eip-id1172325190818">12</para>
+</solution></exercise>
+
+
+      <para id="id7141049">For the following problems, find the solutions.</para>
+      <exercise id="id1170190549680">
+        <problem id="oo-id1170193889420">
+          <para id="id1170206080304">Subtract 42 from the sum of 16 and 56.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170185110323"><problem id="oo-id1170210591265">
+          <para id="id1170182262231">Subtract 105 from the sum of 92 and 89.</para>
+        </problem>
+      <solution id="eip-id1169822944731"><para id="eip-id1169822944732">76</para></solution></exercise>
+      <exercise id="id1170205420814">
+        <problem id="oo-id1170197053043">
+          <para id="id1170185999798">Subtract 1,127 from the sum of 2,161 and 387.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170201535867"><problem id="oo-id1170199251352">
+          <para id="id1170201973914">Subtract 37 from the difference between 263 and 175.  </para>
+        </problem>
+      <solution id="eip-id3848244"><para id="eip-id3966276">51</para></solution></exercise>
+      <exercise id="id1170182016182">
+        <problem id="oo-id1170183793232">
+          <para id="id1170182043563">Subtract 1,109 from the difference between 3,046 and 920.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170211708432"><problem id="oo-id1170207813647">
+          <para id="id1170201818517">Add the difference between 63 and 47 to the dif­ference between 55 and 11.</para>
+        </problem>
+      <solution id="eip-id1166678539690"><para id="eip-id1166705056190">60</para></solution></exercise>
+      <exercise id="id1170183841278">
+        <problem id="oo-id1170212347878">
+          <para id="id1170197252606">Add the difference between 815 and 298 to the difference between 2,204 and 1,016.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170183543292"><problem id="oo-id1170206224542">
+          <para id="id1170211499178">Subtract the difference between 78 and 43 from the sum of 111 and 89.</para>
+        </problem>
+      <solution id="eip-id1166673102331"><para id="eip-id1166697993934">165</para></solution></exercise>
+      <exercise id="id1170200101076">
+        <problem id="oo-id5917906">
+          <para id="id1170201159883">Subtract the difference between 18 and 7 from the sum of the differences between 42 and 13, and 81 and 16.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170204345276"><problem id="oo-id1170204463118">
+          <para id="id1170186250986">Find the difference between the differences of 343 and 96, and 521 and 488.</para>
+        </problem>
+      <solution id="eip-id1170820159105"><para id="eip-id1170820159106">214</para></solution></exercise>
+  
+    <section id="id1170182980269">
+      <title>Exercises for Review</title>
+      <exercise id="id1170216317790">
+        <problem id="oo-id1170204193478">
+          <para id="id1170203303675">(<link document="m34795"/>) In the number 21,206, how many hundreds are there?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170183965084"><problem id="oo-id1170184711655">
+          <para id="id1170183429340">(<link document="m34795"/>) Write a three-digit number that has a zero in the ones position. </para>
+        </problem>
+      <solution id="eip-id1169306450327"><para id="eip-id1169289406573">330 (answers may vary)</para></solution></exercise>
+      <exercise id="id1170189510398">
+        <problem id="oo-id1170185174595">
+          <para id="id1170217480991">(<link document="m34795"/>) How many three-digit whole numbers are there? </para>
+        </problem>
+      </exercise>
+      <exercise id="id1170183730738"><problem id="oo-id1170207767237">
+          <para id="id1170187588944">(<link document="m34780"/>) Round 26,524,016 to the nearest million.  </para>
+        </problem>
+      <solution id="eip-id1169304569676"><para id="eip-id1169289383568">27,000,000</para></solution></exercise>
+      <exercise id="id1170200141951">
+        <problem id="oo-id1170204304562">
+          <para id="id1170203492944">(<link document="m34786"/>) Find the sum of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>846</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>221</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>116</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"846"+"221"+"116"} {}</m:annotation></m:semantics></m:math>.</para>
+        </problem>
+      </exercise>
+    </section>
+</section>
+  </content>
+</document>

@@ -1,0 +1,51 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Objectives </title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m18892</md:content-id>
+  <md:title>Objectives </md:title>
+  <md:abstract>This module contains the learning objectives for the chapter "Introduction to Fractions and Multiplication and Division of Fractions" from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, jr.</md:abstract>
+  <md:uuid>bc732123-369a-4fc9-9b8e-8230f7058bab</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="04 Chapter.pdf" strength="3">Download Chapter 4</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+ <para id="id1169310573946">After completing this chapter, you should</para>
+    
+    <list id="id1169310606053" list-type="bulleted"><title>Fractions of Whole Numbers (<link document="m34908"/>)</title><item>understand the concept of fractions of whole numbers</item>
+      <item>be able to recognize the parts of a fraction</item>
+    </list>
+
+    <list id="id1169318102812" list-type="bulleted"><title>Proper Fractions, improper Fractions, and Mixed Numbers (<link document="m34912"/>)</title><item>be able to distinguish between proper fractions, improper fractions, and mixed numbers</item>
+      <item>be able to convert an improper fraction to a mixed number</item>
+      <item>be able to convert a mixed number to an improper fraction</item>
+    </list>
+     <list id="id1169311573259" list-type="bulleted"><title>Equivalent Fractions, Reducing Fractions to Lowest Terms, and Raising Fractions to Higher Terms (<link document="m34927"/>)</title><item>be able to recognize equivalent fractions</item>
+      <item>be able to reduce a fraction to lowest terms</item>
+      <item>be able to raise a fraction to higher terms</item>
+    </list>
+     <list id="id1169309716439" list-type="bulleted"><title>Multiplication of Fractions (<link document="m34928"/>)</title><item>understand the concept of multiplication of fractions</item>
+      <item>be able to multiply one fraction by another</item>
+      <item>be able to multiply mixed numbers</item>
+      <item>be able to find powers and roots of various fractions</item>
+    </list>
+    
+ <list id="id1169311573370" list-type="bulleted"><title>Division of Fractions (<link document="m34929"/>)</title><item>be able to determine the reciprocal of a number</item>
+      <item>be able to divide one fraction by another</item>
+    </list>
+     <list id="id1169310605419" list-type="bulleted"><title>Applications Involving Fractions (<link document="m34930"/>)</title><item>be able to solve missing product statements</item>
+      <item>be able to solve missing factor statements</item>
+    </list>
+ 
+  </content>
+  
+</document>

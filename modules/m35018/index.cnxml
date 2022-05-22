@@ -1,0 +1,882 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Measurement and the United States System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35018</md:content-id>
+  <md:title>Measurement and the United States System</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses the United States System of measurement. By the end of the module students should know what the word measurement means, be familiar with United States system of measurement and be able to convert from one unit of measure in the United States system to another unit of measure.</md:abstract>
+  <md:uuid>9758c586-2a66-4ebc-bf30-19423ffadb96</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1171638091800">
+      <title>Section Overview</title>
+      <list id="id1171657856546" list-type="bulleted">
+        <item>Measurement</item>
+        <item>The United States System of Measurement</item>
+        <item>Conversions in the United States System</item>
+      </list>
+    </section>
+    <section id="id1171663086747">
+      <title>Measurement</title>
+      <para id="id1171637020187">There are two major systems of measurement in use today. They are the <emphasis effect="italics">United States system</emphasis> and the <emphasis effect="italics">metric system</emphasis>. Before we describe these systems, let's gain a clear understanding of the concept of measurement.</para>
+      <para id="id1171645691775"><title>Measurement</title><term>Measurement</term> is comparison to some standard.</para>
+      <para id="id1171651028208"><title>Standard Unit of Measure</title>The concept of measurement is based on the idea of direct comparison. This means that measurement is the result of the comparison of two quantities. The quantity that is used for comparison is called the <term>standard unit of measure</term>.</para>
+      <para id="id1171650864948">Over the years, standards have changed. Quite some time in the past, the stan­dard unit of measure was determined by a king. For example,
+<newline count="2"/>
+1 inch was the distance between the tip of the thumb and the knuckle of the king. <newline/>
+1 inch was also the length of 16 barley grains placed end to end.</para>
+      
+      
+      <para id="id1171637962658">Today, standard units of measure rarely change. Standard units of measure are the responsibility of the Bureau of Standards in Washington D.C.</para>
+      <para id="id1171638439939">Some desirable properties of a standard are the following:</para>
+      <list id="id1171653535121" list-type="enumerated" number-style="arabic">
+        <item><emphasis effect="italics">Accessibility</emphasis>. We should have access to the standard so we can make comparisons.</item>
+        <item><emphasis effect="italics">Invariance</emphasis>. We should be confident that the standard is not subject to change.</item>
+        <item><emphasis effect="italics">Reproducibility</emphasis>. We should be able to reproduce the standard so that measure­ments are convenient and accessible to many people.</item>
+      </list>
+    </section>
+    <section id="id1171655914873"><title>The United States System of Measurement</title><para id="id1171637550081">Some of the common units (along with their abbreviations) for the United States system of measurement are listed in the following table.</para>
+      <table id="id1171675434604" summary="A table showing different unit conversions."><tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">Unit Conversion Table</entry>
+            </row>
+            <row>
+              <entry>Length</entry>
+              <entry>1 foot (ft) = 12 inches (in.) <newline/>1 yard (yd) = 3 feet (ft)<newline/> 1 mile (mi) = 5,280 feet</entry>
+            </row>
+            <row>
+              <entry>Weight</entry>
+              <entry>1 pound (lb) =16 ounces (oz)<newline/> 1 ton (T) = 2,000 pounds</entry>
+            </row>
+            <row>
+              <entry>Liquid Volume</entry>
+              <entry>1 tablespoon (tbsp) = 3 teaspoons (tsp)<newline/> 1 fluid ounce (fl oz) = 2 tablespoons<newline/> 1 cup (c) = 8 fluid ounces<newline/> 1 pint (pt) = 2 cups<newline/>1 quart (qt) = 2 pints<newline/>1 gallon (gal) = 4 quarts</entry>
+            </row>
+            <row>
+              <entry>Time</entry>
+              <entry>1 minute (min) = 60 seconds (sec)<newline/> 1 hour ( hr) = 60 minutes<newline/>1 day (da) = 24 hours<newline/>1 week (wk) = 7 days</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1171637061901"><title>Conversions in the United States System</title><para id="id1171638716262">It is often convenient or necessary to convert from one unit of measure to another. For example, it may be convenient to convert a measurement of length that is given in feet to one that is given in inches. Such conversions can be made using <emphasis effect="italics">unit fractions</emphasis>.</para>
+      <para id="id1171661701700"><title>Unit Fraction</title>A <term>unit fraction</term> is a fraction with a value of 1.</para>
+      <para id="id1171660123907">Unit fractions are formed by using two equal measurements. One measurement is placed in the numerator of the fraction, and the other in the denominator. <emphasis effect="bold">Place­ment depends on the desired conversion</emphasis>.</para>
+      
+      <para id="id1171639701472"><title>Placement of Units</title>Place the unit being converted <emphasis effect="italics">to</emphasis> in the <term>numerator</term>.<newline/> Place the unit being converted <emphasis effect="italics">from</emphasis> in the <term>denominator</term>.</para>
+      <para id="id1171638235640">For example,</para>
+      <table id="id1171647633313" summary="A table showing the equivalent units in fractions.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Equal Measurements </entry>
+              <entry>Unit Fraction</entry>
+            </row>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mtext>1ft</m:mtext>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mtext>12in.</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{"1ft"="12in"} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mtext>1ft</m:mtext>
+                              <m:mtext>12in.</m:mtext>
+                            </m:mfrac>
+                            <m:mtext>or</m:mtext>
+                            <m:mfrac>
+                              <m:mtext>12in.</m:mtext>
+                              <m:mtext>1ft</m:mtext>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {"1ft"}  over  {"12in."} } "or" {  {"12in."}  over  {"1ft"} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mtext>1pt</m:mtext>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mtext>16 fl oz</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{"1pt"="16 fl oz"} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mtext>1pt</m:mtext>
+                              <m:mtext>16 fl oz</m:mtext>
+                            </m:mfrac>
+                            <m:mtext> or </m:mtext>
+                            <m:mfrac>
+                              <m:mtext>16 fl oz</m:mtext>
+                              <m:mtext>1pt</m:mtext>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {"1pt"}  over  {"16 fl oz"} } " or " {  {"16 fl oz"}  over  {"1pt"} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mtext>1wk</m:mtext>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mtext>7da</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{"1wk"="7da"} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mtext>7da</m:mtext>
+                              <m:mtext>1wk</m:mtext>
+                            </m:mfrac>
+                            <m:mtext> or </m:mtext>
+                            <m:mfrac>
+                              <m:mtext>1wk</m:mtext>
+                              <m:mtext>7da</m:mtext>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {"7da"}  over  {"1wk"} } " or " {  {"1wk"}  over  {"7da"} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      <section id="id1171661642007"><title>Sample Set A</title><para id="id1171639016039">Make the following conversions. If a fraction occurs, convert it to a decimal rounded to two decimal places.</para>
+<example id="eip-id1171687975052">
+        <para id="id1171638976172">Convert 11 yards to feet.</para>
+        <para id="id1171637966839">Looking in the unit conversion table under <emphasis effect="italics">length</emphasis>, we see that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mrow><m:mtext> yd </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>3 ft</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1" yd "="3 ft"} {}</m:annotation></m:semantics></m:math>. There are two corresponding unit fractions, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>1 yd</m:mtext><m:mtext>3 ft</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"1 yd"}  over  {"3 ft"} } } {}</m:annotation></m:semantics></m:math>and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>3 ft</m:mtext><m:mtext>1 yd</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"3 ft"}  over  {"1 yd"} } } {}</m:annotation></m:semantics></m:math>. Which one should we use? Look to see which unit we wish to convert to. Choose the unit fraction with this unit in the <emphasis effect="italics">numerator</emphasis>. We will choose 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>3 ft</m:mtext><m:mtext>1 yd</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"3 ft"}  over  {"1 yd"} } } {}</m:annotation></m:semantics></m:math> since this unit fraction has feet in the numerator. Now, multiply 11 yd by the unit fraction. Notice that since the unit fraction has the value of 1, multiplying by it does not change the value of 11 yd.</para>
+        
+        <para id="id1171638389670"><m:math><m:mtable>
+<m:mtr>
+<m:mtd columnalign="right"><m:mn>11</m:mn><m:mtext> yd</m:mtext></m:mtd>
+<m:mtd><m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:mfrac><m:mrow><m:mtext>11</m:mtext><m:mtext>yd</m:mtext></m:mrow><m:mn>1</m:mn></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mtext>ft</m:mtext></m:mrow><m:mtext>1yd</m:mtext></m:mfrac></m:mtd>
+<m:mtd columnalign="left"><m:mtext>Divide out common units.</m:mtext></m:mtd>
+</m:mtr>
+
+
+<m:mtr>
+<m:mtd/>
+<m:mtd><m:mo stretchy="false">=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mn>11</m:mn><m:menclose notation="updiagonalstrike"><m:mtext>yd</m:mtext></m:menclose></m:mrow><m:mrow><m:mn>1</m:mn></m:mrow></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mtext>ft</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:menclose notation="updiagonalstrike"><m:mtext>yd</m:mtext></m:menclose></m:mrow></m:mfrac></m:mtd>
+<m:mtd columnalign="left"><m:mtext>(Units can be added, subtracted, multiplied, and divided, just as numbers can.)</m:mtext></m:mtd>
+</m:mtr>
+
+
+
+<m:mtr>
+<m:mtd/>
+<m:mtd><m:mo stretchy="false">=</m:mo></m:mtd><m:mtd columnalign="left"><m:mfrac><m:mrow><m:mn>11</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn><m:mtext>ft</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn></m:mrow></m:mfrac></m:mtd>
+<m:mtd/>
+</m:mtr>
+
+<m:mtr>
+<m:mtd/>
+<m:mtd><m:mo stretchy="false">=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>33</m:mn><m:mtext>ft</m:mtext></m:mtd><m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math>  </para>
+        <para id="id1171651848137">Thus, 
+<m:math><m:mn>11</m:mn><m:mtext> yd </m:mtext><m:mo stretchy="false">=</m:mo><m:mn>33</m:mn><m:mtext>ft</m:mtext></m:math>. </para>
+</example>        
+<example id="eip-id1171695593524">
+<para id="id1171662614130">Convert 36 fl oz to pints.</para>
+        <para id="id1171637961658">Looking in the unit conversion table under <emphasis effect="italics">liquid volume</emphasis>, we see that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>1 pt </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 16 fl oz</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1 pt "=" 16 fl oz"} {}</m:annotation></m:semantics></m:math>. Since we are to convert to pints, we will construct a unit fraction with pints in the numerator.</para>
+        <para id="id6296101"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>36</m:mn><m:mtext>fl oz</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mo>=</m:mo></m:mtd>
+<m:mtd>
+<m:mfrac>
+<m:mrow>
+<m:mn>36</m:mn>
+<m:mtext> fl oz </m:mtext>
+</m:mrow>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>⋅</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mtext> pt</m:mtext>
+</m:mrow>
+<m:mrow>
+<m:mn>16</m:mn>
+<m:mtext> fl oz </m:mtext>
+</m:mrow>
+</m:mfrac>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Divide out common units.</m:mtext>
+</m:mtd>
+</m:mtr>
+
+
+
+<m:mtr>
+<m:mtd/>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mrow>
+<m:mn>36</m:mn>
+<m:menclose notation="updiagonalstrike">
+<m:mtext> fl oz </m:mtext>
+</m:menclose>
+</m:mrow>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>⋅</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mtext> pt</m:mtext>
+</m:mrow>
+<m:mrow>
+<m:mn>16</m:mn>
+<m:menclose notation="updiagonalstrike">
+<m:mtext> fl oz </m:mtext>
+</m:menclose>
+</m:mrow>
+</m:mfrac>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+</m:mtr>
+
+
+<m:mtr>
+<m:mtd/>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mrow>
+<m:mn>36</m:mn>
+<m:mo>⋅</m:mo>
+<m:mtext>1 pt</m:mtext>
+</m:mrow>
+<m:mrow>
+<m:mn>16</m:mn>
+</m:mrow>
+</m:mfrac>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+</m:mtr>
+
+
+<m:mtr>
+<m:mtd/>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mrow>
+<m:mtext>36 pt</m:mtext>
+</m:mrow>
+<m:mrow>
+<m:mn>16</m:mn>
+</m:mrow>
+</m:mfrac>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Reduce.</m:mtext>
+</m:mtd>
+</m:mtr>
+
+
+<m:mtr>
+<m:mtd/>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mrow>
+<m:mn>9</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>4</m:mn>
+
+</m:mrow>
+
+</m:mfrac>
+<m:mtext>pt</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Convert to decimals: </m:mtext>
+<m:mfrac>
+<m:mrow>
+<m:mn>9</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>4</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mn>2.25</m:mn>
+<m:mo>.</m:mo>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1171662799682">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>36 fl oz </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 2</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>25 pt</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"36 fl oz "=" 2" "." "25 pt"} {}</m:annotation></m:semantics></m:math>.</para>
+</example>        
+
+<example id="eip-id1171695374613">
+<para id="id1171656328402">Convert 2,016 hr to weeks.</para>
+        <para id="id1171640333883">Looking in the unit conversion table under <emphasis effect="italics">time</emphasis>, we see that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>1wk </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>7da</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1wk "="7da"} {}</m:annotation></m:semantics></m:math> and that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mrow><m:mtext> da </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 24 hr</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1" da "=" 24 hr"} {}</m:annotation></m:semantics></m:math>. To convert from hours to weeks, we must first convert from hours to days and then from days to weeks. We need two unit fractions.</para>
+        <para id="id1171638102029">The unit fraction needed for converting from hours to days is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>1 da</m:mtext><m:mtext>24 hr</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"1 da"}  over  {"24 hr"} } } {}</m:annotation></m:semantics></m:math>. The unit fraction needed for converting from days to weeks is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>1 wk</m:mtext><m:mtext>7 da</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"1 wk"}  over  {"7 da"} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1171661371715"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>2,016</m:mn>
+<m:mtext> hr</m:mtext>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mrow>
+<m:mn>2,016</m:mn>
+<m:mtext> hr</m:mtext>
+</m:mrow>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>⋅</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mtext> da</m:mtext>
+</m:mrow>
+<m:mrow>
+<m:mn>24</m:mn>
+<m:mtext> hr</m:mtext>
+</m:mrow>
+</m:mfrac>
+<m:mo>⋅</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mtext> wk</m:mtext>
+</m:mrow>
+<m:mrow>
+<m:mn>7</m:mn>
+<m:mtext> da</m:mtext>
+</m:mrow>
+</m:mfrac>
+</m:mtd>
+<m:mtd columnalign="left"><m:mtext>Divide out common units.</m:mtext></m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mrow>
+<m:mn>2,016</m:mn>
+<m:menclose notation="updiagonalstrike">
+<m:mtext> hr</m:mtext>
+</m:menclose>
+</m:mrow>
+<m:mrow>
+<m:mn>1</m:mn>
+</m:mrow>
+</m:mfrac>
+<m:mo>⋅</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+<m:menclose notation="updiagonalstrike">
+<m:mtext> da</m:mtext>
+</m:menclose>
+</m:mrow>
+<m:mrow>
+<m:mn>24</m:mn>
+<m:menclose notation="updiagonalstrike">
+<m:mtext> hr</m:mtext>
+</m:menclose>
+</m:mrow>
+</m:mfrac>
+<m:mo>⋅</m:mo>
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn>
+<m:mtext> wk</m:mtext>
+</m:mrow>
+<m:mrow>
+<m:mn>7</m:mn>
+<m:menclose notation="updiagonalstrike">
+<m:mtext> da</m:mtext>
+</m:menclose>
+</m:mrow>
+</m:mfrac>
+</m:mtd>
+<m:mtd columnalign="left"/>
+</m:mtr>
+
+
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mrow>
+<m:mn>2,016</m:mn>
+<m:mo>⋅</m:mo>
+<m:mn>1</m:mn>
+<m:mtext>wk</m:mtext>
+</m:mrow>
+<m:mrow>
+<m:mn>24</m:mn>
+<m:mo>⋅</m:mo>
+<m:mn>7</m:mn>
+</m:mrow>
+</m:mfrac>
+</m:mtd>
+<m:mtd columnalign="left"><m:mtext>Reduce.</m:mtext></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>12</m:mn>
+<m:mtext>wk</m:mtext>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        
+        <para id="id1171669268329">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>2,016 hr </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 12 wk</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"2,016 hr "=" 12 wk"} {}</m:annotation></m:semantics></m:math>.</para>
+      </example></section>
+      <section id="id1171657852138"><title>Practice Set A</title><para id="id1171657938793">Make the following conversions. If a fraction occurs, convert it to a decimal rounded to two decimal places. </para>
+        <exercise id="id1171657636291">
+          <problem id="oo-id1171638174357">
+            <para id="id1171657938795">Convert 18 ft to yards.  </para>
+          </problem>
+<solution id="eip-id1170962901557">
+<para id="eip-id1170959465979">6 yd</para>
+</solution>
+        </exercise>
+        <exercise id="id1171642500658">
+          <problem id="oo-id1171638321028">
+            <para id="id1171641406604">Convert 2 mi to feet.</para>
+          </problem>
+<solution id="eip-id1170959144740">
+<para id="eip-id1170958369091">10,560 ft</para>
+</solution>
+        </exercise>
+        <exercise id="id1171636728566">
+          <problem id="oo-id1171639756838">
+            <para id="id1171640651656">Convert 26 ft to yards.</para>
+          </problem>
+<solution id="eip-id1170964831212">
+<para id="eip-id1170960370477">8.67 yd</para>
+</solution>        
+</exercise>
+        <exercise id="id1171637062358">
+          <problem id="oo-id1171638169676">
+            <para id="id1171657665326">Convert 9 qt to pints.  </para>
+          </problem>
+<solution id="eip-id1170957970723">
+<para id="eip-id1170971275178">18 pt</para>
+</solution>        
+</exercise>
+        <exercise id="id1171662824642">
+          <problem id="oo-id1171637922673">
+            <para id="id1171647879223">Convert 52 min to hours.  </para>
+          </problem>
+<solution id="eip-id1170958210566">
+<para id="eip-id1170958972144">0.87 hr</para>
+</solution>        
+</exercise>
+        <exercise id="id1171670573885">
+          <problem id="oo-id1171659821278">
+            <para id="id1171639149965">Convert 412 hr to weeks.</para>
+          </problem>
+<solution id="eip-id1170958209573">
+<para id="eip-id1170960817545">2.45 wk</para>
+</solution>        
+</exercise>
+      </section>
+    </section>
+    <section id="id1171651126310"><title>Exercises</title><para id="id1171645196843">Make each conversion using unit fractions. If fractions occur, convert them to decimals rounded to two decimal places.</para>
+      <exercise id="id1171638990537">
+        <problem id="oo-id1171638392779">
+          <para id="id1171654325569"> 14 yd to feet  </para>
+        </problem>
+<solution id="eip-id1170961948014">
+<para id="eip-id1170961700039">42 feet
+</para>
+</solution>
+      </exercise>
+      <exercise id="id1171661419500">
+        <problem id="oo-id1171638997470">
+          <para id="id1171662338763"> 3 mi to yards</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171657961189">
+        <problem id="oo-id1171637930534">
+          <para id="id1171647784256"> 8 mi to inches  </para>
+        </problem>
+<solution id="eip-id1170959175454">
+<para id="eip-id1170958452304">506,880 inches
+</para>
+</solution>     
+ </exercise>
+      <exercise id="id1171672110297">
+        <problem id="oo-id1171639006248">
+          <para id="id1171647609125"> 2 mi to inches</para>
+        </problem>
+</exercise>
+      <exercise id="id1171649907065">
+        <problem id="oo-id1171641287353">
+          <para id="id1171669372750">18 in. to feet</para>
+        </problem>
+<solution id="eip-id1170959159694">
+<para id="eip-id1170963148037"> 1.5 feet
+</para>
+</solution>     
+ </exercise>
+      <exercise id="id1171661370307">
+        <problem id="oo-id1171639142461">
+          <para id="id1171640561405"> 84 in. to yards</para>
+        </problem>
+</exercise>
+      <exercise id="id1171646406464">
+        <problem id="oo-id1171639060091">
+          <para id="id1171641371913"> 5 in. to yards  </para>
+        </problem>
+<solution id="eip-id1170960582580">
+<para id="eip-id1170964769524">0.14 yard
+</para>
+</solution>      
+</exercise>
+      <exercise id="id1171637948079">
+        <problem id="oo-id1171646992681">
+          <para id="id1171650830456"> 106 ft to miles</para>
+        </problem>
+</exercise>
+      <exercise id="id1171653455847">
+        <problem id="oo-id1171638245145">
+          <para id="id1171654220160"> 62 in. to miles  </para>
+        </problem>
+<solution id="eip-id1170964883432">
+<para id="eip-id1170961150809">0.00 miles (to two decimal places)
+</para>
+</solution>      
+</exercise>
+      <exercise id="id1171650869786">
+        <problem id="oo-id1171665578545">
+          <para id="id1171651103262"> 0.4 in. to yards</para>
+        </problem>
+</exercise>
+      <exercise id="id1171647989341">
+        <problem id="oo-id1171639086458">
+          <para id="id1171642949303"> 3 qt to pints  </para>
+        </problem>
+<solution id="eip-id1170971261850">
+<para id="eip-id1170965416111">6 pints
+</para>
+</solution>      
+</exercise>
+      <exercise id="id1171638086337">
+        <problem id="oo-id1171638654871">
+          <para id="id1171641888243"> 5 lb to ounces</para>
+        </problem>
+</exercise>
+      <exercise id="id1171638030409">
+        <problem id="oo-id1171638245538">
+          <para id="id1171661349191"> 6 T to ounces </para>
+        </problem>
+<solution id="eip-id1170963175213">
+<para id="eip-id1170961297090"> 192,000 ounces
+</para>
+</solution>      
+</exercise>
+      <exercise id="id1171657175829">
+        <problem id="oo-id1171638370278">
+          <para id="id1171657806552"> 4 oz to pounds</para>
+        </problem>
+</exercise>
+      <exercise id="id1171653270954">
+        <problem id="oo-id1171639127668">
+          <para id="id1171662605767"> 15,000 oz to pounds </para>
+        </problem>
+<solution id="eip-id1170961195486">
+<para id="eip-id1170961257655">937.5 pounds
+</para>
+</solution>      
+</exercise>
+      <exercise id="id1171642178965">
+        <problem id="oo-id1171651395603">
+          <para id="id1171658491898">15,000 oz to tons</para>
+        </problem>
+ </exercise>
+      <exercise id="id1171637954117">
+        <problem id="oo-id1171647819323">
+          <para id="id1171637026214"> 9 tbsp to teaspoons</para>
+        </problem>
+<solution id="eip-id1170970069549">
+<para id="eip-id1170961260299"> 27 teaspoons
+</para>
+</solution>     
+ </exercise>
+      <exercise id="id1171655823517">
+        <problem id="oo-id1171637539075">
+          <para id="id1171639596711"> 3 c to tablespoons</para>
+        </problem>
+</exercise>
+      <exercise id="id1171639719959">
+        <problem id="oo-id2081047">
+          <para id="id1171669661468"> 5 pt to fluid ounces</para>
+        </problem>
+<solution id="eip-id1170958408043">
+<para id="eip-id1170962972281"> 80 fluid ounces
+</para>
+</solution>     
+ </exercise>
+      <exercise id="id1171642307124">
+        <problem id="oo-id1171671081770">
+          <para id="id1171638462547"> 16 tsp to cups</para>
+        </problem>
+</exercise>
+      <exercise id="id1171658501536">
+        <problem id="oo-id1171639689125">
+          <para id="id1171649642521"> 5 fl oz to quarts </para>
+        </problem>
+<solution id="eip-id1170959558240">
+<para id="eip-id1170959699924"> 0.16 quart
+</para>
+</solution>      
+</exercise>
+      <exercise id="id1171638712420">
+        <problem id="oo-id1171639709762">
+          <para id="id1171657238477"> 3 qt to gallons</para>
+        </problem>
+</exercise>
+      <exercise id="id1171647115720">
+        <problem id="oo-id1171651191468">
+          <para id="id1171638623926"> 5 pt to teaspoons </para>
+        </problem>
+<solution id="eip-id1170958188529">
+<para id="eip-id1170971184886"> 480 teaspoons
+</para>
+</solution>      
+</exercise>
+      <exercise id="id1171645524575">
+        <problem id="oo-id1171640103479">
+          <para id="id1171638310433"> 3 qt to tablespoons</para>
+        </problem>
+</exercise>
+      <exercise id="id1171641284230">
+        <problem id="oo-id1171639217991">
+          <para id="id1171642815421"> 18 min to seconds  </para>
+        </problem>
+<solution id="eip-id1170960680905">
+<para id="eip-id1170958854828">1,080 seconds
+</para>
+</solution>      
+</exercise>
+      <exercise id="id1171637056187">
+        <problem id="oo-id1171638311541">
+          <para id="id1171645122758">4 days to hours</para>
+        </problem>
+</exercise>
+      <exercise id="id1171652108790">
+        <problem id="oo-id1171651840364">
+          <para id="id2944215"> 3 hr to days  
+</para>
+        </problem>
+<solution id="eip-id1170960408528">
+<para id="eip-id1170971141203"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>125</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } =0 "." "125"} {}</m:annotation></m:semantics></m:math> day
+</para>
+</solution>      
+</exercise>
+      <exercise id="id1171675743064">
+        <problem id="oo-id1171638362416">
+          <para id="id1171642736617"><m:math><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math> hr to days</para>
+        </problem>
+</exercise>
+      <exercise id="id1171639882910">
+        <problem id="oo-id1171642709892">
+          <para id="id6159507"><m:math><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math> da to weeks  
+</para>
+        </problem>
+<solution id="eip-id1170960825149">
+<para id="eip-id1170966387606"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>14</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>0714</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"14"} } =0 "." "0714"} {}</m:annotation></m:semantics></m:math> week
+</para>
+</solution>      
+</exercise>
+      <exercise id="id1171639095127">
+        <problem id="oo-id1171638202194">
+          <para id="id1171639055160"><m:math><m:mn>3</m:mn>
+<m:mfrac><m:mn>1</m:mn><m:mn>7</m:mn>
+</m:mfrac></m:math> wk to seconds</para>
+        </problem>
+
+  </exercise>
+      <section id="id1171661798951">
+        <title>Exercises for Review</title>
+        <exercise id="id1171665489756">
+          <problem id="oo-id1171637241512">
+            <para id="id1171637551224">(<link document="m34866"/>) Specify the digits by which 23,840 is divisible. </para>
+          </problem>
+<solution id="eip-id1170958052118">
+<para id="eip-id1170967481796">1,2,4,5,8
+</para>
+</solution>       
+ </exercise>
+        <exercise id="id1171661613736">
+          <problem id="oo-id1171653298797">
+            <para id="id1171637936001">(<link document="m34928"/>) Find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 {  {4}  over  {5} } } {}</m:annotation></m:semantics></m:math> of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math> of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>7</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 {  {5}  over  {7} } } {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+</exercise>
+        <exercise id="id1171638325801">
+          <problem id="oo-id1171651538261">
+            <para id="id1171660392085">(<link document="'m34958"/>) Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mn>3</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." 3 {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> to a fraction. 
+</para>
+          </problem>
+<solution id="eip-id1170957966268">
+<para id="eip-id1170963144464"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>11</m:mtext><m:mtext>30</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"11"}  over  {"30"} } } {}</m:annotation></m:semantics></m:math>
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1171651256042">
+          <problem id="oo-id2768639">
+            <para id="id7311752">(<link document="m35012"/>) Use the clustering method to estimate the sum: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>53</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>82</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>79</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>49</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"53"+"82"+"79"+"49"} {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+ </exercise>
+        <exercise id="id1171662160088">
+          <problem id="oo-id1171637547759">
+            <para id="id1171639115447">(<link document="m35013"/>) Use the distributive property to compute the product: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>60</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>46</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"60" cdot "46"} {}</m:annotation></m:semantics></m:math>. 
+</para>
+          </problem>
+<solution id="eip-id1170960593856">
+<para id="eip-id1170959504644"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>60</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>50</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mn>3,</m:mn></m:mrow><m:mrow><m:mrow><m:mtext>000</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>240</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>2,</m:mn></m:mrow><m:mtext>760</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"60" \( "50" - 4 \) =3,"000" - "240"=2,"760"} {}</m:annotation></m:semantics></m:math>
+</para>
+</solution>       
+ </exercise>
+      </section>
+    </section>
+  </content>
+</document>

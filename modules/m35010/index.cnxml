@@ -1,0 +1,218 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Proficiency Exam</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35010</md:content-id>
+  <md:title>Proficiency Exam</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module is a proficiency exam to the chapter "Ratios and Rates." Each problem is accompanied with a reference link pointing back to the module that discusses the type of problem demonstrated in the question. The problems in this exam are accompanied by solutions.</md:abstract>
+  <md:uuid>4edc3f8b-f66d-4025-b73f-ab69f4c9a470</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id3295156"><title>Proficiency Exam</title><exercise id="id1168888876121">
+        <problem id="oo-id1168879221314">
+          <para id="id1168880151637">(<link document="m34980"/>) Compare 4 cassette tapes to 7 dollars. 
+</para>
+        </problem>
+<solution id="eip-id1168865906817"><para id="eip-id1722279"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>4 cassette tapes</m:mtext><m:mtext>7 dollars</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"4 cassette tapes"}  over  {"7 dollars"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id2458753">
+        <problem id="oo-id1168890891289">
+          <para id="id1168878922149">(<link document="m34980"/>) What do we call a comparison, by division, of two unlike denominate numbers? </para>
+        </problem>
+<solution id="eip-id1168874639273"><para id="eip-id2290690">Rate</para></solution>
+      </exercise>
+
+      <para id="id1168883227876">For problems 3 and 4, express each ratio or rate as a fraction.</para>
+
+      <exercise id="id1168885966491">
+        <problem id="oo-id1168884271188">
+          <para id="id1168889017685">(<link document="m34980"/>) 11 to 9</para>
+        </problem>
+<solution id="eip-id8025176"><para id="eip-id1168865608621"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>11</m:mtext><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"11"}  over  {9} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id7472292">
+        <problem id="oo-id1825552">
+          <para id="id1168878494753">(<link document="m34980"/>) 5 televisions to 2 radios</para>
+        </problem>
+<solution id="eip-id7661226"><para id="eip-id1168887564601"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>5 televisions</m:mtext><m:mtext>2 radios</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"5 televisions"}  over  {"2 radios"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      
+          <para id="id1168893218414">For problems 5 and 6, write each ratio or rate in the form "<m:math>
+<m:mi>a</m:mi></m:math> to <m:math>
+<m:mi>b</m:mi>
+</m:math>."</para>
+
+        
+      <exercise id="id1168886162850">
+        <problem id="oo-id1168883495559">
+          <para id="id1168883077386">(<link document="m34980"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>8 maps</m:mtext><m:mtext>3 people</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"8 maps"}  over  {"3 people"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168865633592"><para id="eip-id1168873631592">8 maps to 3 people</para></solution>
+      </exercise>
+      <exercise id="id1168880784383">
+        <problem id="oo-id1168881296205">
+          <para id="id1168883061936">(<link document="m34980"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>2 psychologists</m:mtext><m:mtext>75 people</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"2 psychologists"}  over  {"75 people"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168865464179"><para id="eip-id1168865995661">two psychologists to seventy-five people</para></solution>
+      </exercise>
+      
+          <para id="id1168883022141">For problems 7-9, solve each proportion. </para>
+  
+      <exercise id="id1168887156489">
+        <problem id="oo-id1168882656410">
+          <para id="id1168884489979">(<link document="m34981"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>8</m:mn><m:mi>x</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>48</m:mtext><m:mtext>90</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {x} } = {  {"48"}  over  {"90"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168865712738"><para id="eip-id1168875270472">15</para></solution>
+      </exercise>
+      <exercise id="id1168890767830">
+        <problem id="oo-id1168881300311">
+          <para id="id1168883589574">(<link document="m34981"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mn>7</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>4</m:mn><m:mtext>28</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {7} } = {  {4}  over  {"28"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168865808688"><para id="eip-id1168865632986">1</para></solution>
+      </exercise>
+      <exercise id="id1168883079089">
+        <problem id="oo-id1168890260809">
+          <para id="id1168885859339">(<link document="m34981"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>3 computers</m:mtext><m:mtext>8 students</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>24</m:mtext><m:mi/><m:mtext>  computers</m:mtext></m:mrow><m:mrow><m:mi>x</m:mi><m:mtext>  students</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"3 computers"}  over  {"8 students"} } = {  {"24"`"computers"}  over  {x" students"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168888558866"><para id="eip-id1168865544149">64</para></solution>
+      </exercise>
+      <exercise id="id8740633">
+        <problem id="oo-id1168886656542">
+          <para id="id1168882086512">(<link document="m34982"/>) On a map, 4 inches represents 50 miles. How many miles does 3 inches represent? 
+</para>
+        </problem>
+<solution id="eip-id1168864417578"><para id="eip-id1168877427891"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>37</m:mtext><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"37" {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1168884046987">
+        <problem id="oo-id1168881008689">
+          <para id="id1168886390197">(<link document="m34982"/>) An acid solution is composed of 6 milliliters of acid to 10 milliliters of water. How many milliliters of acid are there in an acid solution that is composed of 3 milliliters of water? </para>
+        </problem>
+<solution id="eip-id1168866193151"><para id="eip-id1168865544892">1.8</para></solution>
+      </exercise>
+      <exercise id="id1168887015686"><problem id="oo-id1168882704854">
+          <para id="id1168881798466">(<link document="m34982"/>) The odds that a particular event will occur are 9 to 7. If the event occurs 27 times, how many times would you predict it will it not occur? </para>
+        </problem>
+      <solution id="eip-id1165512502202"><para id="eip-id1165514521643">21</para></solution></exercise>
+      <para id="id1168884276037">For problems 13 and 14, convert each decimal to a percent.</para>
+
+      <exercise id="id1168887487678">
+        <problem id="oo-id1168880708685">
+          <para id="id1168892285043">(<link document="m34983"/>) 0.82 </para>
+        </problem>
+<solution id="eip-id1168866093867"><para id="eip-id1168869520757">82%</para></solution>
+      </exercise>
+      <exercise id="id1168880302914">
+        <problem id="oo-id1168887656424">
+          <para id="id1168886929957">(<link document="m34983"/>) 
+<m:math>
+<m:mn>3.</m:mn>
+<m:mover>
+<m:mn>7</m:mn>
+<m:mo>_</m:mo>
+</m:mover>
+</m:math> 
+</para>
+        </problem>
+<solution id="eip-id1168875055685"><para id="eip-id1168886422550"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>377</m:mtext><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac><m:mtext/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"377" {  {7}  over  {9} } %} {}</m:annotation></m:semantics></m:math>%</para></solution>
+      </exercise>
+
+      <para id="id1168882703603">For problems 15 and 16, convert each percent to a decimal.</para>
+
+      <exercise id="id1168882079167">
+        <problem id="oo-id7760831">
+          <para id="id1168887656336">(<link document="m34983"/>) 2.813% </para>
+        </problem>
+<solution id="eip-id1168865691988"><para id="eip-id1168865733446">0.02813</para></solution>
+      </exercise>
+      <exercise id="id1168881515589">
+        <problem id="oo-id1168883214679">
+          <para id="id1168884034489">(<link document="m34983"/>) 0.006%  </para>
+        </problem>
+<solution id="eip-id1168865947318"><para id="eip-id1168877445224">0.00006</para></solution>
+      </exercise>
+
+      <para id="id1168878330953">For problems 17-19, convert each fraction to a percent.</para>
+
+      <exercise id="id1168883605188">
+        <problem id="oo-id1168883712253">
+          <para id="id1168883083801">(<link document="m34983"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>42</m:mtext><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"42"}  over  {5} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id2940674"><para id="eip-id1168874345441">840%</para></solution>
+      </exercise>
+      <exercise id="id7635651">
+        <problem id="oo-id1168887643528">
+          <para id="id1168890879275">(<link document="m34983"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168865959829"><para id="eip-id1168865468825">12.5%</para></solution>
+      </exercise>
+      <exercise id="id1168883144569">
+        <problem id="oo-id7437795">
+          <para id="id1168885980613">(<link document="m34983"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>800</m:mtext><m:mtext>80</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"800"}  over  {"80"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168865485190"><para id="eip-id1168885110567">1,000%</para></solution>
+      </exercise>
+
+      <para id="id1168881338649">For problems 20 and 21, convert each percent to a fraction.</para>
+
+      <exercise id="id1168878302633">
+        <problem id="oo-id1168885437989">
+          <para id="id1168890537400">(<link document="m34983"/>) 15% 
+</para>
+        </problem>
+<solution id="eip-id1168890537572"><para id="eip-id1168876257429"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>20</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"20"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+
+      <exercise id="id1168884508930">
+        <problem id="oo-id1168881022277">
+          <para id="id1168883149933">(<link document="m34983"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mtext>27</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {"27"} } } {}</m:annotation></m:semantics></m:math> % 
+</para>
+        </problem>
+<solution id="eip-id1168891531941"><para id="eip-id1168877029774"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>2,</m:mn><m:mtext>700</m:mtext></m:mrow></m:mfrac><m:mtext> or </m:mtext><m:mfrac><m:mn>1</m:mn><m:mtext>675</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {2,"700"} } " or " {  {1}  over  {"675"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+
+      <para id="id1168890892455">For problems 22-25, find each indicated quantity.</para>
+
+      <exercise id="id1168890902592">
+        <problem id="oo-id1168879221717">
+          <para id="id1168890931822">(<link document="m35007"/>) What is 18% of 26?  </para>
+        </problem>
+<solution id="eip-id1168878816443"><para id="eip-id1168865223885">4.68</para></solution>
+      </exercise>
+      <exercise id="id1168884278739">
+        <problem id="oo-id1168886412899">
+          <para id="id1168890909485">(<link document="m35007"/>) 0.618 is what percent of 0.3? </para>
+        </problem>
+<solution id="eip-id1168874640242"><para id="eip-id1168866170849">206</para></solution>
+      </exercise>
+      <exercise id="id2230611">
+        <problem id="oo-id7604403">
+          <para id="id1168881950586">(<link document="m35007"/>) 0.1 is 1.1% of what number? </para>
+        </problem>
+<solution id="eip-id1168871838313"><para id="eip-id1168885538664"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mtext>.</m:mtext><m:mover accent="true"><m:mtext>09</m:mtext><m:mo>¯</m:mo></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 "."  {overline  {"09"}} } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1168886988749">
+        <problem id="oo-id1168886615905">
+          <para id="id1168880329765">(<link document="m35007"/>) A salesperson makes a monthly salary of $1,000.00. He also gets a commission of 12% of his total monthly sales. If, in a particular month, he sells $5,500.00 worth of merchandise, what is his income that month? </para>
+        </problem>
+<solution id="eip-id1168874831240"><para id="eip-id1168872617723">$1,660</para></solution>
+      </exercise>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,665 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Subtraction of Signed Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35032</md:content-id>
+  <md:title>Subtraction of Signed Numbers</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to subtract signed numbers. By the end of the module students should understand the definition of subtraction, be able to subtract signed numbers and be able to use a calculator to subtract signed numbers.</md:abstract>
+  <md:uuid>04d642fc-9087-48a5-8c0f-59f4682b9998</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    
+    <section id="id1165827667290">
+      <title>Section Overview</title>
+      <list id="id1165838491148" list-type="bulleted">
+        <item>Definition of Subtraction</item>
+        <item>The Process of Subtraction</item>
+        <item>Calculators</item>
+      </list>
+    </section>
+    <section id="id1165835484866">
+      <title>Definition of Subtraction</title>
+      <para id="id1165819417375">We know from experience with arithmetic that the subtraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>5</m:mn>
+<m:mo>-</m:mo> <m:mn>2</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"5 – 2"} {}</m:annotation></m:semantics></m:math> produces 3, that is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn>
+<m:mo>-</m:mo> <m:mn>2</m:mn><m:mo stretchy="false">=</m:mo><m:mtext> 3</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"5 – 2 "=" 3"} {}</m:annotation></m:semantics></m:math>. We can suggest a rule for subtracting signed numbers by illus­trating this process on the number line.</para>
+      
+      <para id="eip-383"><media id="id1165821636068_media" alt="A number line with hash marks from -1 to 7. There is an arrow from 0 to 5 and from 5 to 3.">
+          <image mime-type="image/png" src="../../media/graphics1-9f03.png" id="id1165821636068__onlineimage" height="63" width="363" print-width="2.5in"/>
+        </media>
+      </para><para id="id1165819546137">Begin at 0, the origin.</para>
+      <para id="id1165821436909">Since 5 is positive, move 5 units to the right.</para>
+      <para id="id1165821003059">Then, move <emphasis effect="italics">2 units to the left</emphasis> to get to 6. (This reminds us of addition with a negative number.)</para>
+      <para id="id1165822452324">From this illustration we can see that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>5</m:mn>
+<m:mo>-</m:mo> <m:mn>2</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"5 – 2"} {}</m:annotation></m:semantics></m:math> is the same as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>5 </m:mtext><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo>-</m:mo><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"5 "+  \( "–2" \) } {}</m:annotation></m:semantics></m:math>. This leads us directly to the definition of subtraction.</para>
+      <para id="id1165821236502"><title>Definition of Subtraction</title>If 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math> are real numbers, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi>
+<m:mo>-</m:mo>
+<m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"a–b"} {}</m:annotation></m:semantics></m:math> is the same as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>a </m:mi><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo>-</m:mo><m:mi>b</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"a "+  \( "–b" \) } {}</m:annotation></m:semantics></m:math>, where 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">-</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ –b} {}</m:annotation></m:semantics></m:math> is the opposite of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math>.</para>
+    </section>
+    <section id="id1165839499251">
+      <title>The Process of Subtraction</title>
+      <para id="id1416046">From this definition, we suggest the following rule for subtracting signed numbers.</para>
+      <para id="id1165819450789"><title>Subtraction of Signed Numbers</title>To perform the subtraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi>
+<m:mo>-</m:mo>
+<m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"a–b"} {}</m:annotation></m:semantics></m:math>, add the opposite of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math> to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math>, that is, change the sign of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math> and add.</para>
+      <section id="id1165822234218"><title>Sample Set A</title><para id="id1165828591244">Perform the indicated subtractions.</para>
+<example id="eip-id1170305616406">
+        <para id="id1165824236852"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 - 3=5+ \(  - 3 \) =2} {}</m:annotation></m:semantics></m:math></para>
+</example>
+<example id="eip-id2381412">
+        <para id="id1165818716731"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn>
+<m:mo>-</m:mo>
+<m:mn>9</m:mn><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext> 4 </m:mtext><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow></m:mrow><m:mo>-</m:mo>
+<m:mn>9</m:mn><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mo>-</m:mo>
+<m:mn>5</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"4–9 "=" 4 "+  \( "–9" \)  =" –5"} {}</m:annotation></m:semantics></m:math></para>
+</example>
+<example id="eip-id1170297644104">
+        <para id="id1165820264880"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 4 - 6= - 4+ \(  - 6 \) = - "10"} {}</m:annotation></m:semantics></m:math></para>
+</example>
+<example id="eip-id1170306329596">
+        <para id="id1165819455220">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 3 -  \(  - "12" \) = - 3+"12"=9} {}</m:annotation></m:semantics></m:math></para>
+</example>
+<example id="eip-id1170296308890">
+        <para id="id1165818110844"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn>
+<m:mo>-</m:mo><m:mo stretchy="false">(</m:mo><m:mo>-</m:mo>
+<m:mn>15</m:mn><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext> 0 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 15 </m:mtext></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext> 15</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"0 – " \( "–15" \)  =" 0 "+" 15 "=" 15"} {}</m:annotation></m:semantics></m:math></para>
+</example>
+<example id="eip-id1170294914167">
+        <para id="id1165834972720">The high temperature today in Lake Tahoe was 26°F. The low temperature tonight is expected to be -7°F. How many degrees is the temperature expected to drop?</para>
+        <para id="id1165820828185">We need to find the difference between 26 and -7.</para>
+        <para id="id1165835498524"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>26</m:mn>
+<m:mo>-</m:mo>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mo>-</m:mo>
+<m:mn>7</m:mn>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:mtext> 26 </m:mtext>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mtext> 7 </m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext> 33</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"26 – " \( "–7" \)  =" 26 "+" 7 "=" 33"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1165830607303">Thus, the expected temperature drop is 33°F. </para>
+</example>
+<example id="eip-id1170296077366">
+        <para id="id1165822067284"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mo>-</m:mo>
+<m:mn>6</m:mn><m:mo>-</m:mo><m:mo>(</m:mo>
+<m:mo>-</m:mo>
+<m:mn>5</m:mn><m:mo>)</m:mo>
+<m:mo>-</m:mo><m:mn>10</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mo>-</m:mo>
+<m:mn>6</m:mn><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mo>-</m:mo>
+<m:mn>10</m:mn><m:mo>)</m:mo>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mo>(</m:mo>
+<m:mo>-</m:mo>
+<m:mn>6</m:mn><m:mo>+</m:mo><m:mn>5</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mo>(</m:mo>
+<m:mo>-</m:mo>
+<m:mn>10</m:mn><m:mo>)</m:mo>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mo>-</m:mo>
+<m:mn>1</m:mn><m:mo>+</m:mo><m:mo>(</m:mo>
+<m:mo>-</m:mo>
+<m:mn>10</m:mn><m:mo>)</m:mo>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mo>-</m:mo>
+<m:mn>11</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+</example>
+      </section>
+      <section id="id1165822361365"><title>Practice Set A</title><para id="id1165820982636">Perform the indicated subtractions.</para>
+        <exercise id="id1165818171302">
+          <problem id="oo-id1165824705373">
+            <para id="id2003027"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 - 6} {}</m:annotation></m:semantics></m:math>    </para>
+          </problem>
+<solution id="eip-id1169323232835"><para id="eip-id1169323049179">3</para></solution>
+        </exercise>
+        <exercise id="id1165822126970">
+          <problem id="oo-id1165822347561">
+            <para id="id1634024"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 - 9} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1169323010707"><para id="eip-id1169323072796">-3</para></solution>
+        </exercise>
+        <exercise id="id1165839372338">
+          <problem id="oo-id1165819774870">
+            <para id="id1165822284283">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 - 7} {}</m:annotation></m:semantics></m:math>    </para>
+          </problem>
+<solution id="eip-id1169323013345"><para id="eip-id1169322648012">-7</para></solution>
+        </exercise>
+        <exercise id="id1165822221284">
+          <problem id="oo-id1165822178193">
+            <para id="id1165834956907">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>14</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 - "14"} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1169324290455"><para id="eip-id1169322876881">-13</para></solution>
+        </exercise>
+        <exercise id="id1165839354842">
+          <problem id="oo-id1165828499326">
+            <para id="id1165822250473">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 8 - "12"} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1169323064175"><para id="eip-id1169323462773">-20</para></solution>
+        </exercise>
+        <exercise id="id1165821326419">
+          <problem id="oo-id1165827455583">
+            <para id="id1165821326142"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>21</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "21" - 6} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1169322961076"><para id="eip-id1169323240396">-27</para></solution>
+        </exercise>
+        <exercise id="id4169071">
+          <problem id="oo-id1165822069140">
+            <para id="id1165817763670">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 6 -  \(  - 4 \) } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1169340896924"><para id="eip-id1169323413126">-2</para></solution>
+        </exercise>
+        <exercise id="id1165830525691">
+          <problem id="oo-id1165827966853">
+            <para id="id1165822104698">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 -  \(  - "10" \) } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1169323669509"><para id="eip-id1169323248538">18</para></solution>
+        </exercise>
+        <exercise id="id1165820001272">
+          <problem id="oo-id1165822834825">
+            <para id="id1165839453220">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 -  \(  - "12" \) } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1169322648682"><para id="eip-id1169323232472">13</para></solution>
+        </exercise>
+        <exercise id="id1165828474634">
+          <problem id="oo-id1165822303599">
+            <para id="id1165819358986">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>86</m:mtext><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>32</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"86" -  \(  - "32" \) } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1169334403750"><para id="eip-id1169331804769">118</para></solution>
+        </exercise>
+        <exercise id="id1165823030644">
+          <problem id="oo-id1165837553768">
+            <para id="id1165822280339">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 - "16"} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1169327041348"><para id="eip-id1169326000944">-16</para></solution>
+        </exercise>
+        <exercise id="id1165819804614">
+          <problem id="oo-id3093915">
+            <para id="id1165828487288"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>16</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 -  \(  - "16" \) } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id6644239"><para id="eip-id1169323514394">16</para></solution>
+        </exercise>
+        <exercise id="id1165828353465">
+          <problem id="oo-id1165836307664">
+            <para id="id1165823496909">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mn>8</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 -  \( 8 \) } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1169330660917"><para id="eip-id1169342306209">-8</para></solution>
+        </exercise>
+        <exercise id="id1165822234566">
+          <problem id="oo-id1165835866197">
+            <para id="id1165817387317"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 -  \(  - 5 \) } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1169328544000"><para id="eip-id1169344305836">10</para></solution>
+        </exercise>
+        <exercise id="id1165818447931">
+          <problem id="oo-id1165822111484">
+            <para id="id1165827949741"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>24</m:mtext><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">[</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>24</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"24" -  \[  -  \(  - "24" \)  \] } {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+<solution id="eip-id1169328991072"><para id="eip-id1169325993346">0</para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1165827773922">
+      <title>Calculators </title>
+      <para id="id1165818103916">Calculators can be used for subtraction of signed numbers. The most efficient calculators are those with a <media id="id1165835087571_media" alt="A box with a plus and minus sign."><image mime-type="image/png" src="../../media/graphics2-587d.png" id="id1165835087571__onlineimage" height="28" width="41" print-width=".33in"/></media> key.</para>
+      <section id="id1165828485613"><title>Sample Set B</title><para id="id1165817800588">Use a calculator to find each difference.</para>
+<example id="eip-id1169816871143">
+        <para id="id1165823831228"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3,</m:mn><m:mrow><m:mtext>187</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>8,</m:mn></m:mrow><m:mtext>719</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3,"187" - 8,"719"} {}</m:annotation></m:semantics></m:math></para>
+        <table id="id1165822773581" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3">Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>3187</entry>
+                <entry>3187</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>-</entry>
+                <entry>3187</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>8719</entry>
+                <entry>8719</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>-5532</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8713331">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3,</m:mn><m:mrow><m:mtext>187</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>8,</m:mn></m:mrow><m:mrow><m:mtext>719</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5,</m:mn></m:mrow></m:mrow><m:mtext>532</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3,"187" - 8,"719"= - 5,"532"} {}</m:annotation></m:semantics></m:math>.</para>
+</example>
+<example id="eip-id1169823195675">
+        <para id="id1165819442528">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>156</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>211</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "156" -  \(  - "211" \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1165820549971">Method A:</para>
+        <table id="id1165838981164" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3">Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>156</entry>
+                <entry>156</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>
+                  <media id="id1165822324282" alt="A box with a plus and minus sign.">
+                    <image mime-type="image/png" src="../../media/graphics3-587d.png" width="41" print-width=".33in"/>
+                  </media>
+                </entry>
+                <entry>-156</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>-</entry>
+                <entry>-156</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>211</entry>
+                <entry>211</entry>
+              </row>
+              <row>
+                <entry>Type </entry>
+                <entry>
+                  <media id="id1165819625027" alt="A box with a plus and minus sign.">
+                    <image mime-type="image/png" src="../../media/graphics4-587d.png" print-width=".33in" width="41"/>
+                  </media>
+                </entry>
+                <entry>-211</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>55</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1165821322535">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>156</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>211</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mtext>55</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "156" -  \(  - "211" \) ="55"} {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1165822670687">
+          <emphasis effect="italics">Method B:</emphasis>
+        </para>
+        <para id="id1165820166574">We manually change the subtraction to an addition and change the sign of the number to be subtracted.</para>
+        <para id="id1165819557167"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>156</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>211</m:mtext></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "156" -  left ( - "211" right )} {}</m:annotation></m:semantics></m:math> becomes 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>156</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>211</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "156"+"211"} {}</m:annotation></m:semantics></m:math></para>
+        <table id="id1165825201463" summary=""><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3">Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type </entry>
+                <entry>156</entry>
+                <entry>156</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>
+                  <media id="id1165820252500" alt="A box with a plus and minus sign.">
+                    <image mime-type="image/png" src="../../media/graphics5-587d.png" print-width=".33in" width="41"/>
+                  </media>
+                </entry>
+                <entry>-156</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>+</entry>
+                <entry>-156</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>211</entry>
+                <entry>211</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>55</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </example></section>
+      <section id="id2116668"><title>Practice Set B</title><para id="id1165819375654">Use a calculator to find each difference.</para>
+        <exercise id="id1165822233232">
+          <problem id="oo-id1165819623205">
+            <para id="id1165828131335">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>44</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>315</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"44" - "315"} {}</m:annotation></m:semantics></m:math>   </para>
+          </problem>
+<solution id="eip-id1170301382030"><para id="eip-id1170307721449">-271</para></solution>
+        </exercise>
+        <exercise id="id1165820325041">
+          <problem id="oo-id1165820249146">
+            <para id="id1165819654201">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>756</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>003</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12" "." "756" - "15" "." "003"} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1170297411739"><para id="eip-id1170298432994">-2.247</para></solution>
+        </exercise>
+        <exercise id="id1165823674623">
+          <problem id="oo-id1165829831996">
+            <para id="id1165822181383"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>31</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>89</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>44</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>17</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "31" "." "89" - "44" "." "17"} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1170295325145"><para id="eip-id1170305063478">-76.06</para></solution>
+        </exercise>
+        <exercise id="id1165819366484">
+          <problem id="oo-id1165819433285">
+            <para id="id1744410">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mrow><m:mtext>797</m:mtext><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>615</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 0 "." "797" -  \(  - 0 "." "615" \) } {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+<solution id="eip-id2868617"><para id="eip-id7294430">-0.182</para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1165819571251"><title>Exercises </title><para id="id1165820801623">For the following 18 problems, perform each subtraction. Use a calculator to check each result.</para>
+      <exercise id="id1165818237969">
+        <problem id="oo-id1165826401288">
+          <para id="id1165828791110">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8-3} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164924083546"><para id="eip-id4882578"> 5</para></solution>
+      </exercise>
+      <exercise id="id1165819725422">
+        <problem id="oo-id1165825266436">
+          <para id="id2877284">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12"-7} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165822120996">
+        <problem id="oo-id1165824706500">
+          <para id="id1165825550656">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5-6} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164917400680"><para id="eip-id1164917222195">-1</para></solution>
+      </exercise>
+      <exercise id="id1165828623045">
+        <problem id="oo-id1165818449556">
+          <para id="id1165821977695">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>14</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>30</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"14"-"30"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165824082292">
+        <problem id="oo-id1165819425883">
+          <para id="id1165819661247">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-6-8} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164920823145"><para id="eip-id1164930361621">-14</para></solution>
+      </exercise>
+      <exercise id="id1165818160654">
+        <problem id="oo-id1165836316519">
+          <para id="id1165822651861">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-1-"12"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165818248322"><problem id="oo-id2171102">
+          <para id="id3065368"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-5- left (-3 right )} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1164917836560"><para id="eip-id1164923897667"> -2</para></solution>
+      </exercise>
+      <exercise id="id1165821532486">
+        <problem id="oo-id1165818648349">
+          <para id="id1165841225392">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>11</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-"11"- left (-8 right )} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165819574322">
+        <problem id="oo-id1165838738235">
+          <para id="id1165821606224">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0-6} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164948181717"><para id="eip-id1164918009616">-6</para></solution>
+      </exercise>
+      <exercise id="id1165818253285">
+        <problem id="oo-id1165829987885">
+          <para id="id1165819774735">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0-"15"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165827755466">
+        <problem id="oo-id1165817789567">
+          <para id="id2907435">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0- left (-7 right )} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164920688962"><para id="eip-id1164922945368"> 7</para></solution>
+      </exercise>
+      <exercise id="id1165822352549">
+        <problem id="oo-id1165817620438">
+          <para id="id1165822338898">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0- left (-"10" right )} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165819623671">
+        <problem id="oo-id1165821980711">
+          <para id="id1165839172409">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>67</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>38</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"67"-"38"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164917265569"><para id="eip-id1164916491390"> 29</para></solution>
+      </exercise>
+      <exercise id="id1165820905059">
+        <problem id="oo-id1165828624751">
+          <para id="id1165824451878"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>142</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>85</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"142"-"85"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165820536951">
+        <problem id="oo-id1165818575926">
+          <para id="id1165837456406">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>816</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>1140</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"816"-"1140"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164922329533"><para id="eip-id1164922329534">-324</para></solution>
+      </exercise>
+      <exercise id="id1165824388664">
+        <problem id="oo-id1165822132480">
+          <para id="id1165830342976">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>105</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>421</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"105"-"421"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165839044708">
+        <problem id="oo-id1165822247457">
+          <para id="id1165824254514">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>550</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>121</m:mtext></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-"550"- left (-"121" right )} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1164944792249"><para id="eip-id5198781">-429</para></solution>
+      </exercise>
+      <exercise id="id1165818105835">
+        <problem id="oo-id1165837617944">
+          <para id="id1165838549098">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>016</m:mtext><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mtext>001</m:mtext></m:mrow></m:mfenced></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-"15" "." "016"- left (4 "." "001" right )} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <para id="id1165827768330">For the following 4 problems, perform the indicated operations.</para>
+      <exercise id="id1165820294806">
+        <problem id="oo-id1165820108066">
+          <para id="id1165821638543">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>26</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>52</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-"26"+7-"52"} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id4082270"><para id="eip-id1164932070655">-71</para></solution>
+      </exercise>
+      <exercise id="id1165825353621">
+        <problem id="oo-id1165829617756">
+          <para id="id1165828500496">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>21</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-"15"-"21"- left (-2 right )} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165818119734">
+        <problem id="oo-id1165827796917">
+          <para id="id1165838982686"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>104</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>216</m:mtext></m:mrow></m:mfenced></m:mrow><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>52</m:mtext></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-"104"- left (-"216" right )- left (-"52" right )} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164944649378"><para id="eip-id1164944649379">164</para></solution>
+      </exercise>
+      <exercise id="id1165817736960">
+        <problem id="oo-id1165819740833">
+          <para id="id1165821749026"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mrow><m:mtext>012</m:mtext><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>111</m:mtext></m:mrow></m:mfenced></m:mrow><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>035</m:mtext></m:mrow></m:mfenced></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-0 "." "012"- left (-0 "." "111" right )- left (0 "." "035" right )} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165818404454">
+        <problem id="oo-id1165840995210">
+          <para id="id1165827592043">When a particular machine is operating properly, its meter will read 34. If a broken bearing in the machine causes the meter reading to drop by 45 units, what is the meter reading?</para>
+        </problem>
+<solution id="eip-id1164916530716"><para id="eip-id1164920885746">-11</para></solution>
+      </exercise>
+     
+      <exercise id="id4125457">
+        <problem id="oo-id1165820344332">
+          <para id="id1165825662045">The low temperature today in Denver was 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-4°} {}</m:annotation></m:semantics></m:math>F and the high was 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>42</m:mtext></m:mrow><m:mi>°</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{-"42"°} {}</m:annotation></m:semantics></m:math>F. What is the temperature difference?</para>
+        </problem>
+      </exercise>
+      <section id="id1165818262642">
+        <title>Exercises for Review</title>
+        <exercise id="id1165820115076">
+          <problem id="oo-id1165827482448">
+            <para id="id1165817659257">(<link document="m34958"/>) Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>16</m:mtext><m:mtext>.</m:mtext><m:mtext>02</m:mtext><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16" "." "02" {  {1}  over  {5} } } {}</m:annotation></m:semantics></m:math> to a decimal. </para>
+          </problem>
+<solution id="eip-id1164920629942"><para id="eip-id1164920727841">16.022</para></solution>
+        </exercise>
+        <exercise id="id1165824650941">
+          <problem id="oo-id1165818208817">
+            <para id="id1165825046263">(<link document="m34963"/>) Find 4.01 of 6.2.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1165822962972">
+          <problem id="oo-id1165821517073">
+            <para id="id1165818124684">(<link document="m34983"/>) Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"16"} } } {}</m:annotation></m:semantics></m:math> to a percent. </para>
+          </problem>
+<solution id="eip-id1164920425730"><para id="eip-id1164920639192">31.25%</para></solution>
+        </exercise>
+        <exercise id="id1165824433477">
+          <problem id="oo-id1165820328539">
+            <para id="id1165825183094">(<link document="m35013"/>) Use the distributive property to compute the product: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>15</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>82</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15" cdot "82"} {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1165822782698">
+          <problem id="oo-id1165821182044">
+            <para id="id1165819464772">(<link document="m35031"/>) Find the sum: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>16</m:mtext><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>21</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16"+ \( -"21" \) } {}</m:annotation></m:semantics></m:math>. </para>
+          </problem>
+<solution id="eip-id1164920534472"><para id="eip-id1164920534473">-5</para></solution>
+        </exercise>
+      </section>
+    </section>
+  </content>
+</document>

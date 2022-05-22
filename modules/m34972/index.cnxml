@@ -1,0 +1,55 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Summary of Key Concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34972</md:content-id>
+  <md:title>Summary of Key Concepts</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module reviews the key concepts from the chapter "Decimals."</md:abstract>
+  <md:uuid>951d56cb-cf11-45f8-8789-a6c4fc4e667b</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1164559953561"><title>Summary of Key Concepts</title><para id="id1164559894644"><title>Decimal Point (<link document="m34957"/>)</title> A <emphasis effect="italics">decimal point</emphasis> is a point that separates the units digit from the tenths digit.</para>
+      <para id="id1164561037455"><title>Decimal or Decimal Fraction (<link document="m34957"/>)</title> A <emphasis effect="italics">decimal fraction</emphasis> is a fraction whose denominator is a power of ten.</para>
+      <para id="id1164553509739"><title>Converting a Decimal to a Fraction (<link document="m34958"/>)</title> Decimals can be converted to fractions by saying the decimal number in words, then writing what was said.</para>
+      <para id="id1164553245546"><title>Rounding Decimals (<link document="m34959"/>)</title> Decimals are rounded in much the same way whole numbers are rounded.</para>
+      <para id="id1164556023583"><title>Addition and Subtraction of Decimals (<link document="m34960"/>)</title> To add or subtract decimals,
+<list id="id6507869" list-type="enumerated" number-style="arabic">
+        <item>Align the numbers vertically so that the decimal points line up under each other and the corresponding decimal positions are in the same column.</item>
+        <item>Add or subtract the numbers as if they were whole numbers.</item>
+        <item>Place a decimal point in the resulting sum directly under the other decimal points.</item>
+      </list>
+</para>
+      
+      <para id="id1164558057280"><title>Multiplication of Decimals (<link document="m34963"/>)</title> To multiply two decimals,
+<list id="id1164562405178" list-type="enumerated" number-style="arabic">
+        <item>Multiply the numbers as if they were whole numbers.</item>
+        <item>Find the sum of the number of decimal places in the factors.</item>
+        <item>The number of decimal places in the product is the number found in step 2.</item>
+      </list>
+</para>
+      
+      <para id="id1164559988506"><title>Multiplying Decimals by Powers of 10 (<link document="m34963"/>)</title>  To multiply a decimal by a power of 10, move the decimal point to the right as many places as there are zeros in the power of ten. Add zeros if necessary.</para>
+      <para id="id1164554169059"><title>Division of a Decimal by a Decimal (<link document="m34968"/>)</title> To divide a decimal by a nonzero decimal,
+<list id="id1164556309811" list-type="enumerated" number-style="arabic">
+        <item>Convert the divisor to a whole number by moving the decimal point until it appears to the right of the divisor's last digit.</item>
+        <item>Move the decimal point of the dividend to the right the same number of digits it was moved in the divisor.</item>
+        <item>Proceed to divide.</item>
+        <item>Locate the decimal in the answer by bringing it straight up from the dividend.</item>
+      </list>
+</para>
+      
+      <para id="id3341014"><title>Dividing Decimals by Powers of 10 (<link document="m34968"/>)</title> To divide a decimal by a power of 10, move the decimal point to the left as many places as there are zeros in the power of ten. Add zeros if necessary.</para>
+      <para id="id1164556316789"><title>Terminating Divisions (<link document="m34969"/>)</title>  A <emphasis effect="italics">terminating division</emphasis> is a division in which the quotient terminates after several divisions. Terminating divisions are also called exact divisions.</para>
+      <para id="id6429750"><title>Nonterminating Divisions (<link document="m34969"/>)</title> A <emphasis effect="italics">nonterminating division</emphasis> is a division that, regardless of how far it is carried out, always has a remainder. Nonterminating divisions are also called nonexact divi­sions.</para>
+      <para id="id1164555838410"><title>Converting Fractions to Decimals (<link document="m34970"/>)</title> A fraction can be converted to a decimal by dividing the numerator by the denomi­nator.</para>
+    </section>
+  </content>
+</document>

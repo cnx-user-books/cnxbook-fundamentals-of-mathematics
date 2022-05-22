@@ -1,0 +1,350 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Some Interesting Facts about Division </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34866</md:content-id>
+  <md:title>Some Interesting Facts about Division </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses interesting facts about diving whole numbers. By the end of the module students should be able to recognize a whole number that is divisible by 2, 3, 4, 5, 6, 8, 9, or 10.</md:abstract>
+  <md:uuid>f520c326-e25b-4749-8833-31922bd95aee</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1169271836933">
+      <title>Section Overview</title>
+      <list id="id1169259575531" list-type="bulleted">
+        <item>Division by 2, 3, 4, and 5</item>
+        <item>Division by 6, 8, 9, and 10</item>
+      </list>
+      <para id="id7938600">Quite often, we are able to determine if a whole number is divisible by another whole number just by observing some simple facts about the number. Some of these facts are listed in this section.</para>
+    </section>
+    <section id="id1169265771169">
+      <title>Division by 2, 3, 4, and 5</title>
+      <para id="id1169259710441"><title>Division by 2</title>A whole number is <term>divisible by 2</term> if its <emphasis effect="italics">last digit</emphasis> is 0, 2, 4, 6, or 8.<newline/><newline/>
+The numbers 80, 112, 64, 326, and 1,008 are all divisible by 2 since the last digit of each is 0, 2, 4, 6, or 8, respectively.<newline/>
+<newline/>
+The numbers 85 and 731 are <emphasis effect="italics">not</emphasis> divisible by 2.</para>
+      
+      
+      <para id="id1169261629573"><title>Division by 3</title>A whole number is <term>divisible by 3</term> if the <emphasis effect="italics">sum of its digits</emphasis> is divisible by 3.
+<newline/>
+<newline/>
+The number 432 is divisible by 3 since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4+5+2=9} {}</m:annotation></m:semantics></m:math> and 9 is divisible by 3. 
+<newline/>
+<newline/>
+<m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>432</m:mtext>
+                      <m:mo stretchy="false">÷</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext>144</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"432" div 3="144"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      <newline/>
+<newline/>
+The number 25 is <emphasis effect="italics">not</emphasis> divisible by 3 since
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2+5=7} {}</m:annotation></m:semantics></m:math>, and 7 is not divisible by 3.</para>
+      
+      
+      
+      <para id="id1169266559945"><title>Division by 4</title>A whole number is <term>divisible by 4</term> if its <emphasis effect="italics">last two digits</emphasis> form a number that is divisible by 4.
+<newline count="2"/>
+The number 31,048 is divisible by 4 since the last two digits, 4 and 8, form a number, 48, that is divisible by 4.
+<newline count="2"/>
+<m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>31048</m:mtext>
+                      <m:mo stretchy="false">÷</m:mo>
+                      <m:mn>4</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext>7262</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"31048" div 4="7262"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      <newline count="2"/>
+The number 137 is not divisible by 4 since 37 is not divisible by 4.</para>
+      
+      
+      
+      <para id="id1169263769152"><title>Division by 5</title>A whole number is <term>divisible by 5</term> if its <emphasis effect="italics">last digit</emphasis> is 0 or 5.</para>
+      <section id="id1169275053077"><title>Sample Set A</title><example id="eip-id1169324249890">
+        <para id="id1169261471805">The numbers 65, 110, 8,030, and 16,955 are each divisible by 5 since the last digit of each is 0 or 5.</para>
+      </example></section>
+      <section id="id1169261990739">
+        <title>Practice Set A</title>
+        <para id="id8580336">State which of the following whole numbers are divisible by 2, 3, 4, or 5. A number may be divisible by more than one number.</para>
+        <exercise id="id1169270060514"><problem id="oo-id1169262147261">
+            <para id="id1169261522901">26   </para>
+          </problem>
+        <solution id="eip-id1167244365295"><para id="eip-id1167248026514">2</para></solution></exercise>
+        <exercise id="id1169273199810"><problem id="oo-id1169259351464">
+            <para id="id1169261062589">81  </para>
+          </problem>
+        <solution id="eip-id1171903453028"><para id="eip-id1171902724866">3</para></solution></exercise>
+        <exercise id="id1169271464042"><problem id="oo-id1169262853656">
+            <para id="id2032806">51  </para>
+          </problem>
+        <solution id="eip-id1169435360756"><para id="eip-id1169436439543">3</para></solution></exercise>
+        <exercise id="id1169260185376"><problem id="oo-id1169264892570">
+            <para id="id1169269831684">385  </para>
+          </problem>
+        <solution id="eip-id1171903906038"><para id="eip-id1171904221405">5</para></solution></exercise>
+        <exercise id="id1169261220114"><problem id="oo-id5543317">
+            <para id="id1169262215495">6,112  </para>
+          </problem>
+        <solution id="eip-id1167244594788"><para id="eip-id1167268239629">2, 4</para></solution></exercise>
+        <exercise id="id1169259887657"><problem id="oo-id1169268954620">
+            <para id="id1169259688136">470  </para>
+          </problem>
+        <solution id="eip-id1168039150200"><para id="eip-id6370781">2, 5</para></solution></exercise>
+        <exercise id="id1169271773298"><problem id="oo-id3800984">
+            <para id="id1169262122960">113,154 </para>
+          </problem>
+        <solution id="eip-id1167256449013"><para id="eip-id1167245568432">2, 3</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1169268252693"><title>Division by 6, 8, 9, 10</title><para id="id1169266771961"><title>Division by 6</title>A number is <term>divisible by 6</term> if it is divisible by <emphasis effect="italics">both</emphasis> 2 and 3.<newline count="2"/>
+The number 234 is divisible by 2 since its last digit is 4. It is also divisible by 3 since
+      <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2+3+4=9} {}</m:annotation></m:semantics></m:math> and 9 is divisible by 3. Therefore, 234 is divisible by 6.<newline count="2"/>
+      The number 6,532 is <emphasis effect="italics">not</emphasis> divisible by 6. Although its last digit is 2, making it divisible by 2, the sum of its digits, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6+5+3+2="16"} {}</m:annotation></m:semantics></m:math>, and 16 is not divisible by 3.</para>
+
+
+      <para id="id1169264015745"><title>Division by 8</title>A whole number is <term>divisible by 8</term> if its <emphasis effect="italics">last three digits</emphasis> form a number that is divisible by 8.<newline/>
+      The number 4,000 is divisible by 8 since 000 is divisible by 8. <newline/>
+The number 13,128 is divisible by 8 since 128 is divisible by 8.<newline/>
+      The number 1,170 is <emphasis effect="italics">not</emphasis> divisible by 8 since 170 is not divisible by 8.</para>
+      <para id="id1169261663542"><title>Division by 9</title>A whole number is <term>divisible by 9</term> if the <emphasis effect="italics">sum of its digits</emphasis> is divisible by 9.<newline/>
+      The number 702 is divisible by 9 since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">+</m:mo><m:mn>0</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7+0+2} {}</m:annotation></m:semantics></m:math> is divisible by 9.<newline/>
+      The number 6588 is divisible by 9 since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>27</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6+5+8+8="27"} {}</m:annotation></m:semantics></m:math> is divisible by 9.<newline/>
+      The number 14,123 is <emphasis effect="italics">not</emphasis> divisible by 9 since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1+4+1+2+3="11"} {}</m:annotation></m:semantics></m:math> is not divisi­ble by 9.</para>
+
+      <para id="id3681084"><title>Division by 10</title>  A Whole number is <term>divisible by 10</term> if its <emphasis effect="italics">last digit</emphasis> is 0.</para>
+
+      <section id="id1169266020378"><title>Sample Set B</title><example id="eip-id1172297653648">
+        <para id="id1169262603018">The numbers 30, 170, 16,240, and 865,000 are all divisible by 10.</para>
+      </example></section>
+      <section id="id1169260330250">
+        <title>Practice Set B</title>
+        <para id="id1169260212779">State which of the following whole numbers are divisible 6, 8, 9, or 10. Some numbers may be divisible by more than one number.</para>
+        <exercise id="id1169259686416"><problem id="oo-id7050829">
+            <para id="id1169268137663">900  </para>
+          </problem>
+        <solution id="eip-id1165271129684"><para id="eip-id2288219">6, 9, 10</para></solution></exercise>
+        <exercise id="id1169260612541"><problem id="oo-id1169260310113">
+            <para id="id4185574">6,402</para>
+          </problem>
+        <solution id="eip-id1171970295406"><para id="eip-id1171970093440">6</para></solution></exercise>
+        <exercise id="id1169260640500"><problem id="oo-id1169261337528">
+            <para id="id1169259496076">6,660</para>
+          </problem>
+        <solution id="eip-id1168038234850"><para id="eip-id6243967">6, 9, 10</para></solution></exercise>
+        <exercise id="id1169262069054"><problem id="oo-id8582592">
+            <para id="id1169261102050">55,116  </para>
+          </problem>
+        <solution id="eip-id1169438720143"><para id="eip-id1169436385928">6, 9</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1169260422899">
+      <title>Exercises</title>
+      <para id="id1665156">For the following 30 problems, specify if the whole number is divisible by 2, 3, 4, 5, 6, 8, 9, or 10. Write "none" if the number is not divisible by any digit other than 1. Some numbers may be divisible by more than one number.</para>
+      <exercise id="id1169267572425"><problem id="oo-id1169265754489">
+          <para id="id1169260250800">48</para>
+        </problem>
+      <solution id="eip-id1169310270629"><para id="eip-id1169306490658">2, 3, 4, 6, 8</para></solution></exercise>
+      <exercise id="id1169261556390">
+        <problem id="oo-id1169263283210">
+          <para id="id1169262201492">85  </para>
+        </problem>
+      </exercise>
+      <exercise id="id1169261896398"><problem id="oo-id5591177">
+          <para id="id1169261666184">30</para>
+        </problem>
+      <solution id="eip-id1167245664327"><para id="eip-id1167256349792">2, 3, 5, 6, 10</para></solution></exercise>
+      <exercise id="id8580830">
+        <problem id="oo-id1169260133573">
+          <para id="id1169266895748">83</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169262333110"><problem id="oo-id1169260219695">
+          <para id="id1169265891573">98</para>
+        </problem>
+      <solution id="eip-id1169440769241"><para id="eip-id1169436421882">2</para></solution></exercise>
+      <exercise id="id8709203">
+        <problem id="oo-id1169262463496">
+          <para id="id1169260385435">972 </para>
+        </problem>
+      </exercise>
+      <exercise id="id1169260588287"><problem id="oo-id4309519">
+          <para id="id1169269186760">892</para>
+        </problem>
+      <solution id="eip-id1165665791295"><para id="eip-id1165657665593">2, 4</para></solution></exercise>
+      <exercise id="id1169263484946">
+        <problem id="oo-id1169259922508">
+          <para id="id1169259894105">676</para>
+        </problem>
+      </exercise>
+      <exercise id="id6179174"><problem id="oo-id1169265739172">
+          <para id="id4229466">903</para>
+        </problem>
+      <solution id="eip-id1167450416314"><para id="eip-id1167449080359">3</para></solution></exercise>
+      <exercise id="id1169271076878">
+        <problem id="oo-id8774390">
+          <para id="id1169259693966">800 </para>
+        </problem>
+      </exercise>
+      <exercise id="id1169259204636"><problem id="oo-id1169261470566">
+          <para id="id1169260046058">223</para>
+        </problem>
+      <solution id="eip-id3316216"><para id="eip-id1167268100029">none</para></solution></exercise>
+      <exercise id="id1169259925411">
+        <problem id="oo-id1169259687115">
+          <para id="id1169260871972">836    </para>
+        </problem>
+      </exercise>
+      <exercise id="id1169259411787"><problem id="oo-id1563661">
+          <para id="id1169262057030">665</para>
+        </problem>
+      <solution id="eip-id1171904109324"><para id="eip-id1171903504803">5</para></solution></exercise>
+      <exercise id="id1169267203396">
+        <problem id="oo-id1169265688579">
+          <para id="id1169267164541">4,381 </para>
+        </problem>
+      </exercise>
+      <exercise id="id1169273233471"><problem id="oo-id1169269527788">
+          <para id="id1169263527781">2,195</para>
+        </problem>
+      <solution id="eip-id3917859"><para id="eip-id1169309632606">5</para></solution></exercise>
+      <exercise id="id1169259886912">
+        <problem id="oo-id1169261296871">
+          <para id="id3919598">2,544</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169259757731"><problem id="oo-id1169260625803">
+          <para id="id1169259887572">5,172</para>
+        </problem>
+      <solution id="eip-id1166648050732"><para id="eip-id1166646091162">2, 3, 4, 6</para></solution></exercise>
+      <exercise id="id1169266923304">
+        <problem id="oo-id7923499">
+          <para id="id1169259919804">1,307</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169268497312"><problem id="oo-id1169259915270">
+          <para id="id1169265378715">1,050</para>
+        </problem>
+      <solution id="eip-id1167245421308"><para id="eip-id1167257702000">2, 3, 5, 6, 10</para></solution></exercise>
+      <exercise id="id1169272186458">
+        <problem id="oo-id8608156">
+          <para id="id1169266812915">3,898 </para>
+        </problem>
+      </exercise>
+      <exercise id="id1169273327599"><problem id="oo-id1169268087997">
+          <para id="id1693105">1,621</para>
+        </problem>
+      <solution id="eip-id1171903395752"><para id="eip-id1171904709627">none</para></solution></exercise>
+      <exercise id="id1169271080713">
+        <problem id="oo-id1169262698995">
+          <para id="id1169259442831">27,808</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169260330381"><problem id="oo-id1169270026630">
+          <para id="id1169261865748">45,764</para>
+        </problem>
+      <solution id="eip-id1171980161184"><para id="eip-id1171969993293">2, 4</para></solution></exercise>
+      <exercise id="id1169261438804">
+        <problem id="oo-id1169268935648">
+          <para id="id1169266414484">49,198</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169261114407"><problem id="oo-id1169266000539">
+          <para id="id1169264379470">296,122</para>
+        </problem>
+      <solution id="eip-id1169318099595"><para id="eip-id1169304746577">2</para></solution></exercise>
+      <exercise id="id1169267017984">
+        <problem id="oo-id1169273190720">
+          <para id="id1169259992489">178,656</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169262084818"><problem id="oo-id1169265275092">
+          <para id="id1169262230523">5,102,417</para>
+        </problem>
+      <solution id="eip-id1168346522484"><para id="eip-id1168349396257">none</para></solution></exercise>
+      <exercise id="id5009433">
+        <problem id="oo-id1169259582796">
+          <para id="id7032851">16,990,792 </para>
+        </problem>
+      </exercise>
+      <exercise id="id1169261471160"><problem id="oo-id1169264401155">
+          <para id="id1169271470456">620,157,659</para>
+        </problem>
+      <solution id="eip-id1172461406265"><para id="eip-id1172461369630">none</para></solution></exercise>
+      <exercise id="id1169260271262">
+        <problem id="oo-id1169260238179">
+          <para id="id8077762">457,687,705   </para>
+        </problem>
+      </exercise>
+  
+    <section id="id1169268047319"><title>Exercises for Review</title><exercise id="id1169268367915"><problem id="oo-id1169271099307">
+          <para id="id1169262306474">(<link document="m34795"/>) In the number 412, how many tens are there?</para>
+        </problem>
+      <solution id="eip-id1168038166847"><para id="eip-id1168038220349">1</para></solution></exercise>
+      <exercise id="id1169261792566">
+        <problem id="oo-id1169261438123">
+          <para id="id1169275158403">(<link document="m34784"/>) Subtract 613 from 810.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169262064242"><problem id="oo-id7082305">
+          <para id="id1169262216589">(<link document="m34802"/>) Add 35, 16, and 7 in two different ways. 
+</para>
+        </problem>
+      <solution id="eip-id1166648682906"><para id="eip-id1166644022925"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>35</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>16</m:mtext></m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>51</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>58</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "35"+"16" \) +7="51"+7="58"} {}</m:annotation></m:semantics></m:math><newline/><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>35</m:mtext><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mtext>16</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>35</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>23</m:mtext></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>58</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"35"+ \( "16"+7 \) ="35"+"23"="58"} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id8594956">
+        <problem id="oo-id1169266177002">
+          <para id="id1169260402791">(<link document="m34864"/>) Find the quotient 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>35</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"35" div 0} {}</m:annotation></m:semantics></m:math>, if it exists.</para>
+        </problem>
+      </exercise>
+
+<exercise id="eip-id1167264240741"><problem id="eip-id1167259416438">
+      <para id="id1169265420528">(<link document="m34865"/>) Find the quotient. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>3654</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>42</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"3654" div "42"} {}</m:annotation></m:semantics></m:math>.</para></problem>
+
+<solution id="eip-id1167256713950"><para id="eip-id1167244578026">87</para></solution></exercise>
+    </section>
+</section>
+  </content>
+</document>

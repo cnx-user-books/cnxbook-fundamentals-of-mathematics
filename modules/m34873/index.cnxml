@@ -1,0 +1,882 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Prime Factorization of Natural Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34873</md:content-id>
+  <md:title>Prime Factorization of Natural Numbers</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses prime factorization of natural numbers. By the end of the module students should be able to determine the factors of a whole number, distinguish between prime and composite numbers, be familiar with the fundamental principle of arithmetic and find the prime factorization of a whole number.</md:abstract>
+  <md:uuid>47c0b93f-7c08-4f60-9066-8055746bdacc</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1167273801350">
+      <title>Section Overview</title>
+      <list id="id1167245779122" list-type="bulleted">
+        <item>Factors</item>
+        <item>Determining the Factors of a Whole Number</item>
+        <item>Prime and Composite Numbers</item>
+        <item>The Fundamental Principle of Arithmetic</item>
+        <item>The Prime Factorization of a Natural Number</item>
+      </list>
+    </section>
+    <section id="id1167257689729">
+      <title>Factors</title>
+      <para id="id1167256073737">From observations made in the process of multiplication, we have seen that </para>
+      
+      <para id="eip-649"><m:math>
+          <m:semantics>
+            <m:mrow>
+             
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mtext>factor</m:mtext>
+                    <m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mtext/>
+                    </m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mtext>factor</m:mtext>
+                    <m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext> product</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ \( "factor" \)   cdot "  " \( "factor" \)  =" product"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1167267475471"><title>Factors, Product</title>The two numbers being multiplied are the <term>factors</term> and the result of the multiplication is the <term>product</term>. Now, using our knowledge of division, we can see that a first number is a factor of a second number if the first number divides into the second number a whole number of times (without a remainder).</para>
+      <para id="id1167266109912"><title>One Number as a Factor of Another</title>A first number is a <term>factor</term> of a second number if the first number divides into the second number a whole number of times (without a remainder).</para>
+      <para id="id1167268252586">We show this in the following examples:</para>
+      
+      <example id="eip-67"><para id="eip-106">
+  3 is a factor of 27, since
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>27</m:mtext><m:mi>÷</m:mi><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"27"÷3=9} {}</m:annotation></m:semantics></m:math>, or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>9</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>27</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 cdot 9="27"} {}</m:annotation></m:semantics></m:math>.
+</para>
+</example>
+      <example id="eip-861"><para id="eip-656">
+ 7 is a factor of 56, since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>56</m:mtext><m:mi>÷</m:mi><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"56"÷7=8} {}</m:annotation></m:semantics></m:math>, or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>56</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 cdot 8="56"} {}</m:annotation></m:semantics></m:math>.
+</para>
+</example><example id="eip-483"><para id="eip-989">
+  4 is <emphasis effect="italics">not</emphasis> a factor of 10, since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mi>÷</m:mi><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">=</m:mo><m:mn>2R2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10"÷4=2R2} {}</m:annotation></m:semantics></m:math>. (There is a remainder.)
+</para>
+</example>
+    </section>
+    <section id="id1167276593316">
+      <title>Determining the Factors of a Whole Number</title>
+      <para id="id4523218">We can use the tests for divisibility from <link document="m34866"/> to determine <emphasis effect="italics">all</emphasis> the factors of a whole number.</para>
+      <section id="id1167283835878"><title>Sample Set A</title><example id="eip-id1172412150123">
+<para id="id1167248732330">Find all the factors of 24.</para>
+
+
+        <para id="eip-id1167196317605"><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>Try 1:</m:mtext></m:mtd><m:mtd columnalign="left">  
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>24</m:mtext><m:mi>÷</m:mi><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">=</m:mo><m:mtext>24</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"24"÷1="24"} {}</m:annotation></m:semantics></m:mtd><m:mtd columnalign="left"><m:mtext>1 and 24 are factors</m:mtext></m:mtd></m:mtr>
+        
+<m:mtr><m:mtd columnalign="left"><m:mtext>Try 2:</m:mtext></m:mtd><m:mtd columnalign="left"><m:mtext>24 is even, so 24 is divisible by 2.</m:mtext></m:mtd><m:mtd/></m:mtr>
+        
+<m:mtr><m:mtd/><m:mtd columnalign="left"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>24</m:mtext><m:mi>÷</m:mi><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"24"÷2="12"} {}</m:annotation></m:semantics></m:mtd><m:mtd columnalign="left"><m:mtext>2 and 12 are factors</m:mtext></m:mtd></m:mtr>
+        
+<m:mtr><m:mtd columnalign="left"><m:mtext>Try 3:</m:mtext></m:mtd>  
+<m:mtd columnalign="left"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2+4=6} {}</m:annotation></m:semantics><m:mspace width="8px"/><m:mtext>and 6 is divisible by 3, so 24 is divisible by 3.</m:mtext></m:mtd><m:mtd/></m:mtr>
+        
+<m:mtr><m:mtd/><m:mtd columnalign="left"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>24</m:mtext><m:mi>÷</m:mi><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"24"÷3=8} {}</m:annotation></m:semantics></m:mtd><m:mtd columnalign="left"><m:mtext>3 and 8 are factors</m:mtext></m:mtd></m:mtr>
+        
+<m:mtr><m:mtd columnalign="left"><m:mtext>Try 4:</m:mtext></m:mtd>
+<m:mtd columnalign="left"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>24</m:mtext><m:mi>÷</m:mi><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">=</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"24"÷4=6} {}</m:annotation></m:semantics></m:mtd><m:mtd columnalign="left"><m:mtext>4 and 6 are factors</m:mtext></m:mtd></m:mtr>
+        
+<m:mtr><m:mtd columnalign="left"><m:mtext>Try 5:</m:mtext></m:mtd>  
+<m:mtd columnalign="left"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>24</m:mtext><m:mi>÷</m:mi><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">=</m:mo><m:mn>4R4</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"24"÷5=4R4} {}</m:annotation></m:semantics></m:mtd><m:mtd columnalign="left"><m:mn>5</m:mn><m:mtext> is not a factor.</m:mtext></m:mtd></m:mtr></m:mtable></m:math></para>
+
+
+        <para id="id1167245225665">The next number to try is 6, but we already have that 6 is a factor. Once we come upon a factor that we already have discovered, we can stop.</para>
+        <para id="id1167245771176">All the whole number factors of 24 are 1, 2, 3, 4, 6, 8, 12, and 24.</para>
+      </example></section>
+      <section id="id1167251019940">
+        <title>Practice Set A</title>
+        <para id="id1167254213143">Find all the factors of each of the following numbers.</para>
+        <exercise id="id1167267357279"><problem id="oo-id1425723">
+            <para id="id1167256064457">6  </para>
+          </problem>
+        <solution id="eip-id1172438622842"><para id="eip-id1172418204072">1, 2, 3, 6 </para></solution></exercise>
+        <exercise id="id1167245653604"><problem id="oo-id1167273664395">
+            <para id="id6911269">12</para>
+          </problem>
+        <solution id="eip-id1172398268740"><para id="eip-id1172399536244">1, 2, 3, 4, 6, 12</para></solution></exercise>
+        <exercise id="id1167246053504"><problem id="oo-id1167279116687">
+            <para id="id1167258153569">18</para>
+          </problem>
+        <solution id="eip-id1167193907361"><para id="eip-id1167213127972">1, 2, 3, 6, 9, 18</para></solution></exercise>
+        <exercise id="id1167266090678"><problem id="oo-id1167246055203">
+            <para id="id1167259590672">5</para>
+          </problem>
+        <solution id="eip-id1165632499536"><para id="eip-id1165627124851">1, 5</para></solution></exercise>
+        <exercise id="id1167247093947"><problem id="oo-id1167249281104">
+            <para id="id1167244471722">10</para>
+          </problem>
+        <solution id="eip-id1167196831294"><para id="eip-id1167204852826">1, 2, 5, 10</para></solution></exercise>
+        <exercise id="id1167245928140"><problem id="oo-id1167257218832">
+            <para id="id1167246418204">33</para>
+          </problem>
+        <solution id="eip-id1172249429527"><para id="eip-id1172257355368">1, 3, 11, 33</para></solution></exercise>
+        <exercise id="id1167247176606"><problem id="oo-id1167259755301">
+            <para id="id1167273494917">19</para>
+          </problem>
+        <solution id="eip-id1171253082786"><para id="eip-id1382247">1, 19</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1167246479003">
+      <title>Prime and Composite Numbers</title>
+      <para id="id1167246158594">Notice that the only factors of 7 are 1 and 7 itself, and that the only factors of 3 are 1 and 3 itself. However, the number 8 has the factors 1, 2, 4, and 8, and the number 10 has the factors 1, 2, 5, and 10. Thus, we can see that a whole number can have only <emphasis effect="italics">two</emphasis> factors (itself and 1) and another whole number can have <emphasis effect="italics">several</emphasis> factors.</para>
+      <para id="id1167264760546">We can use this observation to make a useful classification for whole numbers: prime numbers and composite numbers.</para>
+      <para id="id1167248912028"><title>Prime Number</title>A whole number (greater than one) whose only factors are itself and 1 is called a <term>prime number</term>.</para>
+      
+      <para id="id1167249666114"><title>The Number 1 is <emphasis effect="italics">Not</emphasis> a Prime Number</title>The first seven prime numbers are 2, 3, 5, 7, 11, 13, and 17. Notice that the whole number 1 is <emphasis effect="italics">not</emphasis> considered to be a prime number, and the whole number 2 is the <emphasis effect="italics">first prime</emphasis> and the <emphasis effect="italics">only even prime</emphasis> number.</para>
+      <para id="id1167246861783"><title>Composite Number</title>A whole number composed of factors other than itself and 1 is called a <term>compos­ite number</term>. Composite numbers are not prime numbers.</para>
+      <para id="id2195395">Some composite numbers are 4, 6, 8, 9, 10, 12, and 15.</para>
+      <section id="id1167257349498"><title>Sample Set B</title><para id="id1167274977211">Determine which whole numbers are prime and which are composite.</para>
+<example id="eip-id1168508509332">
+        <para id="id1167257719577">39. Since 3 divides into 39, the number 39 is composite: <m:math><m:mrow><m:mi>39</m:mi><m:mo>÷</m:mo><m:mi>3</m:mi><m:mo>=</m:mo><m:mi>13</m:mi></m:mrow></m:math></para>
+</example>
+<example id="eip-id1168508840611">
+        <para id="id1167266686518">47. A few division trials will assure us that 47 is only divisible by 1 and 47. Therefore, 47 is prime.</para>
+      </example></section>
+      <section id="id1167245620446">
+        <title>Practice Set B</title>
+        <para id="id1167246508835">Determine which of the following whole numbers are prime and which are composite. </para>
+        <exercise id="id1167255232986"><problem id="oo-id1167249073713">
+            <para id="id1167268423912">3  </para>
+          </problem>
+        <solution id="eip-id2407538"><para id="eip-id1168041568112">prime</para></solution></exercise>
+        <exercise id="id1167249411818"><problem id="oo-id1167250940301">
+            <para id="id1167248408858">16   </para>
+          </problem>
+        <solution id="eip-id1172474244446"><para id="eip-id1172455183018">composite</para></solution></exercise>
+        <exercise id="id1167265880334"><problem id="oo-id1167264337060">
+            <para id="id1167249508990">21</para>
+          </problem>
+        <solution id="eip-id1168517991083"><para id="eip-id1168509018841">composite</para></solution></exercise>
+        <exercise id="id1167255844890"><problem id="oo-id1167246936274">
+            <para id="id1167248910868">35</para>
+          </problem>
+<solution id="eip-id1172249824762"><para id="eip-id1172247070586">composite</para></solution></exercise>
+        <exercise id="id1167265627433"><problem id="oo-id1167260979647">
+            <para id="id1167279231555">47</para>
+          </problem>
+        <solution id="eip-id1171228447350"><para id="eip-id1171224789688">prime</para></solution></exercise>
+        <exercise id="id1167252096812"><problem id="oo-id1167265129105">
+            <para id="id1167245054034">29</para>
+          </problem>
+        <solution id="eip-id1168516263068"><para id="eip-id1168512767046">prime</para></solution></exercise>
+        <exercise id="id1167259700438"><problem id="oo-id1167259718395">
+            <para id="id1167260699574">101</para>
+          </problem>
+        <solution id="eip-id7435383"><para id="eip-id1168680080742">prime</para></solution></exercise>
+        <exercise id="id1167256083195"><problem id="oo-id8780193">
+            <para id="id1167265267486">51</para>
+          </problem>
+        <solution id="eip-id1172250137519"><para id="eip-id1172257441524">composite</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1167249252320">
+      <title>The Fundamental Principle of Arithmetic</title>
+      <para id="id1167257017571">Prime numbers are very useful in the study of mathematics. We will see how they are used in subsequent sections. We now state the Fundamental Principle of Arithmetic.</para>
+      <para id="id1167257138555"><title>Fundamental Principle of Arithmetic</title>Except for the order of the factors, every natural number other than 1 can be factored in one and only one way as a product of prime numbers.</para>
+      <para id="id1167248518426"><title>Prime Factorization</title>When a number is factored so that all its factors are prime numbers. the factori­zation is called the <term>prime factorization</term> of the number.</para>
+      <para id="id1167257193497">The technique of prime factorization is illustrated in the following three examples.</para>
+      <list id="id1167248961661" list-type="enumerated" number-style="arabic"><item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10"=5 cdot 2} {}</m:annotation></m:semantics></m:math>. Both 2 and 5 are primes. Therefore, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 cdot 5} {}</m:annotation></m:semantics></m:math> is the prime factorization of 10.</item>
+        <item>11. The number 11 is a prime number. Prime factorization applies only to composite numbers. Thus, 11 has <emphasis effect="italics">no</emphasis> prime factorization.</item>
+        <item><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>60</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>30</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"60"=2 cdot "30"} {}</m:annotation></m:semantics></m:math>. The number 30 is not prime: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>30</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"30"=2 cdot "15"} {}</m:annotation></m:semantics></m:math>.</item>
+      </list>
+      
+      <para id="eip-849"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>60</m:mtext>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mtext>15</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"60"=2 cdot 2 cdot "15"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1167259593340">The number 15 is not prime: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>15</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15"=3 cdot 5} {}</m:annotation></m:semantics></m:math></para>
+      
+      <para id="eip-692"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>60</m:mtext>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"60"=2 cdot 2 cdot 3 cdot 5} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1167249074409">We'll use exponents.</para>
+      
+      <para id="eip-780"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>60</m:mtext>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mn>2</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"60"=2 rSup { size 8{2} }  cdot 3 cdot 5} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1167255817294">The numbers 2, 3, and 5 are each prime. Therefore, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{2} }  cdot 3 cdot 5} {}</m:annotation></m:semantics></m:math> is the prime factorization of 60.</para>
+    </section>
+    <section id="id1167258558418">
+      <title>The Prime Factorization of a Natural Number</title>
+      <para id="id1167251139401">The following method provides a way of finding the prime factorization of a natural number.</para>
+      
+      <list id="id1167273922247" list-type="enumerated" number-style="arabic"><title>The Method of Finding the Prime Factorization of a Natural Number</title><item>Divide the number repeatedly by the smallest prime number that will divide into it a whole number of times (without a remainder).</item>
+        <item>When the prime number used in step 1 no longer divides into the given number without a remainder, repeat the division process with the next largest prime that divides the given number.</item>
+        <item>Continue this process until the quotient is smaller than the divisor.</item>
+        <item>The prime factorization of the given number is the <emphasis effect="italics">product</emphasis> of all these prime divisors. If the number has no prime divisors, it is a prime number.</item>
+      </list>
+      
+      <para id="id1167244692619">We may be able to use some of the tests for divisibility we studied in <link document="m34866"/> to help find the primes that divide the given number.</para>
+      <section id="id1167248503500"><title>Sample Set C</title><example id="eip-id1168033312778"><para id="id1167267893709">Find the prime factorization of 60.</para>
+        <para id="id1918302">Since the last digit of 60 is 0, which is even, 60 is divisible by 2. We will repeatedly divide by 2 until we no longer can. We shall divide as follows:</para>
+        <para id="id1167256012699"><media id="id1167251085272_media" alt=""><image mime-type="image/png" src="../../media/graphics2-0716.png" id="id1167251085272__onlineimage" width="100" print-width=".75in"/></media><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left"><m:mtext>30 is divisible by 2 again. </m:mtext></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>15 is not divisible by 2, but it is divisible by 3, the next prime.</m:mtext> </m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>5 is not divisble by 3, but it is divisible by 5, the next prime.</m:mtext></m:mtd></m:mtr>
+</m:mtable></m:math></para>
+        
+        
+        <para id="id1167268258928">The quotient 1 is finally smaller than the divisor 5, and the prime factorization of 60 is the product of these prime divisors.</para>
+        
+        <para id="eip-575"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>60</m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                            <m:mo stretchy="false">⋅</m:mo>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"60"=2 cdot 2 cdot 3 cdot 5} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para><para id="id1167249410070">We use exponents when possible.</para>
+        <para id="id1167259378622">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>60</m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mn>2</m:mn>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"60"=2 rSup { size 8{2} }  cdot 3 cdot 5} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+</example>
+<example id="eip-id1168041492543">
+        <para id="id1167263787053">Find the prime factorization of 441.</para>
+        <para id="id1167265802748">441 is not divisible by 2 since its last digit is not divisible by 2. </para>
+        <para id="id1167268131795">441 is divisible by 3 since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4+4+1=9} {}</m:annotation></m:semantics></m:math> and 9 is divisible by 3.</para>
+        <para id="id1167259362283"><media id="id1167251129075_media" alt="441 divided by 3 is 147. 147 divided by 3 is 49. 49 divided by 7 is 7. 7 divided by 7 is 1."><image mime-type="image/png" src="../../media/graphics3-e773.png" id="id1167251129075__onlineimage" width="100" print-width=".75in"/></media><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left"><m:mtext>147 is divisible by </m:mtext>
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>12</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 \( 1+4+7="12" \) } {}</m:annotation></m:semantics><m:mo>.</m:mo></m:mtd></m:mtr>
+<m:mtr><m:mtd columnalign="left"><m:mtext>49 is not divisible by 3, nor is it divisible by 5. It is divisible by 7.</m:mtext></m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        
+        <para id="id1167262007388">The quotient 1 is finally smaller than the divisor 7, and the prime factorization of 441 is the product of these prime divisors.</para>
+        
+        <para id="eip-631"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>441</m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                            <m:mo stretchy="false">⋅</m:mo>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>7</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>7</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"441"=3 cdot 3 cdot 7 cdot 7} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para><para id="id1167268124546">Use exponents.</para>
+        
+        <para id="eip-482"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>441</m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:msup>
+                          <m:mn>3</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:msup>
+                          <m:mn>7</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"441"=3 rSup { size 8{2} }  cdot 7 rSup { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+</example>
+<example id="eip-id1168032791276">
+<para id="id1167251113587">Find the prime factorization of 31.</para>
+        
+
+<para id="eip-id1170080427172"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>31 is not divisible by 2</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Its last digit is not even</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>31</m:mi><m:mo>÷</m:mo><m:mi>2</m:mi><m:mo>=</m:mo><m:mi>15</m:mi><m:mtext>R1</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>The quotient, 15, is larger than the divisor, 3. Continue.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>31 is not divisible by 3</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>The digits 3 + 1 = 4, and 4 is not divisible by 3.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>31</m:mi><m:mo>÷</m:mo><m:mi>3</m:mi><m:mo>=</m:mo><m:mi>10</m:mi><m:mtext>R1</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>The quotient, 10, is larger than the divisor, 3. Continue.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>31 is not divisible by 5</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>The last digit of 31 is not 0 or 5.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>31</m:mi><m:mo>÷</m:mo><m:mi>5</m:mi><m:mo>=</m:mo><m:mi>6</m:mi><m:mtext>R1</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>The quotient, 6, is larger than the divisor, 5. Continue.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>31 is not divisible by 7.</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Divide by 7.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>31</m:mi><m:mo>÷</m:mo><m:mi>7</m:mi><m:mo>=</m:mo><m:mi>4</m:mi><m:mtext>R1</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left" rowalign="top">
+</m:mtd>
+<m:mtd columnalign="left" rowalign="top">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>The quotient, 4, is smaller than the divisor, 7.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left"> <m:mtext>We can stop the process and conclude that 31 is a prime number.</m:mtext></m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+
+        <para id="id1167245478493">The number 31 is a prime number</para>
+
+        </example>
+      </section>
+      <section id="id1167264286874">
+        <title>Practice Set C</title>
+        <para id="id1167248440502">Find the prime factorization of each whole number.</para>
+        <exercise id="id1167261054462"><problem id="oo-id1167252622232">
+            <para id="id1167259995349">22   
+</para>
+          </problem>
+        <solution id="eip-id5889154"><para id="eip-id4777079"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>22</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"22"=2 cdot "11"} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167245059812"><problem id="oo-id1167260654601">
+            <para id="id1167269333876">40   
+</para>
+          </problem>
+        <solution id="eip-id8112692"><para id="eip-id1168681791355"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>40</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"40"=2 rSup { size 8{3} }  cdot 5} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167245507070"><problem id="oo-id1167259002034">
+            <para id="id1167246308410">48   
+</para>
+          </problem>
+        <solution id="eip-id1172250600639"><para id="eip-id1172247439036"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>48</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"48"=2 rSup { size 8{4} }  cdot 3} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167274084861"><problem id="oo-id1167258955908">
+            <para id="id1167256036269">63   
+</para>
+          </problem>
+        <solution id="eip-id1172451516094"><para id="eip-id1172452162342"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>63</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"63"=3 rSup { size 8{2} }  cdot 7} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167249472872"><problem id="oo-id1167244489539">
+            <para id="id1167254228675">945   
+</para>
+          </problem>
+        <solution id="eip-id1164342443977"><para id="eip-id1164347577394"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>945</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"945"=3 rSup { size 8{3} }  cdot 5 cdot 7} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167250350627"><problem id="oo-id1167266249180">
+            <para id="id1167246965508">1,617   
+</para>
+          </problem>
+        <solution id="eip-id1170076070998"><para id="eip-id1170076470683"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>1617</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1617"=3 cdot 7 rSup { size 8{2} }  cdot "11"} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167251275777"><problem id="oo-id1167245361966">
+            <para id="id1167259647027">17</para>
+          </problem>
+        <solution id="eip-id6979023"><para id="eip-id1168680257023">17 is prime</para></solution></exercise>
+        <exercise id="id1167251295321"><problem id="oo-id1167257716387">
+            <para id="id1167246643055">61</para>
+          </problem>
+        <solution id="eip-id1168513308460"><para id="eip-id1168507429082">61 is prime</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1167256108889">
+      <title>Exercises</title>
+      <para id="id1167257250165">For the following problems, determine the missing factor(s). </para>
+      <exercise id="id1167257831392"><problem id="oo-id1167250681305">
+          <para id="id1167264704305"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>14</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"14"=7 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>    </para>
+        </problem>
+<solution id="eip-id1165635844147"><para id="eip-id1165625159185">2</para></solution>
+      </exercise>
+      <exercise id="id1167273101733">
+        <problem id="oo-id1459691">
+          <para id="id1167257319905"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"20"=4 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167258682658"><problem id="oo-id1167259738347">
+          <para id="id1167266170328"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>36</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"36"=9 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>    </para>
+        </problem>
+      <solution id="eip-id1172248444590"><para id="eip-id1172248890220">4</para></solution></exercise>
+      <exercise id="id1167267301763"><problem id="oo-id1167250132917">
+          <para id="id1167250036296"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>42</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>21</m:mtext><m:mo stretchy="false">⋅</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"42"="21"} {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/></para>
+        </problem>
+      </exercise>
+      <exercise id="id8372365"><problem id="oo-id1167281971365">
+          <para id="id1167259543970"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>44</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"44"=4 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/></para>
+        </problem>
+      <solution id="eip-id1172301646757"><para id="eip-id1172286441197">11</para></solution></exercise>
+      <exercise id="id1167250708370"><problem id="oo-id1167249259032">
+          <para id="id1167259601808"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>38</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"38"=2 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167270396889"><problem id="oo-id1167249685272">
+          <para id="id1167257535449"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>18</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"18"=3 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
+<m:math><m:mrow><m:mo>⋅</m:mo></m:mrow></m:math><space effect="underline" count="10"/>
+</para>
+        </problem>
+      <solution id="eip-id1168517726896"><para id="eip-id1168508895535"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 cdot 2} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1167245376740"><problem id="oo-id1167265842468">
+          <para id="id1167258284467"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>28</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"28"=2 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
+<m:math><m:mrow><m:mo>⋅</m:mo></m:mrow></m:math><space effect="underline" count="10"/></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167246426116"><problem id="oo-id1167274036409">
+          <para id="id1167259858328"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>300</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"300"=2 cdot 5 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
+<m:math><m:mrow><m:mo>⋅</m:mo></m:mrow></m:math><space effect="underline" count="10"/>
+</para>
+        </problem>
+      <solution id="eip-id1165623681995"><para id="eip-id1165629834518"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 cdot 3 cdot 5} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1167244520047"><problem id="oo-id1167251983258">
+          <para id="id1167260005647"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>840</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"840"=2 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
+<m:math><m:mrow><m:mo>⋅</m:mo></m:mrow></m:math><space effect="underline" count="10"/>
+<m:math><m:mrow><m:mo>⋅</m:mo></m:mrow></m:math><space effect="underline" count="10"/></para>
+        </problem>
+      </exercise>
+      
+      <para id="id1167250343616">For the following problems, find all the factors of each of the numbers.</para>
+      <exercise id="id1167273525428"><problem id="oo-id1167250125318">
+          <para id="id1167273770034"> 16        </para>
+        </problem>
+      <solution id="eip-id8064787"><para id="eip-id4897984"> 1, 2, 4, 8, 16</para></solution></exercise>
+      <exercise id="id1167277538343"><problem id="oo-id1167244984388">
+          <para id="id1167244983602">22</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167250286576"><problem id="oo-id1167274739651">
+          <para id="id1167244638921">56      </para>
+        </problem>
+      <solution id="eip-id1166070490824"><para id="eip-id1166075420879">1, 2, 4, 7, 8, 14, 28, 56</para></solution></exercise>
+      <exercise id="id1167249528969"><problem id="oo-id1167257477958">
+          <para id="id1167253043495">105</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167272998995"><problem id="oo-id1167259589860">
+          <para id="id1167260004653">220</para>
+        </problem>
+      <solution id="eip-id1171231232587"><para id="eip-id1171223374573">1, 2, 4, 5, 10, 11, 20, 22, 44, 55, 110, 220</para></solution></exercise>
+      <exercise id="id3761997"><problem id="oo-id1167244720169">
+          <para id="id1167266452942">15</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167248513070"><problem id="oo-id1167266406504">
+          <para id="id1167244505431">32</para>
+        </problem>
+      <solution id="eip-id1172425087589"><para id="eip-id1172402902382">1, 2, 4, 8, 16, 32</para></solution></exercise>
+      <exercise id="id1167245995193"><problem id="oo-id1167251042905">
+          <para id="id1167249616482">80</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167259746003"><problem id="oo-id1167258381898">
+          <para id="id1167256437427">142</para>
+        </problem>
+      <solution id="eip-id1172414281685"><para id="eip-id1172398900305">1, 2, 71, 142</para></solution></exercise>
+      <exercise id="id1167257049930"><problem id="oo-id1167249122379">
+          <para id="id1167250173363">218</para>
+        </problem>
+      </exercise>
+      <para id="id1167265374659">For the following problems, determine which of the whole numbers are prime and which are composite.</para>
+      
+      <exercise id="id1167268637350"><problem id="oo-id1167245548828">
+          <para id="id1167243850672">23</para>
+        </problem>
+      <solution id="eip-id1171254420065"><para id="eip-id1171228700690">prime</para></solution></exercise>
+      <exercise id="id1167250291815"><problem id="oo-id1167249522248">
+          <para id="id1167267904107">25</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167258383417"><problem id="oo-id1167270362625">
+          <para id="id1167252065509">27</para>
+        </problem>
+      <solution id="eip-id1164338613576"><para id="eip-id1164337073124">composite</para></solution></exercise>
+      <exercise id="id1167266102878"><problem id="oo-id1167256427414">
+          <para id="id1167258328428">2</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167249982742"><problem id="oo-id1167251292189">
+          <para id="id1167258951954">3</para>
+        </problem>
+      <solution id="eip-id1172303589310"><para id="eip-id1172295858943">prime</para></solution></exercise>
+      <exercise id="id1617157"><problem id="oo-id1167274764047">
+          <para id="id1167244730394">5</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167273946954"><problem id="oo-id1167267915149">
+          <para id="id1167278858862">7</para>
+        </problem>
+      <solution id="eip-id1166057393380"><para id="eip-id1166050957849">prime</para></solution></exercise>
+      <exercise id="id1167266664536"><problem id="oo-id1167266409313">
+          <para id="id1167261055042">9</para>
+        </problem>
+      </exercise>
+      <exercise id="id4511184"><problem id="oo-id1167249980521">
+          <para id="id1167246526525">11</para>
+        </problem>
+      <solution id="eip-id8876772"><para id="eip-id1172462613900">prime</para></solution></exercise>
+      <exercise id="id1167248553403"><problem id="oo-id1167245898946">
+          <para id="id1167258576582">34</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167284733639"><problem id="oo-id1167258141273">
+          <para id="id1167245866604">55</para>
+        </problem>
+      <solution id="eip-id1171233104533"><para id="eip-id1387007">composite (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 cdot "11"} {}</m:annotation></m:semantics></m:math>)</para></solution></exercise>
+      <exercise id="id1167250219157"><problem id="oo-id1167266645682">
+          <para id="id1167265877011">63</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167250886280"><problem id="oo-id1167246026340">
+          <para id="id1167277737509">1,044</para>
+        </problem>
+      <solution id="eip-id1168508685177"><para id="eip-id1168508880627">composite</para></solution></exercise>
+      <exercise id="id1167256025655"><problem id="oo-id1167257973626">
+          <para id="id1167246016578">924</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167257205445"><problem id="oo-id1167244736020">
+          <para id="id4343508">339</para>
+        </problem>
+      <solution id="eip-id1170071107478"><para id="eip-id1170083091534">composite</para></solution></exercise>
+      <exercise id="id1167268128441"><problem id="oo-id1167256739451">
+          <para id="id1167244669983">103</para>
+        </problem>
+      </exercise>
+      <exercise id="id1458186"><problem id="oo-id1167250921564">
+          <para id="id1167257273461">209</para>
+        </problem>
+      <solution id="eip-id1172399018029"><para id="eip-id1172427669958">composite (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>19</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11" cdot "19"} {}</m:annotation></m:semantics></m:math>)</para></solution></exercise>
+      <exercise id="id1167262926227"><problem id="oo-id1167265478220">
+          <para id="id1167251266157">667</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167256376502"><problem id="oo-id1167259704498">
+          <para id="id1167264116841">4,575</para>
+        </problem>
+      <solution id="eip-id1172257202682"><para id="eip-id8297440">composite</para></solution></exercise>
+      <exercise id="id1540304"><problem id="oo-id1167260603184">
+          <para id="id1167248750501">119</para>
+        </problem>
+      </exercise>
+      <para id="id1167252053768">For the following problems, find the prime factorization of each of the whole numbers.</para>
+      <exercise id="id1167248694026"><problem id="oo-id1167256339415">
+          <para id="id1167267605493">26    
+</para>
+        </problem>
+      <solution id="eip-id1172415847197"><para id="eip-id1172412974338"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>13</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 cdot "13"} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1167248529736"><problem id="oo-id6689800">
+          <para id="id1167250678869">38</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167245327571"><problem id="oo-id1167276332330">
+          <para id="id1167267306048">54</para>
+        </problem>
+      <solution id="eip-id5379497"><para id="eip-id1168962033507"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 cdot 3 rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1167256925253"><problem id="oo-id1167246526177">
+          <para id="id1167244646403">62</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167259369525"><problem id="oo-id1167249995389">
+          <para id="id1167269673191">56</para>
+        </problem>
+      <solution id="eip-id1172298331998"><para id="eip-id1172287783279"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{3} }  cdot 7} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1167266109854"><problem id="oo-id1167263874698">
+          <para id="id1167257905461">176</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167245242090"><problem id="oo-id1167260672219">
+          <para id="id1167249536653">480</para>
+        </problem>
+      <solution id="eip-id8552581"><para id="eip-id8586689"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{5} }  cdot 3 cdot 5} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1167245608637"><problem id="oo-id1167266099099">
+          <para id="id1167256626337">819</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167264253406"><problem id="oo-id1167256921541">
+          <para id="id1167256069793">2,025</para>
+        </problem>
+      <solution id="eip-id1168963665823"><para id="eip-id8973528"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 rSup { size 8{4} }  cdot 5 rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1167263733371"><problem id="oo-id1167259427913">
+          <para id="id1167276618560">148,225</para>
+        </problem>
+      </exercise>
+    
+    <section id="id1167257878818">
+      <title>Exercises For Review</title>
+      <exercise id="id1167258640420"><problem id="oo-id1167254741313">
+          <para id="id1167265212716">(<link document="m34780"/>) Round 26,584 to the nearest ten.</para>
+        </problem>
+      <solution id="eip-id7816206"><para id="eip-id1171240381176">26,580</para></solution></exercise>
+      <exercise id="id1167263759701">
+        <problem id="oo-id1167268110717">
+          <para id="id1167257070613">(<link document="m34784"/>) How much bigger is 106 than 79?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1227252"><problem id="oo-id1167263889484">
+          <para id="id1167265800652">(<link document="m34864"/>) True or false? Zero divided by any nonzero whole number is zero.</para>
+        </problem>
+      <solution id="eip-id1168508063571"><para id="eip-id1168513129811">true</para></solution></exercise>
+      <exercise id="id1167272018330">
+        <problem id="oo-id1167258721566">
+          <para id="id1167266532869">(<link document="m34865"/>) Find the quotient. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>584</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>126</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10","584" div "126"} {}</m:annotation></m:semantics></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167257675977"><problem id="oo-id1167273061142">
+          <para id="id1167260328209">(<link document="m34872"/>) Find the value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msqrt><m:mtext>121</m:mtext></m:msqrt><m:mo stretchy="false">−</m:mo><m:msqrt><m:mtext>81</m:mtext></m:msqrt></m:mrow><m:mo stretchy="false">+</m:mo><m:mrow><m:msup><m:mn>6</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"121"}  -  sqrt {"81"} +6 rSup { size 8{2} }  div 3} {}</m:annotation></m:semantics></m:math>.</para>
+        </problem>
+      <solution id="eip-id1165630695190"><para id="eip-id1165630009365">14</para></solution></exercise>
+    </section>
+</section>
+  </content>
+</document>

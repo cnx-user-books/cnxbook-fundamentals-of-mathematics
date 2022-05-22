@@ -1,0 +1,427 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34795</md:content-id>
+  <md:title>Whole Numbers</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses many of aspects of whole numbers, including the Hindu-Arabic numeration system, the base ten positional number system, and the graphing of whole numbers. By the end of this module students should be able to: know the difference between numbers and numerals, know why our number system is called the Hindu-Arabic numeration system, understand the base ten positional number system, and identify and graph whole numbers.</md:abstract>
+  <md:uuid>fe91f434-bd10-49d4-9606-15578c41aa65</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1170265116504">
+      <title>Section Overview</title>
+      <list id="id1170258853194" list-type="bulleted">
+        <item>Numbers and Numerals</item>
+        <item>The Hindu-Arabic Numeration System</item>
+        <item>The Base Ten Positional Number System</item>
+        <item>Whole Numbers</item>
+        <item>Graphing Whole Numbers</item>
+      </list>
+    </section>
+    <section id="id1170258518491">
+      <title>Numbers and Numerals</title>
+      <para id="id1170272528462">We begin our study of introductory mathematics by examining its most basic building block, the <term>number</term>.</para>
+      <para id="id1170246780099"><title>Number</title>A <term>number</term> is a concept. It exists only in the mind.</para>
+      <para id="id1170251611876">The earliest concept of a number was a thought that allowed people to mentally picture the size of some collection of objects. To write down the number being conceptualized, a <term>numeral</term> is used.</para>
+      <para id="id1170265452295"><title>Numeral</title>A <term>numeral</term> is a symbol that represents a number.</para>
+      <para id="id1170253301150">In common usage today we do not distinguish between a number and a numeral. In our study of introductory mathematics, we will follow this common usage.</para><section id="eip-379"><title>Sample Set A</title><para id="id1170261501434">The following are numerals. In each case, the first represents the number four, the second repre­sents the number one hundred twenty-three, and the third, the number one thousand five. These numbers are represented in different ways.</para>
+<list id="eip-id1166729227435"><item>Hindu-Arabic numerals
+<newline/>
+      4, 123, 1005</item>
+
+      <item>Roman numerals
+<newline/>
+      IV, CXXIII, MV</item>
+      <item>Egyptian numerals
+<newline/>
+      
+        <media id="id1170250752290_media" alt="Three diagrams in succession, each with a label below. Three short vertical lines, labeled strokes. One swirled line next to two horseshoe-shaped lines, next to three short vertical lines, labeled coiled rope, heel bones, and strokes. One flower-shaped drawing next to five vertical lines, labeled, lotus flower and strokes.">
+          <image mime-type="image/png" src="../../media/graphics1-2f15.png" id="id1170250752290__onlineimage" height="75" print-width="3in"/>
+        </media>
+</item>
+       </list>
+    </section><section id="eip-759"><title>Practice Set A</title><exercise id="id1170273272793"><problem id="oo-id1170253059920">
+          <para id="id1170263101575">Do the phrases "four," "one hundred twenty-three," and "one thousand five" qualify as numerals? Yes or no?</para>
+        </problem>
+      <solution id="eip-id1165152505093">
+<para id="eip-id1165142490336">
+Yes. Letters are symbols. Taken as a collection (a written word), they represent a number.</para>
+</solution></exercise>
+      
+    </section>
+    </section>
+    
+    
+    <section id="id1170250971440">
+      <title>The Hindu-Arabic Numeration System</title>
+      <para id="id1170264533944"><title>Hindu-Arabic Numeration System</title>Our society uses the <term>Hindu-Arabic numeration system</term>. This system of numer­ation began shortly before the third century when the Hindus invented the nu­merals</para>
+      <para id="id1170281622732">0 1 2 3 4 5 6 7 8 9</para>
+      <para id="id1170261931272"><title>Leonardo Fibonacci</title>About a thousand years later, in the thirteenth century, a mathematician named Leonardo Fibonacci of Pisa introduced the system into Europe. It was then popu­larized by the Arabs. Thus, the name, Hindu-Arabic numeration system.</para>
+    </section>
+    <section id="id1170262047634"><title>The Base Ten Positional Number System</title><para id="id1170255014515"><title>Digits</title>The Hindu-Arabic numerals 0 1 2 3 4 5 6 7 8 9 are called <term>digits</term>. We can form any number in the number system by selecting one or more digits and placing them in certain positions. Each position has a particular value. The Hindu mathematician who devised the system about A.D. 500 stated that "from place to place each is ten times the preceding." </para>
+      <para id="id1170252084679"><title>Base Ten Positional Systems</title>It is for this reason that our number system is called a <term>positional</term> number system with <term>base ten</term>.</para>
+      <para id="id1170252823615"><title>Commas</title>When numbers are composed of more than three digits, <term>commas</term> are sometimes used to separate the digits into groups of three. </para>
+      <para id="id1170261525662"><title>Periods</title>These groups of three are called <term>periods</term> and they greatly simplify reading numbers.</para>
+      <para id="id1170271700122">In the Hindu-Arabic numeration system, a period has a value assigned to each or its three positions, and the values are the same for each period. The position values are
+   <newline/>
+        <media id="id1170255064076_media" alt="Three segments, labeled from left to right, hundreds, tens, and ones. Below the segments is a larger label, period.">
+          <image mime-type="image/png" src="../../media/graphics2-9622.png" id="id1170255064076__onlineimage" height="146" width="136" print-width="1in"/>
+        </media>
+      </para>
+
+      <para id="id1170262916732">Thus, each period contains a position for the values of one, ten, and hundred. Notice that, in looking from right to left, the value of each position is ten times the preceding. Each period has a particular name.<newline/>
+        <media id="id1170273818040_media" alt="A series of groups of three segments, separated by commas. The segments are labeled, from left to right, trillions, billions, millions, thousands, and units.">
+          <image mime-type="image/png" src="../../media/graphics3-2322.png" id="id1170273818040__onlineimage" height="69" width="599" print-width="5in"/>
+        </media>
+      </para>
+      <para id="id1170281074479">As we continue from right to left, there are more periods. The five periods listed above are the most common, and in our study of introductory mathematics, they are sufficient.</para>
+      <para id="id1170259745223">The following diagram illustrates our positional number system to trillions. (There are, to be sure, other periods.)<newline/>
+      <media id="id1170271355978_media" alt="A series of groups of three segments, separated by commas. The groups of segments are labeled, from left to right, trillions, billions, millions, thousands, and units. Each segment in the group of three has a label. From left to right, in each group, the segments are labeled hundreds, tens, and ones.">
+          <image mime-type="image/png" src="../../media/graphics4-97da.png" id="id1170271355978__onlineimage" height="135" width="600" print-width="5in"/>
+        </media>
+      </para>
+      <para id="id1170253915638">In our positional number system, the <term>value of a digit</term> is determined by its <emphasis effect="italics">position</emphasis> in the number.</para><section id="eip-967"><title>Sample Set B</title><example id="eip-id1164349041008">
+      <para id="id1170266370417">Find the value of 6 in the number 7,261.</para>
+      <para id="id1170259886958">Since 6 is in the tens position of the units period, its value is 6 tens.</para>
+      <para id="id1170265038526">6 tens = 60</para></example>
+<example id="eip-id1164341473767">
+      <para id="id1170253270905">Find the value of 9 in the number 86,932,106,005.</para>
+      <para id="id1170261560114">Since 9 is in the hundreds position of the millions period, its value is 9 hundred millions. </para>
+      <para id="id1170264069535">9 hundred millions = 9 hundred million</para></example>
+<example id="eip-id2707011">
+      <para id="id1170273681199">Find the value of 2 in the number 102,001.</para>
+      <para id="id1170281203446">Since 2 is in the ones position of the thousands period, its value is 2 one thousands. </para>
+      <para id="id1170271499252">2 one thousands = 2 thousand</para>
+    </example></section><section id="eip-150"><title>Practice Set B</title><exercise id="id1170253217385"><problem id="oo-id1170253348996">
+          <para id="id1170269799698">Find the value of 5 in the number 65,000.</para>
+        </problem>
+      <solution id="eip-id1166717473646">
+<para id="eip-id1166717798527">
+five thousand 
+</para>
+</solution></exercise>
+      
+      <exercise id="id1170251372571"><problem id="oo-id1170247863774">
+          <para id="id1170281109986">Find the value of 4 in the number 439,997,007,010.</para>
+        </problem>
+      <solution id="eip-id1171916317223">
+<para id="eip-id1171948503898">four hundred billion</para>
+</solution></exercise>
+      
+      <exercise id="id1170252663472"><problem id="oo-id1170255247053">
+          <para id="id1170261514874">Find the value of 0 in the number 108.</para>
+        </problem>
+      <solution id="eip-id1164711467843">
+<para id="eip-id1164711516422">zero tens, or zero</para>
+</solution></exercise>
+      
+    </section>
+    </section>
+    
+    
+    
+    <section id="id1170258236430"><title>Whole Numbers </title><para id="id1170264123754"><title>Whole Numbers  </title>Numbers that are formed using only the digits<newline/>
+      0 1 2 3 4 5 6 7 8 9 <newline/>
+      are called <term>whole numbers</term>. They are <newline/>
+      0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, …</para>
+      <para id="id1170272952741">The three dots at the end mean "and so on in this same pattern."</para>
+    </section>
+    <section id="id1170257073436">
+      <title>Graphing Whole Numbers</title>
+      <para id="id1170248124574"><title>Number Line</title>Whole numbers may be visualized by constructing a <term>number line</term>. To construct a number line, we simply draw a straight line and choose any point on the line and label it 0.</para>
+      <para id="id1170270412126"><title>Origin</title>This point is called the <term>origin</term>. We then choose some convenient length, and moving to the right, mark off consecutive intervals (parts) along the line starting at 0. We label each new interval endpoint with the next whole number.
+<newline/>
+<media id="id1170255328663_media" alt="A line with arrows on the left and right. Along the line are evenly spaced dashes, numbered from 0 to 10 from the left to the right of the line.">
+          <image mime-type="image/png" src="../../media/graphics5-c373.png" id="id1170255328663__onlineimage" height="56" width="343" print-width="3in"/>
+        </media></para>
+      
+      <para id="id1170258543901"><title>Graphing</title>We can visually display a whole number by drawing a closed circle at the point labeled with that whole number. Another phrase for visually displaying a whole number is graphing the whole number. The word graph means to "visually display."
+</para><section id="eip-875"><title>Sample Set C</title><example id="eip-id1168182568634"><para id="id1170267922143">Graph the following whole numbers: 3, 5, 9.</para>
+         <media id="id1170254122001_media" alt="A number line from 0 to 11. There are dots on top of the dashes labeled, 3, 5, and 9.">
+          <image mime-type="image/png" src="../../media/graphics6-3a81.png" id="id1170254122001__onlineimage" height="48" width="393" print-width="3in"/>
+        </media>
+      </example>
+<example id="eip-id1168182954463"><para id="id1170251241230">Specify the whole numbers that are graphed on the following number line. The break in the number line indicates that we are aware of the whole numbers between 0 and 106, and 107 and 872, but we are not listing them due to space limitations.</para>
+        <media id="id1170273516617_media" alt="A number line from 0 to 874, with not all whole numbers between 0 and 874 displayed. There are two jagged breaks in the line, one between 0 and 106, and one between 107 and 872. There are dots on the dashes for 0, 106, 873, and 874.">
+          <image mime-type="image/png" src="../../media/graphics7-f712.png" id="id1170273516617__onlineimage" height="78" width="380" print-width="3in"/>
+        </media>
+
+      <para id="id1170262904436">The numbers that have been graphed are </para>
+      <para id="id1170252967802">0, 106, 873, 874</para>
+    </example></section><section id="eip-980"><title>Practice Set C</title><exercise id="id1170262979039"><problem id="oo-id1170274743441">
+          <para id="id1170273991802">Graph the following whole numbers: 46, 47, 48, 325, 327.<newline/>
+          <media id="id1170271062418_media" alt="A line with arrows on the left and right. The line has two jagged breaks.">
+            <image mime-type="image/png" src="../../media/graphics8-5603.png" id="id1170271062418__onlineimage" height="45" print-width="3in"/>
+          </media>
+</para>
+</problem>      
+<solution id="eip-id1164297339670">
+<para id="eip-id1164287699972"><media id="id1170254075114_media" alt="A number line from 0 to 327, with not all whole numbers between 0 and 327 displayed. There are two jagged breaks in the line, one between 0 and 46, and one between 48 and 325. There are dots on the dashes for 46, 47, 48, 325, and 327.">
+            <image mime-type="image/png" src="../../media/graphics9-86d8.png" id="id1170254075114__onlineimage" height="65" print-width="3in"/>
+          </media>
+</para>
+</solution>
+</exercise>
+      <exercise id="id1170249867949">
+        <problem id="oo-id1170250909026">
+          <para id="id1170280107920">Specify the whole numbers that are graphed on the following number line.
+<newline/>        
+
+        <media id="id1170251022955_media" alt="A number line between 0 and 979, with not all whole numbers between 0 and 979 displayed. There are two jagged breaks in the line, one between 6 and 112, and one between 113 and 978. There are dots on the dashes for 4, 5, 6, 113, and 978.">
+          <image mime-type="image/png" src="../../media/graphics10-e282.png" id="id1170251022955__onlineimage" height="60" width="475" print-width="4in"/>
+        </media>
+      </para>
+</problem>
+<solution id="eip-id1164302988576">
+      <para id="id1170253990452">4, 5, 6, 113, 978</para>
+</solution>
+</exercise>
+
+      <para id="id1170262603428">A <term>line</term> is composed of an endless number of points. Notice that we have labeled only some of them. As we proceed, we will discover new types of numbers and determine their location on the number line.</para>
+    </section>
+    </section>
+    
+    
+    <section id="id1170265642153"><title>Exercises</title><exercise id="id1170262892584">
+        <problem id="oo-id1170265883118">
+          <para id="id1170281294553">What is a number?</para>
+        </problem>
+<solution id="eip-id1164339816439">
+      <para id="id1170250906938">concept</para>
+</solution>
+      </exercise>
+
+      <exercise id="id1170255261959">
+        <problem id="oo-id1170261613936">
+          <para id="id1170252327152">What is a numeral?</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id1170252499218">
+        <problem id="oo-id1571527">
+          <para id="id1170254916068">Does the word "eleven" qualify as a numeral?</para>
+        </problem>
+<solution id="eip-id1164339218758">
+      <para id="id1170249488544">Yes, since it is a symbol that represents a number.</para></solution>
+      </exercise>
+
+      <exercise id="id1170275394091">
+        <problem id="oo-id1170261352051">
+          <para id="id1170253953796">How many different digits are there?</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id1170263493250">
+        <problem id="oo-id1170249855713">
+          <para id="id1170278246080">Our number system, the Hindu-Arabic number system, is a <space effect="underline" count="15"/> number system with base <space effect="underline" count="15"/>.</para>
+        </problem>
+<solution id="eip-id1164339061298">
+      <para id="id1170260977654">positional; 10</para></solution>
+      </exercise>
+
+      <exercise id="id1170262859024">
+        <problem id="oo-id1170266255742">
+          <para id="id1170254214644">Numbers composed of more than three digits are sometimes separated into groups of three by commas. These groups of three are called <space effect="underline" count="15"/>.</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id1170272704036">
+        <problem id="oo-id1170249268196">
+          <para id="id1170249972052">In our number system, each period has three values assigned to it. These values are the same for each period. From right to left, what are they?</para>
+        </problem>
+<solution id="eip-id1164340895836">
+      <para id="id1170259439242">ones, tens, hundreds</para>
+</solution>
+      </exercise>
+
+      <exercise id="id1170252159291">
+        <problem id="oo-id1983841">
+          <para id="id1170264227345">Each period has its own particular name. From right to left, what are the names of the first four?</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id1170268344106">
+        <problem id="oo-id1170273586836">
+          <para id="id1170251021563">In the number 841, how many tens are there?</para>
+        </problem>
+<solution id="eip-id1164339244586">
+      <para id="id1170258508785">4</para>
+</solution>
+      </exercise>
+
+      <exercise id="id1170285225298">
+        <problem id="oo-id1170278904463">
+          <para id="id1170254447009">In the number 3,392, how many ones are there?</para>
+        </problem>
+      </exercise>
+      
+<exercise id="id1170253283592">
+        <problem id="oo-id1170249526929">
+          <para id="id1170272618215">In the number 10,046, how many thousands are there?</para>
+        </problem>
+<solution id="eip-id1164339243678">
+      <para id="id1170253106394">0</para>
+</solution>
+      </exercise>
+
+      <exercise id="id1170272633179">
+        <problem id="oo-id1170283491376">
+          <para id="id1170274103940">In the number 779,844,205, how many ten mil­lions are there?</para>
+        </problem>
+      </exercise>
+      
+<exercise id="id1170253977808">
+        <problem id="oo-id1170250901254">
+          <para id="id1170261489136">In the number 65,021, how many hundred thousands are there?</para>
+        </problem>
+<solution id="eip-id1164339220258">
+      <para id="id1705930">0</para>
+</solution>
+      </exercise>
+      
+<para id="id1170251393853">For following problems, give the value of the indicated digit in the given number.</para>
+
+      <exercise id="id1170265028836">
+        <problem id="oo-id1170275055259">
+          <para id="id1170260491609">5 in 599</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id1170253259767">
+        <problem id="oo-id1170254679202">
+          <para id="id1170258243764">1 in 310,406</para>
+        </problem>
+<solution id="eip-id1164340160510">
+      <para id="id1170265684011">ten thousand</para>
+</solution>
+      </exercise>
+
+      <exercise id="id1170264648708">
+        <problem id="oo-id1170254886858">
+          <para id="id1170253504800">9 in 29,827</para>
+        </problem>
+      </exercise>
+      
+<exercise id="id1170265764679">
+        <problem id="oo-id1170253092706">
+          <para id="id5005009">6 in 52,561,001,100</para>
+        </problem>
+<solution id="eip-id1164339825368">
+      <para id="id1170264601217">6 ten millions = 60 million</para>
+</solution>
+      </exercise>
+      
+<exercise id="id1170253074826">
+        <problem id="oo-id1170252139513">
+          <para id="id1170248759534">Write a two-digit number that has an eight in the tens position.</para>
+        </problem>
+      </exercise>
+
+      <exercise id="id1170262068620">
+        <problem id="oo-id1170262821670">
+          <para id="id1170253497923">Write a four-digit number that has a one in the thousands position and a zero in the ones position.</para>
+        </problem>
+<solution id="eip-id1164339243129">
+      <para id="id1170261410789">1,340 (answers may vary)</para>
+</solution>
+      </exercise>
+
+      <exercise id="id1170281134971">
+        <problem id="oo-id1170255247401">
+          <para id="id1170262600180">How many two-digit whole numbers are there?</para>
+        </problem>
+      </exercise>
+      
+<exercise id="id1170273736398">
+        <problem id="oo-id1170259359098">
+          <para id="id1170281743185">How many three-digit whole numbers are there?</para>
+        </problem>
+<solution id="eip-id1164339604094">
+      <para id="id1170280981261">900</para>
+</solution>
+      </exercise>
+
+      <exercise id="id1170258168326">
+        <problem id="oo-id4636658">
+          <para id="id1170254417879">How many four-digit whole numbers are there?</para>
+        </problem>
+      </exercise>
+      
+<exercise id="id1170264338585">
+        <problem id="oo-id1170264581191">
+          <para id="id1170257083876">Is there a smallest whole number? If so, what is it?</para>
+        </problem>
+<solution id="eip-id1164339243913">
+      <para id="id1170273274608">yes; zero</para>
+</solution>
+      </exercise>
+
+      <exercise id="id1170261536725">
+        <problem id="oo-id1170265523058">
+          <para id="id1170254747800">Is there a largest whole number? If so, what is it?</para>
+        </problem>
+      </exercise>
+      
+<exercise id="id1170255410438"><problem id="oo-id1170254830419">
+          <para id="id1170265410448">Another term for "visually displaying" is <space effect="underline" count="15"/>.</para>
+        </problem>
+
+      <solution id="eip-id1170278138003"><para id="eip-id1170299502517">graphing</para></solution></exercise>
+
+      <exercise id="id1170273253066">
+        <problem id="oo-id1170273269636">
+          <para id="id1170261559592">The whole numbers can be visually displayed on a <space effect="underline" count="15"/>.</para>
+        </problem>
+      </exercise>
+      
+<exercise id="id1170273658671"><problem id="oo-id1170253503002">
+          <para id="id1493624">Graph (visually display) the following whole numbers on the number line below: 0, 1, 31, 34.</para>
+
+<para id="eip-id1164339636612"><media id="id1170282262053_media" alt="A number line from 0 to 34, with not all numbers between 0 and 34 displayed. There is a jagged break in the line between 4 and 29.">
+          <image mime-type="image/png" src="../../media/graphics11-70b7.png" id="id1170282262053__onlineimage" width="450" print-width="3in"/>
+        </media>
+</para>
+
+</problem>
+      <solution id="eip-id6910170"><para id="eip-id7346718"><media id="eip-id4458951" alt="A number line from 0 to 34, with not all whole numbers between 0 and 34 displayed. There is a jagged break in the line, between 4 and 29. There are dots on the dashes for 1, 31, and 34. "><image mime-type="image/png" src="../../media/ex33s.png" print-width="3in"/></media></para></solution></exercise>
+
+      <exercise id="id1170258612332">
+        <problem id="oo-id1170252086535">
+          <para id="id1170253200761">Construct a number line in the space provided below and graph (visually display) the following whole numbers: 84, 85, 901, 1006, 1007.</para>
+        </problem>
+      </exercise>
+      
+<exercise id="id1170258267982"><problem id="oo-id1170262022346">
+          <para id="id1170265580752">Specify, if any, the whole numbers that are graphed on the following number line.</para>
+<para id="eip-id1164349430868"><media id="id1170273386522_media" alt="A number line from 0 to 102, with not all whole numbers between 0 and 102 displayed. There are two jagged breaks in the line, one between 0 and 61, and one between 64 and 99. There are dots on the dashes for 61, 99, 100, and 102.">
+          <image mime-type="image/png" src="../../media/graphics12-eb04.png" id="id1170273386522__onlineimage" width="400" print-width="3in"/>
+        </media>
+</para>       
+
+ </problem>
+
+      <solution id="eip-id1168384583049"><para id="eip-id1168381986190">61, 99, 100, 102</para></solution></exercise>
+
+      <exercise id="id1170272207532">
+        <problem id="oo-id1170259065277">
+          <para id="id1170253385959">Specify, if any, the whole numbers that are graphed on the following number line.</para>
+<para id="id1170261408012"><media id="id1170265455021_media" alt="A number line from 0 to 87, with not all whole numbers between 0 and 87 displayed. There are three jagged breaks in the line, one between 1 and 8, one between 11 and 73, and one between 74 and 85. ">
+            <image mime-type="image/png" src="../../media/graphics13-e408.png" id="id1170265455021__onlineimage" width="400" print-width="3in"/>
+          </media>
+        
+      </para>
+        </problem>
+      
+</exercise>
+      
+    </section>
+  </content>
+</document>

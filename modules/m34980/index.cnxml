@@ -1,0 +1,566 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Ratios and Rates</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34980</md:content-id>
+  <md:title>Ratios and Rates</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses ratios and rates. By the end of the module students should be able to distinguish between denominate and pure numbers and between ratios and rates.</md:abstract>
+  <md:uuid>62b4bdbf-6674-44fc-84a2-a4c03c7fe48c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    
+    <section id="id1171541243091">
+      <title>Section Overview</title>
+      <list id="id8390538" list-type="bulleted">
+        <item>Denominate Numbers and Pure Numbers</item>
+        <item>Ratios and Rates</item>
+      </list>
+    </section>
+    <section id="id1171541184625"><title>Denominate Numbers and Pure Numbers</title><para id="id1171541440767"><title>Denominate Numbers,  Like and Unlike Denominate Numbers</title>It is often necessary or convenient to compare two quantities<term>. Denominate num­bers</term> are numbers together with some specified unit. If the units being compared are alike, the denominate numbers are called <term>like denominate numbers</term>. If units are not alike, the numbers are called <term>unlike denominate numbers</term>. Examples of denominate numbers are shown in the diagram:</para>
+      <para id="id1171542611044"><media id="id1171542611044_media" alt="8 gallons, 32 cents, and 54 miles, all labeled as the denominations.">
+          <image mime-type="image/png" src="../../media/graphics1-d965.png" id="id1171542611044__onlineimage" print-width="3.25in" width="430"/>
+        </media>
+      </para>
+      <para id="id1171548320486"><title>Pure Numbers</title>Numbers that exist purely as numbers and do <emphasis effect="italics">not</emphasis> represent amounts of quantities are called <term>pure numbers</term>. Examples of pure numbers are 8, 254, 0, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>21</m:mtext><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"21" {  {5}  over  {8} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math>, and 0.07.</para>
+      <para id="id1171550273167">Numbers can be <emphasis effect="italics">compared</emphasis> in two ways: subtraction and division.</para>
+      <para id="id1171542753296"><title>Comparing Numbers by Subtraction and Division</title><term>Comparison of two numbers by subtraction</term> indicates how <emphasis effect="italics">much more</emphasis> one number is than another.<newline/> <term>Comparison by division</term> indicates how <emphasis effect="italics">many times</emphasis> larger or smaller one number is than another.</para>
+      <para id="id1171540979930"><title>Comparing Pure or Like Denominate Numbers by Subtraction </title>Numbers can be compared by subtraction if and only if they both are like denominate numbers or both pure numbers.</para>
+      <section id="id1171551160744"><title>Sample Set A</title><example id="eip-id1164033816658">
+        <para id="id7472046">Compare 8 miles and 3 miles by subtraction. </para>
+        <para id="id1171541301972"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>8 mile</m:mtext><m:mo>-</m:mo><m:mtext>3 miles</m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>5 miles</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"8 mile -3 miles "="5 miles"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1171551170123">This means that 8 miles is 5 miles more than 3 miles.</para>
+        <para id="id1171542839751"><emphasis effect="italics">Examples of use</emphasis>: I can now jog 8 miles whereas I used to jog only 3 miles. So, I can now jog 5 miles more than I used to.</para>
+</example>
+<example id="eip-id1164032055666">
+        <para id="id1171552721860">Compare 12 and 5 by subtraction.</para>
+        
+        <para id="eip-815"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>12</m:mtext>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"12" - 5=7} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para><para id="id1171544175687">This means that 12 is 7 more than 5.</para>
+</example>
+<example id="eip-id1164028949181">
+        <para id="id1171540939816">Comparing 8 miles and 5 gallons by subtraction makes no sense. </para>
+        
+        <para id="eip-911"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>8 miles</m:mtext><m:mo>-</m:mo><m:mtext>5 gallons</m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mi>?</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"8 miles -5 gallons "=?} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+</example>
+<example id="eip-id1164014259545">
+<para id="id1171541198512">Compare 36 and 4 by division.</para>
+        
+        <para id="eip-319"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>36</m:mtext>
+                        <m:mo stretchy="false">÷</m:mo>
+                        <m:mn>4</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>9</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"36" div 4=9} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para><para id="id6509626">This means that 36 is 9 times as large as 4. Recall that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>36</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"36" div 4=9} {}</m:annotation></m:semantics></m:math> can be expressed as <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>36</m:mtext><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"36"}  over  {4} } =9} {}</m:annotation></m:semantics></m:math>.</para>
+        </example>
+<example id="eip-id1168869689541">
+        <para id="id1171541725757">Compare 8 miles and 2 miles by division. </para>
+        
+        <para id="eip-99"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mtext>8 miles</m:mtext>
+                        <m:mtext>2 miles</m:mtext>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>4</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {"8 miles"}  over  {"2 miles"} } =4} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para><para id="id1171551873920">This means that 8 miles is 4 times as large as 2 miles.</para>
+        <para id="id1171550333464"><emphasis effect="italics">Example of use</emphasis>: I can jog 8 miles to your 2 miles. Or, for every 2 miles that you jog, I jog 8. So, I jog 4 times as many miles as you jog.</para>
+        <para id="id1171540981728">Notice that when like quantities are being compared by division, we drop the units. Another way of looking at this is that the units divide out (cancel).</para>
+</example>
+<example id="eip-id1164019470109">
+        <para id="id1171544842810">Compare 30 miles and 2 gallons by division.</para>
+        
+        <para id="eip-175"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mtext>30 miles </m:mtext>
+                        <m:mtext>2 gallons</m:mtext>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mtext>15 miles</m:mtext>
+                        <m:mtext>1 gallon</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {"30 miles "}  over  {"2 gallons "} } = {  {" 15 miles "}  over  {"1 gallon"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para><para id="id1171540858937"><emphasis effect="italics">Example of use</emphasis>: A particular car goes 30 miles on 2 gallons of gasoline. This is the same as getting 15 miles to 1 gallon of gasoline.</para>
+        
+        <para id="id1171551106575">Notice that when the quantities being compared by division are unlike quantities, we do not drop the units.</para>
+      </example></section>
+      <section id="id1171541240019">
+        <title>Practice Set A</title>
+        <para id="id1171550661640">Make the following comparisons and interpret each one.</para>
+        <exercise id="id1171539536681"><problem id="oo-id1171552569762">
+            <para id="id1171541293727">Compare 10 diskettes to 2 diskettes by 
+<list id="eip-id1166602444789" mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha"><item>subtraction:</item>
+<item>division:</item>
+</list></para>
+          </problem>
+        <solution id="eip-id1872413"><para id="eip-id1164105237392"><list id="eip-id1169854315525" mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha"><item>8 diskettes; 10 diskettes is 8 diskettes more than 2 diskettes. </item>
+<item>5; 10 diskettes is 5 times as many diskettes as 2 diskettes.</item>
+</list></para></solution></exercise>
+        
+        
+        <exercise id="id1171546588580"><problem id="oo-id1171543232767">
+            <para id="id1171539148849">Compare, if possible, 16 bananas and 2 bags by 
+<list id="eip-id1164928494489" mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha"><item>subtraction:</item>
+<item>division:</item>
+</list></para>
+          </problem>
+        <solution id="eip-id1164018454367"><para id="eip-id1164033760763"><list id="eip-id1171861293474" mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha"><item>Comparison by subtraction makes no sense.</item>
+<item><m:math><m:mfrac><m:mrow><m:mtext>16 bananas</m:mtext></m:mrow><m:mrow><m:mtext>2 bags</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>8 bananas</m:mtext></m:mrow><m:mrow><m:mtext>bag</m:mtext></m:mrow></m:mfrac></m:math>, 8 bananas per bag.</item>
+</list></para></solution></exercise>
+        
+        
+      </section>
+    </section>
+    <section id="id1171550415378">
+      <title>Ratios and Rates</title>
+      <para id="id1171539877151"><title>Ratio</title>A comparison, by division, of two pure numbers or two like denominate numbers is a <term>ratio</term>.</para>
+      <para id="id1171551872129">The comparison by division of the pure numbers 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>36</m:mtext><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"36"}  over  {4} } } {}</m:annotation></m:semantics></m:math> and the like denominate numbers 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>8 miles</m:mtext><m:mtext>2 miles</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"8 miles"}  over  {"2 miles"} } } {}</m:annotation></m:semantics></m:math> are examples of ratios.</para>
+      <para id="id1171544052973"><title>Rate</title>A comparison, by division, of two unlike denominate numbers is a <term>rate</term>. </para>
+      <para id="id1171550312398">The comparison by division of two unlike denominate numbers, such as</para>
+      
+      <para id="eip-157"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mtext>55 miles</m:mtext>
+                      <m:mtext>1 gallon</m:mtext>
+                    </m:mfrac>
+                    <m:mi/>
+                    <m:mtext>and</m:mtext>
+                    <m:mi/>
+                    <m:mfrac>
+                      <m:mtext>40 dollars</m:mtext>
+                      <m:mtext>5 tickets</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {"55 miles"}  over  {"1 gallon"} } `"and"` {  {"40 dollars"}  over  {"5 tickets"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1171542629887">are examples of rates.</para>
+      <para id="id1171538433389">Let's agree to represent two numbers (pure or denominate) with the letters 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math>. This means that we're letting 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math>
+ represent some number and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math> represent some, perhaps different, number. With this agreement, we can write the ratio of the two numbers 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math> as</para>
+      
+      <para id="eip-356"><m:math>
+
+                    <m:mfrac>
+                      <m:mi>a</m:mi>
+                      <m:mi>b</m:mi>
+                    </m:mfrac>
+</m:math>
+or
+<m:math>
+ 
+                    <m:mfrac>
+                      <m:mi>b</m:mi>
+                      <m:mi>a</m:mi>
+                    </m:mfrac>
+ 
+        </m:math>
+      </para><para id="id1171542344372">The ratio 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {b} } } {}</m:annotation></m:semantics></m:math> is read as "
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math>."</para>
+      <para id="id1171541272258">The ratio 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>b</m:mi><m:mi>a</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {b}  over  {a} } } {}</m:annotation></m:semantics></m:math> is read as "
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math> to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math>."</para>
+      <para id="id1171550321439">Since a ratio or a rate can be expressed as a fraction, it may be reducible.</para>
+      <section id="id1171541803583"><title>Sample Set B</title><example id="eip-id1167435894904">
+        <para id="id1171541198686">The ratio 30 to 2 can be expressed as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>30</m:mtext><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"30"}  over  {2} } } {}</m:annotation></m:semantics></m:math>. Reducing, we get 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>15</m:mtext><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"}  over  {1} } } {}</m:annotation></m:semantics></m:math>. </para>
+        <para id="eip-3">The ratio 30 to 2 is <emphasis effect="italics">equivalent</emphasis> to the ratio 15 to 1.</para>
+</example>
+<example id="eip-id1167438757487">
+<para id="id1171542922184">The rate "4 televisions to 12 people" can be expressed as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext> 4 televisions</m:mtext></m:mrow><m:mrow><m:mtext>12 people</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4" televisions"}  over  {"12"`"people"} } } {}</m:annotation></m:semantics></m:math>. The meaning of this rate is that "for every 4 televisions, there are 12 people."</para>
+        <para id="id1171545105740">Reducing, we get 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>1 television</m:mtext></m:mrow><m:mrow><m:mtext>3 people</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1" televisions"}  over  {3`"people"} } } {}</m:annotation></m:semantics></m:math>. The meaning of this rate is that "for every 1 television, there are 3 people.”</para>
+        <para id="id1171548252136">Thus, the rate of "4 televisions to 12 people" is the <emphasis effect="italics">same</emphasis> as the rate of "1 television to 3 people."</para>
+    </example>  </section>
+      <section id="id1171546523547"><title>Practice Set B</title><para id="id1171550879802">Write the following ratios and rates as fractions.</para>
+        <exercise id="id1171540249162">
+          <problem id="oo-id1171548566519">
+            <para id="id1171549198454">3 to 2</para>
+          </problem>
+<solution id="eip-id1164015394803"><para id="eip-id1164024882860"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {2} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id7820148">
+          <problem id="oo-id1171548991917">
+            <para id="id1171544170584">1 to 9</para>
+          </problem>
+<solution id="eip-id1164016504965"><para id="eip-id1164017918087"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {9} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171546539033">
+          <problem id="oo-id8307654">
+            <para id="id1171540983506">5 books to 4 people</para>
+          </problem>
+<solution id="eip-id1164015566205"><para id="eip-id1164020135387"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>5 books</m:mtext><m:mtext>4 people</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"5 books"}  over  {"4 people"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171550460901">
+          <problem id="oo-id1171541375515">
+            <para id="id1171545932611">120 miles to 2 hours</para>
+          </problem>
+<solution id="eip-id1164016693666"><para id="eip-id1164016135040"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>60 miles</m:mtext><m:mtext>1 hour</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"60 miles"}  over  {"1 hour"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171545611470">
+          <problem id="oo-id1171541136282">
+            <para id="id1171550230726">8 liters to 3 liters</para>
+          </problem>
+<solution id="eip-id1164016764897"><para id="eip-id1164023118191"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <para id="id1171550260736">Write the following ratios and rates in the form "<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math>." Reduce when necessary.</para>
+        <exercise id="id1171544170816">
+          <problem id="oo-id1171538715824">
+            <para id="id1171550276988">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {5} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164032128850"><para id="eip-id2106317">9 to 5</para></solution>
+        </exercise>
+        <exercise id="id1171550190824">
+          <problem id="oo-id1171545800408">
+            <para id="id1171546726662">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164033746827"><para id="eip-id1164023217513">1 to 3</para></solution>
+        </exercise>
+        <exercise id="id1171549899370">
+          <problem id="oo-id1171541206423">
+            <para id="id7013523">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>25 miles</m:mtext><m:mtext>2 gallons</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"25 miles"}  over  {"2 gallons"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164021354153"><para id="eip-id1164011676068">25 miles to 2 gallons</para></solution>
+        </exercise>
+        <exercise id="id1171539526423">
+          <problem id="oo-id1171548713725">
+            <para id="id1171548252278">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>2 mechanics</m:mtext><m:mtext>4 wrenches</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"2 mechanics"}  over  {"4 wrenches"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164019779113"><para id="eip-id4286082">1 mechanic to 2 wrenches</para></solution>
+        </exercise>
+        <exercise id="id1171550275139">
+          <problem id="oo-id1171550295134">
+            <para id="id1171542385809">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>15 video tapes</m:mtext><m:mtext>18 video tapes</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15 video tapes"}  over  {"18 video tapes"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164017818274"><para id="eip-id1164015404373">5 to 6</para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id3119059">
+      <title>Exercises</title>
+      <para id="id1171550229218">For the following 9 problems, complete the statements. </para>
+      <exercise id="id1171537780126"><problem id="oo-id1171549910622">
+          <para id="id1171550142462">Two numbers can be compared by subtraction if and only if <space count="30" effect="underline"/>.</para>
+        </problem>
+      <solution id="eip-id1164967895262"><para id="eip-id8755156">They are pure numbers or like denominate numbers.</para></solution></exercise>
+      <exercise id="id1171548679616"><problem id="oo-id1171540892147">
+          <para id="id1171550284238">A comparison, by division, of two pure numbers or two like denominate numbers is called a <space count="15" effect="underline"/>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171540885428"><problem id="oo-id1171543304673">
+          <para id="id1171540946011">A comparison, by division, of two unlike denominate numbers is called a <space count="15" effect="underline"/>.</para>
+        </problem>
+      <solution id="eip-id1167435530006"><para id="eip-id1167434659782">rate</para></solution></exercise>
+      <exercise id="id1171542371137"><problem id="oo-id1171540981322">
+          <para id="id1171544497023"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {"11"} } } {}</m:annotation></m:semantics></m:math> is an example of a <space count="15" effect="underline"/>. (ratio/rate)</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171549155297"><problem id="oo-id1171544974586">
+          <para id="id1171541403795"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"12"} } } {}</m:annotation></m:semantics></m:math> is an example of a <space count="15" effect="underline"/>. (ratio/rate)  </para>
+        </problem>
+      <solution id="eip-id6609740"><para id="eip-id5667577">ratio</para></solution></exercise>
+      <exercise id="id1171550400192"><problem id="oo-id1171540936968">
+          <para id="id1171541608205"><m:math>
+<m:mfrac>
+<m:mtext>7 erasers</m:mtext><m:mtext>12 pencils</m:mtext>
+</m:mfrac>
+</m:math> is an example of a <space count="15" effect="underline"/>. (ratio/rate)</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171551408626"><problem id="oo-id1171548938419">
+          <para id="id1171546689880"><m:math><m:mfrac><m:mtext>20 silver coins</m:mtext>
+<m:mtext>35 gold coins</m:mtext></m:mfrac></m:math> is an example of a <space count="15" effect="underline"/>.(ratio/rate)</para>
+        </problem>
+      <solution id="eip-id1168145655258"><para id="eip-id1168166857075">rate</para></solution></exercise>
+      <exercise id="id1171541072956"><problem id="oo-id1171543162321">
+          <para id="id1171538776436"><m:math><m:mfrac>
+<m:mtext>3 sprinklers</m:mtext><m:mtext>5 sprinklers</m:mtext></m:mfrac></m:math> is an example of a <space count="15" effect="underline"/>. (ratio/rate)</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171546756547"><problem id="oo-id1171548771034">
+          <para id="id1171539498905"><m:math><m:mfrac>
+<m:mtext>18 exhaust valves</m:mtext>
+<m:mtext>11 exhaust valves</m:mtext>
+</m:mfrac></m:math> is an example of a <space effect="underline" count="15"/>.(ratio/rate) </para>
+        </problem>
+      <solution id="eip-id1165525312368"><para id="eip-id1165532368788">ratio</para></solution></exercise>
+      <para id="id1171551099167">For the following 7 problems, write each ratio or rate as a verbal phrase.</para>
+      
+      <exercise id="id1171544889076"><problem id="oo-id1171550498722">
+          <para id="id1171538334171">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171544899445"><problem id="oo-id1171552707553">
+          <para id="id1171544272286">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1164930873353"><para id="eip-id1164926240698">two to five</para></solution></exercise>
+      <exercise id="id1171541252796"><problem id="oo-id1171544100046">
+          <para id="id1171551409371"><m:math>
+<m:mfrac>
+<m:mtext>8 feet</m:mtext>
+<m:mtext>3 seconds</m:mtext>
+</m:mfrac>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171542668930"><problem id="oo-id1171546396189">
+          <para id="id1171549268563"><m:math>
+<m:mfrac>
+<m:mtext>29 miles</m:mtext>
+<m:mtext>2 gallons</m:mtext>
+</m:mfrac>
+</m:math></para>
+        </problem>
+      <solution id="eip-id1165226714368"><para id="eip-id1165231815281">29 mile per 2 gallons or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>14</m:mtext><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"14" {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> miles per 1 gallon</para></solution></exercise>
+      <exercise id="id1171550864871">
+        <problem id="oo-id1171551537072">
+          <para id="id1171546139837"><m:math>
+<m:mfrac>
+<m:mtext>30,000 stars</m:mtext>
+<m:mtext>300 stars</m:mtext>
+</m:mfrac>
+</m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171549852020"><problem id="oo-id1171548689579">
+          <para id="id1171544166723"><m:math>
+<m:mfrac>
+<m:mtext>5 yards</m:mtext>
+<m:mtext>2 yards</m:mtext>
+</m:mfrac>
+</m:math></para>
+        </problem>
+     <solution id="eip-id1167439580035"><para id="eip-id1167438499923">5 to 2</para></solution> </exercise>
+      <exercise id="id1171544995011"><problem id="oo-id1171539476275">
+          <para id="id1171541609695"><m:math>
+<m:mfrac>
+<m:mtext>164 trees</m:mtext>
+<m:mtext>28 trees</m:mtext>
+</m:mfrac>
+</m:math></para>
+        </problem>
+      </exercise>
+      <para id="id1171544935191">For the following problems, write the simplified fractional form of each ratio or rate.</para>
+      <exercise id="id1171546266293"><problem id="oo-id1171549385738">
+          <para id="id1171540861076">12 to 5</para>
+        </problem>
+      <solution id="eip-id1171072505512"><para id="eip-id1171087053215"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>12</m:mtext><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"12"}  over  {5} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1171538945895"><problem id="oo-id3159778">
+          <para id="id1171546281993">81 to 19</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171541045118"><problem id="oo-id1171542315580">
+          <para id="id1171540248055">42 plants to 5 homes</para>
+        </problem>
+      <solution id="eip-id1168465489935"><para id="eip-id1168477061887"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>42 plants</m:mtext></m:mrow><m:mrow><m:mtext>5 homes</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"42"" plants"}  over  {5"homes"} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1171538809393"><problem id="oo-id1171542617581">
+          <para id="id1171540129162">8 books to 7 desks</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171548979712"><problem id="oo-id1171551518891">
+          <para id="id1171546349990">16 pints to 1 quart</para>
+        </problem>
+      <solution id="eip-id7230942"><para id="eip-id1168479659906"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>16 pints</m:mtext><m:mtext>1 quart</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16 pints"}  over  {"1 quart"} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1171545157491"><problem id="oo-id1171550252507">
+          <para id="id1171550509863">4 quarts to 1 gallon</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171545722833"><problem id="oo-id1171541086290">
+          <para id="id7487372">2.54 cm to 1 in</para>
+        </problem>
+      <solution id="eip-id1166909747086"><para id="eip-id1166913584233"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mtext>54 cm</m:mtext></m:mrow><m:mtext>1 inch</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 "." "54cm"}  over  {"1 inch"} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1171551427219"><problem id="oo-id1171541739167">
+          <para id="id1171550360696">80 tables to 18 tables</para>
+        </problem>
+      </exercise>
+      <exercise id="id7412519"><problem id="oo-id1171550180217">
+          <para id="id1171542914856">25 cars to 10 cars</para>
+        </problem>
+      <solution id="eip-id1171071451873"><para id="eip-id1171064699992"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {2} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1171541158810"><problem id="oo-id1171544227652">
+          <para id="id1171552681817">37 wins to 16 losses</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171549115796"><problem id="oo-id1171546394648">
+          <para id="id1171552534141">105 hits to 315 at bats</para>
+        </problem>
+      <solution id="eip-id6936669"><para id="eip-id1164026798907"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>1 hit</m:mtext><m:mtext>3 at bats</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"1 hit"}  over  {"3 at bats"} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1171541115391"><problem id="oo-id1171537345169">
+          <para id="id1171550507485">510 miles to 22 gallons</para>
+        </problem>
+      </exercise>
+      <exercise id="id6423291"><problem id="oo-id1171549919786">
+          <para id="id1171549270419">1,042 characters to 1 page</para>
+        </problem>
+      <solution id="eip-id1166913000880"><para id="eip-id1166910387404"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>1,</m:mn><m:mtext>042</m:mtext><m:mtext>   characters</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>  page</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1,"042"" characters"}  over  {1" page"} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1171544187750"><problem id="oo-id1171540109678">
+          <para id="id1171549470113">1,245 pages to 2 books</para>
+        </problem>
+      </exercise>
+      <section id="id1171546725311">
+        <title>Exercises for Review</title>
+        <exercise id="id1171544215304"><problem id="oo-id1171545090686">
+            <para id="id1171550448472">(<link document="m34912"/>) Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {3} } } {}</m:annotation></m:semantics></m:math> to a mixed number.</para>
+          </problem>
+        <solution id="eip-id1170355326671"><para id="eip-id1170339645069"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1171551150103"><problem id="oo-id3142847">
+            <para id="id1171543363606">(<link document="m34930"/>)  
+<m:math><m:mn>1</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac></m:math> of <m:math><m:mn>2</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac></m:math> is what number?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1171545127211"><problem id="oo-id1171548690804">
+            <para id="id1171549033127">(<link document="m34935"/>) Find the difference. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>11</m:mtext><m:mtext>28</m:mtext></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>7</m:mn><m:mtext>45</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"11"}  over  {"28"} } - {  {7}  over  {"45"} } } {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+      <solution id="eip-id1167437971976"><para id="eip-id1167436301063"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>299</m:mtext><m:mtext>1260</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"299"}  over  {"1260"} } } {}</m:annotation></m:semantics></m:math></para></solution>  </exercise>
+        <exercise id="id1171542963205"><problem id="oo-id1171541114985">
+            <para id="id1171549160981">(<link document="m34969"/>) Perform the division. If no repeating patterns seems to exist, round the quotient to three decimal places: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>22</m:mtext><m:mtext>.</m:mtext><m:mtext>35</m:mtext><m:mi>÷</m:mi><m:mtext>17</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"22" "." "35"¸"17"} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1171540440898"><problem id="oo-id1171541392517">
+            <para id="id1171546948894">(<link document="m34971"/>) Find the value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>85</m:mtext><m:mo stretchy="false">+</m:mo><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mn>4</m:mn></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "85"+ {  {3}  over  {8} }  cdot 4 "." 1} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+       <solution id="eip-id1168459169816"><para id="eip-id1168459083445">3.3875</para></solution> </exercise>
+      </section>
+    </section>
+  </content>
+</document>

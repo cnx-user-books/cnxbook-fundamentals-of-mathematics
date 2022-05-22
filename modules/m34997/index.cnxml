@@ -1,0 +1,794 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Fractions of One Percent</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34997</md:content-id>
+  <md:title>Fractions of One Percent</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses fractions of one percent. By the end of the module students should understand the meaning of a fraction of one percent and be able to make conversions involving fractions of one percent.</md:abstract>
+  <md:uuid>cee77b8e-cbd6-4de4-9f06-7b0c5e747452</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1171785200576">
+      <title>Section Overview</title>
+      <list id="id1171786262733" list-type="bulleted">
+        <item>Conversions Involving Fractions of One Percent</item>
+        <item>Conversions Involving Nonterminating Fractions</item>
+      </list>
+    </section>
+    <section id="id1171769736281"><title>Conversions Involving Fractions of One Percent</title><para id="id1171793432597">Percents such as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>%, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math> %, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } } {}</m:annotation></m:semantics></m:math> %, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"11"} } } {}</m:annotation></m:semantics></m:math>%, where 1% has not been attained, are fractions of 1%. This implies that</para>
+      <para id="id1171795764414"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+<m:mo>%</m:mo>
+                    <m:mrow>
+                      <m:mtext/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mi/>
+                    <m:mtext>  of 1%</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } %= {  {1}  over  {2} } `"of 1%"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1171780875744"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>3</m:mn>
+                      <m:mn>5</m:mn>
+                    </m:mfrac>
+<m:mo>%</m:mo>
+                    <m:mrow>
+                      <m:mtext/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>3</m:mn>
+                        <m:mn>5</m:mn>
+                      </m:mfrac>
+
+                    </m:mrow>
+                    <m:mi/>
+                    <m:mtext>  of 1%</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } %= {  {3}  over  {5} } `"of 1%"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1171786985630"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>5</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+<m:mo>%</m:mo>
+                    <m:mrow>
+                      <m:mtext/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>5</m:mn>
+                        <m:mn>8</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mi/>
+                    <m:mtext>  of 1%</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } %= {  {5}  over  {8} } `"of 1%"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1772417"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>7</m:mn>
+                      <m:mtext>11</m:mtext>
+                    </m:mfrac>
+<m:mo>%</m:mo>
+                    <m:mrow>
+                      <m:mtext/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>7</m:mn>
+                        <m:mtext>11</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mi/>
+                    <m:mtext>  of 1%</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"11"} } %= {  {7}  over  {"11"} } `"of 1%"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id3114437">Since "percent" means "for each hundred," and "of" means "times," we have</para>
+      <para id="id1171808243312"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mn>2</m:mn>
+                    </m:mfrac>
+<m:mo>%</m:mo>
+                    <m:mrow>
+                      <m:mtext/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mi/>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>of 1%</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+
+                          </m:mfrac>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mtext>100</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mtext>200</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } %= {  {1}  over  {2} } `"of 1%"= {  {1}  over  {2} }  cdot  {  {1}  over  {"100"} } = {  {1}  over  {"200"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1171804708145"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>3</m:mn>
+                      <m:mn>5</m:mn>
+                    </m:mfrac>
+<m:mo>%</m:mo>
+                    <m:mrow>
+                      <m:mtext/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>3</m:mn>
+                        <m:mn>5</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mi/>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>of 1%</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>3</m:mn>
+                            <m:mn>5</m:mn>
+                          </m:mfrac>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mtext>100</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>3</m:mn>
+                        <m:mtext>500</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } %= {  {3}  over  {5} } `"of 1%"= {  {3}  over  {5} }  cdot  {  {1}  over  {"100"} } = {  {3}  over  {"500"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id2089662"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>5</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+<m:mo>%</m:mo>
+                    <m:mrow>
+                      <m:mtext/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>5</m:mn>
+                        <m:mn>8</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mi/>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>of 1%</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>5</m:mn>
+                            <m:mn>8</m:mn>
+                          </m:mfrac>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mtext>100</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>5</m:mn>
+                        <m:mtext>800</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } %= {  {5}  over  {8} } `"of 1%"= {  {5}  over  {8} }  cdot  {  {1}  over  {"100"} } = {  {5}  over  {"800"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1171770061958"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>7</m:mn>
+                      <m:mtext>11</m:mtext>
+                    </m:mfrac>
+<m:mo>%</m:mo>
+                    <m:mrow>
+                      <m:mtext/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>7</m:mn>
+                        <m:mtext>11</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mi/>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>of 1%</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>7</m:mn>
+                            <m:mtext>11</m:mtext>
+                          </m:mfrac>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mtext>100</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>7</m:mn>
+                        <m:mtext>1100</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"11"} } %= {  {7}  over  {"11"} } `"of 1%"= {  {7}  over  {"11"} }  cdot  {  {1}  over  {"100"} } = {  {7}  over  {"1100"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <section id="id1171791876952"><title>Sample Set A</title><example id="eip-id1171017889305">
+        <para id="id1171794604940">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>% to a fraction.</para>
+        <para id="eip-88"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mfrac>
+<m:mn>2</m:mn>
+<m:mn>3</m:mn>
+</m:mfrac>
+<m:mo>%</m:mo>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mn>2</m:mn>
+<m:mn>3</m:mn>
+</m:mfrac>
+<m:mspace width="2px"/>
+<m:mtext>of</m:mtext>
+<m:mspace width="2px"/>
+<m:mn>1</m:mn>
+<m:mo>%</m:mo>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mrow>
+<m:mover>
+<m:mrow><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose></m:mrow>
+<m:mn>1</m:mn>
+</m:mover>
+</m:mrow>
+<m:mn>3</m:mn>
+</m:mfrac>
+<m:mo>⋅</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mrow>
+<m:munder>
+<m:mrow><m:menclose notation="updiagonalstrike"><m:mn>100</m:mn></m:menclose></m:mrow>
+<m:mn>50</m:mn>
+</m:munder>
+</m:mrow>
+</m:mfrac>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mrow>
+<m:mn>1</m:mn><m:mo>⋅</m:mo><m:mn>1</m:mn>
+</m:mrow>
+<m:mrow>
+<m:mn>3</m:mn><m:mo>⋅</m:mo><m:mn>50</m:mn>
+</m:mrow>
+</m:mfrac>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>150</m:mn>
+</m:mfrac>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        </example>
+<example id="eip-id1171017492119">
+        <para id="id2353562">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } } {}</m:annotation></m:semantics></m:math> % to a decimal.</para>
+        <para id="eip-522"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mfrac>
+<m:mn>5</m:mn>
+<m:mn>8</m:mn>
+</m:mfrac>
+<m:mo>%</m:mo>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mn>5</m:mn>
+<m:mn>8</m:mn>
+</m:mfrac>
+<m:mspace width="2px"/>
+<m:mtext>of</m:mtext>
+<m:mspace width="2px"/>
+<m:mn>1</m:mn>
+<m:mo>%</m:mo>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mrow><m:mn>5</m:mn></m:mrow>
+<m:mn>8</m:mn>
+</m:mfrac>
+<m:mo>⋅</m:mo>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mrow>
+<m:mn>100</m:mn>
+</m:mrow>
+</m:mfrac>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>0.625</m:mn><m:mo>⋅</m:mo><m:mn>0.01</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>0.00625</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        </example>
+      </section>
+      <section id="id1171771498275"><title>Practice Set A</title><exercise id="id1171792200619">
+          <problem id="oo-id1171778566282">
+            <para id="id1171771292506">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math> % to a fraction.   </para>
+          </problem>
+<solution id="eip-id1164022591561"><para id="eip-id1164023922084"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>400</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"400"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171800983446">
+          <problem id="oo-id1171772115645">
+            <para id="id1171791092055">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} } } {}</m:annotation></m:semantics></m:math> % to a fraction.</para>
+          </problem>
+<solution id="eip-id1164021304820"><para id="eip-id1164023638514"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>800</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"800"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171800922741">
+          <problem id="oo-id1831575">
+            <para id="id1171776663643">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> % to a fraction.</para>
+          </problem>
+<solution id="eip-id6302842"><para id="eip-id1164018277405"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>30</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"30"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1171791228695"><title>Conversions Involving Nonterminating Fractions</title><para id="id1171791499125">We must be careful when changing a fraction of 1% to a decimal. The number 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>, as we know, has a nonterminating decimal representation. Therefore, it cannot be expressed exactly as a decimal.</para>
+      
+      <para id="id1171769834049">When converting nonterminating fractions of 1% to decimals, it is customary to express the fraction as a rounded decimal with at least three decimal places.</para>
+      <para id="id1171809081637"><title>Converting a Nonterminating Fraction to a Decimal</title>To convert a nonterminating fraction of 1% to a decimal: 
+<list id="id1171780684266" list-type="enumerated" number-style="arabic">
+        <item>Convert the fraction as a rounded decimal.</item>
+        <item>Move the decimal point two digits to the left and remove the percent sign.</item>
+      </list></para>
+      
+      
+      <section id="id1171777375508"><title>Sample Set B</title><example id="eip-id1169220034520">
+        <para id="id1171805195476">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> % to a three-place decimal.</para>
+<list id="eip-id1169224060601" list-type="enumerated" number-style="arabic"><item>Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> to a decimal.<newline/>
+        <para id="id1171791827281">Since we wish the resulting decimal to have three decimal digits, and removing the percent sign will account for two of them, we need to round 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> to one place 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mrow><m:mtext>2 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 1 </m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext> 3</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "2 "+" 1 "=" 3" \) } {}</m:annotation></m:semantics></m:math>.</para>
+
+        <para id="id1171799513422"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>%</m:mo><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>7</m:mn><m:mtext/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } %=0 "." 7%} {}</m:annotation></m:semantics></m:math>% to one decimal place. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>6666</m:mtext><m:mo stretchy="false">…</m:mo></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {2}  over  {3} } =0 "." "6666" dotslow  right )} {}</m:annotation></m:semantics></m:math></para></item>
+<item>
+        Move the decimal point two digits to the left and remove the % sign. We'll need to add zeros to locate the decimal point in the correct location.<newline/>
+        <para id="id1171805304870"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mrow><m:mtext>% </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>007</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } "% "=" 0" "." "007"} {}</m:annotation></m:semantics></m:math> to 3 decimal places</para></item></list></example>
+<example id="eip-id1169237661741">
+        <para id="id1171776017621">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>4</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {4}  over  {"11"} } } {}</m:annotation></m:semantics></m:math>% to a four-place decimal.</para>
+<list id="eip-id1169221093795" list-type="enumerated" number-style="arabic"><item>Since we wish the resulting decimal to have four decimal places, and removing the percent sign will account for two, we to round 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {"11"} } } {}</m:annotation></m:semantics></m:math> to two places. <newline/>
+        <para id="id1171777106307"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>4</m:mn><m:mtext>11</m:mtext></m:mfrac><m:mo>%</m:mo><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>36</m:mtext><m:mtext/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {4}  over  {"11"} } %=5 "." "36"%} {}</m:annotation></m:semantics><m:mo>%</m:mo></m:math> to two decimal places. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mtext>11</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>3636</m:mtext><m:mo stretchy="false">…</m:mo></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {4}  over  {"11"} } =0 "." "3636" dotslow  right )} {}</m:annotation></m:semantics></m:math></para>
+</item>
+<item>Move the decimal point two places to the left and drop the percent sign.
+        <para id="id1171777219974"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>4</m:mn><m:mtext>11</m:mtext></m:mfrac><m:mo>%</m:mo><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>0536</m:mtext><m:mtext/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {4}  over  {"11"} } %=5 "." "36"%} {}</m:annotation></m:semantics></m:math> to four decimal places.</para></item></list></example>
+<example id="eip-id1169225351176">
+        <para id="id1171791946774">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>28</m:mtext><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"28" {  {5}  over  {9} } } {}</m:annotation></m:semantics></m:math>% to a decimal rounded to ten thousandths.</para>
+<list id="eip-id1169224341581" list-type="enumerated" number-style="arabic"><item>Since we wish the resulting decimal to be rounded to ten thousandths (four decimal places), and removing the percent sign will account for two, we need to round 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {9} } } {}</m:annotation></m:semantics></m:math> to two places.
+      <newline/>  
+        <para id="id1171778141666"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>28</m:mtext><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>%</m:mo><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mtext>28</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>56%</m:mtext><m:mtext/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"28" {  {5}  over  {9} } %="28" "." "56"%} {}</m:annotation></m:semantics></m:math> to two decimal places. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>5555</m:mtext><m:mo stretchy="false">…</m:mo></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {5}  over  {9} } =0 "." "5555" dotslow  right )} {}</m:annotation></m:semantics></m:math></para>
+</item>
+<item>Move the decimal point to the left two places and drop the percent sign.<newline/>
+        <para id="id1171801273446"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>28</m:mtext><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>%</m:mo><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>2856</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"28" {  {5}  over  {9} } %=0 "." "2856"} {}</m:annotation></m:semantics></m:math> correct to ten thousandths.</para></item></list></example>
+      </section>
+      <section id="id1171766936324"><title>Practice Set B</title><exercise id="id1171785030589">
+          <problem id="oo-id1171769439209">
+            <para id="id1171777120742">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {9} } } {}</m:annotation></m:semantics></m:math>% to a three-place decimal.     </para>
+          </problem>
+<solution id="eip-id1169224030615"><para id="eip-id1169221490466">0.008</para></solution>
+        </exercise>
+        <exercise id="id1171793011478">
+          <problem id="oo-id1171798315577">
+            <para id="id1171805170209">Convert 
+<m:math><m:mtext>51</m:mtext><m:mfrac><m:mn>5</m:mn><m:mn>11</m:mn></m:mfrac><m:mo>%</m:mo></m:math> to a decimal rounded to ten thousandths. </para>
+          </problem>
+<solution id="eip-id1169224334434"><para id="eip-id1169224114852">0.5145</para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1171802269437"><title>Exercises </title><para id="id1171791074701">Make the conversions as indi­cated.</para>
+      <exercise id="id1171791916261">
+        <problem id="oo-id1171770420970">
+          <para id="id1171794885446">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> % to a fraction.   
+</para>
+        </problem>
+<solution id="eip-id1169291401704"><para id="eip-id1169299428447"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>400</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"400"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171802549398">
+        <problem id="oo-id1171771826072">
+          <para id="id1171799576943">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math>% to a fraction.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171771042546">
+        <problem id="oo-id1171793788787">
+          <para id="id1171774457107">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {9} } } {}</m:annotation></m:semantics></m:math>% to a fraction.   
+</para>
+        </problem>
+<solution id="eip-id1169299808016"><para id="eip-id1169300870758"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>900</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"900"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171769388223">
+        <problem id="oo-id1171777512968">
+          <para id="id1171770343271">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>15</m:mtext><m:mtext>19</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"}  over  {"19"} } } {}</m:annotation></m:semantics></m:math> % to a fraction.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171771818257">
+        <problem id="oo-id1171775114989">
+          <para id="id1171769887697">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {4} } } {}</m:annotation></m:semantics></m:math> % to a fraction.</para>
+        </problem>
+<solution id="eip-id1169307852680"><para id="eip-id1169310114407"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>400</m:mtext></m:mfrac><m:mtext> or </m:mtext><m:mfrac><m:mn>1</m:mn><m:mtext>80</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"400"} } " or " {  {1}  over  {"80"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171794143306">
+        <problem id="oo-id1171794104144">
+          <para id="id1171769926682">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {3} } } {}</m:annotation></m:semantics></m:math>% to a fraction.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171791866230">
+        <problem id="oo-id1171791830181">
+          <para id="id1171772011857">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>6</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {6}  over  {7} } } {}</m:annotation></m:semantics></m:math>% to a fraction.</para>
+        </problem>
+<solution id="eip-id1169294541821"><para id="eip-id1169302448473"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>13</m:mtext><m:mtext>700</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"13"}  over  {"700"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171780326190">
+        <problem id="oo-id1171788074696">
+          <para id="id1171791274982">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>5</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 {  {5}  over  {"16"} } } {}</m:annotation></m:semantics></m:math>% to a fraction. </para>
+        </problem>
+      </exercise>
+      <exercise id="id1171777444787">
+        <problem id="oo-id2375272">
+          <para id="id1171772495269">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>25</m:mtext><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"25" {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math>% to a fraction.</para>
+        </problem>
+<solution id="eip-id1169298954562"><para id="eip-id1169291184037"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>101</m:mtext><m:mtext>400</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"101"}  over  {"400"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171801041580">
+        <problem id="oo-id1171769298019">
+          <para id="id1171785034786">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>50</m:mtext><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"50" {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>% to a fraction.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171770602779">
+        <problem id="oo-id1171770610261">
+          <para id="id1171770647022">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>72</m:mtext><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"72" {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math>% to a fraction.</para>
+        </problem>
+<solution id="eip-id7373559"><para id="eip-id1169298380746"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>363</m:mtext><m:mtext>500</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"363"}  over  {"500"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1898173">
+        <problem id="oo-id1171787937276">
+          <para id="id1171798262822">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>99</m:mtext><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"99" {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math>% to a fraction.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171799891573">
+        <problem id="oo-id1171771835125">
+          <para id="id1171780623581">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>136</m:mtext><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"136" {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>% to a fraction.</para>
+        </problem>
+<solution id="eip-id1169303663658"><para id="eip-id1169298759514"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>41</m:mtext><m:mtext>30</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"41"}  over  {"30"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id2036610">
+        <problem id="oo-id2245160">
+          <para id="id1171772000567">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>521</m:mtext><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"521" {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math>% to a fraction.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171775891972">
+        <problem id="oo-id1171770600517">
+          <para id="id1171799705575">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" {  {1}  over  {5} } } {}</m:annotation></m:semantics></m:math>% to a decimal.</para>
+        </problem>
+<solution id="eip-id1169301097938"><para id="eip-id1169303245283"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mtext>51</m:mtext><m:mtext>500</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>102</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"51"}  over  {"500"} } =0 "." "102"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171769925505">
+        <problem id="oo-id1171770415518">
+          <para id="id1171775439298">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12" {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math>% to a decimal.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171779021179">
+        <problem id="oo-id1171787931686">
+          <para id="id1171796463986">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math>% to a decimal.</para>
+        </problem>
+<solution id="eip-id1169296223032"><para id="eip-id1169297154908"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mtext>31</m:mtext><m:mtext>800</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>03875</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"31"}  over  {"800"} } =0 "." "03875"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171789882655">
+        <problem id="oo-id1171789860244">
+          <para id="id1171801107468">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>7</m:mn><m:mfrac><m:mn>1</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 {  {1}  over  {"16"} } } {}</m:annotation></m:semantics></m:math>% to a decimal.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171785775369">
+        <problem id="oo-id1171793457305">
+          <para id="id1171791335196">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {7} } } {}</m:annotation></m:semantics></m:math>% to a three-place decimal.</para>
+        </problem>
+<solution id="eip-id1169294867479"><para id="eip-id1169291545528"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>004</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "004"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171771208226">
+        <problem id="oo-id1171786445071">
+          <para id="id1171771444743">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {9} } } {}</m:annotation></m:semantics></m:math>% to a three-place decimal.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171769878692">
+        <problem id="oo-id1171806776366">
+          <para id="id2420096">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>3</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 {  {3}  over  {"11"} } } {}</m:annotation></m:semantics></m:math>% to a four-place decimal.</para>
+        </problem>
+<solution id="eip-id1169301551939"><para id="eip-id980750">0.0627</para></solution>
+      </exercise>
+      <exercise id="id1171777199895">
+        <problem id="oo-id1171769918642">
+          <para id="id1171805298306">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 {  {2}  over  {7} } } {}</m:annotation></m:semantics></m:math>% to a four-place decimal.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171770589359">
+        <problem id="oo-id1749867">
+          <para id="id1171770260272">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>24</m:mtext><m:mfrac><m:mn>5</m:mn><m:mtext>21</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"24" {  {5}  over  {"21"} } } {}</m:annotation></m:semantics></m:math>% to a three-place decimal.</para>
+        </problem>
+<solution id="eip-id1169303961118"><para id="eip-id1169307658124">0.242</para></solution>
+      </exercise>
+      <exercise id="id1171793419199">
+        <problem id="oo-id1171770778604">
+          <para id="id1171800920189">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>45</m:mtext><m:mfrac><m:mn>8</m:mn><m:mtext>27</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"45" {  {8}  over  {"27"} } } {}</m:annotation></m:semantics></m:math>% to a three-place decimal.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171770428394">
+        <problem id="oo-id1171770380818">
+          <para id="id1171777639591">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mfrac><m:mtext>16</m:mtext><m:mtext>17</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11" {  {"16"}  over  {"17"} } } {}</m:annotation></m:semantics></m:math> % to a four-place decimal.</para>
+        </problem>
+<solution id="eip-id1169301424755"><para id="eip-id7295287">0.1194</para></solution>
+      </exercise>
+      <exercise id="id1171777548622">
+        <problem id="oo-id1171768965225">
+          <para id="id1171791679490">Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {1}  over  {7} } } {}</m:annotation></m:semantics></m:math>% to a three-place decimal.</para>
+        </problem>
+      </exercise>
+      <section id="id1171793004460">
+        <title>Exercises for Review</title>
+        <exercise id="id1171777186645">
+          <problem id="oo-id1171794526634">
+            <para id="id1171771208690">(<link document="m34871"/>) Write 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>8 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 8 </m:mtext></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mtext> 8 </m:mtext></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mtext> 8 </m:mtext></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mtext> 8</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"8 " cdot " 8 " cdot " 8 " cdot " 8 " cdot " 8"} {}</m:annotation></m:semantics></m:math> using exponents.</para>
+          </problem>
+<solution id="eip-id1169297517428"><para id="eip-id1169303485682"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>8</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 rSup { size 8{5} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171785170828">
+          <problem id="oo-id1171788173467">
+            <para id="id1171780761868">(<link document="m34912"/>) Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math> to an improper fraction. </para>
+          </problem>
+        </exercise>
+        <exercise id="id1171770675129">
+          <problem id="oo-id1171801139062">
+            <para id="id1171788231927">(<link document="m34936"/>) Find the sum. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>10</m:mtext></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>2</m:mn><m:mtext>21</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"10"} } + {  {2}  over  {"21"} } + {  {1}  over  {7} } } {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+<solution id="eip-id1169298560763"><para id="eip-id1169300680576"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>197</m:mtext><m:mtext>210</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"197"}  over  {"210"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171793085944">
+          <problem id="oo-id1171773764940">
+            <para id="id1171794093681">(<link document="m34963"/>) Find the product. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mtext>21</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>006</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 4 "." "21" \)  \( 0 "." "006" \) } {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1171771448513">
+          <problem id="oo-id1171769935722">
+            <para id="id1171798349339">(<link document="m34983"/>) Convert 8.062 to a percent.</para>
+          </problem>
+<solution id="eip-id5835284"><para id="eip-id1169303043444"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>806</m:mtext><m:mtext>.</m:mtext><m:mn>2</m:mn><m:mtext/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"806" "." 2%} {}</m:annotation></m:semantics></m:math>%</para></solution>
+        </exercise>
+      </section>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Objectives</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m18890</md:content-id>
+  <md:title>Objectives</md:title>
+  <md:abstract>This module contains the learning objectives for the chapter "Exponents, Roots, and Factorizations of Whole Numbers" from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, jr.</md:abstract>
+  <md:uuid>70f7444f-f3bb-4c48-942e-1681e80bd2c7</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+   <para id="id1168568648593">After completing this chapter, you should</para>
+    
+    <list id="id1168567024646" list-type="bulleted"><title>Exponents and Roots (<link document="m34871"/>)</title><item>understand and be able to read exponential notation</item>
+      <item>understand the concept of root and be able to read root notation</item>
+      <item>be able to use a calculator having the <m:math><m:mrow><m:msup><m:mn>y</m:mn><m:mn>x</m:mn></m:msup></m:mrow></m:math> key to determine a root</item>
+    </list>
+    
+    <list id="id1168568444869" list-type="bulleted"><title>Grouping Symbols and the Order of Operations (<link document="m34872"/>)</title><item>understand the use of grouping symbols</item>
+      <item>understand and be able to use the order of operations</item>
+      <item>use the calculator to determine the value of a numerical expression</item>
+    </list>
+    
+    <list id="id1168568456786" list-type="bulleted"><title>Prime Factorization of Natural Numbers (<link document="m34873"/>)</title><item>be able to determine the factors of a whole number</item>
+      <item>be able to distinguish between prime and composite numbers</item>
+      <item>be familiar with the fundamental principle of arithmetic</item>
+      <item>be able to find the prime factorization of a whole number</item>
+    </list>
+    
+    <list id="id1168563738353" list-type="bulleted"><title>The Greatest Common Factor (<link document="m34874"/>)</title><item>be able to find the greatest common factor of two or more whole numbers</item>
+    </list>
+    
+    <list id="id2377279" list-type="bulleted"><title>The Least Common Multiple (<link document="m34876"/>)</title><item>be able to find the least common multiple of two or more whole numbers</item>
+    </list>
+</content>
+  
+</document>

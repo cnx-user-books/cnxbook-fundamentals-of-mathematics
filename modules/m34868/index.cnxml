@@ -1,0 +1,99 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Summary of Key Concepts </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34868</md:content-id>
+  <md:title>Summary of Key Concepts </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module summarizes the concepts discussed in the chapter "Multiplication and Division of Whole Numbers."</md:abstract>
+  <md:uuid>d88cf4e3-dc02-4359-8c8d-89fed52d09f2</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1169302990663"><title>Summary of Key Concepts</title><para id="id1169303371320"><title>Multiplication (<link document="m34863"/>)</title><term>Multiplication</term> is a description of repeated addition. <newline/>
+      <m:math><m:mrow>
+<m:munder><m:mrow><m:munder><m:mrow><m:mi>7</m:mi><m:mo>+</m:mo><m:mi>7</m:mi><m:mo>+</m:mo><m:mi>7</m:mi><m:mo>+</m:mo><m:mi>7</m:mi></m:mrow><m:mo stretchy="true">︸</m:mo></m:munder></m:mrow><m:mrow><m:mtext>7 appears 4 times</m:mtext></m:mrow></m:munder>
+</m:mrow></m:math><newline/>
+ This expression is described by writing 4 X 7.</para>
+      <para id="id1169316911220"><title>Multiplicand/Multiplier/Product (<link document="m34863"/>)</title>In a multiplication of whole numbers, the repeated addend is called the <term>multiplicand</term>, and the number that records the number of times the multiplicand is used is the <term>multiplier</term>. The result of the multiplication is the <term>product</term>.</para>
+      <para id="id1169303470834"><title>Factors (<link document="m34863"/>)</title>In a multiplication, the numbers being multiplied are also called <term>factors</term>. Thus, the multiplicand and the multiplier can be called factors.</para>
+      <para id="id8976579"><title>Division (<link document="m34864"/>)</title><term>Division</term> is a description of repeated subtraction.</para>
+      <para id="id1169289543308"><title>Dividend/Divisor/Quotient (<link document="m34864"/>)</title>In a division, the number divided into is called the <term>dividend</term>, and the number dividing into the dividend is called the <term>divisor</term>. The result of the division is called the <term>quotient</term>.<newline/>
+<m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+
+  <m:mtd columnalign="right"><m:mtext>quotient</m:mtext></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mtext>divisor</m:mtext>    <m:menclose notation="longdiv"><m:mtext>dividend</m:mtext></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+      
+      <para id="id1169296197749"><title>Division into Zero (<link document="m34864"/>)</title>Zero divided by any nonzero whole number is zero.</para>
+      <para id="id1169306572130"><title>Division by Zero (<link document="m34864"/>)</title>Division by zero does not name a whole number. It is, therefore, undefined. The quotient 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {0} } } {}</m:annotation></m:semantics></m:math> is indeterminant.</para>
+      <para id="id1169291776932"><title>Division by 2, 3, 4, 5, 6, 8, 9, 10 (<link document="m34866"/>)</title>Division by the whole numbers 2, 3, 4, 5, 6, 8, 9, and 10 can be determined by noting some certain properties of the particular whole number.</para>
+      <para id="id1169291229670"><title>Commutative Property of Multiplication (<link document="m34867"/>)</title>The product of two whole numbers is the same regardless of the order of the factors. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">×</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times 5=5 times 3} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169306395732"><title>Associative Property of Multiplication (<link document="m34867"/>)</title>If three whole numbers are to be multiplied, the product will be the same if the first two are multiplied first and then that product is multiplied by the third, or if the second two are multiplied first and then that product is multiplied by the first. <newline/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">×</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mo stretchy="false">(</m:mo></m:mrow></m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">×</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 3 times 5 \)  times 2=3 times  \( 5 times 2 \) } {}</m:annotation></m:semantics></m:math>
+<newline/>
+Note that the order of the factors is maintained.</para>
+      
+      <para id="id1169309102445"><title>Multiplicative Identity (<link document="m34867"/>)</title>The whole number 1 is called the <term>multiplicative identity</term> since any whole number multiplied by 1 is not changed.      
+      <newline/><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>4</m:mn>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{4 times 1=4} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      <newline/><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:mn>4</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{1 times 4=4} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+    </section>
+  </content>
+</document>

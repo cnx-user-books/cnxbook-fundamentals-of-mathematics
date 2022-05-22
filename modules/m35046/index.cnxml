@@ -1,0 +1,742 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Applications I: Translating Words to Mathematical Symbols</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35046</md:content-id>
+  <md:title>Applications I: Translating Words to Mathematical Symbols</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to translate word to mathematical symbols. By the end of the module students should be able to translate phrases and statements to mathematical expressions and equations.</md:abstract>
+  <md:uuid>da58a844-5b00-4ac7-bf79-f06284953920</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1166014592504">
+      <title>Section Overview</title>
+      <list id="id1166014560441" list-type="bulleted">
+        <item>Translating Words to Symbols</item>
+      </list>
+    </section>
+    <section id="id1166020745025"><title>Translating Words to Symbols</title><para id="id7420830">Practical problems seldom, if ever, come in equation form. The job of the problem solver is to translate the problem from phrases and statements into mathematical expressions and equations, and then to solve the equations.</para>
+      <para id="id1166016940834">As problem solvers, our job is made simpler if we are able to translate verbal phrases to mathematical expressions and if we follow the five-step method of solving applied problems. To help us translate from words to symbols, we can use the following Mathematics Dictionary.</para>
+      <table id="id1166012473374" summary="A list of mathematical operations and the words or phrases that correspond to them."><tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">MATHEMATICS DICTIONARY</entry>
+            </row>
+            <row>
+              <entry>Word or Phrase</entry>
+              <entry>Mathematical Operation</entry>
+            </row>
+            <row>
+              <entry>Sum, sum of, added to, increased by, more than, and, plus</entry>
+              <entry>+</entry>
+            </row>
+            <row>
+              <entry>Difference, minus, subtracted from, decreased by, less, less than</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>Product, the product of, of, multiplied by, times, per</entry>
+              <entry>⋅</entry>
+            </row>
+            <row>
+              <entry>Quotient, divided by, ratio, per</entry>
+              <entry>÷</entry>
+            </row>
+            <row>
+              <entry>Equals, is equal to, is, the result is, becomes</entry>
+              <entry>=</entry>
+            </row>
+            <row>
+              <entry>A number, an unknown quantity, an unknown, a quantity</entry>
+              <entry><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:mstyle></m:math> (or any symbol)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id1166011526227"><title>Sample Set A</title><para id="id1166017170863">Translate each phrase or sentence into a mathematical expression or equation.</para>
+<example id="eip-id1168596517298">
+        <para id="id1166016909796"><m:math><m:mstyle displaystyle="true">
+<m:munder>
+<m:munder>
+<m:mtext>Nine  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mn>9</m:mn>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>more than  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>+</m:mo>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>some number.</m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mi>x</m:mi>
+</m:munder>
+
+</m:mstyle></m:math></para>
+        <para id="id1166023150492">Translation: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">+</m:mo><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9+x} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+    </example>
+<example id="eip-id1168599491163">
+        <para id="id1166020971528"><m:math><m:mstyle displaystyle="true">
+<m:munder>
+<m:munder>
+<m:mtext>Eighteen  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mn>18</m:mn>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>minus  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>-</m:mo>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>a number.</m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mi>x</m:mi>
+</m:munder>
+
+</m:mstyle></m:math></para>
+        <para id="id1166014555104">Translation: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>18</m:mtext><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"18" - x} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+</example>
+<example id="eip-id1145792">
+        <para id="id1166014692477"><m:math><m:mstyle displaystyle="true">
+<m:munder>
+<m:munder>
+<m:mtext>A quantity  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mn>y</m:mn>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>less  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>-</m:mo>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>five.</m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mi>5</m:mi>
+</m:munder>
+
+</m:mstyle></m:math></para>
+        <para id="id1166010653973">Translation: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y - 5} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+</example>
+<example id="eip-id1168605728019">
+        <para id="id1166014847774"><m:math><m:mstyle displaystyle="true">
+<m:munder>
+<m:munder>
+<m:mtext>Four  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mn>4</m:mn>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>times  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>⋅</m:mo>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>a number  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mi>x</m:mi>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>is  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>=</m:mo>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>sixteen.</m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mi>16</m:mi>
+</m:munder>
+
+</m:mstyle></m:math></para>
+        <para id="id1166014948760">Translation: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4x="16"} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+</example>
+<example id="eip-id1168610171221">
+        <para id="id1166011711692"><m:math><m:mstyle displaystyle="true">
+<m:munder>
+<m:munder>
+<m:mtext>One fifth  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext> of  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>⋅</m:mo>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext> a number  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mi>n</m:mi>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext> is  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>=</m:mo>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext> thirty.</m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mi>30</m:mi>
+</m:munder>
+
+</m:mstyle></m:math></para>
+        <para id="id8615961">Translation: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>30</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {5} } n="30"} {}</m:annotation></m:semantics></m:mstyle></m:math>, or 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>n</m:mi><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mtext>30</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {n}  over  {5} } ="30"} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+</example>
+<example id="eip-id1480830">
+        <para id="id1166021120778"><m:math><m:mstyle displaystyle="true">
+<m:munder>
+<m:munder>
+<m:mtext> Five  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mrow><m:mn>5</m:mn></m:mrow>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext> times  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>⋅</m:mo>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext> a number  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mi>x</m:mi>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext> is  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>=</m:mo>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext> two  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mn>2</m:mn>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext> more than  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>+</m:mo>
+</m:munder>
+
+<m:munder>
+<m:munder>
+<m:mtext> twice  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mrow><m:mi>2</m:mi><m:mo>⋅</m:mo></m:mrow>
+</m:munder>
+
+<m:munder>
+<m:munder>
+<m:mtext> the number.</m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mrow><m:mi>x</m:mi></m:mrow>
+</m:munder>
+
+</m:mstyle></m:math></para>
+        <para id="id1166022584301">Translation: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5x=2+2x} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+      </example></section>
+      <section id="id1166014516876">
+        <title>Practice Set A</title>
+        <para id="id1166023583330">Translate each phrase or sentence into a mathematical expression or equation. </para>
+        <exercise id="id1166011285499"><problem id="oo-id1166012823154">
+            <para id="id1166011689026">Twelve more than a number.   
+</para>
+          </problem>
+        <solution id="eip-id1168864357965"><para id="eip-id1168873175272"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">+</m:mo><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12"+x} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution></exercise>
+        <exercise id="id1166014636394"><problem id="oo-id1166022565993">
+            <para id="id1166023822891">Eight minus a number.    
+</para>
+          </problem>
+        <solution id="eip-id1165072649408"><para id="eip-id8743694"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 - x} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution></exercise>
+        <exercise id="id7901257"><problem id="oo-id1166012230320">
+            <para id="id1166014952414">An unknown quantity less fourteen.  
+</para>
+          </problem>
+        <solution id="eip-id1170376513917"><para id="eip-id5671476"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>14</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - "14"} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution></exercise>
+        <exercise id="id1166013280977"><problem id="oo-id1166025359116">
+            <para id="id1166010266571">Six times a number is fifty-four.   
+</para>
+          </problem>
+        <solution id="eip-id1165785151235"><para id="eip-id1165780534804"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>54</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6x="54"} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution></exercise>
+        <exercise id="id1166022069471"><problem id="oo-id1166012310913">
+            <para id="id1166010689773">Two ninths of a number is eleven.   
+</para>
+          </problem>
+ <solution id="eip-id1170299058228"><para id="eip-id1170297366930"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {9} } x="11"} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>       </exercise>
+        <exercise id="id1166012482035"><problem id="oo-id1166011818278">
+            <para id="id1166017472821">Three more than seven times a number is nine more than five times the number.  
+</para>
+          </problem>
+        <solution id="eip-id1168612071347"><para id="eip-id1168602171413"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn>
+<m:mi>x</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn>
+<m:mi>x</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3+7x=9+5x} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution></exercise>
+        <exercise id="id1166020342994"><problem id="oo-id1166011554146">
+            <para id="id1166023039342">Twice a number less eight is equal to one more than three times the number. 
+</para>
+          </problem>
+        <solution id="eip-id1170934903200"><para id="eip-id7771879"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>3</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x - 8=3x+1} {}</m:annotation></m:semantics></m:mstyle></m:math> or 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn>
+<m:mi>x</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x - 8=1+3x} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution></exercise>
+      </section>
+      <section id="id1166020239958"><title>Sample Set B</title><example id="eip-id5138304">
+        <para id="id1166020246925">Sometimes the structure of the sentence indicates the use of grouping symbols. We’ll be alert for <emphasis effect="italics">commas</emphasis>. They set off terms.</para>
+        <para id="id1166013186157"><m:math><m:mstyle displaystyle="true">
+<m:munder>
+<m:munder>
+<m:mtext>A number  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mrow><m:mo>(</m:mo><m:mi>x</m:mi></m:mrow>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>divided by  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>÷</m:mo>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>four,  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mrow><m:mn>4</m:mn><m:mo>)</m:mo></m:mrow>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>minus  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>-</m:mo>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>six,  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mn>6</m:mn>
+</m:munder>
+<m:munder>
+<m:munder>
+<m:mtext>is  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mo>=</m:mo>
+</m:munder>
+
+<m:munder>
+<m:munder>
+<m:mtext>twelve  </m:mtext>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+<m:mrow><m:mi>12</m:mi></m:mrow>
+</m:munder>
+
+</m:mstyle></m:math></para>
+        <para id="id1166017269364">Translation: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {4} }  - 6="12"} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+</example>
+<example id="eip-id4969424">
+        <para id="id1166013500170">Some phrases and sentences do not translate directly. We must be careful to read them properly. The word <emphasis effect="italics">from</emphasis> often appears in such phrases and sentences. The word <emphasis effect="bold">from</emphasis> means “a point of departure for motion.” The following translation will illustrate this use.</para>
+        
+        <para id="eip-47"><media id="id1166014994386_media" alt="The statement twenty is subtracted from some number can be broken into three parts and converted into a mathematical expression. Some number becomes x, the phrase, is subtracted from, becomes a minus symbol, and twenty becomes the number 20. This translates to the expression x - 20.">
+            <image mime-type="image/png" src="../../media/graphics1-3c16.png" id="id1166014994386__onlineimage" height="67" width="330" print-width="2.25in"/>
+          </media>
+        </para><para id="id1166021722046">Translation: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>20</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - "20"} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+        <para id="id1166025283159">The word <emphasis effect="italics">from</emphasis> indicated the motion (subtraction) is to begin at the point of “some number.”</para>
+</example>
+<example id="eip-id4863277">
+        <para id="id1166012826460">Ten less than some number. Notice that <emphasis effect="italics">less than</emphasis> can be replaced by <emphasis effect="italics">from</emphasis>.</para>
+        <para id="id1166020236875">Ten from some number.</para>
+        <para id="id1166016459154">Translation: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - "10"} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+      </example></section>
+      <section id="id1166014699578"><title>Practice Set B</title><para id="id1166014840895">Translate each phrase or sentence into a mathematical expression or equation.</para>
+        <exercise id="id8469204">
+          <problem id="oo-id3640340">
+            <para id="id1166022630416">A number divided by eight, plus seven, is fifty.   
+</para>
+          </problem>
+<solution id="eip-id1166841062898"><para id="eip-id1166858710633"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>50</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {8} } +7="50"} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+        </exercise>
+        <exercise id="id1166016083768">
+          <problem id="oo-id1166021899469">
+            <para id="id1166014528850">A number divided by three, minus the same number multiplied by six, is one more than the number.  
+</para>
+          </problem>
+<solution id="eip-id1166841278693"><para id="eip-id1166847264820"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn>
+<m:mi>x</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} }  - 6x=x+1} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+        </exercise>
+        <exercise id="id1166025186280">
+          <problem id="oo-id1166010427962">
+            <para id="id1166013817399"> Nine from some number is four.  
+</para>
+          </problem>
+<solution id="eip-id1166858308778"><para id="eip-id1166870788426"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>9</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - 9=4} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+        </exercise>
+        <exercise id="id1166012653412">
+          <problem id="oo-id1166013260615">
+            <para id="id1166013811936">Five less than some quantity is eight. 
+</para>
+          </problem>
+<solution id="eip-id1166864580842"><para id="eip-id1166859707269"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - 5=8} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1166013359644"><title>Exercises</title><para id="id1166014583753">Translate each phrase or sentence to a mathematical expression or equation.</para>
+      <exercise id="id1166025190102">
+        <problem id="oo-id1166021268738">
+          <para id="id1166015851312">A quantity less twelve.   
+</para>
+        </problem>
+<solution id="eip-id1165068869210"><para id="eip-id1165069258267"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - "12"} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166013895684">
+        <problem id="oo-id1166021425643">
+          <para id="id1166012078803">Six more than an unknown number.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166014501508">
+        <problem id="oo-id1166010413562">
+          <para id="id1166023324255">A number minus four.   
+</para>
+        </problem>
+<solution id="eip-id1165070359956"><para id="eip-id1165071235506"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - 4} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166013216508">
+        <problem id="oo-id8476039">
+          <para id="id1166024038021">A number plus seven.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166010738158">
+        <problem id="oo-id1166025279552">
+          <para id="id1166016632146">A number increased by one.  
+</para>
+        </problem>
+<solution id="eip-id8777078"><para id="eip-id1165069287886"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+1} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166016609018">
+        <problem id="oo-id1166010412609">
+          <para id="id1166012331332">A number decreased by ten.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166011967133">
+        <problem id="oo-id1166010295545">
+          <para id="id1166013423172">Negative seven added to some number. 
+</para>
+        </problem>
+<solution id="eip-id1165071915462"><para id="eip-id1165070804694"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 7+x} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166016636161">
+        <problem id="oo-id1166022647850">
+          <para id="id1166016316755">Negative nine added to a number.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166017348108">
+        <problem id="oo-id3629586">
+          <para id="id1166011285286">A number plus the opposite of six.  
+</para>
+        </problem>
+<solution id="eip-id1165068414716"><para id="eip-id1165070704735"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+ left ( - 6 right )} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166014520588">
+        <problem id="oo-id8789637">
+          <para id="id1166016979398">A number minus the opposite of five.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166014587001">
+        <problem id="oo-id1166015459059">
+          <para id="id1166020278399">A number minus the opposite of negative one.  
+</para>
+        </problem>
+<solution id="eip-id1165068904064"><para id="eip-id1165068434279"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mfenced open="[" close="]"><m:mrow><m:mo stretchy="false">−</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x -  left [ -  left ( - 1 right ) right ]} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166017196887">
+        <problem id="oo-id8800619">
+          <para id="id1166016417610">A number minus the opposite of negative twelve.</para>
+        </problem>
+      </exercise>
+      <exercise id="id6396249">
+        <problem id="oo-id1166022941684">
+          <para id="id1166016031565">Eleven added to three times a number.   
+</para>
+        </problem>
+<solution id="eip-id1165068238910"><para id="eip-id1165068519452"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x+"11"} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id6568664">
+        <problem id="oo-id1166021800349">
+          <para id="id1166010297285">Six plus five times an unknown number.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166022504889">
+        <problem id="oo-id1166018014892">
+          <para id="id1166014603171">Twice a number minus seven equals four.  
+</para>
+        </problem>
+<solution id="eip-id1165070863090"><para id="eip-id1165071560658"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x - 7=4} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166016296690">
+        <problem id="oo-id1166013423344">
+          <para id="id7828714">Ten times a quantity increased by two is nine.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166014533483">
+        <problem id="oo-id1166022593632">
+          <para id="id1166012330833">When fourteen is added to two times a number the result is six.  
+</para>
+        </problem>
+<solution id="eip-id1165071582412"><para id="eip-id1165070325229"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>14</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn>
+<m:mi>x</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"14"+2x=6} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166014774993">
+        <problem id="oo-id1166018009441">
+          <para id="id1166014602649">Four times a number minus twenty-nine is eleven.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166014653582">
+        <problem id="oo-id1166025352038">
+          <para id="id1166016460073">Three fifths of a number plus eight is fifty.   
+</para>
+        </problem>
+<solution id="eip-id1165069933375"><para id="eip-id1165069981327"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>50</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } x+8="50"} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id5222003">
+        <problem id="oo-id1166010192754">
+          <para id="id1166014795307">Two ninths of a number plus one fifth is forty-one.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166013089512">
+        <problem id="oo-id1166016291583">
+          <para id="id1166017999888">When four thirds of a number is increased by twelve, the result is five.  
+</para>
+        </problem>
+<solution id="eip-id1165071710048"><para id="eip-id1165070684634"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {3} } x+"12"=5} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166021580924">
+        <problem id="oo-id1166011616612">
+          <para id="id1166016606818">When seven times a number is decreased by two times the number, the result is negative one.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166013763246">
+        <problem id="oo-id1166025161172">
+          <para id="id1166021396938">When eight times a number is increased by five, the result is equal to the original number plus twenty-six.   
+</para>
+        </problem>
+<solution id="eip-id1165069840413"><para id="eip-id1165069977151"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mtext>26</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8x+5=x+"26"} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166011250541">
+        <problem id="oo-id1166022032021">
+          <para id="id1166014773311">Five more than some number is three more than four times the number.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166020765837">
+        <problem id="oo-id1166025645120">
+          <para id="id1166016228082">When a number divided by six is increased by nine, the result is one.  
+</para>
+        </problem>
+<solution id="eip-id1165070771714"><para id="eip-id7945411"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mn>6</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {6} } +9=1} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166016974721">
+        <problem id="oo-id1166011025294">
+          <para id="id1166014981294">A number is equal to itself minus three times itself.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166010847769">
+        <problem id="oo-id1166010148085">
+          <para id="id6024166">A number divided by seven, plus two, is seven­teen.</para>
+        </problem>
+<solution id="eip-id1165070410643"><para id="eip-id1165071248070"><m:math><m:mstyle displaystyle="true"><m:mfrac><m:mi>x</m:mi><m:mn>7</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>17</m:mn></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166014785394">
+        <problem id="oo-id1166010296159">
+          <para id="id1166014048663">A number divided by nine, minus five times the number, is equal to one more than the number.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166012333564">
+        <problem id="oo-id1166025192203">
+          <para id="id1166014893555">When two is subtracted from some number, the result is ten.  
+</para>
+        </problem>
+<solution id="eip-id1165070778534"><para id="eip-id1165069751015"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>10</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - 2="10"} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166022164046">
+        <problem id="oo-id1166010412146">
+          <para id="id1166015248255">When four is subtracted from some number, the result is thirty-one.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166025529774">
+        <problem id="oo-id1166021777591">
+          <para id="id1166014022912">Three less than some number is equal to twice the number minus six.  
+</para>
+        </problem>
+<solution id="eip-id1165068572569"><para id="eip-id1165068628660"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - 3=2x - 6} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166017982139">
+        <problem id="oo-id1166010241144">
+          <para id="id1166016635085">Thirteen less than some number is equal to three times the number added to eight.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166017045161">
+        <problem id="oo-id1166012446558">
+          <para id="id1166011595310">When twelve is subtracted from five times some number, the result is two less than the original number.  
+</para>
+        </problem>
+<solution id="eip-id1165070309139"><para id="eip-id1165071622047"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5x - "12"=x - 2} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166025395276">
+        <problem id="oo-id1166027513761">
+          <para id="id1166014606709">When one is subtracted from three times a num­ber, the result is eight less than six times the original number.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166025429385">
+        <problem id="oo-id1166025052046">
+          <para id="id4947634">When a number is subtracted from six, the result is four more than the original number.  
+</para>
+        </problem>
+<solution id="eip-id1165069913556"><para id="eip-id1165069510655"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 - x=x+4} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166012414883">
+        <problem id="oo-id679892">
+          <para id="id1166023034588">When a number is subtracted from twenty-four, the result is six less than twice the number.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166010114680">
+        <problem id="oo-id1166014679550">
+          <para id="id1166025483260">A number is subtracted from nine. This result is then increased by one. The result is eight more than three times the number.  
+</para>
+        </problem>
+<solution id="eip-id1165069913639"><para id="eip-id1165068895381"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>3</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 - x+1=3x+8} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id1166016396054">
+        <problem id="oo-id1166010955556">
+          <para id="id1166016836523">Five times a number is increased by two. This result is then decreased by three times the num­ber. The result is three more than three times the number.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1166010150889">
+        <problem id="oo-id1166021435115">
+          <para id="id1166020236846">Twice a number is decreased by seven. This re­sult is decreased by four times the number. The result is negative the original number, minus six. 
+</para>
+        </problem>
+<solution id="eip-id1165068576836"><para id="eip-id1165070824125"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn>
+<m:mi>x</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2x - 7 - 4x= - x - 6} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+      </exercise>
+      <exercise id="id8738386">
+        <problem id="oo-id1166026268086">
+          <para id="id1166016491765">Fifteen times a number is decreased by fifteen. This result is then increased by two times the number. The result is negative five times the original number minus the opposite of ten.</para>
+        </problem>
+      </exercise>
+      <section id="id1166017219544">
+        <title>Exercises for Review</title>
+<exercise id="eip-id1165069158164"><problem id="eip-id1165072570156">
+        <para id="id1166014674804">(<link document="m34930"/>)  
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {9} } } {}</m:annotation></m:semantics></m:mstyle></m:math> of what number is 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:mstyle></m:math>?  
+</para></problem>
+<solution id="eip-id1165070373941"><para id="eip-id1165068397287"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution></exercise>
+        <exercise id="id1166022592664">
+          <problem id="oo-id1166019759080">
+            <para id="id1166021976134">(<link document="m34935"/>) Find the value of 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>21</m:mtext><m:mtext>40</m:mtext></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mtext>17</m:mtext><m:mtext>30</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"21"}  over  {"40"} } + {  {"17"}  over  {"30"} } } {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1166016704158">
+          <problem id="oo-id1166025195626">
+            <para id="id1166014589611">(<link document="m34936"/>) Find the value of 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>12</m:mtext></m:mfrac><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  {1}  over  {"12"} } +4 {  {1}  over  {3} } +1 {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:mstyle></m:math>.  
+</para>
+          </problem>
+<solution id="eip-id1165068448763"><para id="eip-id1165069541555"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+        </exercise>
+        <exercise id="id1166014704044">
+          <problem id="oo-id1166014979148">
+            <para id="id1166013996686">(<link document="m34958"/>) Convert 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mtext>11</m:mtext><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "11" {  {1}  over  {5} } } {}</m:annotation></m:semantics></m:mstyle></m:math> to a fraction.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1166017115771">
+          <problem id="oo-id1166023325047">
+            <para id="id1166020046170">(<link document="m35045"/>) Solve the equation 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi>x</m:mi></m:mrow><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3x}  over  {4} } +1= - 5} {}</m:annotation></m:semantics></m:mstyle></m:math>.  
+</para>
+          </problem>
+<solution id="eip-id1165071933904"><para id="eip-id1165068672084"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x= - 8} {}</m:annotation></m:semantics></m:mstyle></m:math></para></solution>
+        </exercise>
+      </section>
+    </section>
+  </content>
+</document>

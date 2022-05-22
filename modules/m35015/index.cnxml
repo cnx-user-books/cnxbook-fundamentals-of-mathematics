@@ -1,0 +1,160 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Summary of Key Concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35015</md:content-id>
+  <md:title>Summary of Key Concepts</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module reviews the key concepts from the chapter "Techniques of Estimation."</md:abstract>
+  <md:uuid>752d296a-a4c1-4e6d-b81c-a3a9851c87b3</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1171661664171"><title>Summary of Key Concepts</title><para id="id1171642390657"><title>Estimation (<link document="m35011"/>)</title><emphasis>Estimation</emphasis> is the process of determining an expected value of a computation.</para>
+      <para id="id1171652376796"><title>Estimation By Rounding (<link document="m35011"/>)</title>The <emphasis>rounding technique</emphasis> estimates the result of a computation by rounding the numbers involved in the computation to one or two nonzero digits. For example, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>512 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 896</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"512 "+" 896"} {}</m:annotation></m:semantics></m:math> can be estimated by 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>500 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 900 </m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext> 1,400</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"500 "+" 900 "=" 1,400"} {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1171653269454"><title>Cluster (<link document="m35012"/>)</title>When several numbers are close to one particular number, they are said to <emphasis>cluster</emphasis> near that particular number.</para>
+      <para id="id1171641678897"><title>Estimation By Clustering (<link document="m35012"/>)</title>The <emphasis>clustering technique of estimation</emphasis> can be used when
+<list id="id1171649533768" list-type="enumerated" number-style="arabic">
+        <item>there are more than two numbers to be added, and</item>
+        <item>clustering occurs.</item>
+      </list>
+
+For example, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>31 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 62 </m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext> 28 </m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext> 59</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"31 "+" 62 "+" 28 "+" 59"} {}</m:annotation></m:semantics></m:math> can be estimated by <newline/>
+
+ <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mrow>
+                      <m:mtext>2 </m:mtext>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mtext> 30</m:mtext>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mo stretchy="false">(</m:mo>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mtext>2 </m:mtext>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mtext> 60</m:mtext>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mtext> 60 </m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext> 120 </m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext> 180</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ \( "2 " cdot " 30" \)  +  \( "2 " cdot " 60" \)  =" 60 "+" 120 "=" 180"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+</para>
+      
+      
+     
+       
+     
+      <para id="id1171672730947"><title>Distributive Property (<link document="m35013"/>)</title>The <emphasis>distributive property</emphasis> is a characteristic of numbers that involves both addition and multiplication. For example, <newline/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>4 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 6</m:mtext></m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mtext> 3 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 4 </m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mrow><m:mtext> 3 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 6 </m:mtext></m:mrow></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext> 12 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 18 </m:mtext></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext> 30</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 \( "4 "+" 6" \)  =" 3 " cdot " 4 "+" 3 " cdot " 6 "=" 12 "+" 18 "=" 30"} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1171658417977"><title>Estimation Using the Distributive Property (<link document="m35013"/>)</title>The <emphasis>distributive property</emphasis> can be used to obtain exact results for a multiplication. <newline/> For example, <newline/>
+  <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>15 </m:mtext>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mtext> 23 </m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mtext> 15 </m:mtext>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mtext>20 </m:mtext>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext> 3</m:mtext>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext> 15 </m:mtext>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mtext> 20 </m:mtext>
+                            </m:mrow>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mrow>
+                              <m:mtext> 15 </m:mtext>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mtext> 3 </m:mtext>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mtext> 300 </m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext> 45 </m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext> 345</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"15 " cdot " 23 "=" 15 " cdot   \( "20 "+" 3" \)  =" 15 " cdot " 20 "+" 15 " cdot " 3 "=" 300 "+" 45 "=" 345"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+</para>
+      
+     
+      <para id="id1171669466214"><title>Estimation by Rounding Fractions (<link document="m35014"/>)</title><emphasis>Estimation by rounding fractions</emphasis> commonly rounds fractions to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math>, 0, and 1. <newline/>For example,<newline/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>12</m:mtext></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>5</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"12"} } + {  {5}  over  {"16"} } } {}</m:annotation></m:semantics></m:math> can be estimated by 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } + {  {1}  over  {4} } = {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+      
+      
+      
+    </section>
+  </content>
+</document>

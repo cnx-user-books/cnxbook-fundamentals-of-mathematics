@@ -1,0 +1,1086 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Proper Fractions, Improper Fractions, and Mixed Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34912</md:content-id>
+  <md:title>Proper Fractions, Improper Fractions, and Mixed Numbers</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses proper fractions, improper fractions, and mixed numbers. By the end of the module students should be able to distinguish between proper fractions, improper fractions, and mixed numbers, convert an improper fraction to a mixed number and convert a mixed number to an improper fraction.</md:abstract>
+  <md:uuid>dce8b062-cd5a-421f-837a-0368c7713767</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1169196006768">
+      <title>Section Overview</title>
+      <list id="id1169201970922" list-type="bulleted">
+        <item>Positive Proper Fractions</item>
+        <item>Positive Improper Fractions</item>
+        <item>Positive Mixed Numbers</item>
+        <item>Relating Positive Improper Fractions and Positive Mixed Numbers</item>
+        <item>Converting an Improper Fraction to a Mixed Number</item>
+        <item>Converting a Mixed Number to an Improper Fraction</item>
+      </list>
+      <para id="id1169197953502">Now that we know what positive fractions are, we consider three types of positive fractions: proper fractions, improper fractions, and mixed numbers.</para>
+    </section>
+    <section id="id1169196209528"><title>Positive Proper Fractions</title><para id="id1169202877547"><title>Positive Proper Fraction</title>Fractions in which the whole number in the numerator is strictly less than the whole number in the denominator are called <term>positive proper fractions</term>. On the number line, proper fractions are located in the interval from 0 to 1. Positive proper fractions are always less than one.</para>
+      <para id="eip-id1164955803263"><media id="id1169197977899_media" alt="A number line. 0 is marked with a black dot, and 1 is marked with a hollow dot. The distance between the two is labeled, all proper fractions are located in this interval. ">
+          <image mime-type="image/png" src="../../media/graphics1-3529.png" id="id1169197977899__onlineimage" width="400" print-width="3in"/>
+        </media>
+      </para>
+      <para id="id1169197959401">The closed circle at 0 indicates that 0 is included, while the open circle at 1 indicates that 1 is not included.</para>
+      <para id="id1169197679467">Some examples of positive proper fractions are</para>
+      <para id="id1169202539787"><m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>20</m:mtext><m:mtext>27</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"20"}  over  {"27"} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>106</m:mtext><m:mtext>255</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"106"}  over  {"255"} } } {}</m:annotation></m:semantics></m:math></para>
+      
+      <para id="id1169196151876">Note that
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>1 </m:mtext><m:mo stretchy="false">&lt;</m:mo><m:mtext> 2</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1 "&lt;" 2"} {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>3 </m:mtext><m:mo stretchy="false">&lt;</m:mo><m:mtext> 5</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"3 "&lt;" 5"} {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>20 </m:mtext><m:mo stretchy="false">&lt;</m:mo><m:mtext> 27</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"20 "&lt;" 27"} {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>106 </m:mtext><m:mo stretchy="false">&lt;</m:mo><m:mtext> 225</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"106 "&lt;" 225"} {}</m:annotation></m:semantics></m:math>.</para>
+    </section>
+    <section id="id1169197682889">
+      <title>Positive Improper Fractions</title>
+      <para id="id1169197611115"><title>Positive Improper Fractions</title>Fractions in which the whole number in the numerator is greater than or equal to the whole number in the denominator are called <term>positive improper fractions</term>. On the number line, improper fractions lie to the right of (and including) 1. Positive improper fractions are always greater than or equal to 1.</para>
+      
+      <para id="eip-494"><media id="id1169197728034_media" alt="A number line. 0 is labeled, and 1 is marked with a hollow dot. An arrow is drawn to the right, labeled Positive improper fractions.">
+          <image mime-type="image/png" src="../../media/graphics2-c6c5.png" id="id1169197728034__onlineimage" width="400" print-width="3in"/>
+        </media>
+      </para><para id="id1169195852178">Some examples of positive improper fractions are</para>
+      <para id="id1169196282655"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {2} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {5} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {4} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>105</m:mtext><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"105"}  over  {"16"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169196330142">Note that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">≥</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 &gt;= 2} {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">≥</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 &gt;= 5} {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">≥</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 &gt;= 4} {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>105</m:mtext><m:mo stretchy="false">≥</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"105" &gt;= "16"} {}</m:annotation></m:semantics></m:math>.</para>
+    </section>
+    <section id="id1169195811668">
+      <title>Positive Mixed Numbers</title>
+      <para id="id1169197887752"><title>Positive Mixed Numbers </title>A number of the form</para>
+      
+      <para id="eip-312"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>nonzero whole number </m:mtext>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mtext> proper fraction</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"nonzero whole number "+" proper fraction"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1169199161852">is called a <term>positive mixed number</term>. For example, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math> is a mixed number. On the number line, mixed numbers are located in the interval to the right of (and includ­ing) 1. Mixed numbers are always greater than or equal to 1.</para>
+      <para id="id1169197949210"><media id="id1169195981457_media" alt="A number line. 0 is labeled, and 1 is marked with a hollow dot. An arrow is drawn to the right, labeled Positive mixed numbers.">
+            <image mime-type="image/png" src="../../media/4_2_1.png" id="id1169195981457__onlineimage" width="400" print-width="3in"/>
+          </media>
+
+      </para>
+    </section>
+    <section id="id1169196359052"><title>Relating Positive Improper Fractions and Positive Mixed Numbers</title><para id="id1169196115432">A relationship between improper fractions and mixed numbers is suggested by two facts. The first is that improper fractions and mixed numbers are located in the same interval on the number line. The second fact, that mixed numbers are the sum of a natural number and a fraction, can be seen by making the following observa­tions.</para>
+      <para id="id1169197788984">Divide a whole quantity into 3 equal parts.</para>
+      
+      <para id="eip-210"><media id="id1169195894973_media" alt="A rectangle divided into three equal parts with vertical bars. Each part contains the fraction, one-third. ">
+          <image mime-type="image/png" src="../../media/graphics4-e8d8.png" id="id1169195894973__onlineimage" width="150" print-width="1in"/>
+        </media></para><para id="id1169202083161">Now, consider the following examples by observing the respective shaded areas.</para>
+      
+      <para id="eip-770"><media id="id1169196278479_media" alt="A rectangle divided into three equal parts with vertical bars. Each part contains the fraction, one-third. The two leftmost parts are shaded.">
+          <image mime-type="image/png" src="../../media/graphics5-7fdf.png" id="id1169196278479__onlineimage" width="150" print-width="1in"/>
+        </media></para><para id="id1169195930788">In the shaded region, there are 2 one thirds, or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1169207099756">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mrow>
+                      <m:mfenced open="(" close=")">
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>3</m:mn>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>2</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{2 left ( {  {1}  over  {3} }  right )= {  {2}  over  {3} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1169201978875"><media id="id1169196162548_media" alt="A rectangle divided into three equal parts with vertical bars. Each part contains the fraction, one-third. All three parts are shaded.">
+            <image mime-type="image/png" src="../../media/graphics6-ebac.png" id="id1169196162548__onlineimage" width="150" print-width="1in"/>
+          </media>
+      
+      </para>
+      <para id="id1169198004291">There are 3 one thirds, or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {3} } } {}</m:annotation></m:semantics></m:math>, or 1.</para>
+      
+      <para id="eip-133"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mrow>
+                      <m:mfenced open="(" close=")">
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>3</m:mn>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>3</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mi/>
+                    <m:mspace width="8px"/>
+                      <m:mrow>
+                        <m:mtext>or</m:mtext>
+                      </m:mrow>
+                    <m:mspace width="8px"/> 
+                    <m:mi/>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{3 left ( {  {1}  over  {3} }  right )= {  {3}  over  {3} } ````` ital "or"````1} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1169196003462">Thus,</para>
+      
+      <para id="eip-496"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>3</m:mn>
+                      <m:mn>3</m:mn>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>1</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {3} } =1} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1169197916694">Improper fraction = whole number.</para>
+      <para id="id1169197981205"><media id="id1169202931846_media" alt="A rectangle divided into three equal parts with vertical bars. Each part contains the fraction, one-third. All three parts are shaded.">
+            <image mime-type="image/png" src="../../media/graphics7-2813.png" id="id1169202931846__onlineimage" width="150" print-width="1in"/>
+          </media>
+       
+          <media id="id1169195827645_media" alt="A rectangle divided into three equal parts with vertical bars. Each part contains the fraction, one-third. One part is shaded.">
+            <image mime-type="image/png" src="../../media/graphics8-8d42.png" id="id1169195827645__onlineimage" width="150" print-width="1in"/>
+          </media>
+
+      </para>
+      <para id="id1169196339248">There are 4 one thirds, or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {3} } } {}</m:annotation></m:semantics></m:math>, or 1 and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1169196840916"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mfenced><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mi/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 left ( {  {1}  over  {3} }  right )= {  {4}  over  {3} } `} {}</m:annotation></m:semantics></m:math>or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mi/><m:mspace width="8px"/><m:mrow><m:mtext>and</m:mtext></m:mrow><m:mspace width="8px"/><m:mi/><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1``` ital "and"``` {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169197938480">The terms 1 and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> can be represented as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1+ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169199485187">Thus,</para>
+      <para id="id1169197905442"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {3} } =1 {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1169197719682">Improper fraction = mixed number.</para>
+      <para id="id1169199422038"><media id="id1169196002128_media" alt="A rectangle divided into three equal parts with vertical bars. Each part contains the fraction, one-third. All three parts are shaded.">
+            <image mime-type="image/png" src="../../media/graphics9-2fdb.png" id="id1169196002128__onlineimage" width="150" print-width="1in"/>
+          </media>
+
+          <media id="id1169202476375_media" alt="A rectangle divided into three equal parts with vertical bars. Each part contains the fraction, one-third. The two leftmost parts are shaded.">
+            <image mime-type="image/png" src="../../media/graphics10-fb68.png" id="id1169202476375__onlineimage" width="150" print-width="1in"/>
+          </media>
+ 
+      </para>
+      <para id="id1169197045999">There are 5 one thirds, or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3} } } {}</m:annotation></m:semantics></m:math>, or 1 and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="eip-id1170369504170"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mrow>
+                      <m:mfenced open="(" close=")">
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>3</m:mn>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>5</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mi/>
+                    <m:mspace width="8px"/>
+                      <m:mrow>
+                        <m:mtext>or</m:mtext>
+                      </m:mrow>
+                    <m:mspace width="8px"/>
+                    <m:mi/>
+                    <m:mn>1</m:mn>
+                    <m:mi/>
+                    <m:mspace width="8px"/>
+                      <m:mrow>
+                        <m:mtext>and</m:mtext>
+                      </m:mrow>
+                    <m:mspace width="8px"/>
+                    <m:mi/>
+                    <m:mfrac>
+                      <m:mn>2</m:mn>
+                      <m:mn>3</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{5 left ( {  {1}  over  {3} }  right )= {  {5}  over  {3} } `````````` ital "or"``````````1`` ital "and"`` {  {2}  over  {3} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1169196203035">The terms 1 and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> can be represented as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1+ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1169197678481">Thus,</para>
+      <para id="id1169197140282"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3} } =1 {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1169196168351">Improper fraction = mixed number.</para>
+      <para id="id1169197102545"><media id="id1169201658782_media" alt="A rectangle divided into three equal parts with vertical bars. Each part contains the fraction, one-third. All three parts are shaded.">
+            <image mime-type="image/png" src="../../media/graphics11-9301.png" id="id1169201658782__onlineimage" width="150" print-width="1in"/>
+          </media>
+   
+          <media id="id1169197995705_media" alt="A rectangle divided into three equal parts with vertical bars. Each part contains the fraction, one-third. All three parts are shaded.">
+            <image mime-type="image/png" src="../../media/graphics12-dd76.png" id="id1169197995705__onlineimage" width="150" print-width="1in"/>
+          </media>
+    
+      </para>
+      <para id="id1169197767799">There are 6 one thirds, or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {3} } } {}</m:annotation></m:semantics></m:math>, or 2.</para>
+      
+      <para id="eip-355"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>6</m:mn>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfenced open="(" close=")">
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>3</m:mn>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>6</m:mn>
+                          <m:mn>3</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{6 left ( {  {1}  over  {3} }  right )= {  {6}  over  {3} } =2} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1169201528589">Thus, </para>
+      <para id="id1169202927492">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>6</m:mn>
+                      <m:mn>3</m:mn>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {3} } =2} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1169207009978">Improper fraction = whole number.</para>
+      <para id="id1169203027559">The following important fact is illustrated in the preceding examples.</para>
+      <para id="id1169197675059"><title>Mixed Number = Natural Number + Proper Fraction</title><term>Mixed numbers</term> are the <emphasis effect="italics">sum</emphasis> of a natural number and a proper fraction. Mixed number = (natural number) + (proper fraction)</para>
+      <para id="id1169204852481">For example 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> can be expressed as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1+ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> The fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math> can be expressed as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5+ {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1169197737836">It is important to note that a number such as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5+ {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math> does <emphasis effect="italics">not</emphasis> indicate multiplication. To indicate multiplication, we would need to use a multiplication symbol (such as ⋅)</para>
+      
+      <note id="eip-875"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math> means 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5+ {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math> and <emphasis effect="italics">not</emphasis>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">⋅</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 cdot  {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math>, which means 5 times
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math> or 5 multiplied by 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math>.</note><para id="id1169198112554">Thus, mixed numbers may be represented by improper fractions, and improper fractions may be represented by mixed numbers.</para>
+    </section>
+    <section id="id1169197755329"><title>Converting Improper Fractions to Mixed Numbers</title><para id="id1169197951298">To understand how we might convert an improper fraction to a mixed number, let's consider the fraction, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {3} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1169195849942"><media id="id1169195849942_media" alt="Two rectangles, each divided into three equal parts with vertical bars. Each part contains the fraction, one-third. Under the rectangle on the left is a bracket grouping all three parts together to make one. Under the rectangle on the right is a bracket under only one of the three parts, making one third. The two bracketed segments are added together.">
+          <image mime-type="image/png" src="../../media/graphics13-ffa0.png" id="id1169195849942__onlineimage" width="300" print-width="2.5in"/>
+        </media>
+      </para>
+      
+      <para id="id1169197668623"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mrow>
+<m:mfrac><m:mi>4</m:mi><m:mi>3</m:mi></m:mfrac></m:mrow></m:mtd>
+<m:mtd>
+<m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mrow>
+<m:mfrac><m:mi>1</m:mi><m:mi>3</m:mi></m:mfrac>
+<m:mo>+</m:mo>
+<m:mfrac><m:mi>1</m:mi><m:mi>3</m:mi></m:mfrac>
+<m:mo>+</m:mo>
+<m:mfrac><m:mi>1</m:mi><m:mi>3</m:mi></m:mfrac>
+</m:mrow>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mrow><m:mi>1</m:mi></m:mrow>
+</m:munder>
+<m:mo>+</m:mo>
+<m:mfrac><m:mi>1</m:mi><m:mi>3</m:mi></m:mfrac></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+<m:mi>1</m:mi>
+<m:mo>+</m:mo>
+<m:mfrac><m:mi>1</m:mi><m:mi>3</m:mi></m:mfrac>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+<m:mi>1</m:mi>
+<m:mfrac><m:mi>1</m:mi><m:mi>3</m:mi></m:mfrac>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+      <para id="id1169197502177">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {3} } =1 {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1169197835780">We can illustrate a procedure for converting an improper fraction to a mixed number using this example. However, the conversion is <emphasis effect="italics">more easily</emphasis> accomplished by dividing the numerator by the denominator and using the result to write the mixed number.</para>
+      <para id="id1169197863272"><title>Converting an Improper Fraction to a Mixed Number</title>To convert an improper fraction to a mixed number, divide the numerator by the denominator.
+<list id="id1169196211036" list-type="enumerated" number-style="arabic">
+        <item>The whole number part of the mixed number is the quotient.</item>
+        <item>The fractional part of the mixed number is the remainder written over the divisor (the denominator of the improper fraction).</item>
+      </list>
+</para>
+      
+      <section id="id1169195899164"><title>Sample Set A</title><para id="id1169196234874">Convert each improper fraction to its corresponding mixed number.</para>
+<example id="eip-id1168345217631"><para id="id1169196307541"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3} } } {}</m:annotation></m:semantics></m:math> Divide 5 by 3. </para>
+        <para id="eip-id1169677970673"><media id="id1169196292515_media" alt="Long division. 5 divided by 3 is one, with a remainder of 2. 1 is the whole number part, 2 is the numerator of the fractional part, and 3 is the denominator of the fractional part.">
+            <image mime-type="image/png" src="../../media/graphics14-a8e8.png" id="id1169196292515__onlineimage" width="300" print-width="2.5in"/>
+          </media>
+       </para>
+        <para id="id1169196292457">The improper fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3} } =1 {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1169198000461"><media id="id1169196207134_media" alt="A number line with marks for 0, 1, and 2. In between 1 and 2 is a dot for five thirds, or one and two thirds.">
+              <image mime-type="image/png" src="../../media/graphics15-b56e.png" id="id1169196207134__onlineimage" width="200" print-width="2in"/>
+            </media>
+       
+        </para>
+</example>
+<example id="eip-id1168321362609"><para id="id1169195866152"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>46</m:mtext><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"46"}  over  {9} } } {}</m:annotation></m:semantics></m:math>. Divide 46 by 9.</para>
+        <para id="eip-id1163981547939"><media id="id1169197759795_media" alt="Long division. 46 divided by 9 is 5, with a remainder of 1. 5 is the whole number part, 1 is the numerator of the fractional part, and 9 is the denominator of the fractional part.">
+            <image mime-type="image/png" src="../../media/graphics16-92c7.png" id="id1169197759795__onlineimage" width="300" print-width="2.5in"/>
+          </media>
+        </para>
+        <para id="id1169202223941">The improper fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mtext>46</m:mtext><m:mn>9</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"46"}  over  {9} } =5 {  {1}  over  {9} } } {}</m:annotation></m:semantics></m:math>.</para>
+        
+<para id="eip-id1163990874154"><media id="id1169209032182_media" alt="A number line with marks for 0, 5, and 6. In between 5 and 6 is a dot showing the location of forty-six ninths, or five and one ninth.">
+            <image mime-type="image/png" src="../../media/graphics17-6883.png" id="id1169209032182__onlineimage" width="200" print-width="2in"/>
+          </media>
+      </para></example>
+<example id="eip-id1168345135830"><para id="id1169202204006"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>83</m:mtext><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"83"}  over  {"11"} } } {}</m:annotation></m:semantics></m:math>. Divide 83 by 11.</para>
+        <para id="id1169197642465"><media id="id1169196340234_media" alt="Long division. 83 divided by 11 is 7, with a remainder of 6. 7 is the whole number part, 6 is the numerator of the fractional part, and 11 is the denominator of the fractional part.">
+              <image mime-type="image/png" src="../../media/graphics18-b774.png" id="id1169196340234__onlineimage" width="300" print-width="2.5in"/>
+            </media>
+          
+        </para>
+        <para id="id1169195835170">The improper fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mtext>83</m:mtext><m:mtext>11</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>7</m:mn></m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"83"}  over  {"11"} } =7 {  {6}  over  {"11"} } } {}</m:annotation></m:semantics></m:math>.</para>
+    <para id="eip-id1168206128989"><media id="id1169196044653_media" alt="A number line with marks for 0, 7, and 8. In between 7 and 8 is a dot showing the location of eighty-three elevenths, or seven and six elevenths.">
+            <image mime-type="image/png" src="../../media/graphics19-be1a.png" id="id1169196044653__onlineimage" width="200" print-width="2in"/>
+          </media>
+        </para></example>
+<example id="eip-id1168325331845"><para id="id1169208814243"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>104</m:mtext><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"104"}  over  {4} } } {}</m:annotation></m:semantics></m:math>Divide 104 by 4. </para>
+        <para id="eip-id1171659903788"><media id="id1169195935254_media" alt="Long division. 104 divided by 4 is 26, with a remainder of 0. 26 is the whole number part, 0 is the numerator of the fractional part, and 4 is the denominator of the fractional part.">
+            <image mime-type="image/png" src="../../media/graphics20-454e.png" id="id1169195935254__onlineimage" width="300" print-width="2.5in"/>
+          </media>
+        </para>
+        <para id="id1169195946382">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mtext>104</m:mtext>
+                          <m:mn>4</m:mn>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>26</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mn>0</m:mn>
+                          <m:mn>4</m:mn>
+                        </m:mfrac>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>26</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {"104"}  over  {4} } ="26" {  {0}  over  {4} } ="26"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1169201802545">The improper fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>104</m:mtext><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mtext>26</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"104"}  over  {4} } ="26"} {}</m:annotation></m:semantics></m:math>.</para>
+        
+<para id="eip-id1171671537603"><media id="id1169198237551_media" alt="A number line with marks for 0, 25, 26, and 27. 26 is marked with a dot, showing the location of one hundred four fourths. ">
+            <image mime-type="image/png" src="../../media/graphics21-e2a1.png" id="id1169198237551__onlineimage" width="200" print-width="2in"/>
+          </media>
+        </para></example>
+      </section>
+      <section id="id1169196018658">
+        <title>Practice Set A</title>
+        <para id="id1169197062758">Convert each improper fraction to its corresponding mixed number.</para>
+        <exercise id="id1169196247170"><problem id="oo-id1169197675407">
+            <para id="id1169199187648"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1164546115974"><para id="eip-id1618422"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1169196269837"><problem id="oo-id1169197789042">
+            <para id="id1169202241511"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>11</m:mtext><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"11"}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1164551528944"><para id="eip-id1164558122761"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1169196109458"><problem id="oo-id1169197999765">
+            <para id="id1169195827471"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>14</m:mtext><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"14"}  over  {"11"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1165614947150"><para id="eip-id1165615953053"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>3</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {3}  over  {"11"} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1169195932296"><problem id="oo-id1169196323588">
+            <para id="id1169196341684"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>31</m:mtext><m:mtext>13</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"31"}  over  {"13"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1167553346279"><para id="eip-id8892143"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>5</m:mn><m:mtext>13</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 {  {5}  over  {"13"} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1169195807144"><problem id="oo-id1169195978283">
+            <para id="id1169196771103"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>79</m:mtext><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"79"}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id2417044"><para id="eip-id1167554353899"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>19</m:mtext><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"19" {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1169201809791"><problem id="oo-id1169209207687">
+            <para id="id1169203880736"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>496</m:mtext><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"496"}  over  {8} } } {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+        <solution id="eip-id1167434033319"><para id="eip-id1167430766802">62</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1169195839520"><title>Converting Mixed Numbers to Improper Fractions</title><para id="id1169196035088">To understand how to convert a mixed number to an improper fraction, we'll recall </para>
+      <para id="id1169195884456">mixed number = (natural number) + (proper fraction) </para>
+      <para id="eip-43">and consider the following diagram.</para><para id="id1169196116070"><media id="id1169197064187_media" alt="Two rectangles, each divided into three equal parts with vertical bars. Each part contains the fraction, one-third. Under the rectangle on the left is a bracket grouping all three parts together to make one. Under the rectangle on the right is a bracket under two of the three parts, making two thirds. The two bracketed segments are added together.">
+            <image mime-type="image/png" src="../../media/graphics22-e47d.png" id="id1169197064187__onlineimage" width="300" print-width="2.5in"/>
+          </media>
+        
+      </para>
+      <para id="eip-id1168328144631"><media id="id1169202521798_media" alt="one and two thirds is equivalent to one plus two thirds. One can be expanded to three thirds, making the original number equivalent to the sum of five one-thirds, or five thirds.">
+          <image mime-type="image/png" src="../../media/graphics23-0738.png" id="id1169202521798__onlineimage" width="200" print-width="1.75in"/>
+        </media>
+      </para>
+      <para id="id1169195912331">Recall that multiplication describes repeated addition.</para>
+      <para id="id1169196185403">Notice that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3} } } {}</m:annotation></m:semantics></m:math> can be obtained from 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> using multiplication in the following way. </para>
+      <para id="id1169199165206">Multiply: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 cdot 1 - 3} {}</m:annotation></m:semantics></m:math></para>
+      
+      <para id="eip-166"><media id="id1169197054682_media" alt="one and two thirds, with an arrow drawn from the denominator to the one.">
+          <image mime-type="image/png" src="../../media/graphics24-866f.png" id="id1169197054682__onlineimage" width="40" print-width=".4in"/>
+        </media></para><para id="id1169197692285">Add: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3+2=5} {}</m:annotation></m:semantics></m:math>. Place the 5 over the 3: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1169196333216">The procedure for converting a mixed number to an improper fraction is illustrated in this example.</para>
+<para id="eip-id1168044749280"><title>Converting a Mixed Number to an Improper Fraction</title>
+       To convert a mixed number to an improper fraction,
+<list id="eip-id1164479021439" list-type="enumerated">      
+<item id="id1169196170091"> Multiply the denominator of the fractional part of the mixed number by the whole number part.</item>
+      <item id="id1169201893293"> To this product, add the numerator of the fractional part.</item>
+      <item id="id1169202680143"> Place this result over the denominator of the fractional part.</item></list></para>
+      <section id="id1169204862516">
+        <title>Sample Set B</title>
+<para id="eip-866">Convert each mixed number to an improper fraction.</para><example id="eip-id1164479335226">
+        
+        <para id="id1169195886428">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mfrac>
+                        <m:mn>7</m:mn>
+                        <m:mn>8</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{5 {  {7}  over  {8} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+<list id="eip-id1164485277302" list-type="enumerated">        
+<item id="id1169202794670">Multiply: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>40</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 cdot 5="40"} {}</m:annotation></m:semantics></m:math>.</item>
+        <item id="id1169196168931">Add: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>40 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 7 </m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext> 47</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"40 "+" 7 "=" 47"} {}</m:annotation></m:semantics></m:math>.</item>
+        <item id="id1169196032130">Place 47 over 8: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>47</m:mtext><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"47"}  over  {8} } } {}</m:annotation></m:semantics></m:math>.</item></list>
+        <para id="id1169197658744">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>47</m:mtext><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {7}  over  {8} } = {  {"47"}  over  {8} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1169197959865"><media id="id1169197959865_media" alt="A number line showing the location of five and seven eigths, or 47 eights. ">
+            <image mime-type="image/png" src="../../media/graphics25-be96.png" id="id1169197959865__onlineimage" width="250" print-width="2.5in"/>
+          </media>
+        </para>
+</example>
+<example id="eip-id1164476890677">
+        <para id="id1169197164402">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>16</m:mtext>
+                      <m:mfrac>
+                        <m:mn>2</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"16" {  {2}  over  {3} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+<list id="eip-id1164480534190" list-type="enumerated">
+        <item id="id1169197527430"> Multiply: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>3 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 16 </m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext> 48</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"3 " cdot " 16 "=" 48"} {}</m:annotation></m:semantics></m:math>.</item>
+        <item id="id1169195828384"> Add: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>48 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 2 </m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext> 50</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"48 "+" 2 "=" 50"} {}</m:annotation></m:semantics></m:math>.</item>
+        <item id="id1169197479659"> Place 50 over 3: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>50</m:mtext><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"50"}  over  {3} } } {}</m:annotation></m:semantics></m:math></item></list>
+        <para id="id1169196340872">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>16</m:mtext><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>50</m:mtext><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16" {  {2}  over  {3} } = {  {"50"}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></example>
+      </section>
+      <section id="id1169202497211">
+        <title>Practice Set B</title>
+        <para id="id1169197505614">Convert each mixed number to its corresponding improper fraction.</para>
+        <exercise id="id1169197891812">
+          <problem id="oo-id1169201962613">
+            <para id="id1169195985807"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164476600302"><para id="eip-id1164476660322"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>33</m:mtext><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"33"}  over  {4} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1169197669435">
+          <problem id="oo-id1169195977587">
+            <para id="id1169195880617"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164491498597"><para id="eip-id1164481146456"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>28</m:mtext><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"28"}  over  {5} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1169198328992">
+          <problem id="oo-id1169197791130">
+            <para id="id1169198159521"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>4</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {4}  over  {"15"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164476978469"><para id="eip-id1164484880249"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>19</m:mtext><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"19"}  over  {"15"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1169197847148">
+          <problem id="oo-id1169195823527">
+            <para id="id1169196187955">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mfrac><m:mn>2</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12" {  {2}  over  {7} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164479844227"><para id="eip-id1164477164608"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>86</m:mtext><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"86"}  over  {7} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1169197639035"><title>Exercises</title><para id="id1169198024881">For the following 15 problems, identify each expression as a proper fraction, an improper fraction, or a mixed number.</para>
+      <exercise id="id1169196230756">
+        <problem id="oo-id1169204762337">
+          <para id="id1169197864490"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {2} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1164539074866"><para id="eip-id1164553722312">improper fraction</para></solution>
+      </exercise>
+      <exercise id="id1169196023604">
+        <problem id="oo-id1169197609375">
+          <para id="id1169196351718"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {9} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169198125264">
+        <problem id="oo-id1169197858806">
+          <para id="id1169197531795"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {7} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1164541406284"><para id="eip-id1164558810077">proper fraction</para></solution>
+      </exercise>
+      <exercise id="id1169196057645">
+        <problem id="oo-id1169196336522">
+          <para id="id1169197926844">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169197659672">
+        <problem id="oo-id1169196202049">
+          <para id="id1169197881372"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id4124632"><para id="eip-id5239783">mixed number</para></solution>
+      </exercise>
+      <exercise id="id1169196114098">
+        <problem id="oo-id1169202122301">
+          <para id="id1169196206322">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>11</m:mtext><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"11"}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169197989209">
+        <problem id="oo-id1169198166102">
+          <para id="id1169197971929"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>1,</m:mn><m:mtext>001</m:mtext></m:mrow><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1,"001"}  over  {"12"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1164560277849"><para id="eip-id1164543791237">improper fraction</para></solution>
+      </exercise>
+      <exercise id="id1169196060139">
+        <problem id="oo-id1169195835866">
+          <para id="id1169202194504"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>191</m:mtext><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"191" {  {4}  over  {5} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169195935022">
+        <problem id="oo-id1169196048539">
+          <para id="id1169197638977"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>9</m:mn><m:mtext>13</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {9}  over  {"13"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164542826388"><para id="eip-id1164542896297">mixed number</para></solution>
+      </exercise>
+      <exercise id="id1169197919188">
+        <problem id="oo-id1169204860685">
+          <para id="id1169198004059"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>31</m:mtext><m:mfrac><m:mn>6</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"31" {  {6}  over  {7} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169198021575">
+        <problem id="oo-id1169196131808">
+          <para id="id1169197125060"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mtext>40</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  {1}  over  {"40"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1164541197785"><para id="eip-id1164542982284">mixed number</para></solution>
+      </exercise>
+      <exercise id="id1169204973845">
+        <problem id="oo-id1169196000230">
+          <para id="id1169202068504"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>55</m:mtext><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"55"}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169197873306">
+        <problem id="oo-id1169197896394">
+          <para id="id1169202201980"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {9} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164541971122"><para id="eip-id1164541992403">proper fraction</para></solution>
+      </exercise>
+      <exercise id="id1169202161495">
+        <problem id="oo-id1169196002766">
+          <para id="id1169196077483"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {9} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169209530980">
+        <problem id="oo-id1169195879051">
+          <para id="id1169198003421"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>101</m:mtext><m:mfrac><m:mn>1</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"101" {  {1}  over  {"11"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1164540470981"><para id="eip-id1164537378156">mixed number</para></solution>
+      </exercise>
+      <para id="id1169196333158">For the following 15 problems, convert each of the improper fractions to its corresponding mixed number.</para>
+      <exercise id="id1169198321897">
+        <problem id="oo-id1169197792290">
+          <para id="id1169203694966"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>11</m:mtext><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"11"}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169197772671">
+        <problem id="oo-id1169198199560">
+          <para id="id1169197493820"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>14</m:mtext><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"14"}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164542291870"><para id="eip-id1164542375752"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169197682599">
+        <problem id="oo-id1169195913027">
+          <para id="id1169197852426"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>25</m:mtext><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"25"}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169196023894">
+        <problem id="oo-id1169209651071">
+          <para id="id1169197905616">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>35</m:mtext><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"35"}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164547376129"><para id="eip-id1164544163194"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169196162780">
+        <problem id="oo-id1169195873065">
+          <para id="id1169196093955"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>71</m:mtext><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"71"}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169195931020">
+        <problem id="oo-id1169195810044">
+          <para id="id1169202020288"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>63</m:mtext><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"63"}  over  {7} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164539369238"><para id="eip-id1164557238495"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169195839982">
+        <problem id="oo-id1169197825456">
+          <para id="id1169196967317">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>121</m:mtext><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"121"}  over  {"11"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169197633410">
+        <problem id="oo-id1169208850921">
+          <para id="id1169196131692">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>165</m:mtext><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"165"}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164542007940"><para id="eip-id1164543000791"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>13</m:mtext><m:mfrac><m:mn>9</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"13" {  {9}  over  {"12"} } } {}</m:annotation></m:semantics></m:math> or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>13</m:mtext><m:mfrac><m:mn>3</m:mn><m:mtext>4</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"13" {  {3}  over  {"4"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169197542277">
+        <problem id="oo-id1169197782546">
+          <para id="id1169197641305"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>346</m:mtext><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"346"}  over  {"15"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169195993405">
+        <problem id="oo-id1169196195031">
+          <para id="id1169197590559"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>5,</m:mn><m:mtext>000</m:mtext></m:mrow><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5,"000"}  over  {9} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164545968378"><para id="eip-id1164551958155"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>555</m:mtext><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"555" {  {5}  over  {9} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169196131924">
+        <problem id="oo-id1169196257193">
+          <para id="id1169197709010"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>23</m:mtext><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"23"}  over  {5} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169196290427">
+        <problem id="oo-id1169198010265">
+          <para id="id1169195903552"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>73</m:mtext><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"73"}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164543844786"><para id="eip-id1164536059385"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>36</m:mtext><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"36" {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169197420112">
+        <problem id="oo-id1169195837490">
+          <para id="id1169197745527"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>19</m:mtext><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"19"}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169197815084">
+        <problem id="oo-id1169197729948">
+          <para id="id1169196018948"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>316</m:mtext><m:mtext>41</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"316"}  over  {"41"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164559302084"><para id="eip-id1164555127139"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>7</m:mn><m:mfrac><m:mtext>29</m:mtext><m:mtext>41</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 {  {"29"}  over  {"41"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169196243632">
+        <problem id="oo-id1169196203209">
+          <para id="id1169197486048"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>800</m:mtext><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"800"}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      
+      <para id="id1169197736792">For the following 15 problems, convert each of the mixed num­bers to its corresponding improper fraction.</para>
+      <exercise id="id1169197894886">
+        <problem id="oo-id1169195864230">
+          <para id="id1169197655728"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id5474545"><para id="eip-id1164541992528"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>33</m:mtext><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"33"}  over  {8} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169206103304">
+        <problem id="oo-id1169202738929">
+          <para id="id1169195949688"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>5</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {5}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169196199265">
+        <problem id="oo-id1169196359980">
+          <para id="id1169201895855"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 {  {7}  over  {9} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164543841712"><para id="eip-id1164540829869"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>61</m:mtext><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"61"}  over  {9} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169195878239">
+        <problem id="oo-id1169209081372">
+          <para id="id1169196042164">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>15</m:mtext><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15" {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169196016976">
+        <problem id="oo-id1169197887984">
+          <para id="id1169196315642"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mfrac><m:mn>5</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" {  {5}  over  {"11"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164543742731"><para id="eip-id1164539334474"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>115</m:mtext><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"115"}  over  {"11"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169197565427">
+        <problem id="oo-id1169206995414">
+          <para id="id1169195878819"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>15</m:mtext><m:mfrac><m:mn>3</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15" {  {3}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169195925056">
+        <problem id="oo-id1169196068004">
+          <para id="id1169197741815"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id5757328"><para id="eip-id1164560881188"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>26</m:mtext><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"26"}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169196032536">
+        <problem id="oo-id1169195881139">
+          <para id="id1169197731920"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169196127090">
+        <problem id="oo-id1169202469127">
+          <para id="id1169197724264"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>21</m:mtext><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"21" {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164539905711"><para id="eip-id1164554822278"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>107</m:mtext><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"107"}  over  {5} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169196353632">
+        <problem id="oo-id1169197676799">
+          <para id="id1169196343540"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>17</m:mtext><m:mfrac><m:mn>9</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"17" {  {9}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169201655731">
+        <problem id="oo-id1169197996459">
+          <para id="id1169195822889"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mfrac><m:mtext>20</m:mtext><m:mtext>21</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 {  {"20"}  over  {"21"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164536371574"><para id="eip-id1164542835730"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>209</m:mtext><m:mtext>21</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"209"}  over  {"21"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169199421743">
+        <problem id="oo-id1169202388870">
+          <para id="id1169195796821"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {1}  over  {"16"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169196287527">
+        <problem id="oo-id1169202163962">
+          <para id="id1169195985401"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>90</m:mtext><m:mfrac><m:mn>1</m:mn><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"90" {  {1}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164549606671"><para id="eip-id1164553359809"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>9001</m:mtext><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"9001"}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169197639325">
+        <problem id="oo-id1169201761008">
+          <para id="id1169199422149"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>300</m:mtext><m:mfrac><m:mtext>43</m:mtext><m:mrow><m:mn>1,</m:mn><m:mtext>000</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"300" {  {"43"}  over  {1,"000"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1169195839694">
+        <problem id="oo-id1169198019777">
+          <para id="id1169197840652"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>19</m:mtext><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"19" {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164543837478"><para id="eip-id1164542333923"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>159</m:mtext><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"159"}  over  {8} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169197907994">
+        <problem id="oo-id1169196769961">
+          <para id="id1169195972135">Why does 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 {  {4}  over  {7} } } {}</m:annotation></m:semantics></m:math> not qualify as a mixed number? <note id="id1169197962939" type="Hint"><label>Hint</label>See the definition of a mixed number.</note></para>
+        </problem>
+      </exercise>
+      <exercise id="eip-id1168023763477"><problem id="eip-id1168016409133"><para id="eip-id1168021771698"> Why does 5 qualify as a mixed number?</para> <note id="id2962692" type="Hint">See the definition of a mixed number. </note></problem>
+<solution id="eip-id1168018224134"><para id="eip-id1168017297540">… because it may be written as <m:math>
+<m:mn>5</m:mn>
+<m:mfrac><m:mn>0</m:mn><m:mn>n</m:mn>
+</m:mfrac></m:math> , where <m:math>
+<m:mi>n</m:mi></m:math>  is any positive whole number.</para></solution>
+</exercise>
+      
+       
+        <para id="id1169197541597"><title>Calculator Problems</title>For the following 8 problems, use a calculator to convert each mixed number to its corresponding improper fraction.</para>
+        <exercise id="id1169197773889">
+          <problem id="oo-id1169197826558">
+            <para id="id1169196001954"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>35</m:mtext><m:mfrac><m:mtext>11</m:mtext><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"35" {  {"11"}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1169198141164">
+          <problem id="oo-id1169196245140">
+            <para id="id1169197736328"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>27</m:mtext><m:mfrac><m:mn>5</m:mn><m:mtext>61</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"27" {  {5}  over  {"61"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164541381634"><para id="eip-id1164539424604"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>1,</m:mn><m:mtext>652</m:mtext></m:mrow><m:mtext>61</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1,"652"}  over  {"61"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1169195798065">
+          <problem id="oo-id1169198163094">
+            <para id="id1169197849062"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>83</m:mtext><m:mfrac><m:mtext>40</m:mtext><m:mtext>41</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"83" {  {"40"}  over  {"41"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1169195963549">
+          <problem id="oo-id1169196265429">
+            <para id="id1169195830066"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>105</m:mtext><m:mfrac><m:mtext>21</m:mtext><m:mtext>23</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"105" {  {"21"}  over  {"23"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164550350686"><para id="eip-id1164543567788"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>2,</m:mn><m:mtext>436</m:mtext></m:mrow><m:mtext>23</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2,"436"}  over  {"23"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1169197704718">
+          <problem id="oo-id1169195936182">
+            <para id="id1169196150716"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>72</m:mtext><m:mfrac><m:mtext>605</m:mtext><m:mtext>606</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"72" {  {"605"}  over  {"606"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1169197632888">
+          <problem id="oo-id1169195809928">
+            <para id="id1169195964825"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>816</m:mtext><m:mfrac><m:mtext>19</m:mtext><m:mtext>25</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"816" {  {"19"}  over  {"25"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1164544172067"><para id="eip-id1164553161783"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>20</m:mtext><m:mi>,</m:mi><m:mtext>419</m:mtext></m:mrow><m:mtext>25</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"20","419"}  over  {"25"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1169197048178">
+          <problem id="oo-id1169196188419">
+            <para id="id1169196303746"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>708</m:mtext><m:mfrac><m:mtext>42</m:mtext><m:mtext>51</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"708" {  {"42"}  over  {"51"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1169204780976">
+          <problem id="oo-id1169196112126">
+            <para id="id1169202711705"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6,</m:mn><m:mtext>012</m:mtext><m:mfrac><m:mrow><m:mn>4,</m:mn><m:mtext>216</m:mtext></m:mrow><m:mrow><m:mn>8,</m:mn><m:mtext>117</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6,"012" {  {4,"216"}  over  {8,"117"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id4829514"><para id="eip-id3551278"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>48</m:mtext><m:mi>,</m:mi><m:mtext>803</m:mtext><m:mi>,</m:mi><m:mtext>620</m:mtext></m:mrow><m:mrow><m:mn>8,</m:mn><m:mtext>117</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"48","803","620"}  over  {8,"117"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+     
+      
+    <section id="eip-830"><title>Exercises For Review</title><exercise id="id1169195871930">
+          <problem id="oo-id1169195893001">
+            <para id="id1169195910881">(<link document="m34780"/>) Round 2,614,000 to the nearest thousand.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169197517250">
+          <problem id="oo-id1169196272563">
+            <para id="id1169197868028">(<link document="m34863"/>) Find the product. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>1,004 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>1,005</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1,004 " cdot "1,005"} {}</m:annotation></m:semantics></m:math>.  </para>
+          </problem>
+<solution id="eip-id1171792387302"><para id="eip-id1171792400599">1,009,020</para></solution>
+        </exercise>
+        <exercise id="id1169196197583">
+          <problem id="oo-id1169197044781">
+            <para id="id1169202836434">(<link document="m34866"/>) Determine if 41,826 is divisible by 2 and 3.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1169195956415">
+          <problem id="oo-id1169197841928">
+            <para id="id1169196239282">(<link document="m34876"/>) Find the least common multiple of 28 and 36. </para>
+          </problem>
+<solution id="eip-id1171780240841"><para id="eip-id1171792502643">252</para></solution>
+        </exercise>
+        <exercise id="id1169201890392">
+          <problem id="oo-id1169196144162">
+            <para id="id1169195809174">(<link document="m34908"/>) Specify the numerator and denominator of the fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>12</m:mtext><m:mtext>19</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"12"}  over  {"19"} } } {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+        </exercise>
+</section>
+    </section>
+  </content>
+</document>

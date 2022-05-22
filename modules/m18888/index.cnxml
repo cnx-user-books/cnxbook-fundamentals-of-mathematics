@@ -1,0 +1,49 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Objectives</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m18888</md:content-id>
+  <md:title>Objectives</md:title>
+  <md:abstract>This module contains Chapter 2 of Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr.</md:abstract>
+  <md:uuid>5ab04cc1-523a-47e6-b10c-4e5b4e648493</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="02 Chapter.pdf" strength="3">Download Chapter 2</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id1168882369707">After completing this chapter, you should</para>
+    
+    <list id="id1168870992204" list-type="bulleted"><title>Multiplication of Whole Numbers (<link document="m34863"/>)</title><item>understand the process of multiplication</item>
+      <item>be able to multiply whole numbers</item>
+      <item>be able to simplify multiplications with numbers ending in zero</item>
+      <item>be able to use a calculator to multiply one whole number by another</item>
+    </list>
+    
+    <list id="id1168870454336" list-type="bulleted"><title>Concepts of Division of Whole Numbers (<link document="m34864"/>)</title><item>understand the process of division</item>
+      <item>understand division of a nonzero number into zero</item>
+      <item>understand why division by zero is undefined</item>
+      <item>be able to use a calculator to divide one whole number by another</item>
+    </list>
+    
+    <list id="id1168871861889" list-type="bulleted"><title>Division of Whole Numbers (<link document="m34865"/>)</title><item>be able to divide a whole number by a single or multiple digit divisor</item>
+      <item>be able to interpret a calculator statement that a division results in a remainder</item>
+    </list>
+    
+    <list id="id1168872127854" list-type="bulleted"><title>Some Interesting Facts about Division (<link document="m34866"/>)</title><item>be able to recognize a whole number that is divisible by 2, 3, 4, 5, 6, 8, 9, or 10</item>
+    </list>
+    
+    <list id="id1168916700794" list-type="bulleted"><title>Properties of Multiplication (<link document="m34867"/>)</title><item>understand and appreciate the commutative and associative properties of multiplication</item>
+      <item>understand why 1 is the multiplicative identity</item>
+    </list>
+
+  </content>
+  
+</document>

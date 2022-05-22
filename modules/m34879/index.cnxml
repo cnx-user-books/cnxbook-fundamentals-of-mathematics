@@ -1,0 +1,223 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Proficiency Exam </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34879</md:content-id>
+  <md:title>Proficiency Exam </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module is a proficiency exam to the chapter "Exponents, Roots, Factorization of Whole Numbers." Each problem is accompanied with a reference link pointing back to the module that discusses the type of problem demonstrated in the question. The problems in this exam are accompanied by solutions.</md:abstract>
+  <md:uuid>d4827dba-a11b-4037-a5b9-f0a1c44a38d9</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1169310439211"><title>Proficiency Exam</title><exercise id="id1169311103338">
+        <problem id="oo-id1169317577438">
+          <para id="id1169324057929">(<link document="m34871"/>) In the number <m:math><m:mrow><m:msup><m:mi>8</m:mi><m:mi>5</m:mi></m:msup></m:mrow></m:math>, write the names used for the number 8 and the number 5. </para>
+        </problem>
+<solution id="eip-id1170083816187"><para id="eip-id1170085549305">base; exponent</para></solution>
+      </exercise>
+      <exercise id="id1169315727445">
+        <problem id="oo-id1169317673375">
+          <para id="id1169310439204">(<link document="m34871"/>) Write using exponents. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">×</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">×</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">×</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">×</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">×</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12" times "12" times "12" times "12" times "12" times "12" times "12"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1170078089859"><para id="eip-id1170069841672"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mtext>12</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12" rSup { size 8{7} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169317577745">
+        <problem id="oo-id1169310719493">
+          <para id="id1169311102927">(<link document="m34871"/>) Expand 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>9</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 rSup { size 8{4} } } {}</m:annotation></m:semantics></m:math>. 
+</para>
+        </problem>
+<solution id="eip-id1170070485668"><para id="eip-id1170071339192"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mn>9</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>9</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>9</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>9</m:mn></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>6,</m:mn></m:mrow><m:mtext>561</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 rSup { size 8{4} } =9 cdot 9 cdot 9 cdot 9=6,"561"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <para id="id2383551">For problems 4-15, determine the value of each expression.</para>
+      <exercise id="id1169318102773">
+        <problem id="oo-id1169311603303">
+          <para id="id1169310718886">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170086073350"><para id="eip-id1170073518782">64</para></solution>
+      </exercise>
+      <exercise id="id1169311826318">
+        <problem id="oo-id1169310684538">
+          <para id="id1169318599090">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 rSup { size 8{5} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170085771158"><para id="eip-id1170069845140">1</para></solution>
+      </exercise>
+      <exercise id="id1169311603329">
+        <problem id="oo-id1169310763572">
+          <para id="id1169310718964">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>0</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170073529043"><para id="eip-id1170073481834">0</para></solution>
+      </exercise>
+      <exercise id="id1169317820438">
+        <problem id="oo-id1169311243891">
+          <para id="id1169329463131">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{6} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170084702942"><para id="eip-id1170081480058">64</para></solution>
+      </exercise>
+      <exercise id="id1169312107397">
+        <problem id="oo-id1169313351652">
+          <para id="id1169317577608">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mtext>49</m:mtext></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"49"} } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170073484353"><para id="eip-id1170083201932">7</para></solution>
+      </exercise>
+      <exercise id="id1169310442655">
+        <problem id="oo-id1169310605915">
+          <para id="id1169317820699">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>27</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{3} }  {"27"} } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170085980848"><para id="eip-id1170084870179">3</para></solution>
+      </exercise>
+      <exercise id="id1169316379464">
+        <problem id="oo-id1169310438799">
+          <para id="id1169321695461">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{8} }  {1} } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170073526814"><para id="eip-id1170069718668">1</para></solution>
+      </exercise>
+      <exercise id="id1169310684414">
+        <problem id="oo-id1169317819614">
+          <para id="id1169322036595">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>16</m:mtext><m:mo stretchy="false">+</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mo stretchy="false">(</m:mo></m:mrow></m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16"+2 cdot  \( 8 - 6 \) } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170073449079"><para id="eip-id1170081074536">20</para></solution>
+      </exercise>
+      <exercise id="id1169318102721">
+        <problem id="oo-id1169310772038">
+          <para id="id1169321910614">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msqrt><m:mtext>100</m:mtext></m:msqrt></m:mrow><m:mo stretchy="false">+</m:mo><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow></m:mrow><m:mo stretchy="false">−</m:mo><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 rSup { size 8{3} }  -  sqrt {"100"} +8 cdot 2 - "20" div 5} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1170069867395"><para id="eip-id1170083489759">127</para></solution>
+      </exercise>
+      <exercise id="id1169310439119">
+        <problem id="oo-id1169317005034">
+          <para id="id1169310604262">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mfrac><m:mrow><m:msup><m:mn>8</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow><m:mrow><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mfrac><m:mrow><m:msup><m:mn>6</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow><m:mtext>29</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 cdot  {  {8 rSup { size 8{2} }  - 2 cdot 3 rSup { size 8{2} } }  over  {5 rSup { size 8{2} }  - 2} }  cdot  {  {6 rSup { size 8{3} }  - 4 cdot 5 rSup { size 8{2} } }  over  {"29"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170073536767"><para id="eip-id1170084485334">24</para></solution>
+      </exercise>
+      <exercise id="id1169310772155">
+        <problem id="oo-id1169317576824">
+          <para id="id1169311603662">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">+</m:mo><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mrow><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">−</m:mo><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mfrac><m:mrow><m:mi>5</m:mi><m:mo>⋅</m:mo><m:mi>7</m:mi><m:mo>-</m:mo><m:msqrt><m:mi>81</m:mi></m:msqrt></m:mrow>
+<m:mrow><m:mi>7</m:mi><m:mo>+</m:mo><m:mi>3</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"20"+2 rSup { size 8{4} } }  over  {2 rSup { size 8{3} }  cdot 2 - 5 cdot 2} }  cdot  {  {6 rSup { size 8{3} }  - 4 cdot 5 rSup { size 8{2} } }  over  {"29"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1170084667823"><para id="eip-id1170084584612">8</para></solution>
+      </exercise>
+      <exercise id="id1169317005158">
+        <problem id="oo-id1169312106692">
+          <para id="id1169310684205">(<link document="m34872"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfenced open="[" close="]"><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mrow><m:mtext>33</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:msqrt><m:mtext>49</m:mtext></m:msqrt></m:mrow></m:mfenced></m:mrow></m:mfenced><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mfenced open="[" close="]"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">−</m:mo><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ left (8 - 3 right ) rSup { size 8{2} } + left ("33" - 4 sqrt {"49"}  right ) right ] - 2 left [ left ("10" - 3 rSup { size 8{2} }  right )+9 right ] - 5} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170084594802"><para id="eip-id1170069868720">5</para></solution>
+      </exercise>
+      <para id="id1169310442550">For problems 16-20, find the prime factorization of each whole number. If the number is prime, write "prime."</para>
+      <exercise id="id1169310442759">
+        <problem id="oo-id1169317819745">
+          <para id="id1169317003883">(<link document="m34873"/>) 18 
+</para>
+        </problem>
+<solution id="eip-id1170086052741"><para id="eip-id1170069851162"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 rSup { size 8{2} }  cdot 2} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169310683460">
+        <problem id="oo-id1169311102633">
+          <para id="id1169310443288">(<link document="m34873"/>) 68 
+</para>
+        </problem>
+<solution id="eip-id1170084740662"><para id="eip-id1170067653938"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mtext>17</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{2} }  cdot "17"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169310771835">
+        <problem id="oo-id1169311603976">
+          <para id="id1169310710630">(<link document="m34873"/>) 142 
+</para>
+        </problem>
+<solution id="eip-id1170069866581"><para id="eip-id1170073381566"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>71</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 cdot "71"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1169311243610">
+        <problem id="oo-id1169310771469">
+          <para id="id1169310762827">(<link document="m34873"/>) 151 </para>
+        </problem>
+<solution id="eip-id1170072517140"><para id="eip-id1170072421009">prime</para></solution>
+      </exercise>
+      <exercise id="id1169317576596">
+        <problem id="oo-id1169311573233">
+          <para id="id1169324970057">(<link document="m34873"/>) 468  
+</para>
+        </problem>
+<solution id="eip-id1170077717306"><para id="eip-id1170086019453"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mmultiscripts><m:mtext/><m:mprescripts/><m:none/><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mmultiscripts><m:mo stretchy="false">⋅</m:mo><m:mtext>13</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{2} }  cdot 3"" lSup { size 8{2} }  cdot "13"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      
+      <para id="id1169312577401">For problems 21 and 22, find the greatest common factor.</para>
+      <exercise id="id1169321680282">
+        <problem id="oo-id1169310683395">
+          <para id="id1169311572626">(<link document="m34874"/>) 200 and 36 </para>
+        </problem>
+<solution id="eip-id1170080142911"><para id="eip-id1170075535708">4</para></solution>
+      </exercise>
+      <exercise id="id1169311243669">
+        <problem id="oo-id1169317473224">
+          <para id="id1169311103659">(<link document="m34874"/>) 900 and 135 </para>
+        </problem>
+<solution id="eip-id1170073738017"><para id="eip-id1170075493123">45</para></solution>
+      </exercise>
+      <exercise id="id1169311102509">
+        <problem id="oo-id1169310438675">
+          <para id="id1169310719016">(<link document="m34874"/>) Write all the factors of 36. </para>
+        </problem>
+<solution id="eip-id1170086001253"><para id="eip-id1170073474208">1, 2, 3, 4, 6, 9, 12, 18, 36</para></solution>
+      </exercise>
+      <exercise id="id1169316379334">
+        <problem id="oo-id1169311250279">
+          <para id="id1169316380569">(<link document="m34874"/>) Write all the divisors of 18. </para>
+        </problem>
+<solution id="eip-id1170071342823"><para id="eip-id1170071359259">1, 2, 3, 6, 9, 18</para></solution>
+      </exercise>
+      <exercise id="id1169311603178">
+        <problem id="oo-id1169317576863">
+          <para id="id1169311243218">(<link document="m34874"/>) Does 7 divide into 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>6</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 rSup { size 8{2} }  cdot 6 rSup { size 8{3} }  cdot 7 rSup { size 8{4} }  cdot 8} {}</m:annotation></m:semantics></m:math>? Explain. </para>
+        </problem>
+<solution id="eip-id1170073371243"><para id="eip-id1170075798259">Yes, because one of the (prime) factors of the number is 7.</para></solution>
+      </exercise>
+      <exercise id="id1169317779740">
+        <problem id="oo-id1169311572750">
+          <para id="id1169317576680">(<link document="m34874"/>) Is 3 a factor of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">⋅</m:mo><m:msup><m:mn>4</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{6} }  cdot 3 rSup { size 8{2} }  cdot 5 rSup { size 8{3} }  cdot 4 rSup { size 8{6} } } {}</m:annotation></m:semantics></m:math>? Explain. </para>
+        </problem>
+<solution id="eip-id1170083168812"><para id="eip-id1170085774686">Yes, because it is one of the factors of the number.</para></solution>
+      </exercise>
+      <exercise id="id1169310604876">
+        <problem id="oo-id1169310439034">
+          <para id="id1169311011797">(<link document="m34874"/>) Does 13 divide into 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mtext>11</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:msup><m:mtext>12</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">⋅</m:mo><m:msup><m:mtext>15</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11" rSup { size 8{3} }  cdot "12" rSup { size 8{4} }  cdot "15" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>? Explain. </para>
+        </problem>
+<solution id="eip-id1170085825624"><para id="eip-id1170085825625">No, because the prime 13 is not a factor any of the listed factors of the number.</para></solution>
+      </exercise>
+      <para id="id1169318103387">For problems 28 and 29, find the least common multiple.</para>
+      <exercise id="id1169310762919">
+        <problem id="oo-id1169317819066">
+          <para id="id1169310684251">(<link document="m34876"/>) 432 and 180 </para>
+        </problem>
+<solution id="eip-id1170085926343"><para id="eip-id1170085926344">2,160</para></solution>
+      </exercise>
+      <exercise id="id1169310719180">
+        <problem id="oo-id1169310439289">
+          <para id="id1169318626822">(<link document="m34876"/>) 28, 40, and 95 </para>
+        </problem>
+<solution id="eip-id1170075733910"><para id="eip-id1170075733911">5,320</para></solution>
+      </exercise>
+    </section>
+  </content>
+</document>

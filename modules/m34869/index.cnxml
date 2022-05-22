@@ -1,0 +1,575 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Exercise Supplement </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34869</md:content-id>
+  <md:title>Exercise Supplement </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module is an exercise supplement for the chapter "Multiplication and Division of Whole Numbers" and contains many exercise problems. Odd problems are accompanied by solutions.</md:abstract>
+  <md:uuid>e3dfa3be-fe22-479e-ae9c-b2bf866c6004</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+   <section id="fs-id1167981145130"><title>Exercise Supplement</title>
+      <section id="id1168586709097">
+        <title>Multiplication of Whole Numbers (<link document="m34863"/>)</title>
+        <exercise id="id1168585214886"><problem id="oo-id1168599571542">
+            <para id="id1168586506818">In the multiplication 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">×</m:mo><m:mn>9</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>45</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 times 9="45"} {}</m:annotation></m:semantics></m:math>, 5 and 9 are called<space effect="underline" count="10"/>and 45 is called the<space effect="underline" count="10"/>.</para>
+          </problem>
+        <solution id="eip-id1166085841895"><para id="eip-id5548904">factors; product</para></solution></exercise>
+        <exercise id="id1168586649236">
+          <problem id="oo-id1168598000887">
+            <para id="id1168589229004">In the multiplication 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">×</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>32</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 times 8="32"} {}</m:annotation></m:semantics></m:math>, 4 and 8 are called<space effect="underline" count="10"/>and 32 is called the<space effect="underline" count="10"/>. </para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1168583644763">
+        <title>Concepts of Division of Whole Numbers (<link document="m34864"/>)</title>
+        <exercise id="id1168583521343"><problem id="oo-id1168599272400">
+            <para id="id1168586360350">In the division 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>24</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"24" div 6=4} {}</m:annotation></m:semantics></m:math>, 6 is called the<space effect="underline" count="10"/>, and 4 is called the<space effect="underline" count="10"/>.</para>
+          </problem>
+        <solution id="eip-id1169296835723"><para id="eip-id1169294064200">divisor; quotient</para></solution></exercise>
+        <exercise id="id1168585217844">
+          <problem id="oo-id1168586928732">
+            <para id="id1168586272922">In the division 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>36</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>18</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"36" div 2="18"} {}</m:annotation></m:semantics></m:math>, 2 is called the<space effect="underline" count="10"/>, and 18 is called the<space effect="underline" count="10"/>. </para>
+          </problem>
+        </exercise>
+        
+      </section>
+      <section id="id1168586305035">
+        <title>Some Interesting Facts about Division (<link document="m34866"/>)</title>
+        <exercise id="id1168586363018"><problem id="oo-id1168590154467">
+            <para id="id1168589260717">A number is divisible by 2 only if its last digit is<space effect="underline" count="10"/>.</para>
+          </problem>
+        <solution id="eip-id1171904632536"><para id="eip-id1171908981759">an even digit (0, 2, 4, 6, or 8)</para></solution></exercise>
+        <exercise id="id1168585184177">
+          <problem id="oo-id1168598283117">
+            <para id="id1168586449826">A number is divisible by 3 only if<space effect="underline" count="10"/> of its digits is divisible by 3.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168586465834"><problem id="oo-id1168589213081">
+            <para id="id1168585542017">A number is divisible by 4 only if the rightmost two digits form a number that is<space effect="underline" count="10"/>.</para>
+          </problem>
+        <solution id="eip-id3195883"><para id="eip-id1703006">divisible by 4</para></solution></exercise>
+        
+      </section>
+      <section id="id1168585526067">
+        <title>Multiplication and Division of Whole Numbers (<link document="m34863"/>,<link document="m34865"/>)</title>
+        <para id="id1168586599541">Find each product or quotient.</para>
+        <exercise id="id1168585178725">
+          <problem id="oo-id1168585867023">
+            <para id="id1168586633576"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>24</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn> 3</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168584944121"><problem id="oo-id1168589823042">
+            <para id="id1168585405359"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>14</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn> 8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> </para>
+          </problem>
+        <solution id="eip-id1169294863388"><para id="eip-id1169295005716">112</para></solution></exercise>
+        <exercise id="id1168585331005"><problem id="oo-id1168589193449">
+            <para id="id1168585204404">
+<m:math><m:mrow><m:mtext>21</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>7</m:mn></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        
+        <exercise id="id1168585427473"><problem id="oo-id1168588101449">
+            <para id="id1168585170430">
+<m:math><m:mrow><m:mtext>35</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>5</m:mn></m:mrow></m:math>      </para>
+          </problem>
+        <solution id="eip-id1168017360415"><para id="eip-id1168026516639">7</para></solution></exercise>
+        <exercise id="id1168585450499"><problem id="oo-id1168601592204">
+            <para id="id1168586507514"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>36</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>22</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168590337612"><problem id="oo-id1168588102305">
+            <para id="id1168585107378"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>87</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>35</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        <solution id="eip-id1169314069983"><para id="eip-id1169309888937">3,045</para></solution></exercise>
+        <exercise id="id1168586376574"><problem id="oo-id1168592763826">
+            <para id="id1168586643146"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>117</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>42</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168583806904"><problem id="oo-id1168587923260">
+            <para id="id1168586433294"><m:math><m:mrow><m:mtext>208</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>52</m:mtext></m:mrow></m:math>      </para>
+          </problem>
+        <solution id="eip-id8367716"><para id="eip-id1169207542820">4</para></solution></exercise>
+        <exercise id="id1168584956640"><problem id="oo-id1168598284742">
+            <para id="id1168586386245"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>521</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  87</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168585411797"><problem id="oo-id1168590124664">
+            <para id="id1168585685075"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1005</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>    15</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        <solution id="eip-id1168020296022"><para id="eip-id1168023470328">15,075</para></solution></exercise>
+        <exercise id="id1168586576731"><problem id="oo-id1168588081985">
+            <para id="id1168583828364">
+<m:math><m:mrow><m:mtext>1338</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>446</m:mtext></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168583475175"><problem id="oo-id1168601633562">
+            <para id="id1168586590783">
+<m:math><m:mrow><m:mtext>2814</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>201</m:mtext></m:mrow></m:math></para>
+          </problem>
+        <solution id="eip-id1166069801476"><para id="eip-id1166086279625">14</para></solution></exercise>
+        <exercise id="id1168586639550"><problem id="oo-id1168588096056">
+            <para id="id1168586626163"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5521</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168586375878"><problem id="oo-id1168590018550">
+            <para id="id1168585469223"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>6016</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>    7</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        <solution id="eip-id1166075877081"><para id="eip-id1166066657483">42,112</para></solution></exercise>
+        <exercise id="id1168583543146"><problem id="oo-id1168589285647">
+            <para id="id1168586587361">
+<m:math><m:mrow><m:mtext>576</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>24</m:mtext></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168586464732"><problem id="oo-id1168588082893">
+            <para id="id1168583815024">
+<m:math><m:mrow><m:mtext>3969</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>63</m:mtext></m:mrow></m:math>     </para>
+          </problem>
+        <solution id="eip-id1167438587580"><para id="eip-id1588094">63</para></solution></exercise>
+        <exercise id="id1168584956872"><problem id="oo-id1168597190190">
+            <para id="id1168589932562"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5482</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  322</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168585422601"><problem id="oo-id1168592661339">
+            <para id="id1168586478166"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>9104</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  115</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>   </para>
+
+          </problem>
+        <solution id="eip-id1167436613160"><para id="eip-id1167447560150">1,046,960</para></solution></exercise>
+        <exercise id="id1168586570467"><problem id="oo-id1168587183722">
+            <para id="id1168585435941"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>6102</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>1000</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168585461451"><problem id="oo-id1168588086351">
+            <para id="id1168586267606"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>10101</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>10000</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+     <solution id="eip-id1166641310705"><para id="eip-id1166637214757">101,010,000</para></solution>   </exercise>
+        <exercise id="id1168585868551"><problem id="oo-id1168588090808">
+            <para id="id1168586571859">
+<m:math><m:mrow><m:mtext>162</m:mtext><m:mi>,</m:mi><m:mtext>006</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>31</m:mtext></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168583612668"><problem id="oo-id1168588215822">
+            <para id="id1168589257776"><m:math><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">÷</m:mo><m:mtext>25</m:mtext></m:mrow></m:math>          </para>
+          </problem>
+        <solution id="eip-id1164324464477"><para id="eip-id1164324471768">0</para></solution></exercise>
+        <exercise id="id1168586607139"><problem id="oo-id1168585836226">
+            <para id="id1168586257346">
+<m:math><m:mrow><m:mtext>25</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168583544248"><problem id="oo-id1168583899010">
+            <para id="id1168583697677">
+<m:math><m:mrow><m:mtext>4280</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>10</m:mtext></m:mrow></m:math></para>
+          </problem>
+        <solution id="eip-id1169300288147"><para id="eip-id1169295377692">428</para></solution></exercise>
+        
+        <exercise id="id1168585586084"><problem id="oo-id1168588100258">
+            <para id="id1168586477586">
+<m:math><m:mrow><m:mtext>2126000</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>100</m:mtext></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168585584344"><problem id="oo-id1168588204672">
+            <para id="id1168586615433">
+<m:math><m:mrow><m:mtext>84</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>15</m:mtext></m:mrow></m:math>     </para>
+          </problem>
+        <solution id="eip-id1165665560868"><para id="eip-id1165671651144">5 remainder 9</para></solution></exercise>
+        <exercise id="id1168585915541"><problem id="oo-id1168597399872">
+            <para id="id1168586630618">
+<m:math><m:mrow><m:mtext>126</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168586541000"><problem id="oo-id1168589816702">
+            <para id="id1168585431765">
+<m:math><m:mrow><m:mtext>424</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+          </problem>
+        <solution id="eip-id1172323314041"><para id="eip-id6192650">not defined</para></solution></exercise>
+        <exercise id="id1168583670750"><problem id="oo-id1168587027951">
+            <para id="id1168583666516">
+<m:math><m:mrow><m:mtext>1198</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>46</m:mtext></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168583638963"><problem id="oo-id1168584895778">
+            <para id="id1168583465504">
+<m:math><m:mrow><m:mtext>995</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>31</m:mtext></m:mrow></m:math></para>
+          </problem>
+        <solution id="eip-id1166636917325"><para id="eip-id1166645293424">32 remainder 3</para></solution></exercise>
+        <exercise id="id1168583843754"><problem id="oo-id1168588441390">
+            <para id="id1168586506702">
+<m:math><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">÷</m:mo><m:mtext>18</m:mtext></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168583544016"><problem id="oo-id1168585387669">
+            <para id="id1168587153947">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>2162</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>1421</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>    </para>
+          </problem>
+        <solution id="eip-id1168027643746"><para id="eip-id1168030991311">3,072,202</para></solution></exercise>
+        <exercise id="id1168583703361"><problem id="oo-id1168589932080">
+            <para id="id1168585151639">
+<m:math><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">×</m:mo><m:mn>0</m:mn></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168586637346"><problem id="oo-id1168585584750">
+            <para id="id1168589692665">
+<m:math><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">×</m:mo><m:mn>0</m:mn></m:mrow></m:math>      </para>
+          </problem>
+        <solution id="eip-id1169293969536"><para id="eip-id1169293967086">0</para></solution></exercise>
+        <exercise id="id1168585221092"><problem id="oo-id1168585178551">
+            <para id="id1168586376864">
+<m:math><m:mrow><m:mtext>64</m:mtext><m:mo stretchy="false">×</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168583524823"><problem id="oo-id1168583642153">
+            <para id="id1168583584596">
+<m:math><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">×</m:mo><m:mn>0</m:mn></m:mrow></m:math>      </para>
+          </problem>
+        <solution id="eip-id1166635839955"><para id="eip-id1166637824893">0</para></solution></exercise>
+        <exercise id="id1168585638089"><problem id="oo-id1168585520557">
+            <para id="id1168583642385">
+<m:math><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168583735947"><problem id="oo-id1168585595256">
+            <para id="id1168585129559">
+<m:math><m:mrow><m:mtext>14</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>0</m:mn></m:mrow></m:math> </para>
+          </problem>
+        <solution id="eip-id1165668455059"><para id="eip-id1165654547073">not defined</para></solution></exercise>
+        <exercise id="id1168586601513"><problem id="oo-id1168585682042">
+            <para id="id1168585361070">
+<m:math><m:mrow><m:mtext>35</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>1</m:mn></m:mrow></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1168583586626"><problem id="oo-id1168583777533">
+            <para id="id1168603588729">
+<m:math><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>1</m:mn></m:mrow></m:math>      </para>
+          </problem>
+        <solution id="eip-id1171919247508"><para id="eip-id1171915258667">1</para></solution></exercise>
+      </section>
+      <section id="id1168594932008">
+        <title>Properties of Multiplication (<link document="m34867"/>)</title>
+        <exercise id="id1168583465040">
+          <problem id="oo-id1168585175187">
+            <para id="id1168585135765">Use the commutative property of multiplication to rewrite 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>36</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>128</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"36" times "128"} {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168585191412"><problem id="oo-id1168585484071">
+            <para id="id1168585628209">Use the commutative property of multiplication to rewrite 
+<m:math><m:mrow><m:mtext>114</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>226</m:mtext></m:mrow></m:math>. 
+</para>
+          </problem>
+        <solution id="eip-id1166637369138"><para id="eip-id1166650609486"><m:math><m:mrow><m:mtext>226</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>114</m:mtext></m:mrow></m:math></para></solution></exercise>
+        <exercise id="id1168584869717">
+          <problem id="oo-id1168585306053">
+            <para id="id1168585661998">Use the associative property of multiplication to rewrite 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⋅</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 5 cdot 4 \)  cdot 8} {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168585195182"><problem id="oo-id1168585209840">
+            <para id="id1168585453863">Use the associative property of multiplication to rewrite 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>16</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mtext>14</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>0</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16" cdot  \( "14" cdot 0 \) } {}</m:annotation></m:semantics></m:math>. 
+</para>
+          </problem>
+        <solution id="eip-id1166636947725"><para id="eip-id1166637155727"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>16</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>14</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⋅</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "16" cdot "14" \)  cdot 0} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      </section>
+      <section id="id1168585203824">
+        <title>Multiplication and Division of Whole Numbers (<link document="m34863"/>,<link document="m34865"/>)</title>
+        <exercise id="id1168585388423">
+          <problem id="oo-id1168583782927">
+            <para id="id1168586394713">A computer store is selling diskettes for $4 each. At this price, how much would 15 diskettes cost?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168583659556"><problem id="oo-id1168586272748">
+            <para id="id1168583478539">Light travels 186,000 miles in one second. How far does light travel in 23 seconds? </para>
+          </problem>
+        <solution id="eip-id1172311722906"><para id="eip-id1172311656536">4,278,000</para></solution></exercise>
+        <exercise id="id1168585330019">
+          <problem id="oo-id1168586717449">
+            <para id="id1168583678870">A dinner bill for eight people comes to exactly $112. How much should each person pay if they all agree to split the bill equally?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1168586695815"><problem id="oo-id1168585623182">
+            <para id="id1168585248658">Each of the 33 students in a math class buys a textbook. If the bookstore sells $1089 worth of books, what is the price of each book? </para>
+          </problem>
+        <solution id="eip-id1169321669264"><para id="eip-id1169294063834">$33</para></solution></exercise>
+      </section>
+   </section> 
+  </content>
+</document>

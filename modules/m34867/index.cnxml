@@ -1,0 +1,525 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Properties of Multiplication </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34867</md:content-id>
+  <md:title>Properties of Multiplication </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses properties of multiplication of whole numbers. By the end of the module students should be able to understand and appreciate the commutative and associative properties of multiplication and understand why 1 is the multiplicative identity.</md:abstract>
+  <md:uuid>3cd7fe90-7d4b-4ec8-8713-0e0ec88fbfef</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    
+    <section id="id1165277112860">
+      <title>Section Overview</title>
+      <list id="id1165265947673" list-type="bulleted">
+        <item>The Commutative Property of Multiplication</item>
+        <item>The Associative Property of Multiplication</item>
+        <item>The Multiplicative Identity</item>
+      </list>
+      <para id="id1165261660562">We will now examine three simple but very important properties of multiplication.</para>
+    </section>
+    <section id="id3511705">
+      <title>The Commutative Property of Multiplication</title>
+      <para id="id1165261094646"><title>Commutative Property of Multiplication</title>The product of two whole numbers is the same regardless of the order of the factors. </para>
+      <section id="id1165255073906"><title>Sample Set A</title><example id="eip-id1172477233539">
+        <para id="id1165252874837">Multiply the two whole numbers.</para>
+        
+        <para id="eip-65"><media id="id1165251966631_media" alt="6 and 7.">
+            <image mime-type="image/png" src="../../media/graphics1-f832.png" id="id1165251966631__onlineimage" width="100" print-width="1in"/>
+          </media></para><para id="id1165258395884">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>6</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>7</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>42</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{6 cdot 7="42"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1165252074160">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>7</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>6</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>42</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{7 cdot 6="42"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1165251838196">The numbers 6 and 7 can be multiplied in any order. Regardless of the order they are multiplied, the product is 42.</para>
+      </example></section>
+      <section id="id1165260110093"><title>Practice Set A</title><para id="id1165252009041">Use the commutative property of multiplication to find the products in two ways.</para>
+        <exercise id="id1165255276619"><problem id="oo-id1165251927645">
+            <para id="id1165253702622"><media id="id1165251334657_media" alt="15 and 6."><image mime-type="image/png" src="../../media/graphics3-d2d7.png" id="id1165251334657__onlineimage" width="100" print-width="1in"/></media></para>
+          </problem>
+<solution id="eip-id5402606">
+        <para id="eip-id1169313485164"><m:math><m:mrow><m:mi>15</m:mi><m:mo>⋅</m:mo><m:mi>6</m:mi><m:mo>=</m:mo><m:mi>90</m:mi></m:mrow></m:math> and <m:math><m:mrow><m:mi>6</m:mi><m:mo>⋅</m:mo><m:mi>15</m:mi><m:mo>=</m:mo><m:mi>90</m:mi></m:mrow></m:math></para></solution></exercise>
+        <exercise id="id1165252064371"><problem id="oo-id1165275247153">
+            <para id="id1524850"><media id="id1165256623141_media" alt="432 and 428."><image mime-type="image/png" src="../../media/graphics2-29e8.png" id="id1165256623141__onlineimage" width="100" print-width="1in"/></media></para>
+          </problem>
+        <solution id="eip-id1169315801621"><para id="eip-id1169313998214"><m:math><m:mrow><m:mi>432</m:mi><m:mo>⋅</m:mo><m:mi>428</m:mi><m:mo>=</m:mo><m:mi>184,896</m:mi></m:mrow></m:math> and <m:math><m:mrow><m:mi>428</m:mi><m:mo>⋅</m:mo><m:mi>432</m:mi><m:mo>=</m:mo><m:mi>184,896</m:mi></m:mrow></m:math></para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1165252042863">
+      <title>The Associative Property of Multiplication </title>
+      <para id="id1165255247034"><title>Associative Property of Multiplication</title>If three whole numbers are multiplied, the product will be the same if the first two are multiplied first and then that product is multiplied by the third, or if the second two are multiplied first and that product is multiplied by the first. Note that the order of the factors is maintained.</para>
+      <para id="id1165279785282">It is a common mathematical practice to <emphasis effect="italics">use parentheses</emphasis> to show which pair of numbers is to be combined first.</para>
+      <section id="id1165259271494"><title>Sample Set B</title><example id="eip-id1166649190817"><para id="id1165251296785">Multiply the whole numbers.</para>
+        <para id="eip-id1171697974007"><media id="id1165255342401_media" alt="8, 3, and 14.">
+            <image mime-type="image/png" src="../../media/graphics4-42aa.png" id="id1165255342401__onlineimage" width="100" print-width="1in"/>
+          </media>
+        </para>
+        <para id="eip-id1171698465161">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mrow>
+                        <m:mn>8</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">)</m:mo>
+                            <m:mo stretchy="false">⋅</m:mo>
+                            <m:mtext>14</m:mtext>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:mtext>24</m:mtext>
+                            <m:mo stretchy="false">⋅</m:mo>
+                            <m:mtext>14</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>336</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ \( 8 cdot 3 \)  cdot "14"="24" cdot "14"="336"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1165267802543">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>8</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mtext>14</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:mn>8</m:mn>
+                            <m:mo stretchy="false">⋅</m:mo>
+                            <m:mtext>42</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>336</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{8 cdot  \( 3 cdot "14" \) =8 cdot "42"="336"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      </example></section>
+      <section id="id1165253551917"><title>Practice Set B</title><para id="id1165255020959">Use the associative property of multiplication to find the products in two ways.</para>
+        <exercise id="id1165259642121"><problem id="oo-id1165251912448">
+            <para id="id7572496"><media id="id1165251767956_media" alt="7, 3 and 8."><image mime-type="image/png" src="../../media/graphics6-aac8.png" id="id1165251767956__onlineimage" width="100" print-width="1in"/></media></para>
+          </problem>
+        <solution id="eip-id1169304767029"><para id="eip-id1169313296076">168</para></solution></exercise>
+        <exercise id="id1165253007415"><problem id="oo-id1165251958081">
+            <para id="id1165278243060"><media id="id1165252871568_media" alt="73, 18, and 126."><image mime-type="image/png" src="../../media/graphics5-fb8c.png" id="id1165252871568__onlineimage" width="100" print-width="1in"/></media></para>
+          </problem>
+        <solution id="eip-id1169334039194"><para id="eip-id1169306265765">165,564</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1165253515693">
+      <title>The Multiplicative Identity</title>
+      <para id="id1165253376631"><title>The Multiplicative Identity is 1</title>The whole number 1 is called the <term>multiplicative identity</term>, since any whole num­ber multiplied by 1 is not changed.</para>
+      <section id="id1165252113438"><title>Sample Set C</title><example id="eip-id1169309498718"><para id="id1165252066042">Multiply the whole numbers.</para>
+        <para id="eip-id1172432620976"><media id="id1165253007298_media" alt="12 and 1.">
+            <image mime-type="image/png" src="../../media/graphics7-89b5.png" id="id1165253007298__onlineimage" width="100" print-width="1in"/>
+          </media>
+        </para>
+        <para id="eip-id1172430082145">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>12</m:mtext>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>1</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>12</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"12" cdot 1="12"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="eip-id1172432548562">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mtext>12</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>12</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{1 cdot "12"="12"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      </example></section>
+      <section id="id1165252292000"><title>Practice Set C</title><para id="id1165260832727">Multiply the whole numbers.</para>
+<exercise id="eip-id1171975062512"><problem id="eip-id1171977287786">
+        <para id="id1165253334694"><media id="id1165266370209_media" alt="843 and 1.">
+              <image mime-type="image/png" src="../../media/graphics8-8c01.png" id="id1165266370209__onlineimage" width="100" print-width="1in"/>
+            </media>
+        
+        </para>
+      </problem>
+<solution id="eip-id1171976631368"><para id="eip-id3074446">843</para></solution></exercise></section>
+    </section>
+    <section id="id1165253461859"><title>Exercises</title><para id="id1165263499945">For the following problems, multiply the numbers.</para>
+
+      <exercise id="eip-id1169316511017"><problem id="eip-id1169322289947">
+<para id="eip-id1168353745915"><media id="id1165252101535_media" alt="9 and 26.">
+          <image mime-type="image/png" src="../../media/graphics9-bce4.png" id="id1165252101535__onlineimage" width="100" print-width="1in"/>
+        </media>
+</para>      
+</problem>
+<solution id="eip-id1169323557495"><para id="eip-id1169306265752">234</para></solution>
+</exercise>
+
+      <exercise id="eip-id1169309698382"><problem id="eip-id686768">
+<para id="eip-id1170348579681"><media id="id1165251971273_media" alt="18 and 41.">
+          <image mime-type="image/png" src="../../media/graphics10-097a.png" id="id1165251971273__onlineimage" width="100" print-width="1in"/>
+        </media>
+</para>
+      </problem>
+
+</exercise>
+
+      <exercise id="eip-id1169310084399"><problem id="eip-id1169312052222">
+<para id="eip-id1170352961618"><media id="id1165252027416_media" alt="96 and 42.">
+          <image mime-type="image/png" src="../../media/graphics11-d0db.png" id="id1165252027416__onlineimage" width="100" print-width="1in"/>
+        </media>
+</para>
+      </problem>
+<solution id="eip-id1169319397479"><para id="eip-id1169309931174">4,032</para></solution>
+</exercise>
+
+      <exercise id="eip-id1169322312623"><problem id="eip-id1169309633387">
+<para id="eip-id1172435258228"><media id="id1165253305473_media" alt="132 and 6.">
+          <image mime-type="image/png" src="../../media/graphics12-df65.png" id="id1165253305473__onlineimage" width="100" print-width="1in"/>
+        </media>
+</para>
+      </problem>
+
+</exercise>
+
+      <exercise id="eip-id1169309497169"><problem id="eip-id1169305374133">
+<para id="eip-id1172436579311"><media id="id1165251308104_media" alt="1000 and 326.">
+            <image mime-type="image/png" src="../../media/graphics13-6673.png" id="id1165251308104__onlineimage" width="100" print-width="1in"/>
+          </media>
+</para>
+        </problem>
+<solution id="eip-id1169306446088"><para id="eip-id1169320738480">326,000</para></solution>
+</exercise>
+
+      <exercise id="eip-id1169309993783"><problem id="eip-id1169309477790">
+<para id="eip-id4394273"><media id="id1165251765727_media" alt="70 and 1400.">
+          <image mime-type="image/png" src="../../media/graphics14-bb41.png" id="id1165251765727__onlineimage" width="100" print-width="1in"/>
+        </media>
+</para>
+      </problem>
+
+</exercise>
+
+      <exercise id="eip-id4789845"><problem id="eip-id1169309932638">
+<para id="eip-id1164129113709"><media id="id1165251343420_media" alt="3, 12, and 7.">
+          <image mime-type="image/png" src="../../media/graphics15-c3c6.png" id="id1165251343420__onlineimage" width="100" print-width="1in"/>
+        </media>
+</para>      
+</problem>
+<solution id="eip-id1169332601883"><para id="eip-id1169305736167">252</para></solution>
+</exercise>
+
+      <exercise id="eip-id1169305262242"><problem id="eip-id1169310251634">
+<para id="eip-id1168091128270"><media id="id1165256713630_media" alt="16, 40, and 5.">
+          <image mime-type="image/png" src="../../media/graphics16-1fa0.png" id="id1165256713630__onlineimage" width="100" print-width="1in"/>
+        </media>
+</para>
+      </problem>
+
+</exercise>
+
+      <exercise id="eip-id1169310093895"><problem id="eip-id1169313629253">
+<para id="eip-id6716697"><media id="id1165251986348_media" alt="10, 97, and 22.">
+          <image mime-type="image/png" src="../../media/graphics17-ef9d.png" id="id1165251986348__onlineimage" width="100" print-width="1in"/>
+        </media>
+</para>
+      </problem>
+<solution id="eip-id1169309497757"><para id="eip-id1169311156667">21,340</para></solution>
+</exercise>
+
+      <exercise id="eip-id1169305359421"><problem id="eip-id1169323312137">
+<para id="eip-id1170359866197"><media id="id1165252045112_media" alt="110, 0, and 85.">
+          <image mime-type="image/png" src="../../media/graphics18-a50c.png" id="id1165252045112__onlineimage" width="100" print-width="1in"/>
+        </media>
+</para>
+      </problem>
+
+</exercise>
+
+      <exercise id="eip-id1169323381713"><problem id="eip-id1169310836943">
+<para id="eip-id1168179193681"><media id="id1165251990708_media" alt="1, 462, and 18.">
+            <image mime-type="image/png" src="../../media/graphics19-2507.png" id="id1165251990708__onlineimage" width="100" print-width="1in"/>
+          </media>
+</para>
+        </problem>
+<solution id="eip-id686748"><para id="eip-id1169314065138">8,316</para></solution>
+</exercise>
+
+      <exercise id="eip-id1169310834688"><problem id="eip-id1169306000762">
+<para id="eip-id1168375503431"><media id="id1165251928831_media" alt="3,178, 101, and 5.">
+          <image mime-type="image/png" src="../../media/graphics20-50d8.png" id="id1165251928831__onlineimage" width="100" print-width="1in"/>
+        </media>
+</para>
+      </problem>
+
+</exercise>
+
+      <para id="id1165251680084">For the following 4 problems, show that the quantities yield the same products by performing the multiplications.</para>
+      <exercise id="id1165252087796"><problem id="oo-id1165253467271">
+          <para id="id1165251936306"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>8</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 4 cdot 8 \)  cdot 2} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 cdot  \( 8 cdot 2 \) } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      <solution id="eip-id1166405432760"><para id="eip-id1166386600498"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>32</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>64</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>16</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"32" cdot 2="64"=4 cdot "16"} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1165253317250">
+        <problem id="oo-id1165251912644">
+          <para id="id1165268031656"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>100</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>62</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⋅</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "100" cdot "62" \)  cdot 4} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>100</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mtext>62</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100" cdot  \( "62" cdot 4 \) } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165251993213"><problem id="oo-id1165252528995">
+          <para id="id4628005"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>23</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mtext>11</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>106</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"23" cdot  \( "11" cdot "106" \) } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>23</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>11</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⋅</m:mo><m:mtext>106</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "23" cdot "11" \)  cdot "106"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      <solution id="eip-id8709952"><para id="eip-id1167453937737"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>23</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>1,</m:mn></m:mrow><m:mrow><m:mtext>166</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>26</m:mtext></m:mrow><m:mi>,</m:mi><m:mrow><m:mtext>818</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>253</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>106</m:mtext></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"23" cdot 1,"166"="26","818"="253" cdot "106"} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id1165273860096">
+        <problem id="oo-id1165252030305">
+          <para id="id1165251314083"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">⋅</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 cdot  \( 5 cdot 2 \) } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 1 cdot 5 \)  cdot 2} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165252039825"><problem id="oo-id1165254528361">
+          <para id="id1165251442674">The fact that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>a first number </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> a second number</m:mtext></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⋅</m:mo><m:mtext> a third number </m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext> a first number </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mo stretchy="false">(</m:mo></m:mrow></m:mrow><m:mrow><m:mtext>a second number </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> a third number</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "a first number " cdot " a second number" \)   cdot " a third number "=" a first number " cdot   \( "a second number " cdot " a third number" \) } {}</m:annotation></m:semantics></m:math>is an example of the<space effect="underline" count="10"/>property of mul­tiplication. </para>
+        </problem>
+      <solution id="eip-id1166087284368"><para id="eip-id1166070852401">associative</para></solution></exercise>
+      <exercise id="id1165252873165">
+        <problem id="oo-id1165255535831">
+          <para id="id1165255554930">The fact that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>1 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> any number </m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext> that particular number</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1 " cdot " any number "=" that particular number"} {}</m:annotation></m:semantics></m:math>is an example of the<space effect="underline" count="10"/>property of mul­tiplication. </para>
+        </problem>
+      </exercise>
+      <exercise id="id1165274279234"><problem id="oo-id1165274455085">
+          <para id="id1165261660911">Use the numbers 7 and 9 to illustrate the com­mutative property of multiplication.</para>
+        </problem>
+      <solution id="eip-id1169322781453"><para id="eip-id1169310927999"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>7 </m:mtext>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mtext> 9 </m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext> 63 </m:mtext>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mtext> 9 </m:mtext>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mtext> 7</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"7 " cdot " 9 "=" 63 "=" 9 " cdot " 7"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para></solution></exercise>
+      
+      <exercise id="id1165259469363">
+        <problem id="oo-id1165254480109">
+          <para id="id1165253352931">Use the numbers 6, 4, and 7 to illustrate the asso­ciative property of multiplication.</para>
+        </problem>
+      </exercise>
+  
+    <section id="id1165260147607"><title>Exercises for Review</title><exercise id="id1165259087843"><problem id="oo-id1165259352053">
+          <para id="id1165260248175">(<link document="m34795"/>) In the number 84,526,098,441, how many millions are there?</para>
+        </problem>
+      <solution id="eip-id8529735"><para id="eip-id1164538091427">6</para></solution></exercise>
+      
+      <exercise id="id1165269824581">
+        <problem id="oo-id1165251924491">
+          <para id="id1165261984939">(<link document="m34786"/>) Replace the letter m with the whole number that makes the addition true. 
+<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd columnalign="right"><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mtext>85</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:munder accentunder="true"><m:mrow><m:mo stretchy="false">+  </m:mo><m:mi>m</m:mi></m:mrow><m:mo>̲</m:mo></m:munder></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mtext>97</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignr { stack {
+ size 12{"85"}  {} # 
+ size 12{ {underline  {+m}} }  {} # 
+ size 12{"97"}  {} 
+} } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165259733476">
+        <problem id="oo-id1165259100307">
+          <para id="id1165252100476">(<link document="m34802"/>) Use the numbers 4 and 15 to illustrate the commutative property of addition.</para>
+        </problem>
+<solution id="eip-id8716523"><para id="eip-id5839721">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>4 </m:mtext>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext> 15 </m:mtext>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext> 19</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"4 "+" 15 "=" 19"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="eip-id1168035724556">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>15 </m:mtext>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext> 4 </m:mtext>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext> 19</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"15 "+" 4 "=" 19"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para></solution>
+      </exercise>
+      
+      <exercise id="id1165267856080">
+        <problem id="oo-id1165251695301">
+          <para id="id1165264435884">(<link document="m34864"/>) Find the product. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8,</m:mn><m:mtext>000</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>000</m:mtext><m:mo stretchy="false">×</m:mo><m:mn>1,</m:mn></m:mrow><m:mtext>000</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8,"000","000" times 1,"000"} {}</m:annotation></m:semantics></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165252709898"><problem id="oo-id1165272504856">
+          <para id="id1165269919261">(<link document="m34866"/>) Specify which of the digits 2, 3, 4, 5, 6, 8,10 are divisors of the number 2,244.</para>
+        </problem>
+      <solution id="eip-id6446914"><para id="eip-id1168037361719">2, 3, 4, 6</para></solution></exercise>
+    </section>
+</section>
+  </content>
+</document>

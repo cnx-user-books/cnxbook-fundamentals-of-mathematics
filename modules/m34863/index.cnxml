@@ -1,0 +1,2110 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Multiplication of Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34863</md:content-id>
+  <md:title>Multiplication of Whole Numbers</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to multiply whole numbers. By the end of the module students should be able to understand the process of multiplication, multiply whole numbers, simplify multiplications with numbers ending in zero, and use a calculator to multiply one whole number by another.</md:abstract>
+  <md:uuid>052e5771-dfa9-4da5-9fae-542f340b911a</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1165721309439">
+      <title>Section Overview</title>
+      <list id="id1165723801150" list-type="bulleted">
+        <item>Multiplication</item>
+        <item>The Multiplication Process With a Single Digit Multiplier</item>
+        <item>The Multiplication Process With a Multiple Digit Multiplier</item>
+        <item>Multiplication With Numbers Ending in Zero</item>
+        <item>Calculators</item>
+      </list>
+    </section>
+    <section id="id1165711771808"><title>Multiplication</title><para id="id1165734471023"><term>Multiplication</term> is a description of repeated addition.</para>
+      <para id="id1165728996041">In the addition of </para>
+      <para id="id1165720793854">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>5</m:mn>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{5+5+5} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1165725669091">the number 5 is repeated 3 times. Therefore, we say we have three times five and describe it by writing</para>
+      <para id="id1165716746868">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{3 times 5} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1165716511064">Thus,</para>
+      <para id="id1165716652813">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{3 times 5=5+5+5} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id4360058"><title>Multiplicand</title>In a multiplication, the repeated addend (number being added) is called the <term>multi­plicand</term>. In 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times 5} {}</m:annotation></m:semantics></m:math>, the 5 is the multiplicand. </para>
+      <para id="id1165711133692"><title>Multiplier</title>Also, in a multiplication, the number that records the number of times the multiplicand is used is called the <term>multiplier</term>. In 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times 5} {}</m:annotation></m:semantics></m:math>, the 3 is the multiplier.</para>
+      <section id="id1165722533368"><title>Sample Set A</title><para id="id1165721847260">Express each repeated addition as a multiplication. In each case, specify the multiplier and the multiplicand.</para>
+        <example id="eip-id1170886694002"><para id="eip-id1170889982625">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>7</m:mn>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mn>7</m:mn>
+                            </m:mrow>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>7</m:mn>
+                          </m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>7</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>7</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{7+7+7+7+7+7} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1165734682754"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">×</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 times 7} {}</m:annotation></m:semantics></m:math>. <space count="5"/>  Multiplier is 6.<space count="5"/> Multiplicand is 7.</para>
+  </example>      
+        <example id="eip-id1170868614108"><para id="eip-id1170868374236">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>18</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>18</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext>18</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"18"+"18"+"18"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1165725610065"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>18</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times "18"} {}</m:annotation></m:semantics></m:math>.<space count="5"/> Multiplier is 3.<space count="5"/> Multiplicand is 18.</para></example>
+      </section>
+      <section id="id1165729541258"><title>Practice Set A</title><para id="id1165715468863">Express each repeated addition as a multiplication. In each case, specify the multiplier and the multiplicand.</para>
+<exercise id="id1165722318614">
+          <problem id="oo-id1165716704207">
+        <para id="eip-id1325669">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mtext>12</m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>12</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>12</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext>12</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"12"+"12"+"12"+"12"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+   
+            <para id="id1165737177632"><space count="10" effect="underline"/>. Multiplier is <space count="10" effect="underline"/>. Multiplicand is <space count="10" effect="underline"/>.</para>
+         </problem>
+        
+       <solution id="eip-id1172287795973"> <para id="id1165743916167"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 times "12"} {}</m:annotation></m:semantics></m:math>. Multiplier is 4. Multiplicand is 12.</para>
+</solution></exercise>        
+
+<exercise id="id1165741228847"><problem id="oo-id1165744575865">
+        <para id="eip-id1163792105460">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>36</m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>36</m:mtext>
+                                </m:mrow>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>36</m:mtext>
+                              </m:mrow>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mtext>36</m:mtext>
+                            </m:mrow>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mtext>36</m:mtext>
+                          </m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>36</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>36</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mtext>36</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"36"+"36"+"36"+"36"+"36"+"36"+"36"+"36"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        
+            <para id="id1165723747062"><space count="10" effect="underline"/>. Multiplier is <space count="10" effect="underline"/>. Multiplicand is <space count="10" effect="underline"/>.</para>
+          </problem>
+        <solution id="eip-id1172275299060">
+        <para id="id1165722270531"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>36</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 times "36"} {}</m:annotation></m:semantics></m:math>. Multiplier is 8. Multiplicand is 36.</para></solution></exercise>
+
+<exercise id="eip-id1172293622693"><problem id="eip-id1172272613192">
+        <para id="eip-id1165338194705">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>0</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>0</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{0+0+0+0+0} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      
+            <para id="id1942275"><space count="10" effect="underline"/>. Multiplier is <space count="10" effect="underline"/>. Multiplicand is <space count="10" effect="underline"/>.</para>
+          </problem>
+        <solution id="eip-id2117057">
+        <para id="id1165715424630"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">×</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 times 0} {}</m:annotation></m:semantics></m:math>. Multiplier is 5. Multiplicand is 0.</para></solution></exercise>
+        <exercise id="id1165723803577">
+          <problem id="oo-id1165728506000">
+            <para id="id1165732643108"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:munder>
+<m:mrow>
+<m:mn>1847</m:mn>
+<m:mo>+</m:mo>
+<m:mn>1847</m:mn>
+<m:mo>+</m:mo>
+<m:mo>...</m:mo>
+<m:mo>+</m:mo>
+<m:mn>1847</m:mn>
+</m:mrow>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>12,000</m:mn>
+<m:mspace width="5pt"/>
+<m:mtext>times</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          
+            <para id="id1165732498461"><space count="10" effect="underline"/>. Multiplier is <space count="10" effect="underline"/>. Multiplicand is <space count="10" effect="underline"/>.</para>
+          </problem>
+        <solution id="eip-id1172282949433">
+        <para id="id1165723747178"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>000</m:mtext><m:mo stretchy="false">×</m:mo><m:mn>1,</m:mn></m:mrow><m:mtext>847</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12","000" times 1,"847"} {}</m:annotation></m:semantics></m:math>. Multiplier is 12,000. Multiplicand is 1,847.</para></solution></exercise>
+</section>
+        <para id="id1165731542490"><title>Factors</title> In a multiplication, the numbers being multiplied are also called <term>factors</term>. </para>
+        <para id="id1165720968450"><title>Products</title> The result of a multiplication is called the <term>product</term>. In 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times 5="15"} {}</m:annotation></m:semantics></m:math>, the 3 and 5 are not only called the multiplier and multiplicand, but they are also called factors. The product is 15.</para>
+        <para id="id1165723784232"><title>Indicators of Multiplication  <m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math>,⋅,( )</title>The multiplication symbol (<m:math><m:mrow><m:mo>×</m:mo></m:mrow></m:math>) is not the only symbol used to indicate multiplication. Other symbols include the dot ( ⋅ ) and pairs of parentheses ( ). The expressions</para>
+        <para id="id1165749260778"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times 5} {}</m:annotation></m:semantics></m:math>, <space count="5"/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 cdot 5} {}</m:annotation></m:semantics></m:math>, <space count="5"/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 \( 5 \) } {}</m:annotation></m:semantics></m:math>, <space count="5"/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 3 \) 5} {}</m:annotation></m:semantics></m:math>, <space count="5"/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 3 \)  \( 5 \) } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1165732284554">all represent the same product.</para>
+      
+    </section>
+    <section id="id1165716869096"><title>The Multiplication Process With a Single Digit Multiplier</title><para id="id1165716626411">Since multiplication is repeated addition, we should not be surprised to notice that <term>carrying</term> can occur. Carrying occurs when we find the product of 38 and 7:</para>
+      <para id="eip-id1165187024164"><media id="id1165730389053_media" alt="Vertical multiplication. 38 times 7 is 266. The 5 is carried on top of the 3.">
+          <image mime-type="image/png" src="../../media/graphics1-8a88.png" id="id1165730389053__onlineimage" width="70" print-width=".5in"/>
+        </media>
+      </para>
+      <para id="id1165712168669">First, we compute 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">×</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>56</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 times 8="56"} {}</m:annotation></m:semantics></m:math>. Write the 6 in the ones column. Carry the 5. Then take 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">×</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>21</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 times 3="21"} {}</m:annotation></m:semantics></m:math>. Add to 21 the 5 that was carried: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>21</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>26</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"21"+5="26"} {}</m:annotation></m:semantics></m:math>. The product is 266.</para>
+      <section id="id1165721518046"><title>Sample Set B</title><para id="id1165728972053">Find the following products.</para>
+       <example id="eip-id1169830758338"><para id="eip-id1170363048790"><media id="id1165722439042_media" alt="Vertical multiplication. 64 times 3 is 192. The 1 is carried on top of the 6.">
+            <image mime-type="image/png" src="../../media/graphics2-cadd.png" id="id1165722439042__onlineimage" width="60" print-width=".5in"/>
+          </media>
+      </para>  
+        <para id="id1165716410545"><m:math><m:mtable>
+
+<m:mtr>
+<m:mtd><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>12</m:mn></m:mrow></m:mtd>
+<m:mtd/>
+<m:mtd columnalign="left"><m:mtext>Write the 2, carry the 1.</m:mtext></m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd><m:mrow><m:mn>3</m:mn><m:mo>×</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>18</m:mn></m:mrow></m:mtd>
+<m:mtd/>
+<m:mtd columnalign="left"><m:mrow><m:mtext>Add to 18 the 1 that was carried:</m:mtext><m:mspace width="2px"/><m:mn>18</m:mn><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mn>19</m:mn><m:mtext>.</m:mtext></m:mrow></m:mtd>
+</m:mtr>
+
+</m:mtable></m:math></para>
+        
+        <para id="id1165715928512">The product is 192.</para>
+</example>
+<example id="eip-id1169818225346">
+        <para id="id3715248"><media id="id1165730676750_media" alt="Vertical multiplication. 526 times 5 is 2,630. The 2 is carried on top of the 2, and the 1 is carried on top of the 5.">
+              <image mime-type="image/png" src="../../media/graphics3-ea4e.png" id="id1165730676750__onlineimage" width="70" print-width=".5in"/>
+            </media>
+          
+        </para>
+        <para id="id1165732493531"><m:math><m:mtable>
+
+<m:mtr>
+<m:mtd><m:mrow><m:mn>5</m:mn><m:mo>×</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>30</m:mn></m:mrow></m:mtd>
+<m:mtd/>
+<m:mtd columnalign="left"><m:mtext>Write the 0, carry the 3.</m:mtext></m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd><m:mrow><m:mn>5</m:mn><m:mo>×</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>10</m:mn></m:mrow></m:mtd>
+<m:mtd/>
+<m:mtd columnalign="left"><m:mrow><m:mtext>Add to 10 the 3 that was carried:</m:mtext><m:mspace width="2px"/><m:mn>10</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>13</m:mn><m:mtext>. Write the 3, carry the 1.</m:mtext></m:mrow></m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd><m:mrow><m:mn>5</m:mn><m:mo>×</m:mo><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>25</m:mn></m:mrow></m:mtd>
+<m:mtd/>
+<m:mtd columnalign="left"><m:mrow><m:mtext>Add to 25 the 1 that was carried:</m:mtext><m:mspace width="2px"/><m:mn>25</m:mn><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mn>6</m:mn><m:mtext>.</m:mtext></m:mrow></m:mtd>
+</m:mtr>
+
+</m:mtable></m:math></para>
+        
+        
+        
+        
+        
+        <para id="id1165726301055">The product is 2,630.</para></example>
+<example id="eip-id1169808854665"><para id="eip-id1163778661247"><media id="id1165721167732_media" alt="Vertical multiplication. 1,804 times 9 is 16,236. The 3 is carried on top of the 0, and the 7 is carried on top of the 1.">
+            <image mime-type="image/png" src="../../media/graphics4-44ff.png" id="id1165721167732__onlineimage" width="80" print-width=".75in"/>
+          </media></para>
+        <para id="id1165735937519"><m:math><m:mtable>
+
+<m:mtr>
+<m:mtd columnalign="left"><m:mrow><m:mn>9</m:mn><m:mo>×</m:mo><m:mn>4</m:mn><m:mo>=</m:mo><m:mn>36</m:mn></m:mrow></m:mtd>
+<m:mtd/>
+<m:mtd columnalign="left"><m:mtext>Write the 6, carry the 3.</m:mtext></m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd columnalign="left"><m:mrow><m:mn>9</m:mn><m:mo>×</m:mo><m:mn>0</m:mn><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:mtd>
+<m:mtd/>
+<m:mtd columnalign="left"><m:mrow><m:mtext>Add to the 0 the 3 that was carried:</m:mtext><m:mspace width="2px"/><m:mn>0</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>3</m:mn><m:mtext>. Write the 3.</m:mtext></m:mrow></m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd columnalign="left"><m:mrow><m:mn>9</m:mn><m:mo>×</m:mo><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>72</m:mn></m:mrow></m:mtd>
+<m:mtd/>
+<m:mtd columnalign="left"><m:mtext>Write the 2, carry the 7.</m:mtext></m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd rowalign="top" columnalign="left"><m:mrow><m:mn>9</m:mn><m:mo>×</m:mo><m:mn>1</m:mn><m:mo>=</m:mo><m:mn>9</m:mn></m:mrow></m:mtd>
+<m:mtd/>
+<m:mtd rowalign="top" columnalign="left">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Add to the 9 the 7 that was carried: </m:mtext><m:mn>9</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mo>=</m:mo><m:mn>16</m:mn><m:mo>.</m:mo></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left"><m:mtext>Since there are no more multiplications to perform,write both the 1 and 6.</m:mtext></m:mtd>
+</m:mtr>
+</m:mtable></m:mtd>
+</m:mtr>
+
+</m:mtable></m:math></para>
+        
+        
+        
+        
+        
+        
+        
+        <para id="id1165711820941">The product is 16,236.</para>
+      </example></section>
+      <section id="id1165731603100">
+        <title>Practice Set B </title>
+        <para id="id1165718300547">Find the following products.</para>
+        <exercise id="id1165711872626"><problem id="oo-id1165726458133">
+            <para id="id1165718567090"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>37</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  5</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        <solution id="eip-id1165199060240"><para id="eip-id1165182134708">185</para></solution></exercise>
+        <exercise id="id1165716106493"><problem id="oo-id1165729631606">
+            <para id="id1165718337715"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>78</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        <solution id="eip-id1165356131924"><para id="eip-id1165353698803">624</para></solution></exercise>
+        <exercise id="id1165712176582"><problem id="oo-id1165715605578">
+            <para id="id1165720150945"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>536</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>    7</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+        <solution id="eip-id1164969727067"><para id="eip-id1164957835829">3,752</para></solution></exercise>
+        <exercise id="id1165711956774"><problem id="oo-id1165720723843">
+            <para id="id1165725563853"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>40,019</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>        8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+    <solution id="eip-id1165317054833"><para id="eip-id1165315855388">320,152</para></solution>    </exercise>
+        <exercise id="id1165721229661"><problem id="oo-id1165712572117">
+            <para id="id4316863"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>301,599</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>          3</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+          </problem>
+   <solution id="eip-id1165357582454"><para id="eip-id1165355568740">904,797</para></solution>     </exercise>
+      </section>
+    </section>
+    <section id="id1165716586304"><title>The Multiplication Process With a Multiple Digit Multiplier</title><para id="id1165718512269">In a multiplication in which the multiplier is composed of two or more digits, the <emphasis effect="italics">multiplication must take place in parts</emphasis>. The process is as follows:</para>
+ <list id="eip-id1169991636527" list-type="labeled-item"><item><label>Part 1</label> <emphasis>First Partial Product</emphasis> Multiply the multiplicand by the ones digit of the multiplier. This product is called the <term>first partial product</term>.</item>
+<item><label>Part 2</label>      <emphasis>Second Partial Product</emphasis> Multiply the multiplicand by the tens digit of the multiplier. This product is called the <term>second partial product</term>. Since the tens digit is used as a factor, the second partial product is written below the first partial product so that its rightmost digit appears in the tens column.</item>
+<item><label>Part 3</label>    If necessary, continue this way finding partial products. Write each one below the previous one so that the rightmost digit appears in the column directly below the digit that was used as a factor.</item>
+<item><label>Part 4</label>      <emphasis>Total Product</emphasis> Add the partial products to obtain the <term>total product</term>.</item>
+</list>
+      <para id="id6797596">
+        <note id="id1165716435501" type="Note">It may be necessary to carry when finding each partial product.</note>
+      </para>
+      <section id="id1165726248378"><title>Sample Set C</title><example id="eip-id1171365092997"><para id="eip-id1171365092998">Multiply 326 by 48.</para>
+        <list id="eip-id1168720088349" list-type="labeled-item"><item><label>Part 1</label>
+<para id="eip-id1168105893588"><media id="id1165707673169_media" alt="Vertical multiplication. 326 times 48 is 2608. The 4 is carried on top of the 2, and the 2 is carried on top of the 3. The product is labeled, first partial product.">
+            <image mime-type="image/png" src="../../media/graphics5-e359.png" id="id1165707673169__onlineimage" width="350" print-width="3in"/>
+          </media>
+      </para>  </item>
+<item>
+        <label>Part 2</label>
+        <para id="eip-id1168107913796"><media id="id1165734475541_media" alt="Vertical multiplication. 326 times 48, with the first part of the product, 2608, in the first line of the product space, and the second part of the product, 1304, in the second line of the product space. This number is naturally aligned with the tens column of the number above it. The second round of numbers are carried, with a 2 in the tens column and a 1 in the hundreds column. 1304 is labeled, second partial product.">
+            <image mime-type="image/png" src="../../media/graphics6-7f5b.png" id="id1165734475541__onlineimage" width="350" print-width="3in"/>
+          </media></para>
+        </item>
+        <item><label>Part 3</label>This step is unnecessary since all of the digits in the multiplier have been used.</item>
+        <item><label>Part 4</label>Add the partial products to obtain the total product.<newline/>
+        <para id="eip-id1168107630499"><media id="id1165715241007_media" alt="Vertical multiplication. 326 times 48, with the first part of the product, 2608, in the first line of the product space, and the second part of the product, 1304, in the second line of the product space.  The two lines of the product space are added together to make a total product of 15648.">
+              <image mime-type="image/png" src="../../media/graphics7-2812.png" id="id1165715241007__onlineimage" width="300" print-width="2.5in"/>
+            </media>
+          </para>
+        </item>
+        <item>The product is 15,648.</item></list>
+</example>
+<example id="eip-id1171365476915">
+        <para id="eip-id1171365113686">Multiply 5,369 by 842.</para>
+        <list id="eip-id2538982" list-type="labeled-item"><item><label>Part 1</label>
+        <para id="eip-id1165818577744"><media id="id1165728846625_media" alt="Vertical multiplication. 5369 times 842, with the first part of the product, 10738, in the first line of the product space. A 1 is carried above the 6, and a 1 is carried above the 3. 10738 is labeled, first partial product.">
+            <image mime-type="image/png" src="../../media/graphics8-3ea0.png" id="id1165728846625__onlineimage" width="350" print-width="3in"/>
+          </media></para>
+        </item>
+        <item><label>Part 2</label>
+        <para id="eip-id1165831632054"><media id="id1165717354366_media" alt="Vertical multiplication. 5639 times 842, with the first part of the product, 10738, in the first line of the product space, and the second part of the product, 21476, in the second line of the product space. This number is aligned with the tens column of the number above it. A second round of numbers are carried, with a 3 in the tens column, a 2 in the hundreds column, and a 1 in the thousands column. 21476 is labeled, second partial product.">
+            <image mime-type="image/png" src="../../media/graphics9-71a5.png" id="id1165717354366__onlineimage" width="375" print-width="3in"/>
+          </media></para>
+        </item>
+        <item><label>Part 3</label>
+<para id="eip-id1165803215997"><media id="id1165725096142_media" alt="Vertical multiplication. 5639 times 842, with the first part of the product, 10738, in the first line of the product space, and the second part of the product, 21476, in the second line of the product space. This number is aligned with the tens column of the number above it. The third partial of the product, 42952, is below it, and is aligned with the hundreds column. A third round of numbers are carried, with a 7 in the tens column, a 5 in the hundreds column, and a 2 in the thousands column. Adding the partial products together makes a total product of 4520698, labeled Part 4.">
+              <image mime-type="image/png" src="../../media/graphics10-58e9.png" id="id1165725096142__onlineimage" width="375" print-width="3in"/>
+            </media>
+      </para>    
+        </item>
+        <item>The product is 4,520,698.</item></list></example>
+
+<example id="eip-id1171365433786"><para id="eip-id1171365498855">Multiply 1,508 by 206.</para>
+        <list id="eip-id1165356340067" list-type="labeled-item"><item><label>Part 1</label>
+        <para id="eip-id1163772002038"><media id="id1165723738954_media" alt="Vertical multiplication. 1508 times 206, with the first part of the product, 9048, in the first line of the product space. A 4 is carried in the tens column, and a 3 is carried in the thousands column. 9048 is labeled, first partial product.">
+            <image mime-type="image/png" src="../../media/graphics12-ccb1.png" id="id1165723738954__onlineimage" width="625" print-width="5in"/>
+          </media></para>
+        </item>
+        <item><label>Part 2</label>
+        <para id="eip-id1168105798922"><media id="id1165726006504_media" alt="Vertical multiplication. 1508 times 206, with the first part of the product, 9048, in the first line of the product space. A 4 is carried in the tens column, and a 3 is carried in the thousands column.">
+            <image mime-type="image/png" src="../../media/graphics13-93f6.png" id="id1165726006504__onlineimage" width="60" print-width=".5in"/>
+          </media>  <newline/>
+Since 0 times 1508 is 0, the partial product will not change the identity of the total product (which is obtained by addition). Go to the next partial product.</para>
+        </item>
+<item><label>Part 3</label>
+<para id="eip-id1171907889235"><media id="id1165712688380_media" alt="Vertical multiplication. 1508 times 206, with the first part of the product, 9048, in the first line of the product space, and the third part of the product, 3016, which is aligned in the hundreds column. A second round of numbers are carried, with a 1 in the tens column and a 1 in the thousands column. Adding the partial products together makes a total product of 310648, labeled Part 4."><image mime-type="image/png" src="../../media/graphics11-27a2.png" id="id1165712688380__onlineimage" width="599" print-width="4.5in"/></media></para></item>
+
+        <item>The product is 310,648</item></list></example>
+        
+      </section>
+      <section id="id1165745852868">
+        <title>Practice Set C</title>
+        <exercise id="id1165737652862"><problem id="oo-id1165716988351">
+            <para id="id1165724001922">Multiply 73 by 14.</para>
+          </problem>
+        <solution id="eip-id1165436452425"><para id="eip-id1165422095574">1,022</para></solution></exercise>
+        <exercise id="id1165723963341"><problem id="oo-id1165723967999">
+            <para id="id1165724827743">Multiply 86 by 52.</para>
+          </problem>
+        <solution id="eip-id1168644010845"><para id="eip-id1168656455213">4,472</para></solution></exercise>
+        <exercise id="id1165736544655"><problem id="oo-id1165718512425">
+            <para id="id1165717135343">Multiply 419 by 85.</para>
+          </problem>
+        <solution id="eip-id1165355320097"><para id="eip-id1165354702575">35,615</para></solution></exercise>
+        <exercise id="id1165723892088"><problem id="oo-id1165725569037">
+            <para id="id1165721792890">Multiply 2,376 by 613.</para>
+          </problem>
+        <solution id="eip-id1165354648035"><para id="eip-id7674737">1,456,488</para></solution></exercise>
+        <exercise id="id1165721892976"><problem id="oo-id1165727836931">
+            <para id="id1165721792600">Multiply 8,107 by 304.</para>
+          </problem>
+        <solution id="eip-id1165254592482"><para id="eip-id1165278942996">2,464,528</para></solution></exercise>
+        <exercise id="id1165716800426"><problem id="oo-id1165718167132">
+            <para id="id1165716412169">Multiply 66,260 by 1,008.</para>
+          </problem>
+        <solution id="eip-id1168718349100"><para id="eip-id1168718888136">66,790,080</para></solution></exercise>
+        <exercise id="id1165716011883"><problem id="oo-id1165716999895">
+            <para id="id1165716203338">Multiply 209 by 501.</para>
+          </problem>
+        <solution id="eip-id1163911978985"><para id="eip-id1163909000545">104,709</para></solution></exercise>
+        <exercise id="id1165720979086"><problem id="oo-id1165716354461">
+            <para id="id1165715928454">Multiply 24 by 10.</para>
+          </problem>
+        <solution id="eip-id1165318493965"><para id="eip-id1165314362186">240</para></solution></exercise>
+        <exercise id="id1165729399494"><problem id="oo-id1165718207597">
+            <para id="id1165716102315">Multiply 3,809 by 1,000.</para>
+          </problem>
+        <solution id="eip-id1165354844427"><para id="eip-id1165355517976">3,809,000</para></solution></exercise>
+        <exercise id="id1165714303100"><problem id="oo-id4040872">
+            <para id="id1165716779331">Multiply 813 by 10,000.</para>
+          </problem>
+        <solution id="eip-id1164951965505"><para id="eip-id1164963938071">8,130,000</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1165724107685">
+      <title>Multiplications With Numbers Ending in Zero</title>
+      <para id="id1165737635446">Often, when performing a multiplication, one or both of the factors will end in zeros. Such multiplications can be done quickly by aligning the numbers so that the rightmost nonzero digits are in the same column.</para>
+      <section id="id1165716095471"><title>Sample Set D</title><para id="id1165711223383">Perform the multiplication 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>49</m:mtext><m:mi>,</m:mi><m:mtext>000</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1,</m:mn><m:mtext>200</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "49","000" \)  \( 1,"200" \) } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1165725730634"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mrow><m:mtext>(49,000)(1,200)</m:mtext></m:mrow>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mrow><m:mtext>49000</m:mtext></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>   1200</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+        </para>
+        <para id="id1165708628776">Since 9 and 2 are the rightmost nonzero digits, put them in the same column.</para>
+        <para id="eip-921"><media id="eip-id1167521495595" alt="49000 times 1200, with the 1200 aligned one space to the left."><image src="../../media/sampsetD1.png" mime-type="image/png" width="75" print-width=".5in"/></media></para>
+        <para id="id1165726982238">Draw (perhaps mentally) a vertical line to separate the zeros from the nonzeros.</para>
+        <para id="eip-id1168107771782"><media id="id1165714951188_media" alt="49000 times 1200, with the 1200 aligned one space to the left. A vertical line is drawn to separate the zeros in both numbers from the nonzero digits.">
+            <image mime-type="image/png" src="../../media/graphics14-3612.png" id="id1165714951188__onlineimage" width="100" print-width=".6in"/>
+          </media>
+        </para>
+        <para id="id1165724705018">Multiply the numbers to the left of the vertical line as usual, then attach to the right end of this product the total number of zeros.</para>
+        <para id="eip-id1034080"><media id="id1509755_media" alt="49000 times 1200, with the 1200 aligned one space to the left. A vertical line is drawn to separate the zeros in both numbers from the nonzero digits. 98 is the first partial product, and 49 is the second partial product. The final product is 588, and the 5 zeros are then attached to the end of the product, making a total product of 58800000. ">
+            <image mime-type="image/png" src="../../media/graphics15-1c61.png" id="id1509755__onlineimage" width="425" print-width="3in"/>
+          </media>
+        </para>
+        <para id="id1165722197971">The product is 58,800,000</para>
+      </section>
+      <section id="id1165718107424">
+        <title>Practice Set D</title>
+        <exercise id="id1165711083750"><problem id="oo-id1165723588758">
+            <para id="id1165732269487">Multiply 1,800 by 90.</para>
+          </problem>
+        <solution id="eip-id1169332834798"><para id="eip-id1169332834799">162,000</para></solution></exercise>
+        <exercise id="id1165711341929"><problem id="oo-id1165726016781">
+            <para id="id1165734367134">Multiply 420,000 by 300.</para>
+          </problem>
+        <solution id="eip-id1171365271091"><para id="eip-id1171365271092">126,000,000</para></solution></exercise>
+        <exercise id="id1165723511642"><problem id="oo-id1165728705683">
+            <para id="id1165712681428">Multiply 20,500,000 by 140,000.</para>
+          </problem>
+        <solution id="eip-id1169139788691"><para id="eip-id1169132118574">2,870,000,000,000</para></solution></exercise>
+        
+      </section>
+    </section>
+    <section id="id1165707734606">
+      <title>Calculators</title>
+      <para id="id1165722433196">Most multiplications are performed using a calculator.</para>
+      <section id="id1165722500678"><title>Sample Set E</title><example id="eip-id1165270925086"><para id="id1165726792534">Multiply 75,891 by 263.</para>
+        <table id="id1165716063211" summary="A table with instructions for calculator input."><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry align="right" namest="c1" nameend="c3">Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>75891</entry>
+                <entry align="right">75891</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>
+×                 
+ </entry>
+                <entry align="right">75891</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>263</entry>
+                <entry align="right">263</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry align="right">19959333</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1165711960047">The product is 19,959,333.</para>
+</example>
+<example id="eip-id1165278473952"><para id="id1165726481746">Multiply 4,510,000,000,000 by 1,700.</para>
+        <table id="id1165712050410" summary="A table with instructions for calculator input."><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+
+                <entry align="right" namest="c1" nameend="c3">Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>451</entry>
+                <entry align="right">451</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>×
+                </entry>
+                <entry align="right">451</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>17</entry>
+                <entry align="right">17</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry align="right">7667</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id7299445">The display now reads 7667. We'll have to add the zeros ourselves. There are a total of 12 zeros. Attaching 12 zeros to 7667, we get 7,667,000,000,000,000.</para>
+        <para id="id1165713470208">The product is 7,667,000,000,000,000.</para>
+</example>
+<example id="eip-id1165277654996"><para id="id1165716732814">Multiply 57,847,298 by 38,976.</para>
+        <table id="id1165717132211" summary="A table with instructions for calculator input."><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry align="right" namest="c1" nameend="c3">Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>57847298</entry>
+                <entry align="right">57847298</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>
+              ×  </entry>
+                <entry align="right">57847298</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>38976</entry>
+                <entry align="right">38976</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry align="right">2.2546563 12</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1165713560609">The display now reads 2.2546563 12. What kind of number is this? This is an example of a whole number written in <emphasis effect="bold">scientific notation</emphasis>. We'll study this concept when we get to decimal numbers.</para>
+      </example></section>
+      <section id="id1165716645173">
+        <title>Practice Set E</title>
+        <para id="id1165727074366">Use a calculator to perform each multiplication.</para>
+        <exercise id="id1165716289224"><problem id="oo-id1165737818070">
+            <para id="id1165716992005"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>52</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>27</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"52" times "27"} {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+        <solution id="eip-id1169334212108"><para id="eip-id8508155">1,404</para></solution></exercise>
+        <exercise id="id1165721048905"><problem id="oo-id1165711251242">
+            <para id="id1165740424403"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1,</m:mn><m:mrow><m:mtext>448</m:mtext><m:mo stretchy="false">×</m:mo><m:mn>6,</m:mn></m:mrow><m:mtext>155</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1,"448" times 6,"155"} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1169332837334"><para id="eip-id7510168">8,912,440</para></solution></exercise>
+        <exercise id="id8967654"><problem id="oo-id1165724830237">
+            <para id="id1165729156205"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8,</m:mn><m:mtext>940</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>000</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>205</m:mtext></m:mrow><m:mi>,</m:mi><m:mtext>000</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8,"940","000" times "205","000"} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1169133440963"><para id="eip-id1169128887908">1,832,700,000,000</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1165731596762"><title>Exercises</title><para id="id1165734098620">For the following problems, perform the multiplications. You may check each product with a calculator.</para>
+      <exercise id="eip-id1172477183974">
+<problem id="eip-id1172459657108"><para id="eip-id1172468762680">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>8</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>3</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172456455913"><para id="eip-id1172470993449">24</para></solution>
+</exercise>
+
+<exercise id="eip-id3682904">
+<problem id="eip-id1172462307480"><para id="eip-id1172458565754">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>3</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>5</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+
+</exercise>
+
+<exercise id="eip-id1172470482999">
+<problem id="eip-id1172466354450"><para id="eip-id1172461395268">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>8</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>6</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172477753872"><para id="eip-id1172458372842">48</para></solution>
+</exercise>
+
+<exercise id="eip-id3995704">
+<problem id="eip-id1172459664822"><para id="eip-id1172463209325">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>7</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+
+</exercise>
+
+<exercise id="eip-id1172456311856">
+<problem id="eip-id1172456981425"><para id="eip-id1172458298107"><m:math><m:mrow><m:mtext>6 × 1</m:mtext></m:mrow></m:math></para></problem>
+<solution id="eip-id1172456942489"><para id="eip-id1172456335068">6</para></solution>
+</exercise>
+
+<exercise id="eip-id1172467087871">
+<problem id="eip-id1172458554234"><para id="eip-id1172460933674"><m:math><m:mrow><m:mtext>4 × 5</m:mtext></m:mrow></m:math></para></problem>
+</exercise>
+
+<exercise id="eip-id1172456447510">
+<problem id="eip-id1172457212938"><para id="eip-id1172456360515"><m:math><m:mrow><m:mtext>75 × 3</m:mtext></m:mrow></m:math></para></problem>
+<solution id="eip-id1172457062707"><para id="eip-id1172465275496">225</para></solution>
+</exercise>
+
+<exercise id="eip-id1172464428941">
+<problem id="eip-id1172456502511"><para id="eip-id1172457164827"><m:math><m:mrow><m:mtext>35 × 5</m:mtext></m:mrow></m:math></para></problem>
+</exercise>
+
+<exercise id="eip-id1172456895067">
+<problem id="eip-id1172458413953"><para id="eip-id1172463097439"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>45</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  6</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172456544274"><para id="eip-id1172461707223">270</para></solution>
+</exercise>
+
+<exercise id="eip-id1172457870005">
+<problem id="eip-id1172456410857"><para id="eip-id1172461395442"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>31</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  7</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+
+</exercise>
+
+<exercise id="eip-id1172465184252">
+<problem id="eip-id1172457167903"><para id="eip-id1172459782985"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>97</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  6</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172470991413"><para id="eip-id1172458508412">582</para></solution>
+</exercise>
+
+<exercise id="eip-id1172466074586">
+<problem id="eip-id1172465880497"><para id="eip-id1172457368277">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>75</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>57</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+
+</exercise>
+
+<exercise id="eip-id1172464553527">
+<problem id="eip-id8120485"><para id="eip-id1172480505754">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>64</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>15</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172463268784"><para id="eip-id1172465783385">960</para></solution>
+</exercise>
+
+<exercise id="eip-id1172458337910">
+<problem id="eip-id1172480059602"><para id="eip-id1172456423977">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>73</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>15</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172456210544">
+<problem id="eip-id1172458341042"><para id="eip-id4327602">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>81</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>95</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172457335703"><para id="eip-id1172479102866">7,695</para></solution>
+</exercise>
+
+<exercise id="eip-id1172460768806">
+<problem id="eip-id1172465677574"><para id="eip-id1172458524304">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>31</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>33</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172479014711">
+<problem id="eip-id1172475514632"><para id="eip-id1172470071301"><m:math><m:mrow><m:mtext>57 × 64</m:mtext></m:mrow></m:math></para></problem>
+<solution id="eip-id4459938"><para id="eip-id1172464506602">3,648</para></solution>
+</exercise>
+
+<exercise id="eip-id1172459661864">
+<problem id="eip-id1172457175849"><para id="eip-id1172458478009"><m:math><m:mrow><m:mtext>76 × 42</m:mtext></m:mrow></m:math></para></problem>
+
+</exercise>
+
+<exercise id="eip-id1947944">
+<problem id="eip-id1172459581543"><para id="eip-id1172458667222"><m:math><m:mrow><m:mtext>894 × 52</m:mtext></m:mrow></m:math></para></problem>
+<solution id="eip-id1172465314179"><para id="eip-id1172469815106">46,488</para></solution>
+</exercise>
+
+<exercise id="eip-id1172461438186">
+<problem id="eip-id1172460829948"><para id="eip-id1172457077158"><m:math><m:mrow><m:mtext>684 × 38</m:mtext></m:mrow></m:math></para></problem>
+</exercise>
+
+<exercise id="eip-id1172456361849">
+<problem id="eip-id1172464283574"><para id="eip-id1172461053399"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>115</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  22</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172457236908"><para id="eip-id1172461366498">2,530</para></solution>
+</exercise>
+
+<exercise id="eip-id1172456870522">
+<problem id="eip-id1172466308686"><para id="eip-id1172465965368"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>706</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  81</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id3437112">
+<problem id="eip-id1172457034377"><para id="eip-id1172465201425"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>328</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  21</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172461039385"><para id="eip-id1172481786806">6,888</para></solution>
+</exercise>
+
+<exercise id="eip-id1172456809839">
+<problem id="eip-id1172458379454"><para id="eip-id1172465385736"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>550</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  94</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172467929425">
+<problem id="eip-id1172470052733"><para id="eip-id1172457057577"><m:math><m:mrow><m:mtext>930 × 26</m:mtext></m:mrow></m:math></para></problem>
+<solution id="eip-id1172461005685"><para id="eip-id1172465567524">24,180</para></solution>
+</exercise>
+
+<exercise id="eip-id1172470368990">
+<problem id="eip-id1172461320119"><para id="eip-id1172482081265"><m:math><m:mrow><m:mtext>318 × 63</m:mtext></m:mrow></m:math></para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172461634704">
+<problem id="eip-id1172461982722"><para id="eip-id1172468297553">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>582</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>127</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172458309004"><para id="eip-id1172471709307">73,914</para></solution>
+</exercise>
+
+<exercise id="eip-id1172460906929">
+<problem id="eip-id1172457239518"><para id="eip-id1172457349641">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>247</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>116</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172478582420">
+<problem id="eip-id1172468323091"><para id="eip-id1172459691885">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>305</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>225</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172457074026"><para id="eip-id1172462603327">68,625</para></solution>
+</exercise>
+
+<exercise id="eip-id1172456911248">
+<problem id="eip-id1172481347353"><para id="eip-id1172456301126">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>782</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>547</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172461666282">
+<problem id="eip-id1172458522042"><para id="eip-id5913267">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>771</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>663</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172481699221"><para id="eip-id1172456535084">511,173</para></solution>
+</exercise>
+
+<exercise id="eip-id1172458718560">
+<problem id="eip-id1172456817793"><para id="eip-id1172460867718">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>638</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>516</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172461569854">
+<problem id="eip-id1172470380883"><para id="eip-id1172456490833"><m:math><m:mrow><m:mtext>1,905 × 710</m:mtext></m:mrow></m:math></para></problem>
+<solution id="eip-id1172465571610"><para id="eip-id1172459584776">1,352,550</para></solution>
+</exercise>
+
+<exercise id="eip-id1172456461539">
+<problem id="eip-id1172461866656"><para id="eip-id1172468179958"><m:math><m:mrow><m:mtext>5,757 × 5,010</m:mtext></m:mrow></m:math></para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172479641422">
+<problem id="eip-id5768614"><para id="eip-id1172456359123">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>3,106</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>1,752</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172456939299"><para id="eip-id1172456377376">5,441,712</para></solution>
+</exercise>
+
+<exercise id="eip-id1172464303176">
+<problem id="eip-id1172457000716"><para id="eip-id1172465483561">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>9,300</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>1,130</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172468191321">
+<problem id="eip-id1172474621923"><para id="eip-id1172457359320">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>7,057</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>5,229</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172458629175"><para id="eip-id1172459252452">36,901,053</para></solution>
+</exercise>
+
+<exercise id="eip-id1172465363216">
+<problem id="eip-id1172459614369"><para id="eip-id1172456489358">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>8,051</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>5,580</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172460817204">
+<problem id="eip-id1172457858557"><para id="eip-id1172456322802">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5,804</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>4,300</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172481686639"><para id="eip-id1172456273299">24,957,200</para></solution>
+</exercise>
+
+<exercise id="eip-id1172460800301">
+<problem id="eip-id1172457857687"><para id="eip-id1172456520405">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>357</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>16</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+
+</exercise>
+
+<exercise id="eip-id1172464364736">
+<problem id="eip-id1172458270372"><para id="eip-id1172456931882"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>724</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>    0</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172462824875"><para id="eip-id1172458437617">0</para></solution>
+</exercise>
+
+<exercise id="eip-id1172468033645"><problem id="eip-id4239150"><para id="eip-id1172456296037">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>2,649</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>    41</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172459781535">
+<problem id="eip-id1172458284310"><para id="eip-id1172462652778"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5,173</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>      8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172457050675"><para id="eip-id1172456566855">41,384</para></solution>
+</exercise>
+
+<exercise id="eip-id1172456288961">
+<problem id="eip-id1172457113308"><para id="eip-id1172461019375"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1,999</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>      0</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172461663556">
+<problem id="eip-id1172467899802"><para id="eip-id1172458265217"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1,666</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>      0</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172458563144"><para id="eip-id1172460983541">0</para></solution>
+</exercise>
+
+<exercise id="eip-id1172457562247">
+<problem id="eip-id1172479817435"><para id="eip-id1172456511590"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>51,730</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>    142</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172456982295">
+<problem id="eip-id1172465689080"><para id="eip-id1172459614079">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>387</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>190</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172459664184"><para id="eip-id1172457160071">73,530</para></solution>
+</exercise>
+
+<exercise id="eip-id1172456550190">
+<problem id="eip-id1172458620545"><para id="eip-id1172458520708"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>3,400</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>    70</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172459260858">
+<problem id="eip-id1172456476431"><para id="eip-id1172456479795"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>460,000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  14,000</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172457013302"><para id="eip-id1172461607907">6,440,000,000</para></solution>
+</exercise>
+
+<exercise id="eip-id1172465968834">
+<problem id="eip-id1172456483268"><para id="eip-id1172458305060"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>558,000,000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>        81,000</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172458697920">
+<problem id="eip-id1172459991451"><para id="eip-id1172476677276"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>37,000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>      120</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172461397356"><para id="eip-id5925885">4,440,000</para></solution>
+</exercise>
+
+<exercise id="eip-id1172456912608">
+<problem id="eip-id1172456353994"><para id="eip-id4045737"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>498,000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>          0</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172464314453">
+<problem id="eip-id1172465345236"><para id="eip-id1172470039577"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>4,585,000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>        140</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172461579621"><para id="eip-id4988115">641,900,000</para></solution>
+</exercise>
+
+<exercise id="eip-id1172456840332">
+<problem id="eip-id1172474224452"><para id="eip-id1172463880037"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>30,700,000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>            180</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+</exercise>
+
+<exercise id="eip-id1172456208282">
+<problem id="eip-id1172461330252"><para id="eip-id1172456895763"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>8,000</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>     10</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para></problem>
+
+<solution id="eip-id1172457167729"><para id="eip-id1172470382161">80,000</para></solution>
+</exercise>
+      <exercise id="eip-id1171975353677"><problem id="eip-id1171974982111"><para id="id1165728385478">Suppose a theater holds 426 people. If the theater charges $4 per ticket and sells every seat, how much money would they take in? </para></problem></exercise>
+      
+      <exercise id="eip-id1171975937887"><problem id="eip-id1171988797372"><para id="id1165728688143">In an English class, a student is expected to read 12 novels during the semester and prepare a report on each one of them. If there are 32 students in the class, how many reports will be prepared?</para></problem>
+<solution id="eip-id1171978998293"><para id="eip-id1171976788322">384 reports</para></solution></exercise>
+
+      <exercise id="eip-id1171970706025"><problem id="eip-id1171977146915"><para id="id1165715398354">In a mathematics class, a final exam consists of 65 problems. If this exam is given to 28 people, how many problems must the instructor grade?</para></problem></exercise>
+
+      <exercise id="eip-id1171978679201"><problem id="eip-id1171976441004"><para id="id1165714752500">A business law instructor gives a 45 problem exam to two of her classes. If each class has 37 people in it, how many problems will the instruc­tor have to grade?</para></problem>
+<solution id="eip-id1171975227767"><para id="eip-id1171976662790">3,330 problems</para></solution></exercise>
+
+      <exercise id="eip-id1171977752006"><problem id="eip-id1171992307979"><para id="id1165711363036">An algebra instructor gives an exam that consists of 43 problems to four of his classes. If the classes have 25, 28, 31, and 35 students in them, how many problems will the instructor have to grade?</para></problem></exercise>
+
+      <exercise id="eip-id1171986238913"><problem id="eip-id1171975101982"><para id="id1165721898882">In statistics, the term "standard deviation" refers to a number that is calculated from certain data. If the data indicate that one standard de­viation is 38 units, how many units is three stan­dard deviations?</para></problem> 
+<solution id="eip-id1171975412372"><para id="eip-id1171975805673">114 units</para></solution></exercise>
+
+      <exercise id="eip-id1171992335829"><problem id="eip-id1171971823816"><para id="id1165720958445">Soft drinks come in cases of 24 cans. If a supermarket sells 857 cases during one week, how many individual cans were sold?</para></problem></exercise>
+
+      <exercise id="eip-id1171974906715"><problem id="eip-id1171999114694"><para id="id1165741727942">There are 60 seconds in 1 minute and 60 minutes in 1 hour. How many seconds are there in 1 hour?</para></problem>
+<solution id="eip-id1171995975340"><para id="eip-id1171976056167">3,600 seconds</para></solution></exercise>
+
+      <exercise id="eip-id1171978759632"><problem id="eip-id1171975134267"><para id="id1165724526934">There are 60 seconds in 1 minute, 60 minutes in one hour, 24 hours in one day, and 365 days in one year. How many seconds are there in 1 year?</para></problem></exercise>
+
+      <exercise id="eip-id1171975732067"><problem id="eip-id1171977427140"><para id="id1165715473561">Light travels 186,000 miles in one second. How many miles does light travel in one year? (<emphasis effect="italics">Hint:</emphasis> Can you use the result of the previous problem?)</para></problem> 
+<solution id="eip-id1171980784741"><para id="eip-id1171974729288">5,865,696,000,000 miles per year</para></solution></exercise>
+
+      <exercise id="eip-id1171978493899"><problem id="eip-id2612409"><para id="id1165711779893">An elementary school cafeteria sells 328 lunches every day. Each lunch costs $1. How much money does the cafeteria bring in in 2 weeks?</para></problem></exercise>
+
+      <exercise id="eip-id1171982174591"><problem id="eip-id1171980454625"><para id="id1165717088151">A computer company is selling stock for $23 a share. If 87 people each buy 55 shares, how much money would be brought in?</para></problem> 
+<solution id="eip-id1171975399032"><para id="eip-id1171979821671">$110,055</para></solution></exercise>
+  
+    <section id="id1165715444212"><title>Exercises for Review</title><exercise id="eip-id1165671402790"><problem id="eip-id1165673181911">
+      <para id="id1165715234431">(<link document="m34795"/>) In the number 421,998, how may ten thousands are there?</para></problem></exercise>
+<exercise id="eip-id1165664227010"><problem id="eip-id1165662451868">
+      <para id="id1165711814983">(<link document="m34780"/>) Round 448,062,187 to the nearest hundred thousand.</para></problem>
+<solution id="eip-id1165665610681"><para id="eip-id1165666244707">448,100,000</para></solution></exercise>
+<exercise id="eip-id1165664317392"><problem id="eip-id1165660730364">
+      <para id="id1165712566043">(<link document="m34786"/>) Find the sum. 22,451 + 18,976.</para></problem></exercise>
+<exercise id="eip-id1165665894970"><problem id="eip-id1165661193594">
+      <para id="id8191499">(<link document="m34784"/>) Subtract 2,289 from 3,001.</para></problem>
+<solution id="eip-id1165673232560"><para id="eip-id1165665339132">712</para></solution></exercise>
+<exercise id="eip-id1165667442831"><problem id="eip-id1165665692873">
+      <para id="id3851968">(<link document="m34802"/>) Specify which property of addition justifies the fact that (a first whole number + a second whole number) = (the second whole number + the first whole number)</para></problem></exercise>
+</section>
+    </section>
+  </content>
+</document>

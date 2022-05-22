@@ -1,0 +1,1089 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Applications of Proportions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34982</md:content-id>
+  <md:title>Applications of Proportions</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses applications of proportions. By the end of the module students should be able to solve proportion problems using the five-step method.</md:abstract>
+  <md:uuid>c73f034c-44e9-4c4b-851c-c1c8d79d702f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1171777453134">
+      <title>Section Overview</title>
+      <list id="id1171798428629" list-type="bulleted">
+        <item>The Five-Step Method</item>
+        <item>Problem Solving</item>
+      </list>
+    </section>
+    <section id="id1171792900146"><title>The Five-Step Method</title><para id="id1171780875918">In <link document="m34981"/> we noted that many practical problems can be solved by writing the given information as proportions. Such proportions will be composed of three specified numbers and one unknown number represented by a letter.</para>
+      <para id="id1171782048057">The first and most important part of solving a proportion problem is to deter­mine, by careful reading, what the unknown quantity is and to represent it with some letter.</para>
+      <para id="id1171768996564"><title>The Five-Step Method</title>The five-step method for solving proportion problems:
+<list id="id1171809050630" list-type="enumerated" number-style="arabic"><item>By careful reading, determine what the unknown quantity is and represent it with some letter. There will be only one unknown in a problem.</item>
+        <item>Identify the three specified numbers.</item>
+        <item>Determine which comparisons are to be made and set up the proportion.</item>
+        <item>Solve the proportion (using the methods of <link document="m34981"/>).</item>
+        <item>Interpret and write a conclusion in a sentence with the appropriate units of measure.</item>
+      </list>
+</para>
+      
+      <para id="id1171791957910">Step 1 is extremely important. Many problems go unsolved because time is not taken to establish what quantity is to be found.</para>
+      <para id="id1171767086879">When solving an applied problem, <emphasis effect="bold">always</emphasis> begin by determining the unknown quantity and representing it with a letter.</para>
+    </section>
+    <section id="id1171799757510">
+      <title>Problem Solving</title>
+      <section id="id1171776209812"><title>Sample Set A</title><example id="eip-id1164916451947">
+        <para id="id1171772575709">On a map, 2 inches represents 25 miles. How many miles are represented by 8 inches? 
+<list id="eip-id1171548836042" list-type="labeled-item"><item><label>Step 1</label> The unknown quantity is miles. <newline/> Let 
+<m:math><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo></m:math> number of miles represented by 8 inches</item>
+
+<item><label>Step 2</label> The three specified numbers are <newline/>
+2 inches <newline/>
+25 miles <newline/>
+8 inches</item>
+<item><label>Step 3</label> The comparisons are <newline/>
+2 inches to 25 miles →
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>2 inches</m:mtext><m:mtext>25 miles</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"2 inches"}  over  {"25 miles"} } } {}</m:annotation></m:semantics></m:math>
+<newline/>
+8 inches to x miles → 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>8 inches</m:mtext><m:mtext>x miles</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"8 inches"}  over  {"x miles"} } } {}</m:annotation></m:semantics></m:math>
+<newline/>
+Proportions involving ratios and rates are more readily solved by suspending the units while doing the computations.<newline/>
+<m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>2</m:mn>
+                        <m:mtext>25</m:mtext>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>8</m:mn>
+                        <m:mi>x</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {"25"} } = {  {8}  over  {x} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </item>
+<item><label>Step 4</label>
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mfrac>
+<m:mn>2</m:mn>
+<m:mn>25</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mn>8</m:mn>
+<m:mi>x</m:mi>
+</m:mfrac>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Perform the cross multiplication.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+<newline/>
+
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>2</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>8</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>25</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>2</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>200</m:mn>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Divide 200 by 2.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mn>200</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>100</m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math><newline/>
+In step 1, we let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> represent the number of miles. So, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> represents 100 miles.</item>
+<item><label>Step 5</label> If 2 inches represents 25 miles, then 8 inches represents 100 miles.<newline/>
+Try <link target-id="id1171797226594"/> in <link target-id="id1171805373081"/>.</item></list></para>
+  </example>      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    <example id="eip-id1164923518663">    
+        <para id="id1171771065804">An acid solution is composed of 7 parts water to 2 parts acid. How many parts of water are there in a solution composed of 20 parts acid?
+<list id="eip-id1172146499378" list-type="labeled-item"><item><label>Step 1</label> The unknown quantity is the number of parts of water.<newline/>
+Let 
+<m:math><m:mi>n</m:mi><m:mo>=</m:mo></m:math> number of parts of water.</item>
+<item><label>Step 2</label> The three specified numbers are<newline/>
+7 parts water<newline/>
+2 parts acid<newline/>
+20 parts acid</item>
+<item><label>Step 3</label> The comparisons are<newline/>
+7 parts water to 2 parts acid → 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {2} } } {}</m:annotation></m:semantics></m:math><newline/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n} {}</m:annotation></m:semantics></m:math> parts water to 20 parts acid → 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>n</m:mi><m:mtext>20</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {n}  over  {"20"} } } {}</m:annotation></m:semantics></m:math><newline/>
+<m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>7</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mi>n</m:mi>
+                        <m:mtext>20</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {2} } = {  {n}  over  {"20"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </item>
+<item><label>Step 4</label> 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mfrac>
+<m:mn>7</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mi>n</m:mi>
+<m:mi>20</m:mi>
+</m:mfrac>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Perform the cross multiplication.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+
+<newline/>
+<m:math>
+<m:mtable>
+
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>7</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>20</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>2</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>n</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>140</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>2</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>n</m:mi>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Divide 140 by 2.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mfrac>
+<m:mn>140</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>n</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>70</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>n</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math><newline/>
+In step 1 we let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n} {}</m:annotation></m:semantics></m:math> represent the number of parts of water. So, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n} {}</m:annotation></m:semantics></m:math> represents 70 parts of water. </item>
+<item><label>Step 5</label> 7 parts water to 2 parts acid indicates 70 parts water to 20 parts acid. <newline/>
+Try <link target-id="oo-id1171796774901"/> in <link target-id="id1171805373081"/>. </item></list></para>
+       </example> 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    <example id="eip-id1164921737442">    
+        <para id="id1171781734420">A 5-foot girl casts a 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math>-foot shadow at a particular time of the day. How tall is a person who casts a 3-foot shadow at the same time of the day?
+<list id="eip-id1711445" list-type="labeled-item"><item><label>Step 1</label> The unknown quantity is the height of the person.<newline/>
+Let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>h</m:mi><m:mo stretchy="false">=</m:mo><m:mtext> height of the person</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{h=" height of the person"} {}</m:annotation></m:semantics></m:math>.</item>
+<item><label>Step 2</label> The three specified numbers are<newline/>
+5 feet ( height of girl)<newline/>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> feet (length of shadow)<newline/>
+3 feet (length of shadow) </item>
+<item><label>Step 3</label> The comparisons are <newline/>
+5-foot girl is to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math>foot shadow → 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3 {  {1}  over  {3} } } } } {}</m:annotation></m:semantics></m:math><newline/>
+<emphasis effect="italics">h</emphasis>-foot person is to 3-foot shadow → 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>h</m:mi><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {h}  over  {3} } } {}</m:annotation></m:semantics></m:math><newline/>
+<m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>5</m:mn>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>3</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mi>h</m:mi>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3 {  {1}  over  {3} } } } = {  {h}  over  {3} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </item>
+<item><label>Step 4</label> <m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mfrac>
+<m:mrow><m:mn>5</m:mn></m:mrow>
+<m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow>
+</m:mfrac>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mi>h</m:mi>
+<m:mn>3</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math>
+<newline/>
+
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5</m:mn>
+<m:mo>⋅</m:mo>
+<m:mn>3</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>3</m:mn>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>3</m:mn>
+</m:mfrac>
+<m:mo>⋅</m:mo>
+<m:mi>h</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>15</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mn>10</m:mn>
+<m:mn>3</m:mn>
+</m:mfrac>
+<m:mo>⋅</m:mo>
+<m:mi>h</m:mi>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Divide</m:mtext><m:mspace width="2px"/><m:mn>15</m:mn><m:mspace width="2px"/><m:mtext>by</m:mtext><m:mspace width="2px"/><m:mfrac><m:mn>10</m:mn><m:mn>3</m:mn></m:mfrac>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mfrac>
+<m:mn>15</m:mn>
+<m:mrow><m:mfrac><m:mn>10</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow>
+</m:mfrac>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd>
+<m:mi>h</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mfrac>
+<m:mrow>
+<m:mover>
+<m:menclose notation="updiagonalstrike">
+<m:mn>15</m:mn>
+</m:menclose>
+<m:mn>3</m:mn>
+</m:mover>
+</m:mrow>
+<m:mrow><m:mn>1</m:mn></m:mrow>
+</m:mfrac>
+<m:mo>⋅</m:mo>
+<m:mfrac>
+<m:mrow><m:mn>3</m:mn></m:mrow>
+<m:mrow>
+<m:munder>
+<m:menclose notation="updiagonalstrike">
+<m:mn>10</m:mn>
+</m:menclose>
+<m:mn>2</m:mn>
+</m:munder>
+</m:mrow>
+</m:mfrac>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>h</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mfrac>
+<m:mn>9</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>h</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>h</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>4</m:mn>
+<m:mfrac>
+<m:mn>1</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math></item>
+<item><label>Step 5</label> A person who casts a 3-foot shadow at this particular time of the day is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> feet tall. <newline/>
+Try <link target-id="id1171769805747"/> in <link target-id="id1171805373081"/>.</item></list></para>
+     </example>   
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <example id="eip-id1164931379289">
+        <para id="id1996294">The ratio of men to women in a particular town is 3 to 5. How many women are there in the town if there are 19,200 men in town?
+<list id="eip-id2005912" list-type="labeled-item"><item><label>Step 1</label> The unknown quantity is the number of women in town.<newline/>
+Let <m:math><m:mi>x</m:mi><m:mo>=</m:mo></m:math> number of women in town.</item>
+<item><label>Step 2</label> The three specified numbers are <newline/>
+3<newline/>
+5<newline/>
+19,200</item>
+<item><label>Step 3</label> The comparisons are 3 men to 5 women → 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math><newline/>
+19,200 men to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> women → 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>19</m:mtext><m:mi>,</m:mi><m:mtext>200</m:mtext></m:mrow><m:mi>x</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"19","200"}  over  {x} } } {}</m:annotation></m:semantics></m:math> <newline/>
+<m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>3</m:mn>
+                        <m:mn>5</m:mn>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mtext>19</m:mtext>
+                          <m:mi>,</m:mi>
+                          <m:mtext>200</m:mtext>
+                        </m:mrow>
+                        <m:mi>x</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } = {  {"19","200"}  over  {x} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </item>
+<item><label>Step 4</label>
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mfrac>
+<m:mn>3</m:mn>
+<m:mn>5</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mn>19,200</m:mn>
+<m:mi>x</m:mi>
+</m:mfrac>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math>
+<newline/>
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>3</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>19,200</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>5</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>3</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>96,000</m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mn>96,000</m:mn>
+<m:mn>3</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>32,000</m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math></item>
+<item><label>Step 5</label> There are 32,000 women in town.</item></list></para>
+        
+        </example>
+        
+        
+        
+        
+        
+        
+        
+        
+       <example id="eip-id1164930706819"> 
+        
+        <para id="id1171780225960">The rate of wins to losses of a particular baseball team is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {2} } } {}</m:annotation></m:semantics></m:math> . How many games did this team lose if they won 63 games?
+<list id="eip-id1169225435126" list-type="labeled-item"><item><label>Step 1</label> The unknown quantity is the number of games lost. <newline/>
+Let <m:math><m:mi>n</m:mi><m:mo>=</m:mo></m:math> number of games lost.</item>
+<item><label>Step 2</label> Since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {2} } } {}</m:annotation></m:semantics></m:math>→ means 9 wins to 2 losses, the three specified numbers are <newline/>
+9 (wins)<newline/>
+2 (losses)<newline/>
+63 (wins)</item>
+<item><label>Step 3</label> The comparisons are <newline/>
+9 wins to 2 losses→ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {2} } } {}</m:annotation></m:semantics></m:math> <newline/>
+63 wins to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n} {}</m:annotation></m:semantics></m:math> losses → 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>63</m:mtext><m:mi>n</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"63"}  over  {n} } } {}</m:annotation></m:semantics></m:math> <newline/>
+<m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>9</m:mn>
+                        <m:mn>2</m:mn>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mtext>63</m:mtext>
+                        <m:mi>n</m:mi>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {2} } = {  {"63"}  over  {n} } } {}</m:annotation>
+            </m:semantics>
+          </m:math></item>
+<item><label>Step 4</label>
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mfrac>
+<m:mn>9</m:mn>
+<m:mn>2</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mn>63</m:mn>
+<m:mi>n</m:mi>
+</m:mfrac>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math>
+<newline/>
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>9</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>n</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>2</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>63</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>9</m:mn>
+<m:mo>⋅</m:mo>
+<m:mi>n</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>126</m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>n</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mn>126</m:mn>
+<m:mn>9</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>n</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>14</m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math>
+</item>
+<item>Step 5: This team had 14 losses. <newline/>Try <link target-id="id1171792094659"/> in <link target-id="id1171805373081"/>.</item></list></para>
+        
+        </example>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </section>
+      <section id="id1171805373081">
+        <title>Practice Set A</title>
+        <para id="id1171800820799">Solve each problem.</para>
+        <exercise id="id1171797226594"><problem id="oo-id1171776673046">
+            <para id="id1171791224925">On a map, 3 inches represents 100 miles. How many miles are represented by 15 inches? 
+<list id="eip-id1165230626334" list-type="labeled-item"><item><label>Step 1</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 2</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 3</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 4</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 5</label><newline/><newline/><newline/><newline/></item></list></para>
+          </problem>
+        <solution id="eip-id1171018481901"><para id="eip-id1171018481902">500 miles</para></solution></exercise>
+        
+        
+        
+        
+        
+        <exercise id="id1171775494027"><problem id="oo-id1171796774901">
+            <para id="id1171782472213">An alcohol solution is composed of 14 parts water to 3 parts alcohol. How many parts of alcohol are in a solution that is composed of 112 parts water?
+<list id="eip-1203172439587" list-type="labeled-item"><item><label>Step 1</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 2</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 3</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 4</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 5</label><newline/><newline/><newline/><newline/></item></list></para>
+          </problem>
+        <solution id="eip-id1164020099988"><para id="eip-id1643970">24 parts of alcohol</para></solution></exercise>
+        
+        
+        
+        
+        
+        
+        <exercise id="id1171769805747"><problem id="oo-id1171800934840">
+            <para id="id1171787039522">A 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> -foot woman casts a 7-foot shadow at a particular time of the day. How long of a shadow does a 3-foot boy cast at that same time of day?
+
+<list id="eip-34983745987" list-type="labeled-item"><item><label>Step 1</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 2</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 3</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 4</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 5</label><newline/><newline/><newline/><newline/></item></list></para>
+          </problem>
+        <solution id="eip-id1171065995418"><para id="eip-id1171052524807"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>9</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  {9}  over  {"11"} } } {}</m:annotation></m:semantics></m:math> feet</para></solution></exercise>
+        
+        
+        
+        
+        
+        <exercise id="id1171792094659"><problem id="oo-id1171768952287">
+            <para id="id1171807130788">The rate of houseplants to outside plants at a nursery is 4 to 9. If there are 384 houseplants in the nursery, how many outside plants are there?
+
+<list id="eip-349587342" list-type="labeled-item"><item><label>Step 1</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 2</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 3</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 4</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 5</label><newline/><newline/><newline/><newline/></item></list></para>
+          </problem>
+        <solution id="eip-id1172148552086"><para id="eip-id1172156996062">864 outside plants</para></solution></exercise>
+        
+        
+        
+        
+        
+        <exercise id="id1171781382109"><problem id="oo-id1884286">
+            <para id="id1171780677364">The odds for a particular event occurring are 11 to 2. (For every 11 times the event does occur, it will not occur 2 times.) How many times does the event occur if it does not occur 18 times?
+
+<list id="eip-23405981287" list-type="labeled-item"><item><label>Step 1</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 2</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 3</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 4</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 5</label><newline/><newline/><newline/><newline/></item></list></para>
+          </problem>
+        <solution id="eip-id1169298892844"><para id="eip-id1169296134684">The event occurs 99 times.</para></solution></exercise>
+        
+        
+        
+        
+        
+        <exercise id="id1171785115781"><problem id="oo-id1171791923917">
+            <para id="id1171790738971">The rate of passing grades to failing grades in a particular chemistry class is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {2} } } {}</m:annotation></m:semantics></m:math> . If there are 21 passing grades, how many failing grades are there?
+
+<list id="eip-3405923420" list-type="labeled-item"><item><label>Step 1</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 2</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 3</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 4</label><newline/><newline/><newline/><newline/></item>
+<item><label>Step 5</label><newline/><newline/><newline/><newline/></item></list></para>
+          </problem>
+        <solution id="eip-id1172148752212"><para id="eip-id1172148385203">6 failing grades</para></solution></exercise>
+        
+        
+        
+        
+        
+        
+      </section>
+    </section>
+    <section id="id1171793480552"><title>Exercises</title><para id="id1171799904385">For the following 20 problems, use the five-step method to solve each problem.</para>
+      <exercise id="id1171769297841">
+        <problem id="oo-id1171780683860">
+          <para id="id1171771306886">On a map, 4 inches represents 50 miles. How many inches represent 300 miles? </para>
+        </problem>
+<solution id="eip-id1163963008527"><para id="eip-id1163975528936"> 24</para></solution>
+      </exercise>
+      <exercise id="id1171794710147">
+        <problem id="oo-id1171777200881">
+          <para id="id1171788075856">On a blueprint for a house, 2 inches represents 3 feet. How many inches represent 10 feet?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171798345011">
+        <problem id="oo-id1171784992369">
+          <para id="id1171801377098">A model is built to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> scale. If a particular part of the model measures 6 inches, how long is the actual structure? </para>
+        </problem>
+<solution id="eip-id1163962513459"><para id="eip-id1163966177777">45 inches</para></solution>
+      </exercise>
+      <exercise id="id1171786635588">
+        <problem id="oo-id1171789062284">
+          <para id="id1171769720620">An acid solution is composed of 5 parts acid to 9 parts of water. How many parts of acid are there in a solution that contains 108 parts of water?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171808165972">
+        <problem id="oo-id1171791315342">
+          <para id="id1171791038943">An alloy contains 3 parts of nickel to 4 parts of silver. How much nickel is in an alloy that con­tains 44 parts of silver? </para>
+        </problem>
+<solution id="eip-id1163974886666"><para id="eip-id1163964042333">33 parts</para></solution>
+      </exercise>
+      <exercise id="id1171782180557">
+        <problem id="oo-id1171770369081">
+          <para id="id1171770069614">The ratio of water to salt in a test tube is 5 to 2. How much salt is in a test tube that contains 35 ml of water?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171803750565">
+        <problem id="oo-id1171797433681">
+          <para id="id1171777102222">The ratio of sulfur to air in a container is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mtext>45</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {"45"} } } {}</m:annotation></m:semantics></m:math>. How many ml of air are there in a container that contains 207 ml of sulfur? </para>
+        </problem>
+<solution id="eip-id1163982588557"><para id="eip-id1163971316347">2328.75</para></solution>
+      </exercise>
+      <exercise id="id1171800974804">
+        <problem id="oo-id1171798333810">
+          <para id="id1171801065653">A 6-foot man casts a 4-foot shadow at a particu­lar time of the day. How tall is a person that casts a 3-foot shadow at that same time of the day?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171801609830">
+        <problem id="oo-id1171791219628">
+          <para id="id1171785497422">A 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>-foot woman casts a 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>-foot shadow at a particular time of the day. How long a shadow does her 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>-foot niece cast at the same time of the day? 
+</para>
+        </problem>
+<solution id="eip-id1163975582837"><para id="eip-id1163971627390"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>21</m:mtext><m:mtext>22</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"21"}  over  {"22"} } } {}</m:annotation></m:semantics></m:math> feet</para></solution>
+      </exercise>
+      <exercise id="id1171795163587">
+        <problem id="oo-id1171768975006">
+          <para id="id1171784845409">A man, who is 6 feet tall, casts a 7-foot shadow at a particular time of the day. How tall is a tree that casts an 84-foot shadow at that same time of the day?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171801148786">
+        <problem id="oo-id1171793836415">
+          <para id="id1171802460549">The ratio of books to shelves in a bookstore is 350 to 3. How many books are there in a store that has 105 shelves? </para>
+        </problem>
+<solution id="eip-id1163992907961"><para id="eip-id1163963856224">12,250</para></solution>
+      </exercise>
+      <exercise id="id1171799933414">
+        <problem id="oo-id2770233">
+          <para id="id1171771477012">The ratio of algebra classes to geometry classes at a particular community college is 13 to 2. How many geometry classes does this college offer if it offers 13 algebra classes?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171807979645">
+        <problem id="oo-id1171770315447">
+          <para id="id1171791570706">The odds for a particular event to occur are 16 to 3. If this event occurs 64 times, how many times would you predict it does not occur? </para>
+        </problem>
+<solution id="eip-id1163992521220"><para id="eip-id1163980563373">12</para></solution>
+      </exercise>
+      <exercise id="id1171770971759">
+        <problem id="oo-id1171769952780">
+          <para id="id1171794674800">The odds against a particular event occurring are 8 to 3. If this event does occur 64 times, how many times would you predict it does not occur?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171773075607">
+        <problem id="oo-id3030376">
+          <para id="id1171769744865">The owner of a stationery store knows that a 1-inch stack of paper contains 300 sheets. The owner wishes to stack the paper in units of 550 sheets. How many inches tall should each stack be?
+</para>
+        </problem>
+<solution id="eip-id1163963328715"><para id="eip-id1163962399410"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171780870791">
+        <problem id="oo-id1171772602411">
+          <para id="id1171771102638">A recipe that requires 6 cups of sugar for 15 serv­ings is to be used to make 45 servings. How much sugar will be needed?</para>
+        </problem>
+      </exercise>
+      <exercise id="id2006427">
+        <problem id="oo-id1171768652869">
+          <para id="id1171793092614">A pond loses 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>7</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> gallons of water every 2 days due to evaporation. How many gallons of water are lost, due to evaporation, in 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> day? 
+</para>
+        </problem>
+<solution id="eip-id1163963476292"><para id="eip-id1163980517704"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171802575794">
+        <problem id="oo-id1171770213955">
+          <para id="id1171767230129">A photograph that measures 3 inches wide and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> inches high is to be enlarged so that it is 5 inches wide. How high will it be?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171777542138">
+        <problem id="oo-id1171777232614">
+          <para id="id1171798510202">If 25 pounds of fertilizer covers 400 square feet of grass, how many pounds will it take to cover 500 square feet of grass? 
+</para>
+        </problem>
+<solution id="eip-id1163972939790"><para id="eip-id1163972706418"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>31</m:mtext><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"31" {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171808187867">
+        <problem id="oo-id1171785731301">
+          <para id="id1171787085255">Every 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> teaspoons of a particular multiple vitamin, in granular form, contains 0.65 the mini­mum daily requirement of vitamin C. How many teaspoons of this vitamin are required to supply 1.25 the minimum daily requirement?</para>
+        </problem>
+      </exercise>
+      <section id="id1171794562010">
+        <title>Exercises for Review</title>
+        <exercise id="id1171788416529">
+          <problem id="oo-id2686870">
+            <para id="id1171800890485">(<link document="m34863"/>) Find the product, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>818</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"818" cdot 0} {}</m:annotation></m:semantics></m:math>. </para>
+          </problem>
+<solution id="eip-id1163965198685"><para id="eip-id1163992441201">0</para></solution>
+        </exercise>
+        <exercise id="id1171785525292">
+          <problem id="oo-id1171770286113">
+            <para id="id1171794065565">(<link document="m34927"/>) Determine the missing numerator: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>15</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>N</m:mi><m:mtext>90</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"15"} } = {  {N}  over  {"90"} } } {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1171794199858">
+          <problem id="oo-id1171771370610">
+            <para id="id1171805501497">(<link document="m34941"/>) Find the value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>10</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>4</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow><m:mfrac><m:mtext>19</m:mtext><m:mtext>20</m:mtext></m:mfrac></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { {  {3}  over  {4} } + {  {4}  over  {"12"} } }  over  { {  {"19"}  over  {"20"} } } } } {}</m:annotation></m:semantics></m:math>. </para>
+          </problem>
+<solution id="eip-id1163965967275"><para id="eip-id1163962165832"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171782944680">
+          <problem id="oo-id1171778118277">
+            <para id="id1171792470047">(<link document="m34960"/>) Subtract 0.249 from the sum of 0.344 and 0.612.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1171807804165">
+          <problem id="oo-id1171794008574">
+            <para id="id1171793827780">(<link document="m34981"/>) Solve the proportion: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>6</m:mn><m:mi>x</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>36</m:mtext><m:mtext>30</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {x} } = {  {"36"}  over  {"30"} } } {}</m:annotation></m:semantics></m:math>.   </para>
+          </problem>
+<solution id="eip-id1163964848937"><para id="eip-id1163975201896">5</para></solution>
+        </exercise>
+      </section>
+    </section>
+  </content>
+</document>

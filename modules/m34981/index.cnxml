@@ -1,0 +1,960 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Proportions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34981</md:content-id>
+  <md:title>Proportions</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses proportions. By the end of the module students should be able to describe proportions and find the missing factor in a proportion and be able to work with proportions involving rates.</md:abstract>
+  <md:uuid>2278db9b-b775-4d02-a164-0a4be99cb8e6</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1171799673874">
+      <title>Section Overview</title>
+      <list id="id1171805611677" list-type="bulleted">
+        <item>Ratios, Rates, and Proportions</item>
+        <item>Finding the Missing Factor in a Proportion</item>
+        <item>Proportions Involving Rates</item>
+      </list>
+    </section>
+    <section id="id1171783037653"><title>Ratios, Rates, and Proportions</title><para id="id1171772472921"><title>Ratio, Rate</title>We have defined a <term>ratio</term> as a comparison, by division, of two pure numbers or two <emphasis effect="italics">like</emphasis> denominate numbers. We have defined a <term>rate</term> as a comparison, by division, of two <emphasis effect="italics">unlike</emphasis> denominate numbers.</para>
+      <para id="id1171779070631"><title>Proportion</title>A <term>proportion</term> is a statement that two ratios or rates are equal. The following two examples show how to read proportions.</para>
+      <para id="id1171805270512"><media id="id1171805270512_media" alt="Three fourths equals six eighths. 3 is to four as six is to eight. 25 miles divided by 1 gallon equals 50 miles divided by 2 gallons. 25 miles is to 1 gallon as 50 miles is to 2 gallons.">
+          <image mime-type="image/png" src="../../media/graphics1-e7ad.png" id="id1171805270512__onlineimage" width="492" print-width="4in"/>
+        </media>
+      </para>
+      <section id="id1171766957789"><title>Sample Set A</title><para id="id1171777848689">Write or read each proportion.</para>
+<example id="eip-id1168030020305">
+        <para id="id1171781941776">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>12</m:mtext><m:mtext>20</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } = {  {"12"}  over  {"20"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1171785025846">3 is to 5 as 12 is to 20</para>
+</example>
+<example id="eip-id1168034288377">
+        <para id="id1171804743140">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>10 items</m:mtext><m:mtext>5 dollars</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>2 items</m:mtext><m:mtext>1 dollar</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"10 items"}  over  {"5 dollars"} } = {  {"2 items"}  over  {"1 dollar"} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1171766857022">10 items is to 5 dollars as 2 items is to 1 dollar</para>
+</example>
+<example id="eip-id1168029789170">
+        <para id="id1171785170212">8 is to 12 as 16 is to 24.</para>
+        <para id="id1171769731383"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>8</m:mn>
+                        <m:mtext>12</m:mtext>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mtext>16</m:mtext>
+                        <m:mtext>24</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"12"} } = {  {"15"}  over  {"24"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+</example>
+<example id="eip-id1168027612540">
+        <para id="id1171793705994">50 milligrams of vitamin C is to 1 tablet as 300 milligrams of vitamin C is to 6 tablets.</para>
+        <para id="id1171790182688">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mtext>50</m:mtext>
+                        <m:mn>1</m:mn>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mtext>300</m:mtext>
+                        <m:mn>6</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {"50"}  over  {1} } = {  {"300"}  over  {6} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      </example></section>
+      <section id="id1171767211458">
+        <title>Practice Set A</title>
+        <para id="id1171782470293">Write or read each proportion.</para>
+        <exercise id="id1171786974785"><problem id="oo-id1171806453923">
+            <para id="id1171773803263"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>6</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} } = {  {6}  over  {"16"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1168459227680"><para id="eip-id1168459313135">3 is to 8 as 6 is to 16</para></solution></exercise>
+        <exercise id="id1171777925224"><problem id="oo-id1171769027106">
+            <para id="id1171789362279"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>2 people</m:mtext><m:mtext>1 window</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>10 people</m:mtext><m:mtext>5 windows</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"2 people"}  over  {"1 window"} } = {  {"10 people"}  over  {"5 windows"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1163982593424"><para id="eip-id1163972336446">2 people are to 1 window as 10 people are to 5 windows</para></solution></exercise>
+        <exercise id="id1171770440944"><problem id="oo-id1171778270021">
+            <para id="id1171800212850">15 is to 4 as 75 is to 20.</para>
+          </problem>
+        <solution id="eip-id1164012466454"><para id="eip-id1164012826977"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>15</m:mtext><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>75</m:mtext><m:mtext>20</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"}  over  {4} } = {  {"75"}  over  {"20"} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1171772130372"><problem id="oo-id1171778873920">
+            <para id="id1171779932018">2 plates are to 1 tray as 20 plates are to 10 trays.</para>
+          </problem>
+        <solution id="eip-id1168148403688"><para id="eip-id1168156698389"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>2 plates</m:mtext><m:mtext>1 tray</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>20</m:mtext><m:mtext>  plates</m:mtext></m:mrow><m:mrow><m:mtext>10</m:mtext><m:mtext>  trays</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"2 plates"}  over  {"1 tray"} } = {  {"20"" plates"}  over  {"10"" trays"} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1171793885835">
+      <title>Finding the Missing Factor in a Proportion</title>
+      <para id="id1171772422398">Many practical problems can be solved by writing the given information as propor­tions. Such proportions will be composed of three specified numbers and one unknown number. It is customary to let a letter, such as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>, represent the unknown number. An example of such a proportion is</para>
+      
+      
+      <para id="eip-987"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mi>x</m:mi>
+                      <m:mn>4</m:mn>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mtext>20</m:mtext>
+                      <m:mtext>16</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {4} } = {  {"20"}  over  {"16"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="eip-785">This proportion is read as "
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> is to 4 as 20 is to 16."</para><para id="id1171769930041">There is a method of solving these proportions that is based on the equality of fractions. Recall that two fractions are equivalent if and only if their cross products are equal. For example,</para>
+      <para id="eip-208"><media id="eip-id1166910325756" alt="Three fourths equals six eighths. Next to this equation are the same two fractions, with arrows pointing from the denominators to the opposite fraction's numerator, indicating a cross product. The cross product is 3 times 8 equals 6 times 4, or 24 equals 24.">
+<image mime-type="image/png" src="../../media/crossarrows.png" width="200" print-width="2in"/>
+</media></para>
+      
+      <para id="id1171771773864">Notice that in a proportion that contains three specified numbers and a letter representing an unknown quantity, that regardless of where the letter appears, the following situation always occurs.</para>
+      <para id="id1171779088389"><m:math><m:munder><m:mrow><m:mtext>(number)</m:mtext><m:mo>⋅</m:mo><m:mtext>(letter)</m:mtext><m:mo>=</m:mo><m:mtext>(number)</m:mtext><m:mo>⋅</m:mo><m:mtext>(number)</m:mtext></m:mrow><m:mo stretchy="true">︸</m:mo></m:munder></m:math></para>
+      <para id="id1171782381699">We recognize this as a multiplication statement. Specifically, it is a missing factor statement. (See <link document="m34930"/> for a discussion of multiplication statements.) For example,</para>
+      <para id="id1171782990836"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mrow><m:mfrac><m:mi>x</m:mi><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>20</m:mtext><m:mtext>16</m:mtext></m:mfrac></m:mrow>
+</m:mtd>
+<m:mtd>
+<m:mtext>means that  </m:mtext><m:mtext>16</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>20</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>x</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>16</m:mn><m:mn>20</m:mn></m:mfrac></m:mrow>
+</m:mtd>
+<m:mtd>
+<m:mtext>means that  </m:mtext><m:mn>4</m:mn><m:mo>⋅</m:mo><m:mn>20</m:mn><m:mo>=</m:mo><m:mn>16</m:mn><m:mo>⋅</m:mo><m:mi>x</m:mi>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mrow><m:mfrac><m:mi>5</m:mi><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>x</m:mn><m:mn>16</m:mn></m:mfrac></m:mrow>
+</m:mtd>
+<m:mtd>
+<m:mrow><m:mtext>means that  </m:mtext><m:mn>5</m:mn><m:mo>⋅</m:mo><m:mn>16</m:mn><m:mo>=</m:mo><m:mn>4</m:mn><m:mo>⋅</m:mo><m:mi>x</m:mi></m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>20</m:mn><m:mi>x</m:mi></m:mfrac></m:mrow>
+</m:mtd>
+<m:mtd>
+<m:mtext>means that  </m:mtext><m:mn>5</m:mn><m:mo>⋅</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>4</m:mn><m:mo>⋅</m:mo><m:mn>20</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+      
+      
+      
+      <para id="id1171781708762">Each of these statements is a multiplication statement. Specifically, each is a missing factor statement. (The letter used here is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math>, whereas 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>M</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{M} {}</m:annotation></m:semantics></m:math> was used in <link document="m34930"/>.)</para>
+      <para id="id1171787293494"><title>Finding the Missing Factor in a Proportion</title>The missing factor in a missing factor statement can be determined by dividing the product by the known factor, that is, if 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> represents the missing factor, then <newline/>
+<m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>x</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mo stretchy="false">(</m:mo>
+                    </m:mrow>
+                    <m:mtext>product</m:mtext>
+                    <m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">÷</m:mo>
+                      <m:mo stretchy="false">(</m:mo>
+                    </m:mrow>
+                    <m:mtext>known factor</m:mtext>
+                    <m:mo stretchy="false">)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{x= \( "product" \)  div  \( "known factor" \) } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      
+      <section id="id1171776042723"><title>Sample Set B</title><para id="id1171778300697">Find the unknown number in each proportion.</para>
+<example id="eip-id1165366857016">
+        <para id="id1171792498003"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>20</m:mtext><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {4} } = {  {"20"}  over  {"16"} } } {}</m:annotation></m:semantics></m:math>. Find the cross product.</para>
+        
+        <para id="eip-167"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mn>16</m:mn><m:mo>⋅</m:mo><m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>20</m:mn><m:mo>⋅</m:mo><m:mn>4</m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>16</m:mn><m:mo>⋅</m:mo><m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>80</m:mn>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Divide the product 80 by the known factor 16.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mn>80</m:mn>
+<m:mn>16</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>5</m:mn>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>The unknown number is 5.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        
+        <para id="id1171771979078">This mean that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>20</m:mtext><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {4} } = {  {"20"}  over  {"16"} } } {}</m:annotation></m:semantics></m:math>, or 5 is to 4 as 20 is to 16.</para>
+</example>
+<example id="eip-id1165363661830">
+        <para id="id1171802694255"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mi>x</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>20</m:mtext><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {x} } = {  {"20"}  over  {"16"} } } {}</m:annotation></m:semantics></m:math>.  Find the cross product.</para>
+        <para id="eip-561"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mn>5</m:mn><m:mo>⋅</m:mo><m:mi>16</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>20</m:mn><m:mo>⋅</m:mo><m:mn>x</m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>80</m:mn>
+
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>20</m:mn><m:mo>⋅</m:mo><m:mi>x</m:mi>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Divide the product 80 by the known factor 20.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mfrac>
+<m:mn>80</m:mn>
+<m:mn>20</m:mn>
+</m:mfrac>
+
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>4</m:mn>
+
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>The unknown number is 4.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        
+        <para id="id1171778433596">This means that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>20</m:mtext><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {4} } = {  {"20"}  over  {"16"} } } {}</m:annotation></m:semantics></m:math>, or, 5 is to 4 as 20 is to 6.</para>
+</example>
+<example id="eip-id1165363212081">
+        <para id="id1171767500538"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>64</m:mtext><m:mi>x</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {3} } = {  {"64"}  over  {x} } } {}</m:annotation></m:semantics></m:math> Find the cross product.</para>
+        <para id="eip-54"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mn>16</m:mn><m:mo>⋅</m:mo><m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>64</m:mn><m:mo>⋅</m:mo><m:mn>3</m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>16</m:mn><m:mo>⋅</m:mo><m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>192</m:mn>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Divide 192 by 16.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mfrac>
+<m:mn>192</m:mn>
+<m:mn>16</m:mn>
+</m:mfrac>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>12</m:mn>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>The unknown number is 12.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        
+        <para id="id1171776507994">The means that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>64</m:mtext><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {3} } = {  {"64"}  over  {"12"} } } {}</m:annotation></m:semantics></m:math>, or, 16 is to 3 as 64 is to 12.</para>
+</example>
+<example id="eip-id1165369894745">
+        <para id="id1171782370908"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>x</m:mi><m:mtext>40</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {8} } = {  {x}  over  {"40"} } } {}</m:annotation></m:semantics></m:math> Find the cross products.</para>
+        <para id="eip-479"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mn>9</m:mn><m:mo>⋅</m:mo><m:mi>40</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>8</m:mn><m:mo>⋅</m:mo><m:mn>x</m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>360</m:mn>
+
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>8</m:mn><m:mo>⋅</m:mo><m:mi>x</m:mi>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Divide 360 by 8.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mfrac>
+<m:mn>360</m:mn>
+<m:mn>8</m:mn>
+</m:mfrac>
+
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>45</m:mn>
+
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>The unknown number is 45.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>        
+      </example></section>
+      <section id="id1171770795941"><title>Practice Set B</title><para id="id1171771809576">Find the unknown number in each proportion.</para>
+        <exercise id="id1171780016854">
+          <problem id="oo-id1171777562684">
+            <para id="id1171767572202">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>12</m:mtext><m:mtext>32</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {8} } = {  {"12"}  over  {"32"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1167437358802"><para id="eip-id1167430752863"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=3} {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171775908077">
+          <problem id="oo-id1171772622212">
+            <para id="id1171798855332"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>7</m:mn><m:mi>x</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>14</m:mtext><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {x} } = {  {"14"}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1167429258956"><para id="eip-id1167429528358"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=5} {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171770972281">
+          <problem id="oo-id3216021">
+            <para id="id1171798053984">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>11</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>x</m:mi><m:mtext>55</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"11"} } = {  {x}  over  {"55"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1167437091312"><para id="eip-id1167430828529"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>45</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x="45"} {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171782152350">
+          <problem id="oo-id1171766803713">
+            <para id="id1171780021964">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>8</m:mn><m:mi>x</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {6} } = {  {8}  over  {x} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1167429190484"><para id="eip-id1167430814939"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>48</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x="48"} {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1171783273617"><title>Proportions Involving Rates</title><para id="id1171776511851">Recall that a rate is a comparison, by division, of unlike denominate numbers. We must be careful when setting up proportions that involve rates. The <emphasis effect="italics">form</emphasis> is impor­tant. For example, if a rate involves two types of units, say unit type 1 and unit type 2, we can write</para>
+      <para id="id1171767555906"><media id="id1171767555906_media" alt="unit type 1 over unit type 2 equals unit type 1 over unit type 2. The same units appear on the same side, in this case, the same units are part of the same fraction.">
+          <image mime-type="image/png" src="../../media/graphics2-df79.png" id="id1171767555906__onlineimage" width="350" print-width="2.5in"/>
+        </media>
+      </para>
+      <para id="id1171785476960">or</para>
+      
+        <para id="id1171784942991"><media id="id1171784942991_media" alt="unit type 1 over unit type 2 equals unit type 1 over unit type 2. The same units appear on the same side, in this case, the same unit is in both denominators and the same unit is in both numerators.">
+            <image mime-type="image/png" src="../../media/graphics3-ac95.png" id="id1171784942991__onlineimage" width="200" print-width="1.5in"/>
+          </media>
+        </para>
+      
+      <para id="id1171776512958">Both cross products produce a statement of the type</para>
+      
+      <para id="eip-895"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfenced open="(" close=")">
+                        <m:mtext>unit type 1</m:mtext>
+                      </m:mfenced>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mfenced open="(" close=")">
+                        <m:mtext>unit type 2</m:mtext>
+                      </m:mfenced>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mfenced open="(" close=")">
+                        <m:mtext>unit type 1</m:mtext>
+                      </m:mfenced>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mfenced open="(" close=")">
+                        <m:mtext>unit type 2</m:mtext>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ left ("unit type 1" right ) cdot  left ("unit type 2" right )= left ("unit type 1" right ) cdot  left ("unit type 2" right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1171775115456">which we take to mean the comparison</para>
+      <para id="eip-443"><media id="eip-id1168151018840" alt="A comparison of types of units.">
+<image mime-type="image/png" src="../../media/underbrackets.png" width="450" print-width="4in"/>
+</media></para>
+      <para id="id1171782556666">Examples of correctly expressed proportions are the following:</para>
+      <para id="id1779679"><media id="id1779679_media" alt="Two proportions. The first is miles over hr equals miles over hour, where the same unit is always in the denominator. The second is miles over miles equals hours over hours, where the same unit is in its own fraction.">
+          <image mime-type="image/png" src="../../media/graphics4-993a.png" id="id1779679__onlineimage" width="350" print-width="3.25in"/>
+        </media>
+      </para>
+      <para id="id1171797756941">However, if we write the same type of units on different sides, such as,</para>
+      
+      <para id="eip-685"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mtext>unit type 1</m:mtext>
+                      <m:mtext>unit type 2</m:mtext>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mtext>unit type 2</m:mtext>
+                      <m:mtext>unit type 1</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {"unit type 1"}  over  {"unit type 2"} } = {  {"unit type 2"}  over  {"unit type 1"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1171784719028">the cross product produces a statement of the form</para>
+      <para id="eip-938"><media id="eip-id1166920305453" alt="A chart showing the comparison of different unit types.">
+<image mime-type="image/png" src="../../media/7_2_1.png" width="350" print-width="3.25in"/>
+</media></para>
+      <para id="id1171770760043">We can see that this is an incorrect comparison by observing the following example: It is <emphasis effect="italics">incorrect</emphasis> to write</para>
+      
+      <para id="eip-72"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mtext>2 hooks</m:mtext>
+                      <m:mtext>3 poles</m:mtext>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mtext>6 poles</m:mtext>
+                      <m:mtext>4 hooks</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {"2 hooks"}  over  {"3 poles"} } = {  {"6 poles"}  over  {"4 hooks"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1717988">for two reason.</para>
+      <list id="id1171781771950" list-type="enumerated" number-style="arabic"><item>The cross product is numerically wrong: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">≠</m:mo><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left (2 cdot 4 &lt;&gt; 3 cdot 6 right )} {}</m:annotation></m:semantics></m:math>.</item>
+        <item>The cross product produces the statement “hooks are to hooks as poles are to poles,” which makes no sense.</item>
+      </list>
+    </section>
+    <section id="id1171776303506"><title>Exercises</title><exercise id="id1171770255915"><problem id="oo-id1171778800780">
+          <para id="id1733822">A statement that two ratios or <space count="15" effect="underline"/> are equal is called a <space count="15" effect="underline"/>. </para>
+        </problem>
+      <solution id="eip-id1171897639304"><para id="eip-id1171895379246">rates, proportion</para></solution></exercise>
+      <para id="id1171767416089">For the following 9 problems, write each proportion in fractional form.</para>
+      <exercise id="id1171784472877"><problem id="oo-id1171785616512">
+          <para id="id1171769698039">3 is to 7 as 18 is to 42. </para>
+        </problem>
+      </exercise>
+      <exercise id="id1171769049592">
+        <problem id="oo-id1171778263234">
+          <para id="id1171804885924">1 is to 11 as 3 is to 33.  
+</para>
+        </problem>
+<solution id="eip-id1164922734474"><para id="eip-id1164926854817"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>11</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mtext>33</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"11"} } = {  {3}  over  {"33"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171772132560">
+        <problem id="oo-id1171781941776">
+          <para id="id1171775918402">9 is to 14 as 27 is to 42.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171767907175">
+        <problem id="oo-id1171770560058">
+          <para id="id2370118">6 is to 90 as 3 is to 45.  
+</para>
+        </problem>
+<solution id="eip-id1164923905119"><para id="eip-id1164924241120"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>90</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mtext>45</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {"90"} } = {  {3}  over  {"45"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171773133457">
+        <problem id="oo-id1171766965809">
+          <para id="id1171772128095">5 liters is to 1 bottle as 20 liters is to 4 bottles.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171784651466">
+        <problem id="oo-id1171772457020">
+          <para id="id1171772266726">18 grams of cobalt is to 10 grams of silver as 36 grams of cobalt is to 20 grams of silver.  
+</para>
+        </problem>
+<solution id="eip-id1164920099275"><para id="eip-id1164956135260"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>18</m:mtext><m:mtext>  gr cobalt</m:mtext></m:mrow><m:mrow><m:mtext>10</m:mtext><m:mtext>  gr silver</m:mtext></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>36</m:mtext><m:mtext>  gr cobalt</m:mtext></m:mrow><m:mrow><m:mtext>20</m:mtext><m:mtext>  gr silver</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"18"" gr cobalt"}  over  {"10"" gr silver"} } = {  {"36"" gr cobalt"}  over  {"20"" gr silver"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1404756">
+        <problem id="oo-id3160070">
+          <para id="id1171778864037">4 cups of water is to 1 cup of sugar as 32 cups of water is to 8 cups of sugar.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171784807498">
+        <problem id="oo-id1171788375517">
+          <para id="id1171773993617">3 people absent is to 31 people present as 15 peo­ple absent is to 155 people present. 
+</para>
+        </problem>
+<solution id="eip-id1164958290903"><para id="eip-id1164954822983"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mtext>  people absent</m:mtext></m:mrow><m:mtext>31 people present</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>15</m:mtext><m:mtext>  people absent</m:mtext></m:mrow><m:mrow><m:mtext>155</m:mtext><m:mtext>  people present</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3" people absent"}  over  {"31 people present"} } = {  {"15"" people absent"}  over  {"155"" people present"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id2218131">
+        <problem id="oo-id1171791885883">
+          <para id="id1171769878500">6 dollars is to 1 hour as 90 dollars is to 15 hours.</para>
+        </problem>
+      </exercise>
+      <para id="id2072268">For the following 10 problems, write each proportion as a sentence.</para>
+      <exercise id="id1171776536090">
+        <problem id="oo-id1171770643716">
+          <para id="id1171768086997">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>15</m:mtext><m:mtext>20</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } = {  {"15"}  over  {"20"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1164925589936"><para id="eip-id1164922710462">3 is to 4 as 15 is to 20</para></solution>
+      </exercise>
+      <exercise id="id1171781631308">
+        <problem id="oo-id3027576">
+          <para id="id1171770882045">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>5</m:mn><m:mtext>40</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } = {  {5}  over  {"40"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171782144395">
+        <problem id="oo-id1171799693145">
+          <para id="id1171768978329"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>3 joggers</m:mtext><m:mrow><m:mtext>100</m:mtext><m:mtext>  feet</m:mtext></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>6 joggers</m:mtext><m:mrow><m:mtext>200</m:mtext><m:mtext>   feet</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"3 joggers"}  over  {"100"" feet"} } = {  {"6 joggers"}  over  {"200"" feet"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id8902036"><para id="eip-id1164921994134">3 joggers are to 100 feet as 6 joggers are to 200 feet</para></solution>
+      </exercise>
+      <exercise id="id1171780731014">
+        <problem id="oo-id1171788603584">
+          <para id="id1171800967032"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>12 marshmallows</m:mtext><m:mrow><m:mn>3</m:mn><m:mtext>  sticks</m:mtext></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>36 marshmallows</m:mtext><m:mrow><m:mn>9</m:mn><m:mtext>  sticks</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"12 marshmallows"}  over  {3" sticks"} } = {  {"36 marshmallows"}  over  {9" sticks"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171769360709">
+        <problem id="oo-id1171783272921">
+          <para id="id1171793688601"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>40 miles</m:mtext><m:mtext>80 miles</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>2 gallons</m:mtext><m:mtext>4 gallons</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"40 miles"}  over  {"80 miles"} } = {  {"2 gallons"}  over  {"5 gallons"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164924554279"><para id="eip-id1164926896694">40 miles are to 80 miles as 2 gallons are to 4 gallons</para></solution>
+      </exercise>
+      <exercise id="id1171771043242">
+        <problem id="oo-id1171804679664">
+          <para id="id1171791492025"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>4 couches</m:mtext><m:mrow><m:mtext>10</m:mtext><m:mtext>  couches</m:mtext></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>2 houses</m:mtext><m:mtext>5 houses</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"4 couches"}  over  {"10"" couches"} } = {  {"2 houses"}  over  {"5 houses"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id8522080">
+        <problem id="oo-id1171773094458">
+          <para id="id1171771240306">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>1 person</m:mtext><m:mtext>1 job</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>8 people</m:mtext><m:mtext>8 jobs</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"1 person"}  over  {"1 job"} } = {  {"8 people"}  over  {"8 jobs"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164922648754"><para id="eip-id1164922708368">1 person is to 1 job as 8 people are to 8 jobs</para></solution>
+      </exercise>
+      <exercise id="id1171780701012">
+        <problem id="oo-id1171807177301">
+          <para id="id1171771037790"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>1 popsicle</m:mtext><m:mrow><m:mn>2</m:mn><m:mtext>  children</m:mtext></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mtext> popsicle</m:mtext></m:mrow><m:mtext>1 child</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"1 popsicle"}  over  {2" children"} } = {  { {  {1}  over  {2} } " popsicle"}  over  {"1 child"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171782469016">
+        <problem id="oo-id1171792391014">
+          <para id="id1171791096753"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>2,000 pounds</m:mtext><m:mrow><m:mn>1</m:mn><m:mtext>  ton</m:mtext></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>60,000 pounds</m:mtext><m:mrow><m:mtext>30</m:mtext><m:mtext>  tons</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"2,000 pounds"}  over  {1" ton"} } = {  {"60,000 pounds"}  over  {"30"" tons"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id8528001"><para id="eip-id1164922061212">2,000 pounds are to 1 ton as 60,000 pounds are to 30 tons</para></solution>
+      </exercise>
+      <exercise id="id1171791113603">
+        <problem id="oo-id1171801837934">
+          <para id="id1171768907146"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>1</m:mn><m:mtext>  table</m:mtext></m:mrow><m:mtext>5 tables</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>2 people</m:mtext><m:mtext>10 people</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1" table"}  over  {"5 table"} } = {  {"2 people"}  over  {"10 people"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <para id="id1171804785738">For the following 10 problems, solve each proportion.</para>
+      <exercise id="id1171770235194">
+        <problem id="oo-id1171767657193">
+          <para id="id1171787933430">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>6</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {5} } = {  {6}  over  {"15"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164926040805"><para id="eip-id1164924612642"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=2} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171778597845">
+        <problem id="oo-id1171779893506">
+          <para id="id1171788138597">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mtext>10</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>28</m:mtext><m:mtext>40</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {"10"} } = {  {"28"}  over  {"40"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171802827033">
+        <problem id="oo-id1171783276960">
+          <para id="id1171777394398"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mi>x</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>10</m:mtext><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {x} } = {  {"10"}  over  {"16"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164948133183"><para id="eip-id1164922212054"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=8} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171787023831">
+        <problem id="oo-id1171772011750">
+          <para id="id1171783050481">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>13</m:mtext><m:mi>x</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>39</m:mtext><m:mtext>60</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"13"}  over  {x} } = {  {"39"}  over  {"60"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171777423053">
+        <problem id="oo-id1171769860350">
+          <para id="id1171794635862">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>x</m:mi><m:mtext>24</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } = {  {x}  over  {"24"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164921994316"><para id="eip-id1164924221626"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=8} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171772691535">
+        <problem id="oo-id1171792960854">
+          <para id="id1171771540921">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>12</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>x</m:mi><m:mtext>60</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"12"} } = {  {x}  over  {"60"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171797258394">
+        <problem id="oo-id1171797774019">
+          <para id="id1171804737186">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>8</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>72</m:mtext><m:mi>x</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {3} } = {  {"72"}  over  {x} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164957027884"><para id="eip-id1164930314934"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>27</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x="27"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171775690065">
+        <problem id="oo-id1171776211222">
+          <para id="id1171777213195">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mn>1</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>48</m:mtext><m:mi>x</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {1} } = {  {"48"}  over  {x} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171781903308">
+        <problem id="oo-id1171766855915">
+          <para id="id1171769955448">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mtext>25</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>200</m:mtext><m:mtext>125</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {"25"} } = {  {"200"}  over  {"125"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1164955382341"><para id="eip-id1164934289234"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>40</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x="40"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171782535295">
+        <problem id="oo-id1171779963262">
+          <para id="id1766460">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>65</m:mtext><m:mtext>30</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>x</m:mi><m:mtext>60</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"65"}  over  {"30"} } = {  {x}  over  {"60"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      
+      <para id="id1171771088544">For the following 5 problems, express each sentence as a proportion then solve the proportion.</para>
+      <exercise id="id1171791145849">
+        <problem id="oo-id1171790127446">
+          <para id="id1171777966088">5 hats are to 4 coats as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> hats are to 24 coats. 
+</para>
+        </problem>
+<solution id="eip-id1164931928938"><para id="eip-id1164932003274"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>30</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x="30"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171786255622">
+        <problem id="oo-id1171778550913">
+          <para id="id2402971">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> cushions are to 2 sofas as 24 cushions are to 16 sofas.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171769387759">
+        <problem id="oo-id1171778437063">
+          <para id="id1171771100550">1 spacecraft is to 7 astronauts as 5 spacecraft are to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> astronauts. 
+</para>
+        </problem>
+<solution id="eip-id1164920879560"><para id="eip-id1164922342528"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>35</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x="35"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171777207079">
+        <problem id="oo-id1171777594582">
+          <para id="id1171802541145">56 microchips are to x circuit boards as 168 microchips are to 3 circuit boards.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171808165972">
+        <problem id="oo-id1171777915734">
+          <para id="id1171767142250">18 calculators are to 90 calculators as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> students are to 150 students. 
+</para>
+        </problem>
+<solution id="eip-id1164923269390"><para id="eip-id1164923949754"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>30</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x="30"} {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171780054682">
+        <problem id="oo-id1171778034598">
+          <para id="id1171791692714"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> dollars are to $40,000 as 2 sacks are to 1 sack.</para>
+        </problem>
+      </exercise>
+      <para id="id1171798620452">Indicate whether the proportion is true or false.</para>
+      <exercise id="id1171779507774">
+        <problem id="oo-id1171783286926">
+          <para id="id1171800995800">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>16</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>12</m:mtext><m:mtext>64</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"16"} } = {  {"12"}  over  {"64"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164939573981"><para id="eip-id1164923328482">true</para></solution>
+      </exercise>
+      <exercise id="id1171771431809">
+        <problem id="oo-id1171769869252">
+          <para id="id1171787113036">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mtext>15</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>10</m:mtext><m:mtext>75</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {"15"} } = {  {"10"}  over  {"75"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171779556653">
+        <problem id="oo-id1171767713680">
+          <para id="id1171777427387">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mtext>30</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {9} } = {  {3}  over  {"30"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164921532035"><para id="eip-id1164920821757">false</para></solution>
+      </exercise>
+      <exercise id="id1171798311634">
+        <problem id="oo-id1171806779958">
+          <para id="id1171785469798"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>6 knives</m:mtext><m:mtext>7 forks</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>12 knives</m:mtext><m:mrow><m:mtext>15</m:mtext><m:mtext>  forks</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"6 knives"}  over  {"7 forks"} } = {  {"12 knives"}  over  {"15"" forks"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171777303167">
+        <problem id="oo-id1171772456737">
+          <para id="id1171791112617">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>33 miles</m:mtext><m:mtext>1 gallon</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>99 miles</m:mtext><m:mtext>3 gallons</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"33 miles"}  over  {"1 gallon"} } = {  {"99 miles"}  over  {"3 gallons"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164921459795"><para id="eip-id1164922485136">true</para></solution>
+      </exercise>
+      <exercise id="id1171793718186">
+        <problem id="oo-id1171776359728">
+          <para id="id1171801096844">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>320 feet</m:mtext><m:mtext>5 seconds</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>65 feet</m:mtext><m:mtext>1 second</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"320 feet"}  over  {"5 seconds"} } = {  {"65 feet"}  over  {"1 second"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171799475441">
+        <problem id="oo-id1171778122902">
+          <para id="id1171790546473"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mtext>35 students</m:mtext></m:mrow><m:mrow><m:mtext>70 students</m:mtext></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>1 class</m:mtext><m:mtext>2 classes</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"35 students"}  over  {"70 students"} } = {  {"1 class"}  over  {"2 classes"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1164949716592"><para id="eip-id1164927953096">true</para></solution>
+      </exercise>
+      <exercise id="id1171773126350">
+        <problem id="oo-id1171771821366">
+          <para id="id1171784818957"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>9 ml chloride</m:mtext><m:mrow><m:mtext>45 ml chloride</m:mtext></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>1 test tube</m:mtext><m:mrow><m:mn>7</m:mn><m:mtext>  test tubes</m:mtext></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"9 ml chloride"}  over  {"45"" ml chloride"} } = {  {"1 test tube"}  over  {7" test tubes"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <section id="id1171788558381">
+        <title>Exercises for Review</title>
+        <exercise id="id1171786285011">
+          <problem id="oo-id1171770069382">
+            <para id="id1171791493036">(<link document="m34802"/>) Use the number 5 and 7 to illustrate the commutative property of addition. 
+</para>
+          </problem>
+<solution id="eip-id1164921450958"><para id="eip-id1164930073316"><m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{5+7="12"}  {} # 
+ size 12{7+5="12"}  {} 
+} } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171769074046">
+          <problem id="oo-id1171791545190">
+            <para id="id1171800974108">(<link document="m34868"/>) Use the numbers 5 and 7 to illustrate the commutative property of multiplication.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1171786736549">
+          <problem id="oo-id1171779995046">
+            <para id="id1171804805620">(<link document="m34935"/>) Find the difference. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>14</m:mtext></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>3</m:mn><m:mtext>22</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"14"} }  -  {  {3}  over  {"22"} } } {}</m:annotation></m:semantics></m:math>. 
+</para>
+          </problem>
+<solution id="eip-id1164931784102"><para id="eip-id1164921636753"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>17</m:mtext><m:mtext>77</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"17"}  over  {"77"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1171791552324">
+          <problem id="oo-id1895634">
+            <para id="id1171791843348">(<link document="m34963"/>) Find the product. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>06129</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>1,</m:mn></m:mrow><m:mtext>000</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 "." "06129" cdot 1,"000"} {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1171778124333">
+          <problem id="oo-id1171769896980">
+            <para id="id1171799131977">(<link document="m34980"/>) Write the simplified fractional form of the rate “sixteen sentences to two paragraphs.”  
+</para>
+          </problem>
+<solution id="eip-id1164921470496"><para id="eip-id1164933614321"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>8</m:mn><m:mtext>  sentences</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>  paragraph</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8" sentences"}  over  {1" paragraph"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+      </section>
+    </section>
+  </content>
+</document>

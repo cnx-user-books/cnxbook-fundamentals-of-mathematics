@@ -1,0 +1,1006 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The Greatest Common Factor </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34874</md:content-id>
+  <md:title>The Greatest Common Factor </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses the greatest common factor. By the end of the module students should be able to find the greatest common factor of two or more whole numbers.</md:abstract>
+  <md:uuid>496c6e28-60c4-470b-aa89-9205cd09b9a5</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id7913981">
+      <title>Section Overview</title>
+      <list id="id8652008" list-type="bulleted">
+        <item>The Greatest Common Factor (GCF)</item>
+        <item>A Method for Determining the Greatest Common Factor </item>
+      </list>
+    </section>
+    <section id="id1167454820311">
+      <title>The Greatest Common Factor (GCF)</title>
+      <para id="id8743505">Using the method we studied in <link document="m34873"/>, we could obtain the prime factoriza­tions of 30 and 42.</para>
+      
+      <para id="eip-488"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>30</m:mtext>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mn>5</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"30"=2 cdot 3 cdot 5} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="eip-671"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>42</m:mtext>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"42"=2 cdot 3 cdot 7} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id8851202"><title>Common Factor</title>We notice that 2 appears as a factor in both numbers, that is, 2 is a <term>common factor</term> of 30 and 42. We also notice that 3 appears as a factor in both numbers. Three is also a common factor of 30 and 42.</para>
+      <para id="id1167454832419"><title>Greatest Common Factor (GCF)</title>When considering two or more numbers, it is often useful to know if there is a largest common factor of the numbers, and if so, what that number is. The largest common factor of two or more whole numbers is called the <term>greatest common factor</term>, and is abbreviated by <term>GCF</term>. The greatest common factor of a collection of whole numbers is useful in working with fractions (which we will do in <link document="m18892"/>).</para>
+    </section>
+    <section id="id8710674"><title>A Method for Determining the Greatest Common Factor</title><para id="id8170326">A straightforward method for determining the GCF of two or more whole numbers makes use of both the prime factorization of the numbers and exponents.</para>
+      
+      <para id="id3149530"><title>Finding the GCF </title>To find the <term>greatest common factor (GCF)</term> of two or more whole numbers:
+<list id="id7446475" list-type="enumerated" number-style="arabic">
+        <item>Write the prime factorization of each number, using exponents on repeated factors.</item>
+        <item>Write each base that is common to each of the numbers.</item>
+        <item>To each base listed in step 2, attach the <emphasis effect="italics">smallest exponent</emphasis> that appears on it in either of the prime factorizations.</item>
+        <item>The GCF is the product of the numbers found in step 3.</item>
+      </list></para>
+      
+      <section id="id6528584"><title>Sample Set A</title><para id="id8624177">Find the GCF of the following numbers.</para>
+       <example id="eip-id1164370798690"> <para id="id8855992">12 and 18</para>
+        
+        
+        <list id="id8783811" list-type="enumerated" number-style="arabic"><item><para id="eip-id1165815428966">
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+                <m:semantics>
+                  <m:mrow>
+                    <m:mstyle fontsize="12pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>12</m:mtext>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                                <m:mo stretchy="false">⋅</m:mo>
+                                <m:mn>6</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                                <m:mo stretchy="false">⋅</m:mo>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mn>3</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:msup>
+                              <m:mn>2</m:mn>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mo stretchy="false">⋅</m:mo>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"12"=2 cdot 6=2 cdot 2 cdot 3=2 rSup { size 8{2} }  cdot 3} {}</m:annotation>
+                </m:semantics>
+</m:mtd></m:mtr>
+<m:mtr><m:mtd><m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mtext>18</m:mtext>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                            <m:mo stretchy="false">⋅</m:mo>
+                            <m:mn>9</m:mn>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                            <m:mo stretchy="false">⋅</m:mo>
+                            <m:mn>3</m:mn>
+                          </m:mrow>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:msup>
+                          <m:mn>3</m:mn>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"18"=2 cdot 9=2 cdot 3 cdot 3=2 cdot 3 rSup { size 8{2} } } {}</m:annotation>
+            </m:semantics></m:mtd></m:mtr>
+</m:mtable>
+              </m:math>
+            </para></item>
+
+<item>The common bases are 2 and 3.</item>
+          <item>The <emphasis effect="italics">smallest exponents</emphasis> appearing on 2 and 3 in the prime factorizations are, respectively, 1 and 1 (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{1} } } {}</m:annotation></m:semantics></m:math>and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 rSup { size 8{1} } } {}</m:annotation></m:semantics></m:math>), or 2 and 3.</item>
+          <item>The GCF is the product of these numbers.
+<para id="eip-id1164526308913"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>6</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{2 cdot 3=6} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+</item>
+        </list>
+        
+        <para id="id7329069">The GCF of 30 and 42 is 6 because 6 is the largest number that divides both 30 and 42 without a remainder.</para>
+</example>
+<example id="eip-id1164344079122">
+        <para id="id7930498">18, 60, and 72</para>
+        <list id="id8350809" list-type="enumerated" number-style="arabic"><item><para id="eip-id1168099776193"><m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+<m:mtd columnalign="left">
+                        <m:mrow>
+                          <m:mstyle fontsize="12pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mtext>18</m:mtext>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                      <m:mo stretchy="false">⋅</m:mo>
+                                      <m:mn>9</m:mn>
+                                    </m:mrow>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                      <m:mo stretchy="false">⋅</m:mo>
+                                      <m:mn>3</m:mn>
+                                    </m:mrow>
+                                    <m:mo stretchy="false">⋅</m:mo>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">⋅</m:mo>
+                                  <m:msup>
+                                    <m:mn>3</m:mn>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>2</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msup>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mrow/>
+                        </m:mrow>
+</m:mtd>
+                      </m:mtr>
+                      <m:mtr>
+<m:mtd columnalign="left">        
+                <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mtext>60</m:mtext>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                  <m:mo stretchy="false">⋅</m:mo>
+                                  <m:mtext>30</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                              <m:mo stretchy="false">=</m:mo>
+<m:mrow><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>15</m:mi></m:mrow><m:mo>=</m:mo>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                    <m:mo stretchy="false">⋅</m:mo>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">⋅</m:mo>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">⋅</m:mo>
+                                <m:mn>5</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:msup>
+                                  <m:mn>2</m:mn>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                                <m:mo stretchy="false">⋅</m:mo>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mn>5</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                          <m:mrow/>
+                        </m:mrow>
+</m:mtd>                     
+ </m:mtr>
+                      <m:mtr>
+<m:mtd columnalign="left">        
+                <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mtext>72</m:mtext>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                      <m:mo stretchy="false">⋅</m:mo>
+                                      <m:mtext>36</m:mtext>
+                                    </m:mrow>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                      <m:mo stretchy="false">⋅</m:mo>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                    <m:mo stretchy="false">⋅</m:mo>
+                                    <m:mtext>18</m:mtext>
+                                  </m:mrow>
+                                </m:mrow>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                      <m:mo stretchy="false">⋅</m:mo>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                    <m:mo stretchy="false">⋅</m:mo>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">⋅</m:mo>
+                                  <m:mn>9</m:mn>
+                                </m:mrow>
+                              </m:mrow>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                      <m:mo stretchy="false">⋅</m:mo>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                    <m:mo stretchy="false">⋅</m:mo>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">⋅</m:mo>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                                <m:mo stretchy="false">⋅</m:mo>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mrow>
+                              <m:msup>
+                                <m:mn>2</m:mn>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:msup>
+                                <m:mn>3</m:mn>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                          </m:mrow>
+                          <m:mrow/>
+                        </m:mrow>
+</m:mtd>                
+      </m:mtr>
+                    </m:mtable>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{"18"=2 cdot 9=2 cdot 3 cdot 3=2 cdot 3 rSup { size 8{2} } }  {} # 
+"60"=2 cdot "30"=2 cdot 2 cdot 3 cdot 5=2 rSup { size 8{2} }  cdot 3 cdot 5 {} # 
+"72"=2 cdot "36"=2 cdot 2 cdot "18"=2 cdot 2 cdot 2 cdot 9=2 cdot 2 cdot 2 cdot 3 cdot 3=2 rSup { size 8{3} }  cdot 3 rSup { size 8{2} }  {} 
+} } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+         </para> 
+</item>
+          <item>The common bases are 2 and 3.</item>
+          <item><para id="eip-id1164338004272">The smallest exponents appearing on 2 and 3 in the prime factorizations are, respectively, 1 and 1:</para>
+<para id="eip-id1164348361616"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{1} } } {}</m:annotation></m:semantics></m:math> from 18</para><para id="eip-218"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>3</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 rSup { size 8{1} } } {}</m:annotation></m:semantics></m:math> from 60</para>
+</item>
+<item><para id="eip-id1164345480837">The GCF is the product of these numbers.</para>
+<para id="eip-id1164342451633">GCF is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 cdot 3=6} {}</m:annotation></m:semantics></m:math></para>
+</item></list>
+        
+        
+        
+        
+        <para id="id8191296">Thus, 6 is the largest number that divides 18, 60, and 72 without a remainder.</para>
+</example>
+<example id="eip-id1164370536414">
+        <para id="id8958692">700, 1,880, and 6,160
+<m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math></para>
+        <list id="id8112939" list-type="enumerated" number-style="arabic"><item><para id="eip-id1172446611425"><m:math><m:mtable>
+
+<m:mtr>
+<m:mtd>
+<m:mi>700</m:mi>
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd>
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>350</m:mi>
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd>
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>175</m:mi>
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>5</m:mi><m:mo>⋅</m:mo><m:mi>35</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>5</m:mi><m:mo>⋅</m:mo><m:mi>5</m:mi><m:mo>⋅</m:mo><m:mi>7</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+<m:msup><m:mi>2</m:mi><m:mi>2</m:mi></m:msup><m:mo>⋅</m:mo><m:msup><m:mi>5</m:mi><m:mi>2</m:mi></m:msup><m:mo>⋅</m:mo><m:mi>7</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+<m:mi>1,880</m:mi>
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd>
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>940</m:mi>
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd>
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>470</m:mi>
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>235</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>5</m:mi><m:mo>⋅</m:mo><m:mi>47</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+<m:msup><m:mi>2</m:mi><m:mi>3</m:mi></m:msup><m:mo>⋅</m:mo><m:mi>5</m:mi><m:mo>⋅</m:mo><m:mi>47</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+<m:mi>6,160</m:mi>
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd>
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>3,080</m:mi>
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd>
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>1,540</m:mi>
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>770</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>385</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>5</m:mi><m:mo>⋅</m:mo><m:mi>77</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+<m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>2</m:mi><m:mo>⋅</m:mo><m:mi>5</m:mi><m:mo>⋅</m:mo><m:mi>7</m:mi><m:mo>⋅</m:mo><m:mi>11</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+
+</m:mtd>
+
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+<m:msup><m:mi>2</m:mi><m:mi>4</m:mi></m:msup><m:mo>⋅</m:mo><m:mi>5</m:mi><m:mo>⋅</m:mo><m:mi>7</m:mi><m:mo>⋅</m:mo><m:mi>11</m:mi>
+</m:mtd>
+</m:mtr>
+</m:mtable></m:math></para></item>
+          <item>The common bases are 2 and 5</item>
+          <item><para id="eip-id1172463877567">The smallest exponents appearing on 2 and 5 in the prime factorizations are, respectively, 2 and 1.</para>
+<para id="eip-id1172443025054"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> from 700.</para><para id="eip-914"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>5</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 rSup { size 8{1} } } {}</m:annotation></m:semantics></m:math> from either 1,880 or 6,160.</para></item>
+        <item><para id="eip-id1168960101186">The GCF is the product of these numbers.</para>
+<para id="eip-id7797361">GCF is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>20</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 rSup { size 8{2} }  cdot 5=4 cdot 5="20"} {}</m:annotation></m:semantics></m:math></para></item></list>
+        
+        
+        
+        
+        <para id="id8716817">Thus, 20 is the largest number that divides 700, 1,880, and 6,160 without a remainder.</para></example>
+      </section>
+      <section id="id8662647">
+        <title>Practice Set A</title>
+        <para id="id8630514">Find the GCF of the following numbers. </para>
+        <exercise id="id7617320"><problem id="oo-id8950411">
+            <para id="id8360985">24 and 36</para>
+          </problem>
+        <solution id="eip-id1171241811756"><para id="eip-id1171229293826">12</para></solution></exercise>
+        <exercise id="id6935890"><problem id="oo-id8911640">
+            <para id="id8733956">48 and 72</para>
+          </problem>
+        <solution id="eip-id1164812832012"><para id="eip-id1164814572762">24</para></solution></exercise>
+        <exercise id="id7971265"><problem id="oo-id8266106">
+            <para id="id8750456">50 and 140</para>
+          </problem>
+        <solution id="eip-id1172442574876"><para id="eip-id2055340">10</para></solution></exercise>
+        <exercise id="id8663132"><problem id="oo-id8172732">
+            <para id="id7128979">21 and 225</para>
+          </problem>
+        <solution id="eip-id1172243573823"><para id="eip-id1172246215426">3</para></solution></exercise>
+        <exercise id="id5567613"><problem id="oo-id8955386">
+            <para id="id7958745">450, 600, and 540</para>
+          </problem>
+        <solution id="eip-id1172464547611"><para id="eip-id7194646">30</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id8820038"><title>Exercises</title><para id="id7333476">For the following problems, find the greatest common factor (GCF) of the numbers.</para>
+      <exercise id="id8776192">
+        <problem id="oo-id8495118">
+          <para id="id8521170"> 6 and 8</para>
+        </problem>
+<solution id="eip-id8148076"><para id="eip-id8919910">2</para></solution>
+      </exercise>
+      <exercise id="id8336594">
+        <problem id="oo-id8945679">
+          <para id="id2139431"> 5 and 10</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167454723407">
+        <problem id="oo-id8593269">
+          <para id="id6781758"> 8 and 12</para>
+        </problem>
+<solution id="eip-id1168678229664"><para id="eip-id1168683488023">4</para></solution>
+      </exercise>
+      <exercise id="id7129038">
+        <problem id="oo-id8911304">
+          <para id="id1167454733500"> 9 and 12</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167454747034">
+        <problem id="oo-id8539742">
+          <para id="id1167454732451"> 20 and 24</para>
+        </problem>
+<solution id="eip-id1168681773115"><para id="eip-id1168679680824">4</para></solution>
+      </exercise>
+      <exercise id="id1167454747405">
+        <problem id="oo-id8279103">
+          <para id="id1167454740717"> 35 and 175</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167454744320">
+        <problem id="oo-id8537100">
+          <para id="id1167454746280"> 25 and 45</para>
+        </problem>
+<solution id="eip-id1168680334842"><para id="eip-id3695354">5</para></solution>
+      </exercise>
+      <exercise id="id1167454740138">
+        <problem id="oo-id8298568">
+          <para id="id1167454750935"> 45 and 189 </para>
+        </problem>
+      </exercise>
+      <exercise id="id1167454739186">
+        <problem id="oo-id8743925">
+          <para id="id1167454740888"> 66 and 165</para>
+        </problem>
+<solution id="eip-id8622912"><para id="eip-id1168681449461">33</para></solution>
+      </exercise>
+      <exercise id="id8297994">
+        <problem id="oo-id8790302">
+          <para id="id8332674"> 264 and 132</para>
+        </problem>
+      </exercise>
+      <exercise id="id8777668">
+        <problem id="oo-id8807321">
+          <para id="id8201326"> 99 and 135</para>
+        </problem>
+<solution id="eip-id1168680023348"><para id="eip-id3685402">9</para></solution>
+      </exercise>
+      <exercise id="id8753989">
+        <problem id="oo-id8957350">
+          <para id="id8818734"> 65 and 15</para>
+        </problem>
+      </exercise>
+      <exercise id="id8303938">
+        <problem id="oo-id1167454749736">
+          <para id="id8280065"> 33 and 77</para>
+        </problem>
+<solution id="eip-id7901158"><para id="eip-id6276048">11</para></solution>
+      </exercise>
+      <exercise id="id8502154">
+        <problem id="oo-id2558141">
+          <para id="id8128216"> 245 and 80</para>
+        </problem>
+      </exercise>
+      <exercise id="id8543954">
+        <problem id="oo-id1167455441195">
+          <para id="id8115635"> 351 and 165   </para>
+        </problem>
+<solution id="eip-id7801047"><para id="eip-id7927888">3</para></solution>
+      </exercise>
+      <exercise id="id8199794">
+        <problem id="oo-id3822278">
+          <para id="id7322700">60, 140, and 100</para>
+        </problem>
+      </exercise>
+      <exercise id="id8311381">
+        <problem id="oo-id7623686">
+          <para id="id8028534">147, 343, and 231</para>
+        </problem>
+<solution id="eip-id1168681774763"><para id="eip-id8586237">7</para></solution>
+      </exercise>
+      <exercise id="id8583689">
+        <problem id="oo-id8427755">
+          <para id="id8472568">24, 30, and 45</para>
+        </problem>
+      </exercise>
+      <exercise id="id6614322">
+        <problem id="oo-id8964356">
+          <para id="id1167454685593">175, 225, and 400</para>
+        </problem>
+<solution id="eip-id1168677222680"><para id="eip-id1168680084541">25</para></solution>
+      </exercise>
+      <exercise id="id6918304">
+        <problem id="oo-id7501197">
+          <para id="id1167454670486">210, 630, and 182</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167454669586">
+        <problem id="oo-id8819822">
+          <para id="id1167454681683">14, 44, and 616</para>
+        </problem>
+<solution id="eip-id7363184"><para id="eip-id931178">2</para></solution>
+      </exercise>
+      <exercise id="id1167454856709">
+        <problem id="oo-id8279138">
+          <para id="id1167454847002">1,617, 735, and 429</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167454859271">
+        <problem id="oo-id1167454707996">
+          <para id="id1167454692356">1,573, 4,862, and 3,553</para>
+        </problem>
+<solution id="eip-id7946100"><para id="eip-id1168676083514">11</para></solution>
+      </exercise>
+      <exercise id="id1167454687582">
+        <problem id="oo-id6632652">
+          <para id="id1167454690960">3,672, 68, and 920</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167454691524">
+        <problem id="oo-id8867030">
+          <para id="id1167454686679">7, 2,401, 343, 16, and 807  </para>
+        </problem>
+<solution id="eip-id1168682301969"><para id="eip-id1168678653563">1</para></solution>
+      </exercise>
+      <exercise id="id8202879">
+        <problem id="oo-id8344812">
+          <para id="id8090676">500, 77, and 39</para>
+        </problem>
+      </exercise>
+      <exercise id="id8206079">
+        <problem id="oo-id1167454801237">
+          <para id="id7241354">441, 275, and 221</para>
+        </problem>
+<solution id="eip-id1168680351700"><para id="eip-id7909836">1</para></solution>
+      </exercise>
+    
+    <section id="id8307192">
+      <title>Exercises for Review</title>
+      <exercise id="id8163645">
+        <problem id="oo-id8790261">
+          <para id="id6945439">(<link document="m34863"/>) Find the product. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2,</m:mn><m:mrow><m:mtext>753</m:mtext><m:mo stretchy="false">×</m:mo><m:mn>4,</m:mn></m:mrow><m:mtext>006</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2,"753" times 4,"006"} {}</m:annotation></m:semantics></m:math>.  </para>
+        </problem>
+      </exercise>
+      <exercise id="id8403124"><problem id="oo-id8176678">
+          <para id="id1167454693736">(<link document="m34865"/>) Find the quotient. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>954</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>18</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"954" div "18"} {}</m:annotation></m:semantics></m:math>.     </para>
+        </problem>
+      <solution id="eip-id5043790"><para id="eip-id1168957215144">53</para></solution></exercise>
+      <exercise id="id1167454837102">
+        <problem id="oo-id6596840">
+          <para id="id1167454787391">(<link document="m34866"/>) Specify which of the digits 2, 3, or 4 divide into 9,462.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167454835802"><problem id="oo-id8957091">
+          <para id="id1167454764248">(<link document="m34871"/>) Write 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mi>×</m:mi><m:mn>8</m:mn><m:mi>×</m:mi><m:mn>8</m:mn><m:mi>×</m:mi><m:mn>8</m:mn><m:mi>×</m:mi><m:mn>8</m:mn><m:mi>×</m:mi><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8´8´8´8´8´8} {}</m:annotation></m:semantics></m:math> using exponents.   
+</para>
+        </problem>
+      <solution id="eip-id1164527960286"><para id="eip-id3717594"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msup><m:mn>8</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mtext>262</m:mtext></m:mrow><m:mi>,</m:mi><m:mtext>144</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 rSup { size 8{6} } ="262","144"} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      <exercise id="id8032698">
+        <problem id="oo-id7745582">
+          <para id="id1167454650933">(<link document="m34873"/>) Find the prime factorization of 378.</para>
+        </problem>
+      </exercise>
+    </section>
+</section>
+  </content>
+</document>

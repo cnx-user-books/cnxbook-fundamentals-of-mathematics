@@ -1,0 +1,518 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Properties of Addition</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34802</md:content-id>
+  <md:title>Properties of Addition</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses properties of addition. By the end of the module students should be able to understand the commutative and associative properties of addition and understand why 0 is the additive identity.</md:abstract>
+  <md:uuid>3a6b7678-00f6-4dd9-a7b2-1b985dd585a8</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1169320615051">
+      <title>Section Overview</title>
+      <list id="id1169317125257" list-type="bulleted">
+        <item>The Commutative Property of Addition</item>
+        <item>The Associative Property of Addition</item>
+        <item>The Additive Identity </item>
+      </list>
+      <para id="id1169323660380">We now consider three simple but very important properties of addition.</para>
+    </section>
+    <section id="id1169316914541">
+      <title>The Commutative Property of Addition</title>
+      <para id="id1169307997701"><title>Commutative Property of Addition</title>If two whole numbers are added in any order, the sum will not change.</para>
+      <section id="id1169307931870"><title>Sample Set A</title><example id="eip-id1172288038310"><para id="id1169321626340">Add the whole numbers</para>
+        
+          <media id="id1169313402065_media" alt="8 and 5.">
+            <image mime-type="image/png" src="../../media/graphics1-0af3.png" id="id1169313402065__onlineimage" width="120" print-width="1in"/>
+          </media>
+       
+        
+        <para id="eip-931"><newline/>
+<m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>8</m:mn>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>13</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{8+5="13"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        <newline/><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>8</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>13</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{5+8="13"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1169316964038">The numbers 8 and 5 can be added in any order. Regardless of the order they are added, the sum is 13.</para></example>
+      </section>
+      <section id="id1169309084307"><title>Practice Set A</title><exercise id="eip-id1170680821556"><problem id="eip-id1170679603319"><para id="eip-id1170679603320"> Use the commutative property of addition to find the sum of 12 and 41 in two different ways.  </para>
+        
+            <media id="id8100094_media" alt="41 and 12.">
+              <image mime-type="image/png" src="../../media/graphics2-806a.png" id="id8100094__onlineimage" width="110" print-width="1in"/>
+            </media>
+          </problem>
+     <solution id="eip-id1170662343365">
+        <para id="id1169315893902"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>41</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>53</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12"+"41"="53"} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>41</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>12</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>53</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"41"+"12"="53"} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+
+
+        <exercise id="eip-id1170657326695"><problem id="eip-id1170657326696">
+          <para id="eip-id2291587">Add the whole numbers</para>
+       
+       
+          <media id="id1169320796127_media" alt="1,958 and 837.">
+            <image mime-type="image/png" src="../../media/graphics3-6255.png" id="id1169320796127__onlineimage" width="110" print-width="1in"/>
+          </media></problem>
+       <solution id="eip-id1170679492405">
+            <para id="id1169316468042"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>837</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>1,</m:mn></m:mrow><m:mrow><m:mtext>958</m:mtext><m:mo stretchy="false">=</m:mo><m:mn>2,</m:mn></m:mrow><m:mtext>795</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"837"+1,"958"=2,"795"} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1,</m:mn><m:mrow><m:mrow><m:mtext>958</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>837</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>2,</m:mn></m:mrow><m:mtext>795</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1,"958"+"837"=2,"795"} {}</m:annotation></m:semantics></m:math></para>
+          </solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1169317505744">
+      <title>The Associative Property of Addition </title>
+      <para id="id1169322846765"><title>Associative Property of Addition</title>If three whole numbers are to be added, the sum will be the same if the first two are added first, then that sum is added to the third, or, the second two are added first, and that sum is added to the first.</para>
+      <para id="id1169322994698"><title>Using Parentheses</title>It is a common mathematical practice to <term>use parentheses</term> to show which pair of numbers we wish to combine first.</para>
+      <section id="id1169307887279"><title>Sample Set B</title><example id="eip-id1170813423454"><para id="id1169316933118">Add the whole numbers.</para>
+        
+          <media id="id1169315099761_media" alt="43, 16, and 27. Two equations are displayed. (43 + 16) + 27 = 59 + 27 = 86. 43 + (16 + 27) = 43 +43 = 86. Arrows point to the two groupings of numbers in parenthesis to show that they are associated.">
+            <image mime-type="image/png" src="../../media/graphics4-af30.png" id="id1169315099761__onlineimage" width="450" print-width="4in"/>
+          </media>
+        </example>
+      </section>
+      <section id="id1169323859520"><title>Practice Set B</title><exercise id="eip-id1164930312645"><problem id="eip-id1164928093700">
+        <para id="id1169309222311">Use the associative property of addition to add the following whole numbers two different ways.</para>
+        
+          <media id="id1169316917898_media" alt="17, 32, and 25.">
+            <image mime-type="image/png" src="../../media/graphics5-2123.png" id="id1169316917898__onlineimage" width="120" print-width="1in"/>
+          </media></problem>
+        
+        <solution id="eip-id7369213">
+            <para id="id1169318832071"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>17</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>32</m:mtext></m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mtext>25</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>49</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>25</m:mtext></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>74</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "17"+"32" \) +"25"="49"+"25"="74"} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>17</m:mtext><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mtext>32</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>25</m:mtext></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>17</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>57</m:mtext></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>74</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"17"+ \( "32"+"25" \) ="17"+"57"="74"} {}</m:annotation></m:semantics></m:math></para>
+          </solution>
+        </exercise>
+        <exercise id="eip-id1164933796436"><problem id="eip-id1164927932670">
+          <media id="id1169308118375_media" alt="1,629, 806, and 429.">
+            <image mime-type="image/png" src="../../media/graphics6-5e02.png" id="id1169308118375__onlineimage" width="110" print-width="1in"/>
+          </media>
+        </problem>
+<solution id="eip-id1164935641194">
+        <para id="eip-id1169244800278"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">(</m:mo>
+                      <m:mn>1,</m:mn>
+                      <m:mrow>
+                        <m:mtext>629</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>806</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">)</m:mo>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>429</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>2,</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mtext>435</m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>429</m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>2,</m:mn>
+                      </m:mrow>
+                      <m:mtext>864</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ \( 1,"629"+"806" \) +"429"=2,"435"+"429"=2,"864"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1169309256241">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>1,</m:mn>
+                      <m:mrow>
+                        <m:mtext>629</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>806</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>429</m:mtext>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>1,</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>629</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>1,</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>235</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>2,</m:mn>
+                      </m:mrow>
+                      <m:mtext>864</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{1,"629"+ \( "806"+"429" \) =1,"629"+1,"235"=2,"864"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      </solution>
+</exercise></section>
+    </section>
+    <section id="id1169307993259">
+      <title>The Additive Identity</title>
+      <para id="id1169325854542"><title>0 Is the Additive Identity</title>The whole number 0 is called the <term>additive identity</term>, since when it is added to any whole number, the sum is identical to that whole number.</para>
+      <section id="id1169308708858"><title>Sample Set C</title><example id="eip-id1170516355510"><para id="id1169315089340">Add the whole numbers.</para>
+        <media id="id1169307994718_media" alt="29 and 0.">
+              <image mime-type="image/png" src="../../media/graphics7-0b79.png" id="id1169307994718__onlineimage" width="110" print-width="1in"/>
+            </media>
+          
+          
+        
+        <para id="eip-358"><newline/>
+<m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>29</m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>29</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"29"+0="29"} {}</m:annotation>
+            </m:semantics>
+          </m:math><newline/>
+<m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>0</m:mn>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext>29</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>29</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{0+"29"="29"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+
+        <para id="id1169308372546">Zero added to 29 does not change the identity of 29.</para>
+        </example>
+      </section>
+      <section id="id1169309312095"><title>Practice Set C</title><para id="id8606809">Add the following whole numbers.</para>
+        
+<exercise id="eip-id4190729"><problem id="eip-id1169274084822">
+<media id="id7899760_media" alt="0 and 8."><image mime-type="image/png" src="../../media/graphics8-271f.png" id="id7899760__onlineimage" width="110" print-width="1in"/></media></problem>
+<solution id="eip-id1169274777941"><para id="eip-id1169275196817">
+8</para></solution></exercise>
+
+        <exercise id="eip-id8711178"><problem id="eip-id1014885"><media id="id1169307609226_media" alt="0 and 5."><image mime-type="image/png" src="../../media/graphics9-57a2.png" id="id1169307609226__onlineimage" width="110" print-width="1in"/></media></problem><solution id="eip-id3806546"><para id="eip-id1169271252193">5</para></solution></exercise>
+
+        
+        <para id="eip-500">Suppose we let the letter x represent a choice for some whole number. For the first two problems, find the sums. For the third problem, find the sum provided we now know that x represents the whole number 17.</para>
+
+<exercise id="eip-id1169293284309"><problem id="eip-id1169294657582"><media id="id1169317943050_media" alt="x and 0."><image mime-type="image/png" src="../../media/graphics10-bfd6.png" id="id1169317943050__onlineimage" width="110" print-width="1in"/></media></problem><solution id="eip-id982278"><para id="eip-id1169287916968">x</para></solution></exercise>
+
+        <exercise id="eip-id1169319165740"><problem id="eip-id1169316620873"><media id="id1169310431551_media" alt="x and 0."><image mime-type="image/png" src="../../media/graphics11-bb8d.png" id="id1169310431551__onlineimage" width="110" print-width="1in"/></media></problem><solution id="eip-id1169300413516"><para id="eip-id1169289108085">x</para></solution></exercise>
+
+        <exercise id="eip-id1169288720746"><problem id="eip-id1169310527882"><media id="id1169316238985_media" alt="0 and x."><image mime-type="image/png" src="../../media/graphics12-0e17.png" id="id1169316238985__onlineimage" width="110" print-width="1in"/></media></problem><solution id="eip-id1169294978983"><para id="eip-id3843534">17</para></solution></exercise>
+      </section>
+    </section>
+    
+    <section id="id1169326003156"><title>Exercises</title><para id="id1169307997643">For the following problems, add the numbers in two ways.</para>
+      
+      <exercise id="eip-id1171842146424"><problem id="eip-id1171845220622">
+        <media id="id1169322894301_media" alt="8 and 29.">
+          <image mime-type="image/png" src="../../media/graphics14-00f2.png" id="id1169322894301__onlineimage" width="115" print-width="1in"/>
+        </media></problem>
+      <solution id="eip-id1165262127928"><para id="eip-id1165268853429">37</para></solution></exercise>
+      <exercise id="eip-id1171855214210"><problem id="eip-id1171850106787">
+        <media id="id1169316519303_media" alt="36 and 12.">
+          <image mime-type="image/png" src="../../media/graphics15-e8f9.png" id="id1169316519303__onlineimage" width="113" print-width="1in"/>
+        </media>
+      </problem></exercise>
+      <exercise id="eip-id1171855441014"><problem id="eip-id1171845714754">
+        <media id="id1169308282542_media" alt="48 and 36.">
+          <image mime-type="image/png" src="../../media/graphics16-958d.png" id="id1169308282542__onlineimage" height="82" width="114" print-width="1in"/>
+        </media>
+      </problem>
+<solution id="eip-id1165794894696"><para id="eip-id7659062">45</para></solution></exercise>
+      <exercise id="eip-id1171842630224"><problem id="eip-id1171856703691">
+        <media id="id1169311930097_media" alt="117 and 26.">
+          <image mime-type="image/png" src="../../media/graphics17-f01f.png" id="id1169311930097__onlineimage" height="85" width="117" print-width="1in"/>
+        </media>
+      </problem></exercise>
+      <exercise id="eip-id1171851386273"><problem id="eip-id1171843716276">
+        <media id="id1169325959016_media" alt="456 and 112.">
+          <image mime-type="image/png" src="../../media/graphics18-b353.png" id="id1169325959016__onlineimage" height="79" width="114" print-width="1in"/>
+        </media>
+      </problem>
+<solution id="eip-id1167267324040"><para id="eip-id4343136">568</para></solution></exercise>
+      <exercise id="eip-id1171859541506"><problem id="eip-id1171851284077">
+        <media id="id1169320761594_media" alt="4,251 and 1,096.">
+          <image mime-type="image/png" src="../../media/graphics19-bea8.png" id="id1169320761594__onlineimage" height="81" width="113" print-width="1in"/>
+        </media>
+      </problem></exercise>
+      <exercise id="eip-id1171845365821"><problem id="eip-id3434535">
+        <media id="id1169316299623_media" alt="73,205 and 49,118.">
+          <image mime-type="image/png" src="../../media/graphics20-479f.png" id="id1169316299623__onlineimage" height="82" width="117" print-width="1in"/>
+        </media>
+      </problem>
+<solution id="eip-id1167266128841"><para id="eip-id1167266446545">122,323</para></solution></exercise>
+      
+        <exercise id="eip-id1171847557055"><problem id="eip-id1725994">
+          <media id="id1169316866685_media" alt="265,094 and 32,508.">
+            <image mime-type="image/png" src="../../media/graphics21-639f.png" id="id1169316866685__onlineimage" height="85" width="117" print-width="1in"/>
+          </media>
+        </problem></exercise>
+      
+      <exercise id="eip-id1171836319948"><problem id="eip-id1171848817737">
+        <media id="id1169316869121_media" alt="5, 32, and 8.">
+          <image mime-type="image/png" src="../../media/graphics22-cc02.png" id="id1169316869121__onlineimage" height="79" width="115" print-width="1in"/>
+        </media>
+      </problem>
+<solution id="eip-id5291422"><para id="eip-id5291662">45</para></solution></exercise>
+      <exercise id="eip-id1171841989937"><problem id="eip-id1171852006567">
+        <media id="id1169318012086_media" alt="18, 16, and 14.">
+          <image mime-type="image/png" src="../../media/graphics23-c311.png" id="id1169318012086__onlineimage" height="78" width="113" print-width="1in"/>
+        </media>
+      </problem></exercise>
+      <exercise id="eip-id1171857312334"><problem id="eip-id1171845770548">
+        <media id="id1169307227838_media" alt="10, 52, and 38.">
+          <image mime-type="image/png" src="../../media/graphics24-9fd3.png" id="id1169307227838__onlineimage" height="83" width="115" print-width="1in"/>
+        </media>
+      </problem>
+<solution id="eip-id1172308098046"><para id="eip-id1172309158215">100</para></solution></exercise>
+      <exercise id="eip-id1171856348700"><problem id="eip-id1171856811925">
+        <media id="id1169307929766_media" alt="36, 84, and 7.">
+          <image mime-type="image/png" src="../../media/graphics25-6194.png" id="id1169307929766__onlineimage" height="88" width="113" print-width="1in"/>
+        </media>
+      </problem></exercise>
+      <exercise id="eip-id1171856341732"><problem id="eip-id1171845783424">
+        <media id="id1169320057782_media" alt="17, 114, and 425.">
+          <image mime-type="image/png" src="../../media/graphics26-5c3c.png" id="id1169320057782__onlineimage" height="79" width="114" print-width="1in"/>
+        </media>
+      </problem>
+<solution id="eip-id1166715003100"><para id="eip-id8708099">556</para></solution></exercise>
+      <exercise id="eip-id1171859179628"><problem id="eip-id1171851157254">
+        <media id="id7876622_media" alt="11, 1019, and 586.">
+          <image mime-type="image/png" src="../../media/graphics27-417f.png" id="id7876622__onlineimage" height="81" width="115" print-width="1in"/>
+        </media>
+      </problem></exercise>
+<exercise id="eip-id1171851156210"><problem id="eip-id1171843763493">
+        <media id="id1169308319225_media" alt="37,728, 4,472, and 1,261.">
+          <image mime-type="image/png" src="../../media/graphics13-6bf4.png" id="id1169308319225__onlineimage" height="81" width="113" print-width="1in"/>
+        </media>
+      </problem>
+<solution id="eip-id1166076977812"><para id="eip-id1166083394544">43,461</para></solution></exercise>
+      <para id="id1169317529713">For the following problems, show that the pairs of quantities yield the same sum.</para>
+      
+      <exercise id="eip-903"><problem id="eip-467">
+  <para id="eip-id8427298"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>11</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>27</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "11"+"27" \) +9} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mtext>27</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11"+ \( "27"+9 \) } {}</m:annotation></m:semantics></m:math></para>
+</problem>
+</exercise>
+      <exercise id="eip-342"><problem id="eip-535">
+  <para id="eip-93">
+   <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>80</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>52</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "80"+"52" \) +6} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>80</m:mtext><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mtext>52</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"80"+ \( "52"+6 \) } {}</m:annotation></m:semantics></m:math>
+  </para>
+</problem>
+<solution id="eip-477">
+  <para id="eip-43"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>132</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">=</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"132"+6="138"} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>80</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>58</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>138</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"80"+"58"="138"} {}</m:annotation></m:semantics></m:math></para>
+</solution>
+</exercise><exercise id="id1169308060762"><problem id="oo-id1169326698307">
+          <para id="id1169307178204"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>114</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>226</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mtext>108</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "114"+"226" \) +"108"} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>114</m:mtext><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mtext>226</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>108</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"114"+ \( "226"+"108" \) } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      
+      
+      <exercise id="eip-433"><problem id="eip-857">
+  <para id="eip-764">
+    <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mtext>731</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>256</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mtext>171</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "731"+"256" \) +"171"} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>731</m:mtext><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mtext>256</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>171</m:mtext></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"731"+ \( "256"+"171" \) } {}</m:annotation></m:semantics></m:math>
+  </para>
+</problem>
+
+<solution id="eip-id1169269669406"><para id="eip-id3962550"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>987</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>171</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"987"+"171"=1,"158"} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>731</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>427</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>1,</m:mn></m:mrow><m:mtext>158</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"731"+"427"=1,"158"} {}</m:annotation></m:semantics></m:math></para></solution></exercise><exercise id="id1169311766264">
+        <problem id="oo-id1169316281283">
+          <para id="id1169307952475">The fact that (a first number + a second number) + third number = a first number + (a second num­ber + a third number) is an example of the <space effect="underline" count="15"/> property of addi­tion.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169308473946"><problem id="oo-id1169317935101">
+          <para id="id1169314654050">The fact that 0 + any number = that particular number is an example of the <space effect="underline" count="15"/> property of addi­tion.</para>
+        </problem>
+      <solution id="eip-id2654746"><para id="eip-id2357414">Identity</para></solution></exercise>
+      <exercise id="id1169316061690">
+        <problem id="oo-id1169316146800">
+          <para id="id1169316464262">The fact that a first number + a second number = a second number + a first number is an example of the <space effect="underline" count="15"/> property of addi­tion.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169313657277"><problem id="oo-id1169326919198">
+          <para id="id1169326905086">Use the numbers 15 and 8 to illustrate the com­mutative property of addition. </para></problem><solution id="eip-id1170507096286"><para id="eip-id1170514215672"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>15</m:mn><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>23</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5+8=8+"15"="23"} {}</m:annotation></m:semantics></m:math></para>
+        </solution>
+      </exercise>
+      <exercise id="id1169309559413">
+        <problem id="oo-id1169311781355">
+          <para id="id1169324245375">Use the numbers 6, 5, and 11 to illustrate the associative property of addition.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169308175202">
+        <problem id="oo-id1169307211250">
+          <para id="id1169318033071">The number zero is called the additive identity. Why is the term identity so appropriate?</para>
+        </problem>
+        <solution id="eip-id1170508239354">
+          <para id="id1169319013027">…because its partner in addition remains identically the same after that addition</para></solution></exercise>
+    
+    <section id="id1169325567657">
+      <title>Exercises for Review</title>
+      <exercise id="id1169313598288"><problem id="oo-id1169309411434">
+          <para id="id1169315879128">(<link document="m34795"/>) How many hundreds in 46,581?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169307715261"><problem id="oo-id1169316429806">
+          <para id="id1169307266977">(<link document="m34778"/>) Write 2,218 as you would read it.</para>
+        </problem>
+      <solution id="eip-id7381843"><para id="eip-id1169269363710">Two thousand, two hundred eighteen.</para></solution></exercise>
+      
+      <exercise id="id1169317933883">
+        <problem id="oo-id1169317077946">
+          <para id="id1169309966428">(<link document="m34780"/>) Round 506,207 to the nearest thousand.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1169320592875"><problem id="oo-id1169308486475">
+          <para id="id1169313774073">(<link document="m34786"/>) Find the sum of 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>482</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  68</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        </problem>
+      <solution id="eip-id1169274533481"><para id="id1169314915502">550</para></solution></exercise>
+      
+      <exercise id="id1169308028909">
+        <problem id="oo-id1169308433366">
+          <para id="id1169316372467">(<link document="m34784"/>) Find the difference: 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>3,318</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  429</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        </problem>
+      </exercise>
+    </section>
+</section>
+  </content>
+</document>

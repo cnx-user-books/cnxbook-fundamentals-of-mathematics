@@ -1,0 +1,151 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Proficiency Exam</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34979</md:content-id>
+  <md:title>Proficiency Exam</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module is a proficiency exam to the chapter "Decimals." Each problem is accompanied with a reference link pointing back to the module that discusses the type of problem demonstrated in the question. The problems in this exam are accompanied by solutions.</md:abstract>
+  <md:uuid>db3c75f5-7381-4a14-96d7-58fbfcb9dad2</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1164797104081"><title>Proficiency Exam</title><exercise id="id1164809288399">
+        <problem id="oo-id1164813459624">
+          <para id="id1164799503907">(<link document="m34957"/>) The decimal digit that appears three places to the right of the decimal point is in the <space effect="underline" count="10"/> position.</para>
+        </problem>
+<solution id="eip-id1165236097394"><para id="eip-id1165231482425">thousandth</para></solution>
+      </exercise>
+      <exercise id="id1164809131665">
+        <problem id="oo-id1164800895089">
+          <para id="id1164811809049">(<link document="m34957"/>) Write, using words, 15.036.</para>
+        </problem>
+<solution id="eip-id1165233637101"><para id="eip-id1165233577250">fifteen and thirty-six thousandths</para></solution>
+      </exercise>
+      <exercise id="id1164808838806"><problem id="oo-id1164813615200">
+          <para id="id1164814784268">(<link document="m34957"/>) Write eighty-one and twelve hundredths using digits. 81.12</para>
+        </problem>
+      <solution id="eip-id1171533282684"><para id="eip-id1171533084266">81.12</para></solution></exercise>
+      <exercise id="id1164802991031">
+        <problem id="oo-id1164796451890">
+          <para id="id1164818049843">(<link document="m34957"/>) Write three thousand seventeen millionths using digits.</para>
+        </problem>
+<solution id="eip-id8545054"><para id="eip-id1165245878326">0.003017</para></solution>
+      </exercise>
+      <exercise id="id1164809001240">
+        <problem id="oo-id1164808920441">
+          <para id="id1164799163996">(<link document="m34958"/>) Convert 0.78 to a fraction. Reduce.</para>
+        </problem>
+<solution id="eip-id1165228469366"><para id="eip-id1165241882052"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>39</m:mtext><m:mtext>50</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"39"}  over  {"50"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1164813300198">
+        <problem id="oo-id1164817071505">
+          <para id="id1164813886690">(<link document="m34958"/>) Convert 0.875 to a fraction. Reduce.</para>
+        </problem>
+<solution id="eip-id1165235339535"><para id="eip-id1165252968633"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1164823046466">
+        <problem id="oo-id1164820353007">
+          <para id="id1164825952018">(<link document="m34959"/>) Round 4.8063 to the nearest tenth.</para>
+        </problem>
+<solution id="eip-id1165240179928"><para id="eip-id1165242772669">4.8</para></solution>
+      </exercise>
+      <exercise id="id1164813463907">
+        <problem id="oo-id1164827659765">
+          <para id="id1164797005060">(<link document="m34959"/>) Round 187.51 to the nearest hundred.</para>
+        </problem>
+<solution id="eip-id1165229184183"><para id="eip-id1165248318403">200</para></solution>
+      </exercise>
+      <exercise id="id1164809618556">
+        <problem id="oo-id1164816901794">
+          <para id="id1164808984778">(<link document="m34959"/>) Round 0.0652 to the nearest hundredth.</para>
+        </problem>
+<solution id="eip-id1165228080970"><para id="eip-id1165241939872">0.07</para></solution>
+      </exercise>
+      <para id="id1164796422853">For problems 10-20, perform each operation.  </para>
+      <exercise id="id1164804620726">
+        <problem id="oo-id1164801002391">
+          <para id="id1164802665989">(<link document="m34960"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>15</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>026 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 5</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>971</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15" "." "026 "+" 5" "." "971"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1165233332882"><para id="eip-id1165248174746">20.997</para></solution>
+      </exercise>
+      <exercise id="id1164811081698">
+        <problem id="oo-id1164818988790">
+          <para id="id1164813981112">(<link document="m34960"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>72</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>15</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>26</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>585</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"72" "." "15"  -  "26" "." "585"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1165240873681"><para id="eip-id1165232499932">45.565</para></solution>
+      </exercise>
+      <exercise id="id3977470">
+        <problem id="oo-id4171965">
+          <para id="id1164813914131">(<link document="m34963"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>16</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16" "." 2 cdot 4 "." 8} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1165233361332"><para id="eip-id1165228046808">77.76</para></solution>
+      </exercise>
+      <exercise id="id1164815845966">
+        <problem id="oo-id1164797099093">
+          <para id="id8804756">(<link document="m34963"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>000</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>016</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10","000" cdot 0 "." "016"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1165256807985"><para id="eip-id1165240941767">16</para></solution>
+      </exercise>
+      <exercise id="id1164827405539">
+        <problem id="oo-id1164811731268">
+          <para id="id1164802312419">(<link document="m34968"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>44</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>64</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>18</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"44" "." "64" div "18" "." 6} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1165244649490"><para id="eip-id1165240031318">2.4</para></solution>
+      </exercise>
+      <exercise id="id1164819482628">
+        <problem id="oo-id1164803104241">
+          <para id="id1164818510036">(<link document="m34968"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>21387</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>19</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "21387" div 0 "." "19"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id6108370"><para id="eip-id1165243307805">1.1256</para></solution>
+      </exercise>
+      <exercise id="id1164816008731">
+        <problem id="oo-id1164808987620">
+          <para id="id1164806864693">(<link document="m34969"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mover accent="true"><m:mtext>27</m:mtext><m:mo>¯</m:mo></m:mover><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>3</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "."  {overline  {"27"}}  -  {  {3}  over  {"11"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1165247881664"><para id="eip-id1165254870194">0</para></solution>
+      </exercise>
+      <exercise id="id1164813317805">
+        <problem id="oo-id1164800632090">
+          <para id="id1164809506395">(<link document="m34970"/>) Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>2</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 {  {2}  over  {"11"} } } {}</m:annotation></m:semantics></m:math> to a decimal.</para>
+        </problem>
+<solution id="eip-id1165234422316"><para id="eip-id1165228071458"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mover accent="true"><m:mtext>18</m:mtext><m:mo>¯</m:mo></m:mover></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "."  {overline  {"18"}} } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1164825617940">
+        <problem id="oo-id3477079">
+          <para id="id1164820729644">(<link document="m34970"/>) Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mn>5</m:mn><m:mfrac><m:mn>9</m:mn><m:mtext>16 </m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." 5 {  {9}  over  {"16"} } } {}</m:annotation></m:semantics></m:math> to a decimal.</para>
+        </problem>
+<solution id="eip-id1165252866077"><para id="eip-id1165257050716">0.055625</para></solution>
+      </exercise>
+      <exercise id="id1164815995049">
+        <problem id="oo-id1164807172150">
+          <para id="id1164809271074">(<link document="m34971"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>325</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  {1}  over  {8} } +2 "." "325"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1165226785889"><para id="eip-id1165256880622">5.45</para></solution>
+      </exercise>
+      <exercise id="id1164801652947">
+        <problem id="oo-id1164797079535">
+          <para id="id1164820384647">(<link document="m34971"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">×</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>5625</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} }  times 0 "." "5625"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1165232583394"><para id="eip-id1165251075056"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>27</m:mtext><m:mtext>128</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"27"}  over  {"128"} } } {}</m:annotation></m:semantics></m:math> or 0.2109375</para></solution>
+      </exercise>
+    </section>
+  </content>
+</document>

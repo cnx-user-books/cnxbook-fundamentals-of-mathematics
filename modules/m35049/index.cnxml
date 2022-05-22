@@ -1,0 +1,446 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Summary of Key Concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35049</md:content-id>
+  <md:title>Summary of Key Concepts</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module reviews the key concepts from the chapter "Algebraic Expressions and Equations."</md:abstract>
+  <md:uuid>f5e0d080-225d-46f2-8c47-94787d0045fa</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1167905499099"><title>Summary of Key Concepts</title><para id="id1167905581175"><title>Numerical Expression (<link document="m35038"/>)</title>A <emphasis>numerical expression</emphasis> results when numbers are associated by arithmetic opera­tion signs. The expressions 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3+5} {}</m:annotation></m:semantics></m:mstyle></m:math>, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 - 2} {}</m:annotation></m:semantics></m:mstyle></m:math>, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 cdot 6} {}</m:annotation></m:semantics></m:mstyle></m:math> and 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 div 5} {}</m:annotation></m:semantics></m:mstyle></m:math> are numerical expressions.</para>
+      <para id="id1167905188207"><title>Algebraic Expressions (<link document="m35038"/>)</title>When an arithmetic operation sign connects a letter with a number or a letter with a letter, an <emphasis>algebraic expression</emphasis> results. The expressions 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4x+1} {}</m:annotation></m:semantics></m:mstyle></m:math>, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - 5} {}</m:annotation></m:semantics></m:mstyle></m:math>, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>7</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">⋅</m:mo><m:mn>6</m:mn>
+<m:mi>y</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7x cdot 6y} {}</m:annotation></m:semantics></m:mstyle></m:math>, and 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4x div 3} {}</m:annotation></m:semantics></m:mstyle></m:math> are algebraic expressions.</para>
+      <para id="id1167905488852"><title>Terms and Factors (<link document="m35038"/>) </title><emphasis>Terms</emphasis> are parts of <emphasis>sums</emphasis> and are therefore separated by addition (or subtraction) signs. In the expression, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn>
+<m:mi>y</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5x - 2y} {}</m:annotation></m:semantics></m:mstyle></m:math>, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>5</m:mn>
+<m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5x} {}</m:annotation></m:semantics></m:mstyle></m:math> and 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn>
+<m:mi>y</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 2y} {}</m:annotation></m:semantics></m:mstyle></m:math> are the terms. <emphasis>Factors</emphasis> are parts of products and are therefore separated by multiplication signs. In the expression <m:math><m:mstyle displaystyle="true">
+<m:mn>5</m:mn>
+<m:mi>a</m:mi>
+</m:mstyle></m:math>, 5 and <m:math><m:mstyle displaystyle="true">
+<m:mi>a</m:mi>
+</m:mstyle></m:math> are the factors.</para>
+      <para id="id1167904525516"><title>Coefficients (<link document="m35038"/>)</title>The <emphasis>coefficient</emphasis> of a quantity records how many of that quantity there are. In the expression 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>7</m:mn>
+<m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7x} {}</m:annotation></m:semantics></m:mstyle></m:math>, the coefficient 7 indicates that there are seven 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:mstyle></m:math>'s.</para>
+      <para id="id1167950321040"><title>Numerical Evaluation (<link document="m35038"/>)</title><emphasis>Numerical evaluation</emphasis> is the process of determining the value of an algebraic ex­pression by replacing the variables in the expression with specified values.</para>
+      <para id="id1167903508760"><title>Combining Like Terms (<link document="m35039"/>)</title>An algebraic expression may be simplified by combining like terms.  <emphasis>To combine like terms</emphasis>, we simply add or subtract their coefficients then affix the variable. For example
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn>
+<m:mi>x</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn></m:mrow><m:mo stretchy="false">)</m:mo><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>13</m:mtext></m:mrow><m:mi>x</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4x+9x= \( 4+9 \) x="13"x} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+      <para id="id1167905508032"><title>Equation (<link document="m35044"/>)</title>An <emphasis>equation</emphasis> is a statement that two expressions are equal. The statements 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5x+1=3} {}</m:annotation></m:semantics></m:mstyle></m:math> and 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow>
+<m:mn>4</m:mn>
+<m:mi>x</m:mi></m:mrow>
+<m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4x}  over  {5} } +4= {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:mstyle></m:math> are equations. The expressions represent the same quantities.</para>
+      <para id="id1167905538840"><title>Conditional Equation (<link document="m35044"/>)</title>A <emphasis>conditional equation</emphasis> is an equation whose truth depends on the value selected for the variable. The equation 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x=9} {}</m:annotation></m:semantics></m:mstyle></m:math> is a conditional equation since it is only true on the condition that 3 is selected for 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+      <para id="id1167905182744"><title>Solutions and Solving an Equation (<link document="m35044"/>)</title>The values that when substituted for the variables make the equation true are called the <emphasis>solutions</emphasis> of the equation. <newline/>An equation has been <emphasis>solved</emphasis> when all its solutions have been found.</para>
+      <para id="id1167905170769"><title>Equivalent Equations (<link document="m35044"/>)</title>Equations that have precisely the same solutions are called <emphasis>equivalent equations</emphasis>. The equations 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn>
+<m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>18</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6y="18"} {}</m:annotation></m:semantics></m:mstyle></m:math> and 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y=3} {}</m:annotation></m:semantics></m:mstyle></m:math> are equivalent equations.</para>
+      <para id="id1167903505951"><title>Addition/Subtraction Property of Equality (<link document="m35044"/>)</title>Given any equation, we can obtain an equivalent equation by
+<list id="eip-id1170935178747" list-type="enumerated" number-style="arabic"><item>adding the same number to both sides, or</item>
+<item>subtracting the same number from both sides.</item>
+</list></para>
+      
+      
+      
+      <para id="id1167903503672"><title>Solving <m:math><m:mstyle displaystyle="true"><m:mi>x</m:mi><m:mo> +</m:mo><m:mi> a</m:mi><m:mo> =</m:mo><m:mi> b</m:mi></m:mstyle></m:math> and <m:math><m:mstyle displaystyle="true"><m:mi>x</m:mi> <m:mo>-</m:mo><m:mi>a</m:mi><m:mo> =</m:mo><m:mi> b</m:mi></m:mstyle></m:math> (<link document="m35044"/>)</title>To <emphasis>solve </emphasis>
+
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+a=b} {}</m:annotation></m:semantics></m:mstyle></m:math>, <emphasis effect="italics">subtract </emphasis>
+
+
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:mstyle></m:math> from both sides.
+
+<newline count="2"/>
+
+<m:math><m:mstyle displaystyle="true">
+<m:mtable>
+                  <m:mtr>
+<m:mtd columnalign="left">          
+          <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>x</m:mi>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mi>b</m:mi>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+<m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>x</m:mi>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mi>a</m:mi>
+                              </m:mrow>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mrow>
+                              <m:mi>b</m:mi>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+<m:mtd columnalign="left">        
+            <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>x</m:mi>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mrow>
+                              <m:mi>b</m:mi>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+          </m:mstyle></m:math>
+      
+
+<newline count="2"/>
+To <emphasis>solve </emphasis>
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - a=b} {}</m:annotation></m:semantics></m:mstyle></m:math>, 
+<emphasis effect="italics">add </emphasis> <m:math><m:mstyle displaystyle="true">
+<m:mi>a</m:mi></m:mstyle></m:math> to both sides.
+<newline count="2"/>
+
+<m:math><m:mstyle displaystyle="true">
+                <m:mtable>
+                  <m:mtr>
+<m:mtd columnalign="left">      
+              <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>x</m:mi>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mi>b</m:mi>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+<m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>x</m:mi>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mi>a</m:mi>
+                              </m:mrow>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mrow>
+                              <m:mi>b</m:mi>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+<m:mtd columnalign="left">
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>x</m:mi>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mrow>
+                              <m:mi>b</m:mi>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+</m:mtd>
+                  </m:mtr>
+                </m:mtable>
+        </m:mstyle></m:math>
+      </para>
+      
+      
+      
+      <para id="id1167905584750"><title>Multiplication/Division Property of Equality (<link document="m35045"/>)</title>Given any equation, we can obtain an <emphasis>equivalent equation</emphasis> by
+<list id="eip-id1165798297158" list-type="enumerated" number-style="arabic"><item>multiplying both sides by the same nonzero number, that is, if 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>c</m:mi><m:mo stretchy="false">≠</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{c &lt;&gt; 0} {}</m:annotation></m:semantics></m:mstyle></m:math>, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a=b} {}</m:annotation></m:semantics></m:mstyle></m:math> and 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">⋅</m:mo><m:mi>c</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">⋅</m:mo><m:mi>c</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a cdot c=b cdot c} {}</m:annotation></m:semantics></m:mstyle></m:math> are equivalent.</item>
+<item>dividing both sides by the same nonzero number, that is, if 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>c</m:mi><m:mo stretchy="false">≠</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{c &lt;&gt; 0} {}</m:annotation></m:semantics></m:mstyle></m:math>, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a=b} {}</m:annotation></m:semantics></m:mstyle></m:math> and 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>a</m:mi><m:mi>c</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>b</m:mi><m:mi>c</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {c} } = {  {b}  over  {c} } } {}</m:annotation></m:semantics></m:mstyle></m:math> are equivalent.</item>
+</list></para>
+      
+      
+      
+      
+      <para id="id1167903463177"><title>Solving  <m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mi>a</m:mi><m:mi>x</m:mi></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:semantics></m:mstyle></m:math> and  <m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mi>a</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:semantics></m:mstyle></m:math> (<link document="m35045"/>)</title>To <emphasis>solve</emphasis> <m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ax</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "ax"=b} {}</m:annotation></m:semantics></m:mstyle></m:math>, 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">≠</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a &lt;&gt; 0} {}</m:annotation></m:semantics></m:mstyle></m:math>,  <emphasis effect="italics">divide both sides by</emphasis>
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:mstyle></m:math>.
+<newline count="2"/>
+
+<m:math><m:mstyle displaystyle="true">
+                <m:mtable>
+                  <m:mtr>
+<m:mtd columnalign="right">
+                                <m:mi>a</m:mi>
+<m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>
+                            <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">        
+                     <m:mi>b</m:mi>
+</m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+                    <m:mfrac>
+              <m:mrow>                    <m:mi>a</m:mi>
+<m:mi>x</m:mi></m:mrow>
+                              <m:mi>a</m:mi>
+                            </m:mfrac>
+</m:mtd>
+<m:mtd>                       
+     <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">       
+                     <m:mfrac>
+                              <m:mi>b</m:mi>
+                              <m:mi>a</m:mi>
+                            </m:mfrac>
+</m:mtd>        
+          </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">
+                            <m:mfrac>
+                              <m:mrow>
+<m:menclose notation="updiagonalstrike">                               
+ <m:mi>a</m:mi></m:menclose>
+                                <m:mi>x</m:mi>
+                              </m:mrow>
+                            <m:menclose notation="updiagonalstrike">                               
+ <m:mi>a</m:mi></m:menclose> </m:mfrac>
+</m:mtd>
+<m:mtd>                        
+    <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">       
+                     <m:mfrac>
+                              <m:mi>b</m:mi>
+                              <m:mi>a</m:mi>
+                            </m:mfrac>
+
+</m:mtd>                         
+
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">                   
+         <m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>                        
+    <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">       
+                     <m:mfrac>
+                              <m:mi>b</m:mi>
+                              <m:mi>a</m:mi>
+                            </m:mfrac>
+                          </m:mtd>
+                  </m:mtr>
+                </m:mtable>
+        </m:mstyle></m:math>
+      <newline count="2"/>
+To <emphasis>solve</emphasis>
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mi>a</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {a} } =b} {}</m:annotation></m:semantics></m:mstyle></m:math>, 
+
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">≠</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a &lt;&gt; 0} {}</m:annotation></m:semantics></m:mstyle></m:math>, 
+<emphasis effect="italics">multiply</emphasis> both sides by
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:mstyle></m:math>.
+<newline count="2"/>
+
+<m:math><m:mstyle displaystyle="true">
+                <m:mtable>
+                  <m:mtr>
+<m:mtd columnalign="right">
+
+                            <m:mfrac>
+                              <m:mi>x</m:mi>
+                              <m:mi>a</m:mi>
+                            </m:mfrac>
+</m:mtd>
+<m:mtd>
+                            <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">       
+                     <m:mi>b</m:mi>
+</m:mtd>                       
+    </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right"> 
+  <m:mi>a</m:mi>
+
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mfrac>
+                                <m:mi>x</m:mi>
+                                <m:mi>a</m:mi>
+                              </m:mfrac>
+</m:mtd>
+
+<m:mtd>
+                            <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="right">   <m:mi>a</m:mi>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mi>b</m:mi>
+</m:mtd>                            
+
+                  </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+                      <m:menclose notation="updiagonalstrike">         <m:mi>a</m:mi></m:menclose>         <m:mo stretchy="false">⋅</m:mo>
+                              <m:mfrac>
+                                <m:mi>x</m:mi>
+                       <m:menclose notation="updiagonalstrike">         <m:mi>a</m:mi></m:menclose>
+                              </m:mfrac>
+</m:mtd>
+<m:mtd>                           
+ <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">
+                       
+       
+                       <m:mi>a</m:mi>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mi>b</m:mi>
+</m:mtd>                       
+    </m:mtr>
+                  <m:mtr>
+
+<m:mtd columnalign="right">        
+                    <m:mi>x</m:mi>
+</m:mtd>
+<m:mtd>                           
+ <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+
+<m:mtd columnalign="left">       
+                       <m:mi>a</m:mi>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mi>b</m:mi>
+</m:mtd>                       
+  </m:mtr>
+                </m:mtable>
+        </m:mstyle></m:math>
+      </para>
+      
+      
+      
+      <para id="id1167903455006"><title>Translating Words to Mathematics (<link document="m35046"/>)</title>In solving applied problems, it is important to be able to translate phrases and sentences to mathematical expressions and equations.</para>
+      <para id="id1167903480465"><title>The Five-Step Method for Solving Applied Problems (<link document="m35047"/>) </title>To solve problems algebraically, it is a good idea to use the following <emphasis>five-step procedure</emphasis>.
+<newline/>
+After working your way through the problem carefully, phrase by phrase:
+<list id="eip-id1170273631564" list-type="enumerated" number-style="arabic"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:mstyle></m:math> (or some other letter) represent the unknown quantity.</item>
+        <item>Translate the phrases and sentences to mathematical symbols and form an equation. Draw a picture if possible.</item>
+        <item>Solve this equation.</item>
+        <item>Check the solution by substituting the result into the original statement of the problem.</item>
+        <item>Write a conclusion.</item>
+      </list></para>
+      
+      
+    </section>
+  </content>
+</document>

@@ -1,0 +1,1534 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Concepts of Division of Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34864</md:content-id>
+  <md:title>Concepts of Division of Whole Numbers</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to divide whole numbers. By the end of the module students should be able to understand the process of division, understand division of a nonzero number into zero, understand why division by zero is undefined, and use a calculator to divide one whole number by another.</md:abstract>
+  <md:uuid>7a36dad7-c35b-4b1a-a4af-f6873e995ca5</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1170820480320">
+      <title>Section Overview</title>
+      <list id="id1170820520490" list-type="bulleted"><item>Division</item>
+        <item>Division into Zero (Zero As a Dividend: 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>0</m:mn><m:mi>a</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {a} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">≠</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a &lt;&gt; 0} {}</m:annotation></m:semantics></m:math>)</item>
+        <item>Division by Zero (Zero As a Divisor: 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>0</m:mn><m:mi>a</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {a} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">≠</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a &lt;&gt; 0} {}</m:annotation></m:semantics></m:math>)</item>
+        <item>Division by and into Zero (Zero As a Dividend and Divisor: 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {0} } } {}</m:annotation></m:semantics></m:math>)</item>
+        <item>Calculators</item>
+      </list>
+    </section>
+    <section id="id1170821092834">
+      <title>Division</title>
+      <para id="id1170821072108"><term>Division</term> is a description of repeated subtraction.</para>
+      <para id="id1170822761877">In the process of division, the concern is how many times one number is contained in another number. For example, we might be interested in how many 5's are contained in 15. The word <emphasis effect="italics">times</emphasis> is significant because it implies a relationship between division and multiplication.</para>
+      <para id="id1170821212272">There are several notations used to indicate division. Suppose <m:math>
+<m:mi>Q</m:mi></m:math> records the number of times 5 is contained in 15. We can indicate this by writing</para>
+      
+      <para id="eip-891"><m:math>
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mrow>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+ 
+  <m:mtd columnalign="right"><m:mi>Q</m:mi></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>5</m:mn>    <m:menclose notation="longdiv"><m:mn>15</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mrow>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mtext>5 into 15</m:mtext>
+</m:munder>
+</m:math><space count="5"/> 
+<m:math>
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mrow>
+<m:mfrac>
+<m:mn>15</m:mn>
+<m:mn>5</m:mn>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mi>Q</m:mi>
+</m:mrow>
+<m:mo>︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mtext>15 divided by 5</m:mtext>
+</m:munder>
+</m:math></para><para id="eip-644"><m:math>
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mrow>
+<m:mn>15</m:mn>
+<m:mo>/</m:mo>
+<m:mn>5</m:mn>
+<m:mo>=</m:mo>
+<m:mi>Q</m:mi>
+</m:mrow>
+<m:mo>︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mtext>15 divided by 5</m:mtext>
+</m:munder>
+</m:math>
+
+<space count="5"/>
+<m:math>
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mrow>
+<m:mn>15</m:mn>
+<m:mo>÷ </m:mo>
+<m:mn>5</m:mn>
+<m:mo>=</m:mo>
+<m:mi>Q</m:mi>
+</m:mrow>
+<m:mo>︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mtext>15 divided by 5</m:mtext>
+</m:munder>
+</m:math>
+</para><para id="id1170820573465">Each of these division notations describes the <emphasis effect="italics">same</emphasis> number, represented here by the symbol 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q} {}</m:annotation></m:semantics></m:math>. Each notation also converts to the same multiplication form. It is 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mtext>15</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">×</m:mo><m:mi>Q</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15"=5 times Q} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1170820764714">In division,</para>
+      <para id="id1170820808862"><title>Dividend</title>the number being divided into is called the <term>dividend</term>.</para>
+      <para id="id1170820352780"><title>Divisor</title>the number dividing into the dividend is the <term>divisor</term>.</para>
+      <para id="id1170821407862"><title>Quotient</title>the result of the division is called the <term>quotient</term>.</para>
+      <para id="eip-863"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+
+  <m:mtd columnalign="right"><m:mtext>quotient</m:mtext></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mtext>divisor</m:mtext>    <m:menclose notation="longdiv"><m:mtext>dividend</m:mtext></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para><para id="eip-300"><m:math>
+<m:mfrac>
+<m:mtext>dividend</m:mtext>
+<m:mtext>divisor</m:mtext>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mtext>quotient</m:mtext>
+</m:math></para><para id="eip-502"><m:math>
+<m:mtext>dividend</m:mtext>
+<m:mo>/</m:mo>
+<m:mtext>divisor</m:mtext>
+<m:mo>=</m:mo>
+<m:mtext>quotient</m:mtext>
+<m:mspace width="10pt"/>
+<m:mtext>dividend</m:mtext>
+<m:mo>÷</m:mo>
+<m:mtext>divisor</m:mtext>
+<m:mo>=</m:mo>
+<m:mtext>quotient</m:mtext>
+</m:math></para>
+      <section id="id1170821402444"><title>Sample Set A</title><para id="id1170820913683">Find the following quotients using multiplication facts.</para>
+<example id="eip-id1170654539479">
+        <para id="eip-id1170654110993">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>18</m:mtext>
+                      <m:mo stretchy="false">÷</m:mo>
+                      <m:mn>6</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"18" div 6} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1170821405119">Since 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">×</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>18</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 times 3="18"} {}</m:annotation></m:semantics></m:math>,</para>
+        <para id="eip-id1170679121545">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>18</m:mtext>
+                        <m:mo stretchy="false">÷</m:mo>
+                        <m:mn>6</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"18" div 6=3} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1170820535502">Notice also that</para>
+        <para id="id1170820490427"><m:math>
+<m:mfenced open="" close="}">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>18</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>6</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>12</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>6</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>6</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>6</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>0</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mfenced>
+<m:mtext>Repeated subtraction</m:mtext>
+</m:math></para>
+        <para id="id1170821535680">Thus, 6 is contained in 18 three times.</para>
+</example>        
+<example id="eip-id1170652777796">
+<para id="eip-id1170656099265"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mtext>24</m:mtext>
+                      <m:mn>3</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {"24"}  over  {3} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1170820857669">Since 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>24</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times 8="24"} {}</m:annotation></m:semantics></m:math>,</para>
+        <para id="eip-id1170652803313">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mtext>24</m:mtext>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {"24"}  over  {3} } =8} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1170820908024">Notice also that 3 could be subtracted exactly 8 times from 24. This implies that 3 is contained in 24 eight times.</para>
+</example>       
+<example id="eip-id1170654093821">
+ <para id="eip-id1170666003136"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>36</m:mn>
+                      <m:mn>6</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {"36"}  over  {6} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1170820623948">Since 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">×</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>36</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 times 6="36"} {}</m:annotation></m:semantics></m:math>, </para>
+        <para id="eip-id1170653601098"><m:math>
+  <m:semantics>
+    <m:mrow>
+      <m:mfrac>
+        <m:mn>36</m:mn>
+        <m:mn>6</m:mn>
+      </m:mfrac>
+      <m:mo stretchy="false">=</m:mo>
+      <m:mn>6</m:mn>
+    </m:mrow>
+    <m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ {  {"36"}  over  {6} } =6}  {} # 
+ {} 
+} } {}</m:annotation>
+  </m:semantics>
+</m:math>
+        
+</para>
+        <para id="id1170821553398">Thus, there are 6 sixes in 36.</para>
+</example>
+<example id="eip-id1170653843074">
+        <para id="id1170820905546">
+        <m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>9</m:mn>    <m:menclose notation="longdiv"><m:mn>72</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1170822060751">Since 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">×</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>72</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 times 8="72"} {}</m:annotation></m:semantics></m:math>,</para>
+        <para id="eip-id1170664549549"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+
+  <m:mtd columnalign="right"><m:mn>8</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>9</m:mn>    <m:menclose notation="longdiv"><m:mn>72</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1170821075563">Thus, there are 8 nines in 72.</para>
+      </example></section>
+      <section id="id1170821398633"><title>Practice Set A</title><para id="id1170821025140">Use multiplication facts to determine the following quotients.</para>
+        <exercise id="id1170821068538"><problem id="oo-id1170823539537">
+            <para id="id1170820647189"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mtext>32</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"32" div 8} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1170510642952">
+<para id="eip-id1170517741782">4</para>
+</solution></exercise>
+        <exercise id="id1170820861122">
+          <problem id="oo-id1170822224476">
+            <para id="id1170821232006"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mtext>18</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"18" div 9} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1165111746076">
+<para id="eip-id1165093946403">2</para>
+</solution>
+        </exercise>
+        <exercise id="id1170820705777">
+          <problem id="oo-id1170816974999">
+            <para id="id1170821038525"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mtext>25</m:mtext><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"25"}  over  {5} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1165097872219">
+<para id="eip-id1165119216620">5</para>
+</solution>
+        </exercise>
+        <exercise id="id1170820612399">
+          <problem id="oo-id1170824668136">
+            <para id="id1170820573298"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mtext>48</m:mtext><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"48"}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1165102775185">
+<para id="eip-id1165115334959">6</para>
+</solution>        
+
+</exercise>
+        <exercise id="id1170820632708">
+          <problem id="oo-id1170817465527">
+            <para id="id1170821097422"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mtext>28</m:mtext><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"28"}  over  {7} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id7853173"><para id="eip-id1165093480754">4</para>
+</solution>        
+</exercise>
+        <exercise id="id1170820619650">
+          <problem id="oo-id6147856">
+            <para id="id1170821244318"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>4</m:mn>    <m:menclose notation="longdiv"><m:mn>36</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> </para>
+          </problem>
+<solution id="eip-id1165111897871">
+<para id="eip-id1165111698305">9</para>
+</solution>        
+</exercise>
+      </section>
+    </section>
+    <section id="id1170821535395"><title>Division into Zero (Zero as a Dividend: <m:math><m:mfrac><m:mrow><m:mn>0</m:mn></m:mrow><m:mrow><m:mi>a</m:mi></m:mrow></m:mfrac></m:math> , <m:math><m:mi>a</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>)</title><para id="id1170820751875">Let's look at what happens when the dividend (the number being divided into) is zero, and the divisor (the number doing the dividing) is any whole number except zero. The question is</para>
+      <para id="id1170820732184">What number, if any, is 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>0</m:mn><m:mtext>any nonzero whole number</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {"any nonzero whole number"} } } {}</m:annotation></m:semantics></m:math>?</para>
+      <para id="id1170820628568">Let's represent this unknown quotient by 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q} {}</m:annotation></m:semantics></m:math>. Then,</para>
+      <para id="id1170820785796">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>0</m:mn>
+                      <m:mtext>any nonzero whole number</m:mtext>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mi>Q</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {"any nonzero whole number"} } =Q} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1170820572075">Converting this division problem to its corresponding multiplication problem, we get</para>
+      <para id="id1170821521432">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>0</m:mn>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mi>Q</m:mi>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mtext>any nonzero whole number</m:mtext>
+                    <m:mo stretchy="false">)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{0=Q times  \( "any nonzero whole number" \) } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1170820798264">From our knowledge of multiplication, we can understand that if the product of two whole numbers is zero, then one or both of the whole numbers must be zero. Since any nonzero whole number is certainly not zero, 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q} {}</m:annotation></m:semantics></m:math> must represent zero. Then,</para>
+      <para id="id1170821278604">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>0</m:mn>
+                      <m:mtext>any nonzero whole number</m:mtext>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {"any nonzero whole number"} } =0} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      
+      <para id="id1170821048854"><title>Zero Divided By Any Nonzero Whole Number Is Zero</title>Zero divided any nonzero whole number is zero.</para>
+
+    </section>
+    <section id="eip-740"><title>Division by Zero (Zero as a Divisor:<m:math><m:mfrac><m:mrow><m:mn>a</m:mn></m:mrow><m:mrow><m:mi>0</m:mi></m:mrow></m:mfrac></m:math> , <m:math><m:mi>a</m:mi><m:mo>≠</m:mo><m:mn>0</m:mn></m:math>)</title><para id="id1170821288876">Now we ask,</para>
+      <para id="id1170820821374">What number, if any, is 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mtext>any nonzero whole number</m:mtext><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"any nonzero whole number"}  over  {0} } } {}</m:annotation></m:semantics></m:math> ?</para>
+      <para id="id1170820868450">Letting 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q} {}</m:annotation></m:semantics></m:math> represent a possible quotient, we get </para>
+      <para id="eip-id1165337702641">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mtext>any nonzero whole number</m:mtext>
+                      <m:mn>0</m:mn>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mi>Q</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {"any nonzero whole number"}  over  {0} } =Q} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1170821104297">Converting to the corresponding multiplication form, we have </para>
+      <para id="id1170821001581">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mtext>any nonzero whole number</m:mtext>
+                    <m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mi>Q</m:mi>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:mn>0</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ \( "any nonzero whole number" \) =Q times 0} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1170821248451">Since 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mrow><m:mi>Q</m:mi><m:mo stretchy="false">×</m:mo><m:mn>0</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q times 0=0} {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>any nonzero whole number</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "any nonzero whole number" \) =0} {}</m:annotation></m:semantics></m:math>. But this is absurd. This would mean that 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6=0} {}</m:annotation></m:semantics></m:math>, or 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mtext>37</m:mtext><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"37"=0} {}</m:annotation></m:semantics></m:math>. A nonzero whole number <emphasis effect="italics">cannot</emphasis> equal 0! Thus,</para>
+      <para id="id1170821097165"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mtext>any nonzero whole number</m:mtext><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"any nonzero whole number"}  over  {0} } } {}</m:annotation></m:semantics></m:math><emphasis effect="italics">does not </emphasis>name a number</para>
+      <para id="id1170820515347"><title>Division by Zero is Undefined</title>Division by zero does not name a number. It is, therefore, undefined.</para></section><section id="id1170821212646"><title>Division by and Into Zero (Zero as a Dividend and Divisor:<m:math><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac></m:math>)</title><para id="id1170820475361">We are now curious about zero divided by zero 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfenced open="(" close=")"><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {0}  over  {0} }  right )} {}</m:annotation></m:semantics></m:math>. If we let 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q} {}</m:annotation></m:semantics></m:math> represent a potential quotient, we get</para>
+      <para id="id1170821080674">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>0</m:mn>
+                      <m:mn>0</m:mn>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mi>Q</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {0} } =Q} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1170820584290">Converting to the multiplication form,</para>
+      <para id="id1170821503694">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mi>Q</m:mi>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:mn>0</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{0=Q times 0} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1170820583918">This results in</para>
+      <para id="id1170821314070">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{0=0} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1170827237936">This is a statement that is true regardless of the number used in place of 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mi>Q</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Q} {}</m:annotation></m:semantics></m:math>. For example,</para>
+      <para id="id1170820908773"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {0} } =5} {}</m:annotation></m:semantics></m:math>, since 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">×</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0=5 times 0} {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1170820891633"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mtext>31</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {0} } ="31"} {}</m:annotation></m:semantics></m:math>, since 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>31</m:mtext><m:mo stretchy="false">×</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0="31" times 0} {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1170821522253"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mtext>286</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {0} } ="286"} {}</m:annotation></m:semantics></m:math>, since 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>286</m:mtext><m:mo stretchy="false">×</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0="286" times 0} {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1170821100727">A <emphasis effect="italics">unique</emphasis> quotient cannot be determined.</para>
+      <para id="id1170817740145"><title>Indeterminant </title>Since the result of the division is inconclusive, we say that 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {0} } } {}</m:annotation></m:semantics></m:math> is <term>indeterminant</term>.</para>
+      <para id="id1170821234071"><title><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {0} } } {}</m:annotation></m:semantics></m:math> is Indeterminant</title>The division 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {0} } } {}</m:annotation></m:semantics></m:math> is indeterminant.</para>
+      <section id="id1170820616320"><title>Sample Set B</title><para id="id1170820888473">Perform, if possible, each division.</para>
+       
+<example id="eip-id1169827327055">
+ <para id="id1170821257403"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mtext>19</m:mtext><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"19"}  over  {0} } } {}</m:annotation></m:semantics></m:math>. Since division by 0 does not name a whole number, no quotient exists, and we state 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mtext>19</m:mtext><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"19"}  over  {0} } } {}</m:annotation></m:semantics></m:math> is undefined</para>
+</example>
+<example id="eip-id1169830836937">       
+ <para id="id1170820653722"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>0</m:mn>
+    <m:menclose notation="longdiv"><m:mn>14</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>. Since division by 0 does not name a defined number, no quotient exists, and we state 
+<m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+ <m:mn>0</m:mn>   <m:menclose notation="longdiv"><m:mn>14</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> is undefined</para>
+</example>
+<example id="eip-id1169823631124">        
+<para id="id1170820476699"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>9</m:mn>    
+<m:menclose notation="longdiv"><m:mn>0</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>. Since division into 0 by any nonzero whole number results in 0, we have 
+<m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>0</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>9</m:mn>
+    <m:menclose notation="longdiv"><m:mn>0</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+</example>        
+<example id="eip-id1169827869234">
+<para id="id1170821053214"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {7} } } {}</m:annotation></m:semantics></m:math>. Since division into 0 by any nonzero whole number results in 0, we have 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>7</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {7} } =0} {}</m:annotation></m:semantics></m:math></para>
+  </example>    </section>
+      <section id="id1170820811231"><title>Practice Set B</title><para id="id1170817998668">Perform, if possible, the following divisions.</para>
+        <exercise id="id1170820541415">
+          <problem id="oo-id1170817851706">
+            <para id="id1170821089530"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {0} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1170820795040">
+<para id="eip-id1170821354452">undefined</para>
+</solution>
+        </exercise>
+        <exercise id="id1170820478407">
+          <problem id="oo-id1170817407392">
+            <para id="id1170820632256"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1170821242967">
+<para id="eip-id1170820609523">0</para>
+</solution>
+        </exercise>
+        <exercise id="id1170820546683"><problem id="oo-id1170830380176">
+            <para id="id1170820799056"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>0</m:mn>    <m:menclose notation="longdiv"><m:mn>0</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>  </para>
+          </problem>
+<solution id="eip-id1169287928473">
+<para id="eip-id1169291257756">indeterminant</para>
+</solution>
+        </exercise>
+        <exercise id="id1170822684437">
+          <problem id="oo-id1170821339662">
+            <para id="id1170821033706"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>0</m:mn>    <m:menclose notation="longdiv"><m:mn>8</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>  </para>
+          </problem>
+<solution id="eip-id1170821076882">
+<para id="eip-id1170814955108">undefined</para>
+</solution>
+        </exercise>
+        <exercise id="id1170820539511">
+          <problem id="oo-id1170817483593">
+            <para id="id1170820927166"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {0} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1170814532124">        
+<para id="eip-id1170814816719">undefined</para>
+</solution>
+</exercise>
+        <exercise id="id1170820914558">
+          <problem id="oo-id8805395">
+            <para id="id1170821533930"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {1} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1170820499697">
+<para id="eip-id1170814392226">0</para>
+</solution>      
+  </exercise>
+      </section>
+    </section>
+    <section id="id1170827514512">
+      <title>Calculators</title>
+      <para id="id3570055">Divisions can also be performed using a calculator.</para>
+      <section id="id1170821471334"><title>Sample Set C</title><example id="eip-id1168870935300"><para id="id1170820716667">Divide 24 by 3.</para>
+        <table id="id1170822396364" summary="A table with instructions for calculator input."><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3">Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>24</entry>
+                <entry>24</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>÷ </entry>
+                <entry>24</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>3</entry>
+                <entry>3</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>8</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1170821038936">The display now reads 8, and we conclude that 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mrow><m:mtext>24</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"24" div 3=8} {}</m:annotation></m:semantics></m:math>.</para>
+</example>        
+<example id="eip-id2836196"><para id="id1170821405004">Divide 0 by 7.</para>
+        <table id="id1170821046824" summary="A table with instructions for calculator input."><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3">Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>÷ </entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>7</entry>
+                <entry>7</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>0</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1170821243908">The display now reads 0, and we conclude that 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 div 7=0} {}</m:annotation></m:semantics></m:math>.</para>
+</example>
+<example id="eip-id1168870890178"><para id="id1170820549898">Divide 7 by 0. </para>
+        <para id="id1170821302527">Since division by zero is undefined, the calculator should register some kind of error message.</para>
+        <table id="id1170820697807" summary="A table with instructions for calculator input."><tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry namest="c1" nameend="c3">Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>7</entry>
+                <entry>7</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>÷ </entry>
+                <entry>7</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>0</entry>
+                <entry>0</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>Error</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id1170821260974">The error message indicates an undefined operation was attempted, in this case, division by zero.</para>
+      </example></section>
+      <section id="id1170821128661"><title>Practice Set C</title><para id="id1170820615639">Use a calculator to perform each division.</para>
+        <exercise id="id1170817897910">
+          <problem id="oo-id1170824536663">
+            <para id="id1170821532699"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mtext>35</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"35" div 7} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1170522763550">
+<para id="eip-id1170522825442">5</para>
+</solution>
+        </exercise>
+        <exercise id="id1170820515711">
+          <problem id="oo-id1170817924314">
+            <para id="id1170821005491"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mtext>56</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"56" div 8} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id3728727"><para id="eip-id1170509403398">7</para>
+</solution>
+        </exercise>
+        <exercise id="id1170820726065">
+          <problem id="oo-id1170817719896">
+            <para id="id1170820841627"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 div 6} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id3795846">
+<para id="eip-id1170516664690">0</para>
+</solution>
+        </exercise>
+        <exercise id="id1170821224441">
+          <problem id="oo-id1170816749427">
+            <para id="id1170821126630"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 div 0} {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+<solution id="eip-id5240956">
+<para id="eip-id1170528046558">An error message tells us that this operation is undefined. The particular message depends on the calculator.</para>
+</solution>
+        </exercise>
+        <exercise id="id1170820768365">
+          <problem id="oo-id1170827225252">
+            <para id="id1170818307893"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 div 0} {}</m:annotation></m:semantics></m:math> </para>
+
+          </problem>
+<solution id="eip-id1609555"><para id="eip-id1170514816942">An error message tells us that this operation cannot be performed. Some calculators actually set  <m:math>
+<m:mn>0</m:mn>
+<m:mo>÷</m:mo>
+<m:mn>0</m:mn>
+</m:math> equal to 1. We know better! <m:math>
+<m:mn>0</m:mn>
+<m:mo>÷</m:mo>
+<m:mn>0</m:mn>
+</m:math> is indeterminant.</para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1170821369622"><title>Exercises</title><para id="id1170821532058">For the following problems, determine the quotients (if possi­ble). You may use a calculator to check the result.</para>
+      <exercise id="id1170820713470">
+        <problem id="oo-id1170818288855">
+          <para id="id1170821498214"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>4</m:mn>    <m:menclose notation="longdiv"><m:mn>32</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+        </problem>
+<solution id="eip-id1166551907295">
+<para id="eip-id1166542795796">8</para>
+</solution>
+      </exercise>
+<exercise id="eip-id1166564853794">
+<problem id="eip-id1166560870892">
+      <para id="id1170821404362"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>7</m:mn>    <m:menclose notation="longdiv"><m:mn>42</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+      <exercise id="id1170820648279">
+        <problem id="oo-id1170816974603">
+          <para id="id1170820656031"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>6</m:mn>    <m:menclose notation="longdiv"><m:mn>18</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+ </para>
+        </problem>
+<solution id="eip-id1166577214769">
+<para id="eip-id1166545872720">3</para>
+</solution>      
+</exercise>
+<exercise id="eip-id1166538925344">
+<problem id="eip-id1166539839461"> 
+     <para id="id1170821091222"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>2</m:mn>    <m:menclose notation="longdiv"><m:mn>14</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+      <exercise id="id1170819235268">
+        <problem id="oo-id1170818487270">
+          <para id="id1170818543015"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>3</m:mn>    <m:menclose notation="longdiv"><m:mn>27</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+ </para>
+        </problem>
+<solution id="eip-id3711166">
+<para id="eip-id1166550361991">9</para>
+</solution>
+      </exercise>
+<exercise id="eip-id1166548074549">
+<problem id="eip-id1166547250634"> 
+     <para id="id1170820824937"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>1</m:mn>    <m:menclose notation="longdiv"><m:mn>6</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+
+
+
+      <exercise id="id1170821210579">
+        <problem id="oo-id1170830415543">
+          <para id="id1170821054972"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>4</m:mn>    <m:menclose notation="longdiv"><m:mn>28</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+ </para>
+        </problem>
+<solution id="eip-id8831018">
+<para id="eip-id1166558864966">7</para>
+</solution>
+      </exercise>
+<exercise id="eip-id1166571517574">
+<problem id="eip-id1166552485758"> 
+     <para id="id1170820499645">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mtext>30</m:mtext>
+                    <m:mn>5</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {"30"}  over  {5} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+</exercise>      
+<exercise id="id1170820897425">
+        <problem id="oo-id1170821348329">
+          <para id="id1170820880356"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {4} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1166549819110">
+<para id="eip-id1166547930147">4</para>
+</solution>      
+</exercise>
+
+
+
+
+
+<exercise id="eip-id2829953">
+<problem id="eip-id1168881388111">
+      <para id="id1170820608425">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>24</m:mtext>
+                    <m:mo stretchy="false">÷</m:mo>
+                    <m:mn>8</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"24" div 8} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+</exercise>      
+
+<exercise id="id1170820812064">
+        <problem id="oo-id1170824685876">
+          <para id="id1170821533346"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" div 2} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168874663264">
+<para id="eip-id6231707">5</para>
+</solution>      
+</exercise>
+
+<exercise id="eip-id1168873482056">
+<problem id="eip-id1168883971989">
+      <para id="id1170821081387">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>21</m:mtext>
+                    <m:mo stretchy="false">÷</m:mo>
+                    <m:mn>7</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"21" div 7} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+</exercise>      
+
+<exercise id="id1170821273898">
+        <problem id="oo-id1170823443538">
+          <para id="id1170821271422"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mtext>21</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"21" div 3} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168874893002">
+<para id="eip-id1168873516067">7</para>
+</solution>      
+</exercise>
+<exercise id="eip-id1168868993411">
+<problem id="eip-id1168873490703">
+      <para id="id1170821255827">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo stretchy="false">÷</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{0 div 6} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+</exercise>      
+
+<exercise id="id1170828441763"><problem id="oo-id1170817862039">
+          <para id="id1170820624356"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 div 0} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1169299830175">
+<para id="eip-id1169288938663">
+not defined</para>
+</solution>
+      </exercise>
+      
+<exercise id="eip-id3050382">
+<problem id="eip-id1168888607658">
+<para id="id1170821258080">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>12</m:mtext>
+                    <m:mo stretchy="false">÷</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"12" div 4} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+</exercise>
+      
+<exercise id="id6104275">
+        <problem id="oo-id1170820640080">
+          <para id="id1170817472425"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>3</m:mn>    <m:menclose notation="longdiv"><m:mn>9</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+ </para>
+        </problem>
+<solution id="eip-id1168872123238">
+<para id="eip-id1168871363471">3</para>
+</solution>      
+</exercise>
+<exercise id="eip-id1168884308445">
+<problem id="eip-id1168874336291"> 
+     <para id="id1170820523998"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>0</m:mn>    <m:menclose notation="longdiv"><m:mn>0</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+      <exercise id="id1170821112350">
+        <problem id="oo-id1170818553534">
+          <para id="id1170820564764"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>7</m:mn>    <m:menclose notation="longdiv"><m:mn>0</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+ </para>
+        </problem>
+<solution id="eip-id1168883437987">
+<para id="eip-id2563730">0</para>
+</solution>      
+</exercise>
+<exercise id="eip-id1168884968807">
+<problem id="eip-id1168871892502"> 
+     <para id="id1170820662737"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>6</m:mn>    <m:menclose notation="longdiv"><m:mn>48</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+</problem>
+</exercise>
+
+      <exercise id="id1170820744658">
+        <problem id="oo-id1170821079472">
+          <para id="id1170827419084"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mfrac><m:mtext>15</m:mtext><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"}  over  {3} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168873283786">
+<para id="eip-id1168870916276">5</para>
+</solution>
+      </exercise>
+<exercise id="eip-id1168886525242">
+<problem id="eip-id7573410">      
+<para id="id1170820821676">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mtext>35</m:mtext>
+                    <m:mn>0</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {"35"}  over  {0} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+</exercise>      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<exercise id="id1170820857071">
+        <problem id="oo-id1170820771892">
+          <para id="id1170821121856"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mtext>56</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"56" div 7} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170814599426">
+<para id="eip-id1170814819170">8</para>
+</solution>
+      </exercise>
+      
+<exercise id="eip-id1170814727725">
+<problem id="eip-id1170819174260">
+<para id="id1170820595859">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle>
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>0</m:mn>
+                    <m:mn>9</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {9} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</problem>
+</exercise>      
+
+<exercise id="id1170821015450">
+        <problem id="oo-id1170821298523">
+          <para id="id1170820510753"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mtext>72</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"72" div 8} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1170813414841">
+<para id="eip-id1170820840440">9</para>
+</solution>      
+</exercise>
+      <exercise id="id1170821555792">
+        <problem id="oo-id1170821000451">
+          <para id="id1170820637074">Write 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {2} } =8} {}</m:annotation></m:semantics></m:math> using three different notations.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170820709534"><problem id="oo-id1170820805336">
+          <para id="id1170821301311">Write 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mfrac><m:mtext>27</m:mtext><m:mn>9</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"27"}  over  {9} } =3} {}</m:annotation></m:semantics></m:math> using three different notations. </para>
+  </problem>
+<solution id="eip-id1165443156974">
+<para id="eip-id1165443537882"><m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mrow><m:mtext>27</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>9</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"27" div 9=3} {}</m:annotation></m:semantics></m:math>; 
+<m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>9</m:mn>    <m:menclose notation="longdiv"><m:mn>27</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math>
+; 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mfrac><m:mtext>27</m:mtext><m:mn>9</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"27"}  over  {9} } =3} {}</m:annotation></m:semantics></m:math></para>
+            </solution></exercise>
+      <exercise id="id1170820725121"><problem id="oo-id1170821245786">
+          <para id="id1170818267328">In the statement 
+<m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>4</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>6</m:mn>    <m:menclose notation="longdiv"><m:mn>24</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+<para id="eip-id1164929674738">6 is called the <space effect="underline" count="10"/>.
+</para>
+   <para id="eip-id1170653868332">24 is called the <space effect="underline" count="10"/>.</para>   
+  
+<para id="eip-id1165258432006">4 is called the <space effect="underline" count="10"/>.</para>
+</problem>
+      </exercise>
+      
+      
+      
+      <exercise id="id1170821292373"><problem id="oo-id1170821210954">
+          <para id="id1170820546435">In the statement 
+<m:math><m:semantics><m:mrow><m:mstyle><m:mrow><m:mrow><m:mrow><m:mtext>56</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"56" div 8=7} {}</m:annotation></m:semantics></m:math>,</para>
+      
+<para id="eip-id5855133">7 is called the <space effect="underline" count="10"/>.
+</para>
+   <para id="eip-id1164479067449">8 is called the <space effect="underline" count="10"/>.</para>   
+  
+<para id="eip-id1164455856225">56 is called the <space effect="underline" count="10"/>.</para>
+
+  </problem>
+      <solution id="eip-id1170507157747">
+<para id="eip-id1170522897647">7 is quotient; 8 is divisor; 56 is dividend</para>
+</solution></exercise>
+      
+      
+      
+      <section id="id1170820733162">
+        <title>Exercises for Review</title>
+        <exercise id="id1170821002071">
+          <problem id="oo-id1170820767961">
+            <para id="id1170820887608">(<link document="m34795"/>) What is the largest digit?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1170820636330"><problem id="oo-id1170821554004">
+            <para id="id1170820584210">(<link document="m34786"/>) Find the sum. 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>8,006</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>4,118</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math> </para>
+          </problem>
+        <solution id="eip-id1170522971322">
+<para id="eip-id1170517841316">
+12,124</para>
+</solution></exercise>
+        <exercise id="id1170820688979">
+          <problem id="oo-id1170821248004">
+            <para id="id1170820867319">(<link document="m34784"/>) Find the difference. 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>631</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>589</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1170821038187"><problem id="oo-id1170821123628">
+            <para id="id1170821254918">(<link document="m34802"/>) Use the numbers 2, 3, and 7 to illustrate the associative property of addition. 
+</para>
+          </problem>
+        <solution id="eip-id1165097276330">
+<para id="eip-id1165120651422"><m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mstyle><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow></m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mstyle><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>10</m:mtext></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
+ size 12{ \( 2+3 \) +7=2+ \( 3+7 \) ="12"}  {} # 
+ size 12{5+7=2+"10"="12"}  {} 
+} } {}</m:annotation></m:semantics></m:math></para>
+        </solution></exercise>
+        <exercise id="id1170820877882">
+          <problem id="oo-id1170818016754">
+            <para id="id1170817791459">(<link document="m34863"/>) Find the product. 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>86</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>× </m:mo>
+<m:mn>12</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para>
+          </problem>
+        </exercise>
+      </section>
+    </section>
+  </content>
+</document>

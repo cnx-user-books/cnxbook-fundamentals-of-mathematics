@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Objectives</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m18899</md:content-id>
+  <md:title>Objectives</md:title>
+  <md:abstract>This module contains the learning objectives for the chapter "Algebraic Expressions and Equations" from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, jr.</md:abstract>
+  <md:uuid>f193b96c-6156-4cd6-89d3-03b48599cf94</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="11 Chapter.pdf" strength="3">Download Chapter 11</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id1170944122844">After completing this chapter, you should </para>
+    <list id="fs-id1171122480775"><title>Algebraic Expressions (<link document="m35038"/>)</title><item>be able to recognize an algebraic expression</item>
+      <item>be able to distinguish between terms and factors</item>
+      <item>understand the meaning and function of coefficients</item>
+      <item>be able to perform numerical evaluation </item>
+    </list>
+    <list id="fs-id1171116531917"><title>Combining Like Terms Using Addition and Subtraction (<link document="m35039"/>)</title><item>be able to combine like terms in an algebraic expression</item>
+    </list>
+   <list id="fs-id1171125101741"><title>Solving Equations of the Form  <m:math><m:mstyle displaystyle="true" scriptlevel="0"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+a=b} {}</m:annotation></m:semantics></m:mstyle></m:math> and  <m:math><m:mstyle displaystyle="true" scriptlevel="0"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - a=b} {}</m:annotation></m:semantics></m:mstyle></m:math> (<link document="m35044"/>)</title><item>understand the meaning and function of an equation</item>
+      <item>understand what is meant by the solution to an equation</item>
+      <item>be able to solve equations of the form 
+<m:math><m:mstyle displaystyle="true" scriptlevel="0"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+a=b} {}</m:annotation></m:semantics></m:mstyle></m:math> and 
+<m:math><m:mstyle displaystyle="true" scriptlevel="0"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x - a=b} {}</m:annotation></m:semantics></m:mstyle></m:math></item>
+    </list>
+    <list id="fs-id1171133710667"><title>Solving Equations of the Form  <m:math><m:mstyle displaystyle="true" scriptlevel="0"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"ax"=b} {}</m:annotation></m:semantics></m:mstyle></m:math> and  <m:math><m:mstyle displaystyle="true" scriptlevel="0"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mi>a</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {a} } =b} {}</m:annotation></m:semantics></m:mstyle></m:math> (<link document="m35045"/>)</title><item>be familiar with the multiplication/division property of equality</item>
+      <item>be able to solve equations of the form 
+<m:math><m:mstyle displaystyle="true" scriptlevel="0"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ax</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "ax"=b} {}</m:annotation></m:semantics></m:mstyle></m:math> and 
+<m:math><m:mstyle displaystyle="true" scriptlevel="0"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>x</m:mi><m:mi>a</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x}  over  {a} } =b} {}</m:annotation></m:semantics></m:mstyle></m:math></item>
+      <item>be able to use combined techniques to solve equations</item>
+    </list>
+<list id="fs-id1171131048983"><title>Applications I: Translating Words to Mathematical Symbols (<link document="m35046"/>)</title><item>be able to translate phrases and statements to mathematical expressions and equations </item>
+    </list>
+  <list id="fs-id1171135276710"><title>Applications II: Solving Problems (<link document="m35047"/>)</title><item>be more familiar with the five-step method for solving applied problems</item>
+      <item>be able to use the five-step method to solve number problems and geometry problems</item>
+    </list>
+  </content>
+</document>

@@ -1,0 +1,494 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Exercise Supplement</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35025</md:content-id>
+  <md:title>Exercise Supplement</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module is an exercise supplement for the chapter "Measurement and Geometry" and contains many exercise problems. Odd problems are accompanied by solutions.</md:abstract>
+  <md:uuid>da953086-fdae-477d-91a7-675436429580</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1167918176826">
+      <title>Exercise Supplement</title>
+      <section id="id1167921273164"><title>Measurement and the United States System (<link document="m35018"/>)</title><exercise id="eip-id1164740417916">
+<problem id="eip-id1164734135490">
+        <para id="id1167911334812">What is measurement? 
+        </para>
+</problem>
+<solution id="eip-id5351510">
+<para id="eip-id1164736938582">Measurement is comparison to a standard (unit of measure).</para>
+</solution>
+</exercise>  
+
+<para id="id1167919133515">For problems 2-6, make each conversion. Use the conversion table given in Section 9.1.</para>
+        <exercise id="id1167911603630">
+          <problem id="oo-id1167923744848">
+            <para id="id1167907896899">9 ft= <space effect="underline" count="10"/> yd </para>
+          </problem>
+        </exercise>
+        <exercise id="id1167918273016">
+          <problem id="oo-id1167937045755">
+            <para id="id1167911695701">32 oz=<space effect="underline" count="10"/> lb</para>
+          </problem>
+<solution id="eip-id1167869075500">
+<para id="eip-id1167869087308">2 pounds
+</para>
+</solution>
+        </exercise>
+        <exercise id="id1167910258336"><problem id="oo-id1167913500930">
+            <para id="id1167921027055">1,500 mg =<space effect="underline" count="10"/> g</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167911361308">
+          <problem id="oo-id1167945062082">
+            <para id="id1167921302396">12,000 lb =<space effect="underline" count="10"/> T  </para>
+          </problem>
+<solution id="eip-id1167871993608">
+<para id="eip-id1167882201090">6 tons
+</para>
+</solution>
+        </exercise>
+        <exercise id="id1167920364748">
+          <problem id="oo-id1167918293686">
+            <para id="id1167934820989">5,280 ft=<space effect="underline" count="10"/> mi</para>
+          </problem>
+        </exercise>
+        <para id="id1167922209218">For problems 7-23, make each conversion.</para>
+        <exercise id="id1167916337500">
+          <problem id="oo-id1167946083801">
+            <para id="id1167910446918">23 yd to ft  </para>
+          </problem>
+<solution id="eip-id1167868080653">
+<para id="eip-id1167877034183">69 feet
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1167923907340">
+          <problem id="oo-id1167921960485">
+            <para id="id1167920178161"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>mi to yd</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167946204880">
+          <problem id="oo-id1167922009911">
+            <para id="id1167947026608"> 8 in. to ft  
+</para>
+          </problem>
+<solution id="eip-id1167898331074">
+<para id="eip-id1167876972155"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>66</m:mtext><m:mover accent="true"><m:mn>6</m:mn><m:mo>¯</m:mo></m:mover><m:mtext>  feet</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } =0 "." "66" {overline  {6}} " feet"} {}</m:annotation></m:semantics></m:math>
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1167909276012">
+          <problem id="oo-id1167919471836">
+            <para id="id1167929010778">51 in. to mi</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167911398769">
+          <problem id="oo-id1167908077624">
+            <para id="id1167938504233">3 qt to pt  </para>
+          </problem>
+<solution id="eip-id1167869482178">
+<para id="eip-id1167878761850">6 pints
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1167940834091">
+          <problem id="oo-id1167918266114">
+            <para id="id1167934965187"> 8 lb to oz</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167948270892">
+          <problem id="oo-id1167938669936">
+            <para id="id1167918646444"> 5 cups to tbsp </para>
+          </problem>
+<solution id="eip-id1167870982724">
+<para id="eip-id1167871208032">80 tablespoons
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1167947102866">
+          <problem id="oo-id1167948176593">
+            <para id="id1167920939993"> 9 da to hr</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167912776996">
+          <problem id="oo-id1167948606745">
+            <para id="id1167944055682"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math> min to sec </para>
+          </problem>
+<solution id="eip-id1167887922933">
+<para id="eip-id1167871207920">210 seconds
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1167918626013">
+          <problem id="oo-id1167921137173">
+            <para id="id1167911500904"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> wk to min</para>
+          </problem>
+        </exercise>
+      </section>
+      <section id="id1167917385928"><title>The Metric System of Measurement (<link document="m35019"/>)</title><exercise id="id1167909226411">
+          <problem id="oo-id1167919083589">
+            <para id="id1167929353475">250 mL to L 
+</para>
+          </problem>
+<solution id="eip-id1165326731541">
+<para id="eip-id1165326307128"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>25</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } =0 "." "25"} {}</m:annotation></m:semantics></m:math>L
+</para>
+</solution>
+        </exercise>
+        <exercise id="id1167920281872">
+          <problem id="oo-id1167911414021">
+            <para id="id1167912794183">18.57 cm to m</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167912834051">
+          <problem id="oo-id1167921149106">
+            <para id="id1167938689543">0.01961 kg to mg </para>
+          </problem>
+<solution id="eip-id1165336141545">
+<para id="eip-id1165338159562"> 19,610 mg
+</para>
+</solution>
+        </exercise>
+        <exercise id="id1167934074268">
+          <problem id="oo-id1167911364724">
+            <para id="id1167909528674"> 52,211 mg to kg</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167924796817">
+          <problem id="oo-id1167928275793">
+            <para id="id1167943665368">54.006 dag to g  </para>
+          </problem>
+<solution id="eip-id1165326392135">
+<para id="eip-id1165326958035">540.06 g
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1167911600164">
+          <problem id="oo-id1167930612796">
+            <para id="id1167930624329">1.181 hg to mg</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167921248079">
+          <problem id="oo-id1167921874109">
+            <para id="id1167911538004"> 3.5 kL to mL  </para>
+          </problem>
+<solution id="eip-id1165353181731">
+<para id="eip-id1165326856215">3,500,000 mL
+</para>
+</solution>        
+</exercise>
+      </section>
+      <section id="id1167929522653"><title>Simplification of Denominate Numbers (<link document="m35021"/>)</title><para id="id1167911239460">For problems 24-31, perform the indicated operations. Simplify, if possible.</para>
+        <exercise id="id1167921887858">
+          <problem id="oo-id1167924760381">
+            <para id="id1167920979806">Add 8 min 50 sec to 5 min 25 sec.  </para>
+          </problem>
+        </exercise>
+
+        <exercise id="id1167912608238">
+          <problem id="oo-id1167920315734">
+            <para id="id1167921016673">Add 3 wk 3 da to 2 wk 5 da   </para>
+          </problem>
+<solution id="eip-id1167869087474">
+<para id="eip-id1167871210792">6 weeks 1 day
+</para>
+</solution>
+        </exercise>
+        <exercise id="id1167933978285">
+          <problem id="oo-id1167918598706">
+            <para id="id1167948259670">Subtract 4 gal 3 qt from 5 gal 2 qt.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167910437634">
+          <problem id="oo-id1167911439336">
+            <para id="id1167928002831">Subtract 2 gal 3 qt 1pt from 8 gal 2 qt.  </para>
+          </problem>
+<solution id="eip-id1167869087362">
+<para id="eip-id1167876517667">5 gallons 2 quarts 1 pint
+</para>
+</solution>       
+ </exercise>
+        <exercise id="id1167951767020">
+          <problem id="oo-id1167922048789">
+            <para id="id1167919464861">Subtract 5 wk 4 da 21 hr from 12 wk 3 da 14 hr.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167911499839">
+          <problem id="oo-id1167938556719">
+            <para id="id1167910208771">Subtract 2 T 1,850 lb from 10 T 1,700 lb.  </para>
+          </problem>
+<solution id="eip-id1167871997044">
+<para id="eip-id1167878542228">7 T 1,850 pounds
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1167918617951">
+          <problem id="oo-id1167924828620">
+            <para id="id1167949491696">Subtract the sum of 2 wk 3 da 15 hr and 5 wk 2 da 9 hr from 10 wk.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167921502887">
+          <problem id="oo-id1167930349586">
+            <para id="id1167934709953"> Subtract the sum of 20 hr 15 min and 18 hr 18 min from the sum of 8 da 1 hr 16 min 5 sec. </para>
+          </problem>
+<solution id="eip-id1167877983992">
+<para id="eip-id1167871910394">7 days, 11 hours, 56 minutes, 7 seconds
+</para>
+</solution>        
+</exercise>
+        <para id="id1167930708908">For problems 32-43, simplify, if necessary.</para>
+        <exercise id="id1167933004596">
+          <problem id="oo-id1167918586367">
+            <para id="id1167928190951">18 in.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167918338974">
+          <problem id="oo-id1167908583032">
+            <para id="id1167911606525">4 ft  </para>
+          </problem>
+<solution id="eip-id1167871581042">
+<para id="eip-id1167879706888">1 yard 1 foot
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1167911224796">
+          <problem id="oo-id1167916297515">
+            <para id="id1167919307607"> 23 da</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167910274089">
+          <problem id="oo-id1167921114987">
+            <para id="id1167918197379">3,100 lb </para>
+          </problem>
+<solution id="eip-id1167879666584">
+<para id="eip-id1167871244308">1 ton 1,100 pounds
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1167937087951">
+          <problem id="oo-id1167912787140">
+            <para id="id1167919570982"> 135 min</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167910469871">
+          <problem id="oo-id1167935245602">
+            <para id="id1167911338613">4 tsp </para>
+          </problem>
+<solution id="eip-id1167877193780">
+<para id="eip-id1167871439289">1 tablespoon 1 teaspoon
+</para>
+</solution>       
+ </exercise>
+        <exercise id="id1167931663327">
+          <problem id="oo-id1167920891566">
+            <para id="id1167913661148"> 10 fl oz</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167924704982">
+          <problem id="oo-id1167918057994">
+            <para id="id1167935914007">7 pt </para>
+          </problem>
+<solution id="eip-id1167870740454">
+<para id="eip-id1167876606904">3 quarts 1 pint
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1167921975161">
+          <problem id="oo-id1167911369306">
+            <para id="id1167927409718">9 qt</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167945997948">
+          <problem id="oo-id1167913915382">
+            <para id="id1167922002038"> 2,300 mm </para>
+          </problem>
+<solution id="eip-id1167868135463">
+<para id="eip-id1167868089802">2.3 meters
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1167908591882">
+          <problem id="oo-id1167919479183">
+            <para id="id1167910105044">14,780 mL</para>
+          </problem>
+        </exercise>
+        <exercise id="id1167910508339">
+          <problem id="oo-id1167910236172">
+            <para id="id1167918859750">1,050 m </para>
+          </problem>
+<solution id="eip-id1167871160979">
+<para id="eip-id1167869507076">1.05 km
+</para>
+</solution>        
+</exercise>
+      </section>
+      <section id="id1167929573362"><title>Perimeter, Circumference, Area and Volume of Geometric Figures and Objects (<link document="m35022"/>,<link document="m35023"/>)</title><para id="eip-280">For problems 44-58, find the perimeter, circumference, area or volume.</para><exercise id="eip-id1165423637212">
+<problem id="eip-id1165428153723">
+<para id="id1167912504860">Perimeter, area<newline/>
+<media id="id1167921516119_media" alt="A rectangle. The rectangle's height is 20mm, and its width is 50mm."><image mime-type="image/png" src="../../media/graphics1-71b2.png" id="id1167921516119__onlineimage" height="101" width="241" print-width=" 1.5in"/></media></para>
+</problem>
+</exercise>
+<exercise id="eip-id1165436313409">
+<problem id="eip-id1165417604479">
+        <para id="id1167912698027">Approximate circumference 
+<newline/>
+<media id="id1167918594994_media" alt="A circle. The circle's diameter is 1.8cm."><image mime-type="image/png" src="../../media/graphics2-6f16.png" id="id1167918594994__onlineimage" height="162" width="163" print-width=" 1.25in"/></media></para>
+
+</problem>
+<solution id="eip-id1170720292382">
+<para id="eip-id1170719185511"> 5.652 sq cm
+</para>
+</solution>
+</exercise>
+<exercise id="eip-id1165412197885">
+<problem id="eip-id1165432141436">
+        <para id="id1167916405819">Approximate volume 
+<newline/>
+<media id="id1167912696336_media" alt="A cone. The cone's radius is 3in and the cone's height is 8in."><image mime-type="image/png" src="../../media/graphics3-760f.png" id="id1167912696336__onlineimage" height="221" width="142" print-width=" 1.5in"/></media> </para>
+
+</problem>
+</exercise>
+<exercise id="eip-id1165433820871">
+<problem id="eip-id1165417762084">        
+<para id="id1167917455960">Approximate volume
+<newline/>
+ <media id="id1167912690002_media" alt="A cylinder. The cylinder's radius is 3.8ft, and its height is 2.3ft."><image mime-type="image/png" src="../../media/graphics4-dda1.png" id="id1167912690002__onlineimage" height="175" width="218" print-width=" 1.5in"/></media> </para>
+        
+
+</problem>
+<solution id="eip-id1170720200229">
+<para id="eip-id1170720329719">104.28568 cu ft
+</para>
+</solution>
+</exercise>
+<exercise id="eip-id1165416413288">
+<problem id="eip-id1165413409054">
+<para id="id1167911720703">Exact area 
+<newline/>
+<media id="id1167927170814_media" alt="A circle. The circle's diameter is 5m."><image mime-type="image/png" src="../../media/graphics5-b704.png" id="id1167927170814__onlineimage" height="154" width="152" print-width=" 1.25in"/></media></para>
+
+
+</problem>
+</exercise>
+<exercise id="eip-id1165432325504">
+<problem id="eip-id1165428253952">        
+<para id="id1167912776103">Exact area 
+<newline/>
+<media id="id1167925080584_media" alt="A half-circle with radius 0.6in."><image mime-type="image/png" src="../../media/graphics6-f092.png" id="id1167925080584__onlineimage" height="119" width="193" print-width=" 1.25in"/></media>  </para>
+        
+
+</problem><solution id="eip-id1170720299870">
+<para id="eip-id1170720444211">0.18<m:math>
+<m:mi>π</m:mi>
+</m:math> sq in.
+</para>
+</solution>
+</exercise>
+<exercise id="eip-id1165418931918"><problem id="eip-id1165412230174">
+<para id="id1167910530653">Exact volume 
+<newline/>
+<media id="id1167928209679_media" alt="A cylinder with a half-sphere on top. The object's radius is 4.2cm, and the cylinder's height is 10.1cm."><image mime-type="image/png" src="../../media/graphics7-c695.png" id="id1167928209679__onlineimage" height="271" width="204" print-width=" 1.25in"/></media></para>
+        
+
+</problem>
+</exercise>
+<exercise id="eip-id1165434590357">
+<problem id="eip-id1165420875245">
+<para id="id1167918885889">Approximate volume 
+<newline/>
+<media id="id1167919244246_media" alt="A sphere with radius 8mm."><image mime-type="image/png" src="../../media/graphics8-991a.png" id="id1167919244246__onlineimage" height="157" width="205" print-width=" 1.5in"/></media> </para>
+        
+
+</problem><solution id="eip-id1170719429218">
+<para id="eip-id1170719508920">267.94667 cu mm
+</para>
+</solution>
+</exercise>
+<exercise id="eip-id1165424370441">
+<problem id="eip-id1165417891294">
+<para id="id1167911513428">Area 
+<newline/>
+<media id="id1167921004214_media" alt="A trapezoid with bottom base 5.1in, top base 4.1in, and height 3.9in."><image mime-type="image/png" src="../../media/graphics9-c473.png" id="id1167921004214__onlineimage" height="168" width="227" print-width=" 1.5in"/></media></para>
+        
+
+</problem>
+</exercise>
+<exercise id="eip-id1165424597999">
+<problem id="eip-id1165436378798">
+<para id="id1167920243344">Volume 
+<newline/>
+<media id="id1167910427529_media" alt="A rectangular solid with width 8cm, length 2cm, and height 2cm."><image mime-type="image/png" src="../../media/graphics10-01e3.png" id="id1167910427529__onlineimage" height="96" width="218" print-width=" 1.5in"/></media></para>
+        
+
+</problem><solution id="eip-id1170719405004">
+<para id="eip-id1170719769215">32 cu cm
+</para>
+</solution>
+</exercise>
+<exercise id="eip-id1165430280089">
+<problem id="eip-id1165426479307">
+<para id="id1167922294052">Exact area 
+<newline/>
+<media id="id1167918201787_media" alt="A complex shape involving two circles and a circular cutout."><image mime-type="image/png" src="../../media/graphics11-74f0.png" id="id1167918201787__onlineimage" height="198" width="219" print-width=" 1.75in"/></media></para>
+        
+
+</problem>
+</exercise>
+<exercise id="eip-id1165420762318">
+<problem id="eip-id1165420165427">
+<para id="id1167921062130">Approximate area 
+<newline/>
+<media id="id1167931767092_media" alt="A rectangle with a half-circle cut out of it. The rectangle's width, which is also the diameter of the half-circular cutout, is 12in. The rectangle's height is 8in."><image mime-type="image/png" src="../../media/graphics12-d3ce.png" id="id1167931767092__onlineimage" height="132" width="206" print-width=" 1.5in"/></media></para>
+        
+
+</problem><solution id="eip-id1170719428996">
+<para id="eip-id1170720163772"> 39.48 sq in.
+</para>
+</solution>
+</exercise>
+<exercise id="eip-id1165424249041">
+<problem id="eip-id1165420245968">
+<para id="id1167924698403">Exact area 
+<newline/>
+<media id="id1167930676144_media" alt="A shape composed of four circles overlapping each other."><image mime-type="image/png" src="../../media/graphics13-28c0.png" id="id1167930676144__onlineimage" height="276" width="285" print-width=" 1.75in"/></media></para>
+        
+
+</problem>
+</exercise>
+<exercise id="eip-id1165413670084">
+<problem id="eip-id1165425662863">
+<para id="id1167911497728">Approximate area 
+
+<newline/>
+<media id="id1167933848270_media" alt="A tubelike shape formed in a half-circle. The inner circle portion's radius is 8ft. The thickness of the tube is 2ft."><image mime-type="image/png" src="../../media/graphics14-5204.png" id="id1167933848270__onlineimage" height="190" width="355" print-width=" 2in"/></media> </para>
+        
+
+</problem><solution id="eip-id1170720311734">
+<para id="eip-id1170719198685">56.52 sq ft
+</para>
+</solution>
+</exercise>
+<exercise id="eip-id1165431518288">
+<problem id="eip-id1165420615180">
+<para id="id1167911411668">Approximate area 
+<newline/>
+<media id="id1167921264455_media" alt="A triangle with a half-circle on top, resembling an ice cream cone. The triangle's height is 30in, and the circle's radius is 16in."><image mime-type="image/png" src="../../media/graphics15-a02e.png" id="id1167921264455__onlineimage" height="221" width="154" print-width=" 1.25in"/></media></para>
+      
+</problem>
+</exercise>
+</section>
+    </section>
+  </content>
+</document>

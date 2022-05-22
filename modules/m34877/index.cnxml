@@ -1,0 +1,248 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Summary of Key Concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34877</md:content-id>
+  <md:title>Summary of Key Concepts</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module reviews the key concepts from the chapter "Exponents, Roots, Factorization of Whole Numbers."</md:abstract>
+  <md:uuid>99ed007c-b6da-49bd-b6d9-4be7419c79d9</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1166069758227"><title>Summary of Key Concepts</title><para id="id1166067154804"><title>Exponential Notation (<link document="m34871"/>)</title> <emphasis>Exponential notation</emphasis> is a description of repeated multiplication.</para>
+      <para id="id1166069564845"><title>Exponent (<link document="m34871"/>)</title> An <emphasis>exponent</emphasis> records the number of identical factors repeated in a multiplication.</para>
+      
+      <para id="eip-511">In a number such as <m:math>
+<m:msup>
+<m:mn>7</m:mn>
+<m:mn>3</m:mn>
+</m:msup>
+</m:math>,</para><para id="eip-102"><title>Base (<link document="m34871"/>)</title>7 is called the <emphasis>base</emphasis>.</para><para id="eip-136"><title>Exponent (<link document="m34871"/>)</title>3 is called the <emphasis>exponent</emphasis>, or power.</para><para id="id1166067035278"><title>Power (<link document="m34871"/>)</title><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> is read "seven to the third power," or "seven cubed."</para>
+      <para id="id1166091443323"><title>Squared, Cubed (<link document="m34871"/>)</title>A number raised to the second power is often called <emphasis>squared</emphasis>. A number raised to the third power is often called <emphasis>cubed</emphasis>.</para>
+      <para id="id1166067576930"><title>Root (<link document="m34871"/>)</title>In mathematics, the word <emphasis>root</emphasis> is used to indicate that, through repeated multipli­cation, one number is the source of another number.</para>
+      <para id="id1166067165347"><title>The Radical Sign  <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mspace width="8px"/></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {} } {}</m:annotation></m:semantics></m:math> (<link document="m34871"/>)</title> The symbol 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mspace width="8px"/></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {} } {}</m:annotation></m:semantics></m:math> is called a <emphasis>radical sign</emphasis> and indicates the square root of a number. The symbol 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mrow><m:mspace width="8px"/></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{n} }  {} } {}</m:annotation></m:semantics></m:math> represents the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n} {}</m:annotation></m:semantics></m:math>th root.</para>
+      <para id="id1166072457724"><title>Radical, Index, Radicand (<link document="m34871"/>)</title> An expression such as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mroot><m:mtext>16</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:mroot></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ nroot { size 8{4} }  {"16"} } {}</m:annotation></m:semantics></m:math> is called a <emphasis>radical</emphasis> and 4 is called the <emphasis>index</emphasis>. The number 16 is called the <emphasis>radicand</emphasis>.</para>
+      <para id="id1166083991661"><title>Grouping Symbols (<link document="m34872"/>)</title>Grouping symbols are used to indicate that a particular collection of numbers and meaningful operations are to be grouped together and considered as one number. The grouping symbols commonly used in mathematics are</para>
+      
+      <list id="eip-17" list-type="bulleted" bullet-style="none"><item>Parentheses: ( )</item>
+<item>Brackets: [ ]</item>
+<item>Braces: {  }</item>
+<item>Bar: <space effect="underline" count="3"/></item></list>
+      
+      
+      
+      <list id="id1166078582839" list-type="enumerated" number-style="arabic"><title>Order of Operations (<link document="m34872"/>)</title><item>Perform all operations inside grouping symbols, beginning with the innermost set, in the order of 2, 3, and 4 below.</item>
+        <item>Perform all exponential and root operations, moving left to right.</item>
+        <item>Perform all multiplications and division, moving left to right.</item>
+        <item>Perform all additions and subtractions, moving left to right.</item>
+      </list>
+      <para id="id1166067345819"><title>One Number as the Factor of Another (<link document="m34873"/>)</title>A first number is a factor of a second number if the first number divides into the second number a whole number of times.</para>
+      <para id="id1166069217648"><title>Prime Number (<link document="m34873"/>)</title>A whole number greater than one whose only factors are itself and 1 is called a <emphasis>prime number</emphasis>. The whole number 1 is not a prime number. The whole number 2 is the first prime number and the only even prime number.</para>
+      <para id="id1166067613028"><title>Composite Number (<link document="m34873"/>)</title>A whole number greater than one that is composed of factors other than itself and 1 is called a <emphasis>composite number</emphasis>.</para>
+      <para id="id1166067148079"><title>Fundamental Principle of Arithmetic (<link document="m34873"/>)</title>Except for the order of factors, every whole number other than 1 can be written in one and only one way as a product of prime numbers.</para>
+      <para id="id1166067613328"><title>Prime Factorization (<link document="m34873"/>)</title>The prime factorization of 45 is
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 cdot 3 cdot 5} {}</m:annotation></m:semantics></m:math>. The numbers that occur in this factoriza­tion of 45 are each prime.</para>
+      <para id="id1166067345177"><title>Determining the Prime Factorization of a Whole Number (<link document="m34873"/>)</title>There is a simple method, based on division by prime numbers, that produces the prime factorization of a whole number. For example, we determine the prime factorization of 132 as follows. <newline/>
+<media id="id1166067149790_media" alt="132 divided by 2 is 66. 66 divided by 2 is 33. 33 divided by 3 is 11.">
+          <image mime-type="image/png" src="../../media/graphics1-2285.png" id="id1166067149790__onlineimage" width="90" print-width=".5in"/>
+        </media><newline/>
+The prime factorization of 132 is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mtext>11</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 cdot 2 cdot 3 cdot "11"=2 rSup { size 8{2} }  cdot 3 cdot "11"} {}</m:annotation></m:semantics></m:math>.</para>
+      
+      
+      <para id="id1166084021183"><title>Common Factor (<link document="m34874"/>)</title>A factor that occurs in each number of a group of numbers is called a <emphasis>common factor</emphasis>. 3 is a common factor to the group 18, 6, and 45</para>
+      <para id="id1166070142228"><title>Greatest Common Factor (GCF) (<link document="m34874"/>)</title>The largest common factor of a group of whole numbers is called the <emphasis>greatest common factor</emphasis>. For example, to find the greatest common factor of 12 and 20,
+<list id="eip-id1170337080684" list-type="enumerated" number-style="arabic"><item>Write the prime factorization of each number.
+<para id="eip-id1172249199177"><m:math><m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mi>12</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>2</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>2</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>3</m:mi>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>2</m:mi>
+<m:mi>2</m:mi>
+</m:msup>
+<m:mo>⋅</m:mo>
+<m:mi>3</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+<m:mi>60</m:mi>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>2</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>2</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>3</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>5</m:mi>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>2</m:mi>
+<m:mi>2</m:mi>
+</m:msup>
+<m:mo>⋅</m:mo>
+<m:mi>3</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>5</m:mi>
+</m:mtd>
+</m:mtr>
+
+</m:mtable></m:math></para>
+</item>
+<item>Write each base that is common to each of the numbers:
+<para id="eip-id1172258816331">2 and 3</para></item>
+<item>The smallest exponent appearing on 2 is 2. <newline/> The smallest exponent appearing on 3 is 1.</item>
+<item>The GCF of 12 and 60 is the product of the numbers <m:math><m:mrow><m:msup><m:mi>2</m:mi><m:mi>2</m:mi></m:msup></m:mrow></m:math> and <m:math><m:mrow><m:mi>3</m:mi></m:mrow></m:math>.
+<para id="eip-id1172248171231"><m:math><m:mrow>
+<m:msup>
+<m:mi>2</m:mi>
+<m:mi>2</m:mi>
+</m:msup>
+<m:mo>⋅</m:mo>
+<m:mi>3</m:mi>
+<m:mo>=</m:mo>
+<m:mi>4</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>3</m:mi>
+<m:mo>=</m:mo>
+<m:mi>12</m:mi>
+</m:mrow></m:math>
+</para></item>
+</list><newline/>
+Thus, 12 is the largest number that divides both 12 and 60 without a remainder.</para>
+      
+      
+      
+      
+      
+      
+      <para id="id1166070004970"><title>Finding the GCF (<link document="m34874"/>)</title>There is a simple method, based on prime factorization, that determines the GCF of a group of whole numbers.</para>
+      <para id="id1166084020869"><title>Multiple (<link document="m34876"/>)</title>When a whole number is multiplied by all other whole numbers, with the exception of zero, the resulting individual products are called <emphasis>multiples</emphasis> of that whole number. Some multiples of 7 are 7, 14, 21, and 28.</para>
+      <para id="id1166067165079"><title>Common Multiples (<link document="m34876"/>)</title>Multiples that are common to a group of whole numbers are called <emphasis>common multi­ples</emphasis>. Some common multiples of 6 and 9 are 18, 36, and 54.</para>
+      <para id="id1166067346458"><title>The LCM (<link document="m34876"/>)</title>The <emphasis>least common multiple</emphasis> (LCM) of a group of whole numbers is the smallest whole number that each of the given whole numbers divides into without a re­mainder. The least common multiple of 9 and 6 is 18.</para>
+      <para id="id1166066960912"><title>Finding the LCM (<link document="m34876"/>)</title>There is a simple method, based on prime factorization, that determines the LCM of a group of whole numbers. For example, the least common multiple of 28 and 72 is found in the following way.
+<list id="eip-id8769793" list-type="enumerated" number-style="arabic"><item>Write the prime factorization of each number
+<para id="eip-id1164533599974"><m:math><m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mi>28</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>2</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>2</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>7</m:mi>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>2</m:mi>
+<m:mi>2</m:mi>
+</m:msup>
+<m:mo>⋅</m:mo>
+<m:mi>7</m:mi>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd>
+<m:mi>72</m:mi>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mi>2</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>2</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>2</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>3</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>3</m:mi>
+<m:mo>=</m:mo>
+<m:msup>
+<m:mi>2</m:mi>
+<m:mi>3</m:mi>
+</m:msup>
+<m:mo>⋅</m:mo>
+<m:msup>
+<m:mi>3</m:mi>
+<m:mi>2</m:mi>
+</m:msup>
+</m:mtd>
+</m:mtr>
+
+</m:mtable></m:math></para></item>
+<item>Write each base that appears in each of the prime factorizations, 2, 3, and 7.</item>
+<item>To each of the bases listed in step 2, attach the <emphasis effect="italics">largest</emphasis> exponent that appears on it in the prime factorization.
+<para id="eip-id1164536166079"><m:math><m:mrow><m:msup><m:mi>2</m:mi><m:mi>3</m:mi></m:msup></m:mrow></m:math>, <m:math><m:mrow><m:msup><m:mi>3</m:mi><m:mi>2</m:mi></m:msup></m:mrow></m:math>, and <m:math><m:mrow><m:mi>7</m:mi></m:mrow></m:math></para></item>
+<item>The LCM is the product of the numbers found in step 3.
+<para id="eip-id1164522213927">
+<m:math><m:mrow>
+<m:msup>
+<m:mi>2</m:mi>
+<m:mi>3</m:mi>
+</m:msup>
+<m:mo>⋅</m:mo>
+<m:msup>
+<m:mi>3</m:mi>
+<m:mi>2</m:mi>
+</m:msup>
+<m:mo>⋅</m:mo>
+<m:mi>7</m:mi>
+<m:mo>=</m:mo>
+<m:mi>8</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>9</m:mi>
+<m:mo>⋅</m:mo>
+<m:mi>7</m:mi>
+<m:mo>=</m:mo>
+<m:mi>504</m:mi>
+</m:mrow></m:math></para></item>
+</list><newline/>
+Thus, 504 is the smallest number that both 28 and 72 will divide into without a remainder.</para>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <para id="id1166070824447"><title>The Difference Between the GCF and the LCM (<link document="m34876"/>)</title>The GCF of two or more whole numbers is the largest number that divides into each of the given whole numbers. The LCM of two or more whole numbers is the smallest whole number that each of the given numbers divides into without a remainder.</para>
+    </section>
+  </content>
+</document>

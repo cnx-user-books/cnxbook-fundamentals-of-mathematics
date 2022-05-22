@@ -1,0 +1,522 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Reading and Writing Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34778</md:content-id>
+  <md:title>Reading and Writing Whole Numbers</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to read and write whole numbers. By the end of this module, students should be able to read and write whole numbers.</md:abstract>
+  <md:uuid>2f7147f4-4cbd-4b3a-a569-526eacdbce8c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1164847197072">
+      <title>Section Overview</title>
+      <list id="id1164846131772" list-type="bulleted">
+        <item>Reading Whole Numbers</item>
+        <item>Writing Whole Numbers</item>
+      </list>
+      
+    </section>
+    <para id="eip-891">Because our number system is a positional number system, reading and writing whole numbers is quite simple.</para><section id="id1164823391022">
+      <title>Reading Whole Numbers</title>
+      <para id="id1164824718590">To convert a number that is formed by digits into a verbal phrase, use the following method:</para>
+      <list id="id1164822355368" list-type="enumerated" number-style="arabic">
+        <item>Beginning at the right and working right to left, separate the number into distinct periods by inserting commas every three digits.</item>
+        <item>Beginning at the left, read each period individually, saying the period name.</item>
+      </list>
+      <section id="id1164825949872"><title>Sample Set A</title><para id="id1164821987413">Write the following numbers as words.</para>
+        <example id="oo-id1164817187445"><para id="id1164822229013">Read 42958.</para>
+<list id="eip-id1171914577929" list-type="enumerated" number-style="arabic"><item>Beginning at the right, we can separate this number into distinct periods by inserting a comma between the 2 and 9.<newline/>
+          42,958</item>
+          <item> Beginning at the left, we read each period individually:<newline/>
+      
+          <media id="id1164825998615_media" alt="Three segments within the thousands period, with a 4 and a 2 in the second and third segments. To the right is a comma, and the label, forty-two thousand.">
+            <image mime-type="image/png" src="../../media/graphics1-e63f.png" id="id1164825998615__onlineimage" width="350" print-width="2.5in"/>
+          </media><newline/>
+            <media id="id1164819903727_media" alt="Three segments within the units period, with a 9, a 5, and an 8 in the segment. To the right is the label, nine hundred fifty-eight.">
+              <image mime-type="image/png" src="../../media/graphics2-a46c.png" id="id1164819903727__onlineimage" width="350" print-width="2.5in"/>
+            </media>
+<newline/>
+          Forty-two thousand, nine hundred fifty-eight.</item></list>
+</example>
+      <example id="eip-id1166528854338"><para id="id1164817373175">Read 307991343.</para>
+<list id="eip-id1170262103826" list-type="enumerated" number-style="arabic"><item>Beginning at the right, we can separate this number into distinct periods by placing commas between the 1 and 3 and the 7 and 9.<newline/>
+          307,991,343</item>
+          <item>Beginning at the left, we read each period individually.<newline/>
+       
+   <media id="id1164823570394_media" alt="Three segments within the millions period, with a 3, a 0, and a 7 in the segments. To the right is a comma, and the label, three hundred seven million.">
+            <image mime-type="image/png" src="../../media/graphics3-f266.png" id="id1164823570394__onlineimage" width="350" print-width="2.75in"/>
+          </media><newline/>
+
+          <media id="id1164823330330_media" alt="Three segments within the thousands period, with a 9, a 9, and a 1 in the segments. To the right is a comma, and the label, nine hundred ninety-one thousand.">
+            <image mime-type="image/png" src="../../media/graphics4-5891.png" id="id1164823330330__onlineimage" width="350" print-width="3in"/>
+          </media><newline/>
+            <media id="id1164823349259_media" alt="Three segments within the units period, with a 3, a 4, and a 3 in the segments. To the right is the label, three hundred forty-three.">
+              <image mime-type="image/png" src="../../media/graphics5-f809.png" id="id1164823349259__onlineimage" width="350" print-width="2.5in"/>
+            </media>
+<newline/>
+          Three hundred seven million, nine hundred ninety-one thousand, three hundred forty-three.</item></list>
+</example>
+<example id="eip-id1166529100168"><para id="id1164812496163">Read 36000000000001.</para>
+
+          <list id="eip-id1169262767468" list-type="enumerated" number-style="arabic"><item>Beginning at the right, we can separate this number into distinct periods by placing commas. 36,000,000,001</item>
+
+          <item> Beginning at the left, we read each period individually.<newline/>
+   
+        
+    <media id="id1164826018744_media" alt="Three segments within the trillions period, with a 3 and a 6 in the second and third segments. To the right is a comma, and the label, thirty six trillion.  Three segments within the billions period, with a 0 in each segment. To the right is a comma, and the label, zero billion.  Three segments within the millions period, with a 0 in each segment. To the right is a comma, and the label, zero million.  Three segments within the units period, with a 0 in each segment. To the right is a comma, and the label, zero thousand.  Three segments within the units period, with a 0 in the first two segments, and a 1 in the third segment. To the right is the label, one.">
+              <image mime-type="image/png" src="../../media/graphics6-29bb.png" id="id1164826018744__onlineimage" width="300" print-width="2.5in"/>
+            </media>
+<newline/>
+          Thirty-six trillion, one.</item>
+</list>
+        </example>
+      </section>
+      <section id="id1164812085610"><title>Practice Set A </title><para id="id1164826384141">Write each number in words.</para>
+        
+        <exercise id="id1164827406337">
+          <problem id="oo-id1164825952656">
+            <para id="id1164825906685">12,542 </para>
+          </problem>
+<solution id="eip-id1164826033186">
+<para id="eip-id1164819771171">Twelve thousand, five hundred forty-two
+</para>
+</solution>
+        </exercise>
+        <exercise id="id1164821043922">
+          <problem id="oo-id1164812832628">
+            <para id="id1164854148976">101,074,003 </para>
+          </problem>
+<solution id="eip-id1164820068379">
+<para id="eip-id1164829943179">
+One hundred one million, seventy-four thousand, three</para>
+</solution>
+        </exercise>
+        <exercise id="id1164833020537">
+          <problem id="oo-id1164817188605">
+            <para id="id1164825938852">1,000,008 </para>
+          </problem>
+<solution id="eip-id1164830255386">
+<para id="eip-id1164828548862">
+One million, eight</para>
+</solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1164827512809">
+      <title>Writing Whole Numbers</title>
+      <para id="id1164825894735">To express a number in digits that is expressed in words, use the following method:</para>
+      <list id="id1164810840970" list-type="enumerated" number-style="arabic">
+        <item>Notice first that a number expressed as a verbal phrase will have its periods set off by commas.</item>
+        <item>Starting at the beginning of the phrase, write each period of numbers individu­ally.</item>
+        <item>Using commas to separate periods, combine the periods to form one number.</item>
+      </list>
+      <section id="id1164828459170"><title>Sample Set B</title><para id="id1164843097570">Write each number using digits.</para>
+        <example id="oo-id1164813243495"><para id="id1164828342615">Seven thousand, ninety-two.</para>
+          <para id="id1164821019098">Using the comma as a period separator, we have </para>
+          <media id="id1164816691992_media" alt="the words seven thousand, in a bracket, pointing to the number 7, followed by a comma. The words ninety-two, in a bracket, pointing to the number 092.">
+            <image mime-type="image/png" src="../../media/graphics7-3f77.png" id="id1164816691992__onlineimage" width="225" print-width="1.75in"/>
+          </media>
+          <para id="id1164837211715">7,092</para>
+</example>
+<example id="eip-id1171786340878"><para id="id1164816762166">Fifty billion, one million, two hundred thousand, fourteen. </para>
+          <para id="id1164820870086">Using the commas as period separators, we have </para>
+            <media id="id1164825963560_media" alt="Fifty billion, one million, two hundred thousand, fourteen, separated by periods, with their corresponding numbers to the side of each period.">
+              <image mime-type="image/png" src="../../media/graphics8-70d7.png" id="id1164825963560__onlineimage" width="300" print-width="2.25in"/>
+            </media>
+          <para id="id1164820222128">50,001,200,014</para>
+</example>
+<example id="eip-id1171796109140"><para id="id1164850736596">Ten million, five hundred twelve.</para>
+          <para id="id1164823468689">The comma sets off the periods. We notice that there is no thousands period. We'll have to insert this ourselves. </para>
+          <media id="id1164816813127_media" alt="Ten million, zero thousand, fife hundred twelve, separated by periods, with their corresponding numbers to the side of each period.">
+            <image mime-type="image/png" src="../../media/graphics9-7b2d.png" id="id1164816813127__onlineimage" width="250" print-width="2in"/>
+          </media>
+          <para id="id1164816812547">10,000,512</para>
+        </example>
+      </section>
+      <section id="id1164822241451"><title>Practice Set B</title><para id="id1164821040500">Express each number using digits.</para>
+        <exercise id="id1164827403031">
+          <problem id="oo-id1164843269628">
+            <para id="id1164823230812">One hundred three thousand, twenty-five.</para>
+          </problem>
+<solution id="eip-id1165133693018">
+<para id="eip-id1165162832363">
+103,025</para>
+</solution>
+        </exercise>
+        <exercise id="id1164822143488">
+          <problem id="oo-id1164822762386">
+            <para id="id1164844308653">Six million, forty thousand, seven. </para>
+          </problem>
+<solution id="eip-id1165159751228">
+<para id="eip-id1165153266646">
+6,040,007</para>
+</solution>       
+ </exercise>
+        <exercise id="id1164843096563">
+          <problem id="oo-id1164831833021">
+            <para id="id1164819835719">Twenty trillion, three billion, eighty million, one hundred nine thousand, four hundred two. </para>
+          </problem>
+<solution id="eip-id1165151868411">
+<para id="eip-id1165139069365">
+20,003,080,109,402</para>
+</solution>
+        </exercise>
+        <exercise id="id1164822253515">
+          <problem id="oo-id1164823385628">
+            <para id="id1164823315424">Eighty billion, thirty-five. </para>
+          </problem>
+<solution id="eip-id1165141598737">
+<para id="eip-id1165161115772">
+80,000,000,035</para>
+</solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1164826032374"><title>Exercises</title><para id="id1164828359941">For the following problems, write all numbers in words.</para>
+      <exercise id="id1164828633315">
+        <problem id="oo-id1164842882984">
+          <para id="id1164850594675">912 </para>
+        </problem>
+<solution id="eip-id1171938123602">
+<para id="eip-id1171915391980">
+nine hundred twelve</para>
+</solution>
+      </exercise>
+      <exercise id="id1164822203632">
+        <problem id="oo-id1164842935214">
+          <para id="id1164845150402">84</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164821233036">
+        <problem id="oo-id1164847416332">
+          <para id="id1164828395681">1491 </para>
+        </problem>
+<solution id="eip-id1171945072746">
+<para id="eip-id1171932743798">
+one thousand, four hundred ninety-one</para>
+</solution>
+      </exercise>
+      <exercise id="id1164838556510">
+        <problem id="oo-id1164828441329">
+          <para id="id1164820042726">8601</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164822319350">
+        <problem id="oo-id1164823343285">
+          <para id="id1164823582897">35,223 </para>
+        </problem>
+<solution id="eip-id1171909412651">
+<para id="eip-id1171914511863">
+thirty-five thousand, two hundred twenty-three</para>
+</solution>
+      </exercise>
+      <exercise id="id1164828575210">
+        <problem id="oo-id1164827533800">
+          <para id="id1164840496687">71,006</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164837230774">
+        <problem id="oo-id1164827497249">
+          <para id="id1164823028806">437,105</para>
+        </problem>
+<solution id="eip-id1171926835698">
+<para id="eip-id1171939216636">four hundred thirty-seven thousand, one hundred five</para>
+</solution>
+      </exercise>
+      <exercise id="id1164823601218">
+        <problem id="oo-id1164846961601">
+          <para id="id1164824714414">201,040</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164821122801">
+        <problem id="oo-id1164843133793">
+          <para id="id1164828520790">8,001,001 </para>
+        </problem>
+<solution id="eip-id1171934700690">
+<para id="eip-id1171938302402">
+eight million, one thousand, one
+</para>
+</solution>
+      </exercise>
+      <exercise id="id1164825914167">
+        <problem id="oo-id1164833880084">
+          <para id="id1164821974431">16,000,053</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164822204560">
+        <problem id="oo-id1164827435626">
+          <para id="id1164823318266">770,311,101</para>
+        </problem>
+<solution id="eip-id1171912701003">
+<para id="eip-id1171914410076"> seven hundred seventy million, three hundred eleven thousand, one hundred one</para>
+</solution>
+      </exercise>
+      <exercise id="id1164821039514">
+        <problem id="oo-id1164822609832">
+          <para id="id1164817127914">83,000,000,007</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164816339984">
+        <problem id="oo-id1164817252479">
+          <para id="id1164823543108">106,100,001,010 </para>
+        </problem>
+<solution id="eip-id1171935728178">
+<para id="eip-id1171919805256">one hundred six billion, one hundred million, one thousand ten</para>
+</solution>
+      </exercise>
+      <exercise id="id1164852278263">
+        <problem id="oo-id1164827395239">
+          <para id="id1164823032924">3,333,444,777</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164837280367">
+        <problem id="oo-id1164816205415">
+          <para id="id1164817149626">800,000,800,000 </para>
+        </problem>
+<solution id="eip-id1171909379765">
+<para id="eip-id1171925081324">eight hundred billion, eight hundred thousand</para>
+</solution>
+      </exercise>
+      <exercise id="id1164817265297">
+        <problem id="oo-id1164817142124">
+          <para id="id1164822264361">A particular community college has 12,471 students enrolled.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164816821363">
+        <problem id="oo-id1164823221764">
+          <para id="id1164828491149">A person who watches 4 hours of television a day spends 1460 hours a year watching T.V.</para>
+        </problem>
+<solution id="eip-id1171912899934">
+<para id="eip-id1171928033367">four; one thousand, four hundred sixty</para>
+</solution>
+      </exercise>
+      <exercise id="id1164833730446">
+        <problem id="oo-id1164816543642">
+          <para id="id1164823565264">Astronomers believe that the age of the earth is about 4,500,000,000 years.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164828632967">
+        <problem id="oo-id1164822207286">
+          <para id="id1164821349583">Astronomers believe that the age of the universe is about 20,000,000,000 years. </para>
+        </problem>
+<solution id="eip-id1171942940052">
+<para id="eip-id1171934091717">
+twenty billion</para>
+</solution>
+      </exercise>
+      <exercise id="id1164829605121">
+        <problem id="oo-id1164816775474">
+          <para id="id1164837225615">There are 9690 ways to choose four objects from a collection of 20.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164823603074">
+        <problem id="oo-id1164847640387">
+          <para id="id1164831840450">If a 412 page book has about 52 sentences per page, it will contain about 21,424 sentences.</para>
+        </problem>
+<solution id="eip-id1171914944135">
+<para id="eip-id1171927878478">
+ four hundred twelve; fifty-two; twenty-one thousand, four hundred twenty-four</para>
+</solution>
+      </exercise>
+      <exercise id="id1164822106370">
+        <problem id="oo-id1164826005172">
+          <para id="id1164822321728">In 1980, in the United States, there was $1,761,000,000,000 invested in life insurance. </para>
+        </problem>
+      </exercise>
+      <exercise id="id1164822145344">
+        <problem id="oo-id1164812901606">
+          <para id="id1164824732336">In 1979, there were 85,000 telephones in Alaska and 2,905,000 telephones in Indiana. </para>
+        </problem>
+<solution id="eip-id1171921148177">
+<para id="eip-id1171910355218">
+one thousand, nine hundred seventy-nine; eighty-five thousand; two million, nine hundred five thousand</para>
+</solution>
+      </exercise>
+      <exercise id="id1164826355025">
+        <problem id="oo-id1164828605359">
+          <para id="id1164812361188">In 1975, in the United States, it is estimated that 52,294,000 people drove to work alone.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164823373793">
+        <problem id="oo-id1164852723349">
+          <para id="id1164850359527">In 1980, there were 217 prisoners under death sentence that were divorced. </para>
+        </problem>
+<solution id="eip-id1171939179192">
+<para id="eip-id1171913325626">
+one thousand, nine hundred eighty; two hundred seventeen</para>
+</solution>
+      </exercise>
+      <exercise id="id1164816781390">
+        <problem id="oo-id1164820895200">
+          <para id="id1164820911050">In 1979, the amount of money spent in the United States for regular-session college educa­tion was $50,721,000,000,000.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164825996701">
+        <problem id="oo-id1164816781448">
+          <para id="id1164817170970">In 1981, there were 1,956,000 students majoring in business in U.S. colleges. </para>
+        </problem>
+<solution id="eip-id1171950871826">
+<para id="eip-id1171913909331">one thousand, nine hundred eighty one; one million, nine hundred fifty-six thousand</para>
+</solution>
+      </exercise>
+      <exercise id="id1164826372657">
+        <problem id="oo-id1164824728102">
+          <para id="id1164821002278">In 1980, the average fee for initial and follow up visits to a medical doctors office was about $34.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164822966400">
+        <problem id="oo-id1164825901579">
+          <para id="id1164819930859">In 1980, there were approximately 13,100 smugglers of aliens apprehended by the Immigration border patrol. </para>
+        </problem>
+<solution id="eip-id1171931302288">
+<para id="eip-id1171939489641">one thousand, nine hundred eighty; thirteen thousand, one hundred</para>
+</solution>
+      </exercise>
+      <exercise id="id1164816818057">
+        <problem id="oo-id1164822058868">
+          <para id="id1164817242909">In 1980, the state of West Virginia pumped 2,000,000 barrels of crude oil, whereas Texas pumped 975,000,000 barrels.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164815436818"><problem id="oo-id1164823615779">
+          <para id="id1164817337153">The 1981 population of Uganda was 12,630,000 people.</para>
+        </problem>
+      <solution id="eip-id1164284304866">
+<para id="eip-id1164274903171">twelve million, six hundred thirty thousand</para></solution></exercise>
+      <exercise id="id1164826384489">
+        <problem id="oo-id1164822864643">
+          <para id="id1164823350477">In 1981, the average monthly salary offered to a person with a Master's degree in mathematics was $1,685.</para>
+        </problem>
+      </exercise>
+      <para id="id1164812667878">For the following problems, write each number using digits.</para>
+      <exercise id="id1164828516846">
+        <problem id="oo-id1164850650195">
+          <para id="id1164824685178">Six hundred eighty-one </para>
+        </problem>
+<solution id="eip-id4022604">
+<para id="eip-id1171950932448">
+681</para>
+</solution>
+      </exercise>
+      <exercise id="id1164834239930">
+        <problem id="oo-id1164827430058">
+          <para id="id1164822831196">Four hundred ninety</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164828536392">
+        <problem id="oo-id1164828688211">
+          <para id="id1164822041600">Seven thousand, two hundred one</para>
+        </problem>
+<solution id="eip-id1171909467795">
+<para id="eip-id1171930308631">
+7,201</para>
+</solution>
+      </exercise>
+      <exercise id="id1164821332315">
+        <problem id="oo-id1164826126107">
+          <para id="id1164822978812">Nineteen thousand, sixty-five</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164822750612">
+        <problem id="oo-id1164823567545">
+          <para id="id1164821239432">Five hundred twelve thousand, three </para>
+        </problem>
+<solution id="eip-id1171934888415">
+<para id="eip-id1171916660679">
+512,003</para>
+</solution>
+      </exercise>
+      <exercise id="id1164811274324">
+        <problem id="oo-id1164827535250">
+          <para id="id1164844285386">Two million, one hundred thirty-three thousand, eight hundred fifty-nine</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164816752811">
+        <problem id="oo-id1164820095475">
+          <para id="id1164822947187">Thirty-five million, seven thousand, one hundred one </para>
+        </problem>
+<solution id="eip-id1171932806413">
+<para id="eip-id1171953225793">
+35,007,101</para>
+</solution>
+      </exercise>
+      <exercise id="id1164826087885">
+        <problem id="oo-id1164817117706">
+          <para id="id1164817383267">One hundred million, one thousand</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164826071482">
+        <problem id="oo-id1164825961124">
+          <para id="id1164820094975">Sixteen billion, fifty-nine thousand, four </para>
+        </problem>
+<solution id="eip-id1171935790898">
+<para id="eip-id1171909485369">
+16,000,059,004</para>
+</solution>
+      </exercise>
+      <exercise id="id1164823174117">
+        <problem id="oo-id1164850365336">
+          <para id="id1164812596358">Nine hundred twenty billion, four hundred sev­enteen million, twenty-one thousand</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164817181294">
+        <problem id="oo-id1164823506969">
+          <para id="id1164821380747">Twenty-three billion </para>
+        </problem>
+<solution id="eip-id1171925989091">
+<para id="eip-id6493984">
+23,000,000,000</para>
+</solution>
+      </exercise>
+      <exercise id="id1164822607086">
+        <problem id="oo-id1164821048736">
+          <para id="id1164822898090">Fifteen trillion, four billion, nineteen thousand, three hundred five</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164828607215">
+        <problem id="oo-id1164828556302">
+          <para id="id1164825900477">One hundred trillion, one </para>
+        </problem>
+<solution id="eip-id1171927055140">
+<para id="eip-id1171949199583">
+100,000,000,000,001
+</para>
+</solution>
+      </exercise>
+    <section id="id1164848778122">
+      <title>Exercises for Review</title>
+      <exercise id="id1164842963219">
+        <problem id="oo-id1164817096384">
+          <para id="id1164842877149">(<link document="m34795"/>) How many digits are there?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164820930422"><problem id="oo-id1164845405051">
+          <para id="id1164830000973">(<link document="m34795"/>) In the number 6,641, how many tens are there?</para>
+        </problem>
+      <solution id="eip-id1171797242253">
+<para id="eip-id1171813082427">4</para></solution></exercise>
+      <exercise id="id1164848466245">
+        <problem id="oo-id1164844200863">
+          <para id="id1164816789409">(<link document="m34795"/>) What is the value of 7 in 44,763?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164828192599"><problem id="oo-id1164845358971">
+          <para id="id1164820278825">(<link document="m34795"/>) Is there a smallest whole number? If so, what is it?</para>
+        </problem>
+      <solution id="eip-id1164695442360"><para id="eip-id1164685990612">yes, zero</para></solution></exercise>
+      <exercise id="id1164820149115">
+        <problem id="oo-id1164823403724">
+          <para id="id1164817325031">(<link document="m34795"/>) Write a four-digit number with a 9 in the tens position.</para>
+        </problem>
+      </exercise>
+    </section>
+</section>
+  </content>
+</document>

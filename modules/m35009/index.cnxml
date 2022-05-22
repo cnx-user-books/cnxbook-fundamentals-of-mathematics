@@ -1,0 +1,310 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Exercise Supplement</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35009</md:content-id>
+  <md:title>Exercise Supplement</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module is an exercise supplement for the chapter "Ratios and Rates" and contains many exercise problems. Odd problems are accompanied by solutions.</md:abstract>
+  <md:uuid>91fafa34-7b12-4318-ace9-15d0c381965a</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="cid1">
+      <title>Exercise Supplement</title>
+
+      <section id="uid1">
+        <title>Ratios and Rates (<link document="m34980"/>)</title>
+
+        <exercise id="fs-id1166596502241"><problem id="fs-id1166584710014"><para id="id73268">Compare 250 watts to 100 watts by subtraction.</para></problem>
+<solution id="fs-id1166605725697"><para id="fs-id1166584558078">250 watts are 150 watts more than 100 watts</para></solution></exercise>
+<exercise id="fs-id1166589399742"><problem id="fs-id1166597251944">
+        <para id="id73274">Compare 126 and 48 by subtraction.</para></problem>
+</exercise>
+<exercise id="fs-id1166612478565"><problem id="fs-id5582163">
+        <para id="id73279">Compare 98 radishes to 41 radishes by division.</para></problem>
+<solution id="fs-id1166597276186"><para id="fs-id2131660">98 radishes are 2.39 times as many radishes as 41 radishes</para></solution></exercise>
+<exercise id="fs-id1166584718054"><problem id="fs-id1166597452942">
+        <para id="id73285">Compare 144 to 9 by division.</para></problem></exercise>
+<exercise id="fs-id1166585101997"><problem id="fs-id1166597044303">
+        <para id="id73290">Compare 100 tents to 5 tents by division.</para></problem>
+<solution id="fs-id1166606373173"><para id="fs-id1166617091532">100 tents are 20 times as many tents as 5 tents</para></solution></exercise>
+<exercise id="fs-id1166612289263"><problem id="fs-id1166585013471">
+        <para id="id73634">Compare 28 feet to 7 feet by division.</para></problem>
+</exercise>
+<exercise id="fs-id1166608730939"><problem id="fs-id1166585183564">
+        <para id="id73640">Comparison, by division, of two pure numbers or two like denominate numbers is called a <space count="15" effect="underline"/>.</para></problem>
+<solution id="fs-id2222513"><para id="fs-id1166585608194">ratio</para></solution></exercise>
+<exercise id="fs-id1166592739847"><problem id="fs-id1166586294146">
+        <para id="id73646">A comparison, by division, of two unlike denominate numbers is called a <space count="15" effect="underline"/>.</para></problem></exercise>
+        <para id="id73664">For problems 9-12, express each ratio or rate as a fraction.</para>
+        <exercise id="fs-id1166615649263"><problem id="fs-id1166585207576"><para id="id73670">15 to 5</para></problem>
+<solution id="fs-id1166600515990"><para id="fs-id1166609483576"><m:math><m:mfrac><m:mn>3</m:mn><m:mn>1</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+        <exercise id="fs-id1166597800641"><problem id="fs-id1166591785834"><para id="id73675">72 to 12</para></problem></exercise>
+        <exercise id="fs-id1166585595597"><problem id="fs-id1735348"><para id="id73680">8 millimeters to 5 milliliters</para></problem>
+<solution id="fs-id1166594830918"><para id="fs-id1166612409500"><m:math><m:mfrac><m:mrow><m:mn>8</m:mn><m:mtext>ml</m:mtext></m:mrow><m:mrow><m:mn>5</m:mn><m:mtext>ml</m:mtext></m:mrow></m:mfrac></m:math></para></solution>
+</exercise>
+        <exercise id="fs-id1166585217475"><problem id="fs-id1166584885397"><para id="id73685">106 tablets to 52 tablets</para></problem></exercise>
+       <para id="id73690">For problems 13-16, write each ratio in the form "<m:math overflow="scroll"><m:mi>a</m:mi></m:math> to <m:math overflow="scroll"><m:mi>b</m:mi></m:math>".</para>
+
+        <exercise id="fs-id1166585916410"><problem id="fs-id1166612328104"><para id="id73712"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>9</m:mn><m:mn>16</m:mn></m:mfrac></m:mstyle></m:math></para></problem>
+<solution id="fs-id1166600900936"><para id="fs-id1166611268045">9 to 16</para></solution></exercise>
+<exercise id="fs-id1166594359531"><problem id="fs-id1166592385065"><para id="fs-id1166606207499"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>5</m:mn><m:mn>11</m:mn></m:mfrac></m:mstyle></m:math></para></problem></exercise>
+
+
+
+        <exercise id="fs-id1166612068342"><problem id="fs-id1166603119793"><para id="id73750"><m:math overflow="scroll"><m:mfrac><m:mrow><m:mn>1</m:mn><m:mtext>  diskette</m:mtext></m:mrow><m:mrow><m:mn>8</m:mn><m:mtext>  diskettes</m:mtext></m:mrow></m:mfrac></m:math></para></problem>
+<solution id="fs-id8004791"><para id="fs-id1166609467398">1 diskette to 8 diskettes</para></solution>
+</exercise>
+
+
+<exercise id="fs-id1166605208739"><problem id="fs-id1166584872023"><para id="fs-id1166602417610"><m:math overflow="scroll"><m:mfrac><m:mrow><m:mn>5</m:mn><m:mtext>  papers</m:mtext></m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>  pens</m:mtext></m:mrow></m:mfrac></m:math></para></problem></exercise>
+
+
+      <para id="id74085">For problems 17-21, write each ratio or rate using words.</para>
+
+
+        <exercise id="fs-id1650841"><problem id="fs-id1166607796299"><para id="id74089"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>16</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>18</m:mn><m:mn>32</m:mn></m:mfrac></m:mrow></m:mstyle></m:math></para></problem>
+<solution id="fs-id1166595430452"><para id="fs-id1166600707136">9 is to 16 as 18 is to 32</para></solution></exercise>
+
+
+<exercise id="fs-id1166592804285"><problem id="fs-id1166584853622"><para id="fs-id4145165">
+<m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>12</m:mn><m:mn>48</m:mn></m:mfrac></m:mrow></m:mstyle></m:math></para></problem></exercise>
+
+
+
+        <exercise id="fs-id1166596593019"><problem id="fs-id1166584819112"><para id="id74147"><m:math overflow="scroll"><m:mfrac><m:mrow><m:mn>8</m:mn><m:mtext>  items</m:mtext></m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>  dollars</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mtext>  items</m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>  dollar</m:mtext></m:mrow></m:mfrac></m:math></para></problem>
+<solution id="fs-id1719529"><para id="fs-id1166588994415">8 items are to 4 dollars as 2 items are to 1 dollar</para></solution>
+</exercise>
+
+
+
+        <exercise id="fs-id1166585109794"><problem id="fs-id1166585698131"><para id="id74265">150 milligrams of niacin is to 2 tablets as 300 milligrams of niacin is to 4 tablets.</para></problem></exercise>
+
+
+        <exercise id="fs-id1166586412221"><problem id="fs-id8055675"><para id="id74271">20 people is to 4 seats as 5 people is to 1 seat.</para></problem>
+<solution id="eip-id1171234843883"><para id="eip-id1171238171668"><m:math><m:mfrac><m:mn>20</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>1</m:mn></m:mfrac></m:math><newline/>
+20 people are to 4 seats as 5 people are to 1 seat</para></solution></exercise>
+
+      </section>
+      <section id="uid2">
+        <title>Proportions (<link document="m34981"/>)</title>
+       <para id="id74360">For problems 22-27, determine the missing number in each proportion.</para>
+
+        <exercise id="fs-id1166609973328"><problem id="fs-id1166599129825"><para id="id74365"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mfrac><m:mi>x</m:mi><m:mn>3</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>24</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle></m:math></para></problem></exercise>
+
+
+        <exercise id="fs-id1166615113139"><problem id="fs-id1166599079783"><para id="id74396"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mfrac><m:mn>15</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>60</m:mn><m:mi>x</m:mi></m:mfrac></m:mrow></m:mstyle></m:math></para></problem>
+<solution id="fs-id1166600387415"><para id="fs-id1166596726184">28</para></solution></exercise>
+
+
+
+        <exercise id="fs-id1166587328430"><problem id="fs-id1166600390758"><para id="id74425"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>1</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>x</m:mi><m:mn>44</m:mn></m:mfrac></m:mrow></m:mstyle></m:math></para></problem></exercise>
+
+
+<exercise id="fs-id1166603818912"><problem id="fs-id1166615620732"><para id="fs-id1166585700161"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mi>x</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>15</m:mn><m:mn>50</m:mn></m:mfrac></m:mrow></m:mstyle></m:math></para></problem>
+<solution id="fs-id1166591783853"><para id="fs-id1166596848610">10</para></solution>
+</exercise>
+
+
+        <exercise id="fs-id1166615866061"><problem id="fs-id1166611010904"><para id="id74481"><m:math overflow="scroll">
+<m:mfrac><m:mrow><m:mn>15</m:mn><m:mtext>  bats</m:mtext></m:mrow><m:mrow><m:mn>16</m:mn><m:mtext>  balls</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>x</m:mn><m:mtext>  bats</m:mtext></m:mrow><m:mrow><m:mn>128</m:mn><m:mtext>  balls</m:mtext></m:mrow></m:mfrac>
+</m:math></para></problem></exercise>
+
+
+
+        <exercise id="fs-id1166592078198"><problem id="fs-id5468268"><para id="id74553"><m:math overflow="scroll">
+<m:mfrac><m:mrow><m:mn>36</m:mn><m:mtext>  rooms</m:mtext></m:mrow><m:mrow><m:mn>29</m:mn><m:mtext>  fans</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>504</m:mn><m:mtext>  rooms</m:mtext></m:mrow><m:mrow><m:mn>x</m:mn><m:mtext>  fans</m:mtext></m:mrow></m:mfrac>
+</m:math></para></problem>
+<solution id="fs-id1166587239350"><para id="fs-id1166612672018">406</para></solution>
+</exercise>
+      </section>
+      <section id="uid3">
+        <title>Applications of Proportions (<link document="m34982"/>)</title>
+
+        <exercise id="fs-id1166592290908"><problem id="fs-id1166609250109"><para id="id74670">On a map, 3 inches represents 20 miles. How many miles does 27 inches represent?</para></problem></exercise>
+
+
+        <exercise id="fs-id1612460"><problem id="fs-id1166592288337"><para id="id74676">A salt solution is composed of 8 parts of salt to 5 parts of water. How many parts of salt are there in a solution that contains 50 parts of water?</para></problem>
+<solution id="fs-id1166607922132"><para id="fs-id1166597027026">80</para></solution>
+</exercise>
+
+
+        <exercise id="fs-id1166612684901"><problem id="fs-id1166604689490"><para id="id74682">A model is built to <m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>4</m:mn><m:mn>15</m:mn></m:mfrac></m:mstyle></m:math> scale. If a particular part of the model measures 8 inches in length, how long is the actual structure?</para></problem></exercise>
+
+
+        <exercise id="fs-id1166609698441"><problem id="fs-id1166610919060"><para id="id74705">The ratio of ammonia to air in a container is <m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>3</m:mn><m:mn>40</m:mn></m:mfrac></m:mstyle></m:math> How many milliliters of air should be in a container that contains 8 milliliters of ammonia?</para></problem>
+<solution id="fs-id1166592904584"><para id="fs-id1166585397141"><m:math><m:mfrac><m:mn>320</m:mn><m:mn>3</m:mn></m:mfrac></m:math> or 106<m:math><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+
+
+        <exercise id="fs-id1166607707372"><problem id="fs-id1166596812619"><para id="id74727">A 4-foot girl casts a 9-foot shadow at a particular time of the day. How tall is a pole that casts a 144-foot shadow at the same time of the day?</para></problem></exercise>
+
+
+        <exercise id="fs-id1166592689652"><problem id="fs-id1166592472611"><para id="id74734">The odds that a particular event will occur are 11 to 2. If this event occurs 55 times, how many times would you predict it does not occur?</para></problem>
+<solution id="fs-id1166610154493"><para id="fs-id1166592289992">10</para></solution>
+</exercise>
+
+
+        <exercise id="fs-id1508391"><problem id="fs-id1166586273000"><para id="id74740">Every 1 <m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mstyle></m:math> teaspoon of a multiple vitamin, in granular form, contains 0.85 the minimum daily requirement of vitamin A. How many teaspoons of this vitamin are required to supply 2.25 the minimum daily requirement?</para></problem></exercise>
+
+
+      </section>
+      <section id="uid4">
+        <title>Percent and Fractions of One Percent (<link document="m34983"/>,<link document="m34997"/>)</title>
+
+        <para id="id74772">For problems 35-39, convert each decimal to a percent.</para>
+
+        <exercise id="fs-id1166609635940"><problem id="fs-id1166587354306"><para id="id74778">0.16</para></problem>
+<solution id="fs-id2196355"><para id="fs-id1166596759890">16%</para></solution></exercise>
+
+
+<exercise id="fs-id1166609082748"><problem id="fs-id1166588077709"><para id="fs-id1166615788591">0.818</para></problem></exercise>
+
+        <exercise id="fs-id1166615695766"><problem id="fs-id1166612065005"><para id="id74783">5.3536</para></problem>
+<solution id="fs-id1166592790213"><para id="fs-id1166592136776">535.36%</para></solution></exercise>
+
+
+<exercise id="fs-id1166598143083"><problem id="fs-id4111224"><para id="fs-id1166611737936">0.50</para></problem></exercise>
+
+        <exercise id="fs-id8867028"><problem id="fs-id1166592261159"><para id="id74788">3</para></problem>
+<solution id="fs-id1166595431495"><para id="fs-id1166592368457">300%</para></solution>
+</exercise>
+
+        <para id="id74793">For problems 40-48, convert each percent to a decimal.</para>
+
+        <exercise id="fs-id1166592791669"><problem id="fs-id1166613568735"><para id="id74799">62%</para></problem></exercise>
+
+<exercise id="fs-id1166587246186"><problem id="fs-id1166612283648"><para id="fs-id1166587380820">1.58%</para></problem>
+<solution id="fs-id1166592356616"><para id="fs-id1166591961594">0.0158</para></solution>
+</exercise>
+
+        <exercise id="fs-id1166595903147"><problem id="fs-id1166597069761"><para id="id74804">9.15%</para></problem></exercise>
+
+<exercise id="fs-id1166588994143"><problem id="fs-id1166609246442"><para id="fs-id1166587243692">0.06%</para></problem>
+<solution id="fs-id1166601461183"><para id="fs-id1166594136282">0.0006</para></solution></exercise>
+
+        <exercise id="fs-id1166596868419"><problem id="fs-id1166609843936"><para id="id74810">0.003%</para></problem></exercise>
+
+        <exercise id="fs-id1166586782088"><problem id="fs-id1166611708865"><para id="id74815"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>11</m:mn></m:mfrac></m:mrow></m:mstyle></m:math> % to a three-place decimal</para></problem>
+<solution id="fs-id1166617114236"><para id="fs-id1166593076686">0.053</para></solution></exercise>
+
+
+        <exercise id="fs-id1166592413659"><problem id="fs-id1166595533397"><para id="id74840"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>9</m:mn><m:mn>13</m:mn></m:mfrac></m:mstyle></m:math> % to a three-place decimal</para></problem></exercise>
+
+
+        <exercise id="fs-id7713808"><problem id="fs-id1166585709490"><para id="id74863">82 <m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>25</m:mn><m:mn>29</m:mn></m:mfrac></m:mstyle></m:math> % to a four-place decimal</para></problem>
+<solution id="fs-id1166597026524"><para id="fs-id1166594740893">0.8286</para></solution>
+</exercise>
+
+
+        <exercise id="fs-id1166615704804"><problem id="fs-id1166586408169"><para id="id74885"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mn>18</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle></m:math> % to a four-place decimal</para></problem></exercise>
+
+
+        <para id="id74909">For problems 49-55, convert each fraction or mixed number to a percent.</para>
+
+        <exercise id="fs-id1166585863419"><problem id="fs-id1791781"><para id="id74915"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mstyle></m:math></para></problem>
+<solution id="fs-id4961978"><para id="fs-id1166609805773">60%</para></solution></exercise>
+
+
+<exercise id="fs-id1166596826254"><problem id="fs-id1166605993356"><para id="fs-id1166597263778"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>2</m:mn><m:mn>10</m:mn></m:mfrac></m:mstyle></m:math></para></problem></exercise>
+
+
+        <exercise id="fs-id1166596550162"><problem id="fs-id1166602388949"><para id="id74953"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>5</m:mn><m:mn>16</m:mn></m:mfrac></m:mstyle></m:math></para></problem>
+<solution id="fs-id1166610170814"><para id="fs-id1944965">31.25%</para></solution>
+</exercise>
+
+<exercise id="fs-id1995682"><problem id="fs-id1166610686319">
+<para id="fs-id1166615119189"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>35</m:mn><m:mn>8</m:mn></m:mfrac></m:mstyle></m:math></para></problem></exercise>
+
+
+        <exercise id="fs-id1166585173645"><problem id="fs-id1166584832085"><para id="id74992"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>105</m:mn><m:mn>16</m:mn></m:mfrac></m:mstyle></m:math></para></problem>
+<solution id="fs-id1166611882351"><para id="fs-id1166585159517">656.25%</para></solution>
+</exercise>
+
+<exercise id="fs-id1166584235553">
+<problem id="fs-id1166584251558"><para id="fs-id1166585042367">45 <m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>1</m:mn><m:mn>11</m:mn></m:mfrac></m:mstyle></m:math></para></problem></exercise>
+
+
+        <exercise id="fs-id1166584998608"><problem id="fs-id5099113"><para id="id75030">6 <m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mfrac><m:mn>278</m:mn><m:mn>9</m:mn></m:mfrac></m:mstyle></m:math></para></problem>
+<solution id="fs-id1166584578422"><para id="fs-id1166584994978"><m:math>
+<m:mn>3688.</m:mn>
+<m:mover><m:mn>8</m:mn>
+<m:mo>_</m:mo>
+</m:mover>
+<m:mo>%</m:mo>
+</m:math></para></solution>
+</exercise>
+
+
+        <para id="id75052">For problems 56-64, convert each percent to a fraction or mixed number.</para>
+
+        <exercise id="fs-id1166584673918"><problem id="fs-id1166585855271"><para id="id75057">95%</para></problem></exercise>
+
+<exercise id="fs-id1166585177419"><problem id="fs-id1166585154919"><para id="fs-id1166605148090">12%</para></problem>
+<solution id="fs-id1166584945778"><para id="fs-id1166585169071"><m:math><m:mfrac><m:mn>3</m:mn><m:mn>25</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+
+        <exercise id="fs-id1166585893125"><problem id="fs-id1166585171394"><para id="id75063">83%</para></problem></exercise>
+
+<exercise id="fs-id8968410"><problem id="fs-id1166585167273"><para id="fs-id1166584811824">38.125%</para></problem>
+<solution id="fs-id1166584620024"><para id="fs-id1166587240106"><m:math><m:mfrac><m:mn>61</m:mn><m:mn>160</m:mn></m:mfrac></m:math></para></solution></exercise>
+
+<exercise id="fs-id1166584811360"><problem id="fs-id5762836"><para id="fs-id1166584244227"><m:math overflow="scroll"><m:mrow><m:mn>61</m:mn><m:mo>.</m:mo><m:mover><m:mn>2</m:mn><m:mo>_</m:mo></m:mover><m:mo>%</m:mo></m:mrow></m:math></para></problem></exercise>
+
+<exercise id="fs-id1166606499694"><problem id="fs-id1166590093693"><para id="fs-id1166584824224"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>%</m:mo></m:mrow></m:mstyle></m:math></para></problem>
+<solution id="fs-id1166585242892"><para id="fs-id1166584816550"><m:math><m:mfrac><m:mn>1</m:mn><m:mn>160</m:mn></m:mfrac></m:math></para></solution></exercise>
+
+<exercise id="fs-id1166588851379"><problem id="fs-id1166585158623">
+<para id="fs-id1166613939689"> <m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>9</m:mn><m:mn>20</m:mn></m:mfrac><m:mo>%</m:mo></m:mrow></m:mstyle></m:math></para></problem></exercise>
+
+<exercise id="fs-id1166584808072"><problem id="fs-id1166585110166"><para id="fs-id1166585161962"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mn>15</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>22</m:mn></m:mfrac></m:mrow></m:mstyle></m:math> %</para></problem>
+<solution id="fs-id1166608238291"><para id="fs-id1166609172824"><m:math><m:mfrac><m:mn>2977</m:mn><m:mn>19800</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+
+<exercise id="fs-id1166590226658"><problem id="fs-id1166605095826"><para id="fs-id1166615140622"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mn>106</m:mn><m:mfrac><m:mn>19</m:mn><m:mn>45</m:mn></m:mfrac><m:mo>%</m:mo></m:mrow></m:mstyle></m:math></para></problem></exercise>
+
+      </section>
+      <section id="uid5">
+        <title>Applications of Percents (<link document="m35007"/>)</title>
+        <para id="id75185">For problems 65-72, find each solution.</para>
+
+<exercise id="fs-id1166615667636"><problem id="fs-id1166600708316"><para id="fs-id1166592272141">What is 16% of 40?</para></problem>
+<solution id="fs-id1166606236213"><para id="fs-id1166595991687">6.4</para></solution>
+</exercise>
+
+
+        <exercise id="fs-id7829136"><problem id="fs-id1166606464752"><para id="id75188">29.4 is what percent of 105?</para></problem></exercise>
+
+
+        <exercise id="fs-id1166615195545"><problem id="fs-id1166615600828"><para id="id75192"><m:math overflow="scroll"><m:mstyle scriptlevel="0" displaystyle="true"><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>21</m:mn><m:mn>50</m:mn></m:mfrac></m:mrow></m:mstyle></m:math> is 547.2% of what number?</para></problem>
+<solution id="fs-id1166617095246"><para id="fs-id1166597251411">0.625 or <m:math><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:math></para></solution></exercise>
+
+
+        <exercise id="fs-id1166588991515"><problem id="fs-id1166609719043"><para id="id75218">0.09378 is what percent of 52.1?</para></problem></exercise>
+
+
+        <exercise id="fs-id5449196"><problem id="fs-id1166587501060"><para id="id75221">What is 680% of 1.41?</para></problem>
+<solution id="fs-id1166587908786"><para id="fs-id1166592733526">9.588</para></solution></exercise>
+
+
+        <exercise id="fs-id1166610315099"><problem id="fs-id1988605"><para id="id75225">A kitchen knife is on sale for 15% off the marked price. If the marked price is $ 39.50, what is the sale price?</para></problem></exercise>
+
+
+        <exercise id="fs-id1166609786913"><problem id="fs-id1166592248423"><para id="id75231">On an 80 question geology exam, a student gets 68 correct. What percent is correct?</para></problem>
+<solution id="fs-id1790716"><para id="fs-id1166588918167">85</para></solution></exercise>
+
+
+        <exercise id="fs-id6740348"><problem id="fs-id1166591956007"><para id="id75235">A salesperson makes a commission of 18% of her monthly sales total. She also receives a monthly salary of $1,600.00. If, in a particular month, she sells $4,000.00 worth of merchandise, how much will she make that month?</para></problem></exercise>
+      </section>
+    
+    </section>
+  </content>
+</document>

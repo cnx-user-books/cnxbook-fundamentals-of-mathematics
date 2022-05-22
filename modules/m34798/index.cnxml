@@ -1,0 +1,177 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Summary of Key Concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34798</md:content-id>
+  <md:title>Summary of Key Concepts</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module reviews the key concepts from the chapter Addition and Subtraction of Whole Numbers.</md:abstract>
+  <md:uuid>2ddcb69d-3e88-4a87-a522-473e88803e4f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+<section id="fs-id1168407450327"><title>Summary of Key Concepts</title>
+    <para id="id1170511672124"><title>Number / Numeral (<link document="m34795"/>)</title>A <term>number</term> is a concept. It exists only in the mind. A <term>numeral</term> is a symbol that represents a number. It is customary not to distinguish between the two (but we should remain aware of the difference).</para>
+    <para id="id1170511670038"><title>Hindu-Arabic Numeration System (<link document="m34795"/>)</title>In our society, we use the <term>Hindu-Arabic</term> numeration system. It was invented by the Hindus shortly before the third century and popularized by the Arabs about a thousand years later.</para>
+    <para id="id1170511679788"><title>Digits (<link document="m34795"/>)</title>The numbers 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 are called <term>digits</term>.</para>
+    <para id="id1170515332397"><title>Base Ten Positional System (<link document="m34795"/>)</title>The Hindu-Arabic numeration system is a positional number system with <term>base ten</term>. Each position has value that is ten times the value of the position to its right.<newline/>
+<media id="id1170513138074_media" alt="Three segments, labeled from left to right, hundreds, tens, and ones.">
+        <image mime-type="image/png" src="../../media/graphics1-e93f.png" id="id1170513138074__onlineimage" width="150" print-width="1in"/>
+      </media></para>
+    
+    <para id="id1170513139750"><title>Commas / Periods (<link document="m34795"/>)</title><term>Commas</term> are used to separate digits into groups of three. Each group of three is called a <term>period</term>. Each period has a name. From right to left, they are ones, thou­sands, millions, billions, etc.</para>
+    <para id="id1170515332456"><title>Whole Numbers (<link document="m34795"/>)</title>A <term>whole number</term> is any number that is formed using only the digits (0, 1, 2, 3, 4, 5, 6, 7, 8, 9).</para>
+    <para id="id1170538393877"><title>Number Line (<link document="m34795"/>)</title>The <term>number line</term> allows us to visually display the whole numbers.</para>
+    <para id="id1170513139691"><title>Graphing (<link document="m34795"/>)</title><term>Graphing</term> a whole number is a term used for visually displaying the whole number. The graph of 4 appears below.<newline/>
+<media id="id1170513549714_media" alt="A number line from 0 to 8.">
+          <image mime-type="image/png" src="../../media/graphics2-cc66.png" id="id1170513549714__onlineimage" width="450" print-width="3.5in"/>
+        </media></para>
+    
+    <para id="id1170519963356"><title>Reading Whole Numbers (<link document="m34778"/>)</title>To express a whole number as a verbal phrase:
+    <list id="id1170515332110" list-type="enumerated" number-style="arabic">
+      <item>Begin at the right and, working right to left, separate the number into distinct periods by inserting commas every three digits.</item>
+      <item>Begin at the left, and read each period individually.</item>
+    </list></para>
+    <para id="id1170513549649"><title>Writing Whole Numbers (<link document="m34778"/>)</title>To rename a number that is expressed in words to a number expressed in digits:
+    <list id="id1170511679872" list-type="enumerated" number-style="arabic">
+      <item>Notice that a number expressed as a verbal phrase will have its periods set off by commas.</item>
+      <item>Start at the beginning of the sentence, and write each period of numbers individ­ually.</item>
+      <item>Use commas to separate periods, and combine the periods to form one number.</item>
+    </list></para>
+    <para id="id1170520340354"><title>Rounding (<link document="m34780"/>)</title><term>Rounding</term> is the process of approximating the number of a group of objects by mentally "seeing" the collection as occurring in groups of tens, hundreds, thou­sands, etc.</para>
+    <para id="id1170513361299"><title>Addition (<link document="m34786"/>)</title><term>Addition</term> is the process of combining two or more objects (real or intuitive) to form a new, third object, the total, or sum.</para>
+    <para id="id1170511674188"><title>Addends / Sum (<link document="m34786"/>)</title>In addition, the numbers being added are called <term>addends</term> and the result, or total, the <term>sum</term>.</para>
+    <para id="id1170515331031"><title>Subtraction (<link document="m34784"/>)</title><term>Subtraction</term> is the process of determining the remainder when part of the total is removed.</para>
+    <para id="id1170513117065"><title>Minuend / Subtrahend Difference (<link document="m34784"/>)</title><media id="id1170543692738_media" alt="18 - 11 = 7. 18 is the minuend, 11 is the subtrahend, and 7 is the difference.">
+          <image mime-type="image/png" src="../../media/graphics3-4105.png" id="id1170543692738__onlineimage" width="300" print-width="2in"/>
+        </media>
+    </para>
+    <para id="id1170520340478"><title>Commutative Property of Addition (<link document="m34802"/>)</title>If two whole numbers are added in either of two orders, the sum will not change. 
+    <newline/>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>3</m:mn>
+                  </m:mrow>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{3+5=5+3} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+   
+</para>
+    <para id="id1170515331299"><title>Associative Property of Addition (<link document="m34802"/>)</title>If three whole numbers are to be added, the sum will be the same if the first two are added and that sum is then added to the third, or if the second two are added and the first is added to that sum.
+    <newline/>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mo stretchy="false">(</m:mo>
+                  <m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>5</m:mn>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mn>3</m:mn>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mo stretchy="false">(</m:mo>
+                    </m:mrow>
+                  </m:mrow>
+                  <m:mrow>
+                    <m:mn>5</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>2</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">)</m:mo>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ \( 3+5 \) +2=3+ \( 5+2 \) } {}</m:annotation>
+        </m:semantics>
+      </m:math>
+  
+</para>
+    <para id="id1170519531868"><title>Parentheses in Addition (<link document="m34802"/>)</title><term>Parentheses in addition</term> indicate which numbers are to be added first.</para>
+    <para id="id1170511671209"><title>Additive Identity (<link document="m34802"/>)</title>The whole number 0 is called the <term>additive identity</term> since, when it is added to any particular whole number, the sum is identical to that whole number.
+   <newline/>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>7</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{0+7=7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+    <newline/>
+      <m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>7</m:mn>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mn>0</m:mn>
+                  </m:mrow>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mn>7</m:mn>
+                </m:mrow>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{7+0=7} {}</m:annotation>
+        </m:semantics>
+      </m:math>
+   
+</para>
+</section>
+  </content>
+</document>

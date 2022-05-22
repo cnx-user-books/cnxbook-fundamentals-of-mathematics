@@ -1,0 +1,760 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Fractions of Whole Numbers </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34908</md:content-id>
+  <md:title>Fractions of Whole Numbers </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses fractions of whole numbers. By the end of the module students should be able to understand the concept of fractions of whole numbers and recognize the parts of a fraction.</md:abstract>
+  <md:uuid>061e0cde-5e71-4f37-b69c-1888798cf641</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1171910464261">
+      <title>Section Overview</title>
+      <list id="id1171923021198" list-type="bulleted">
+        <item>More Numbers on the Number Line</item>
+        <item>Fractions of Whole Numbers</item>
+        <item>The Parts of a Fraction</item>
+        <item>Reading and Writing Fractions</item>
+      </list>
+    </section>
+    <section id="id1171910707059">
+      <title>More Numbers on the Number Line</title>
+      <para id="id1171909062591">In Chapters <link document="m18885"/>, <link document="m18888"/>, and <link document="m18890"/>, we studied the whole numbers and methods of combining them. We noted that we could visually display the whole numbers by drawing a number line and placing closed circles at whole number locations.</para>
+      
+      <para id="eip-726"><media id="id1171909789012_media" alt="A number line with dots on the whole numbers.">
+          <image mime-type="image/png" src="../../media/graphics1-b266.png" id="id1171909789012__onlineimage" width="400" print-width="3.5in"/>
+        </media></para><para id="id1171904808731">By observing this number line, we can see that the whole numbers do not account for every point on the line. What numbers, if any, can be associated with these points? In this section we will see that many of the points on the number line, including the points already associated with whole numbers, can be associated with numbers called <emphasis effect="italics">fractions</emphasis>.</para>
+    </section>
+    <section id="id1171912441801">
+      <title>Fractions of Whole Numbers</title>
+      <para id="id1171912682688"><title>The Nature of the Positive Fractions</title>We can extend our collection of numbers, which now contains only the whole numbers, by including fractions of whole numbers. We can determine the nature of these fractions using the number line.</para>
+      <para id="id1171911446860">If we place a pencil at some whole number and proceed to travel to the right to the next whole number, we see that our journey can be <emphasis effect="italics">broken</emphasis> into different types of equal parts as shown in the following examples.</para>
+      
+      <list id="eip-621" list-type="enumerated" number-style="lower-alpha"><item><para id="eip-id1171660061029">1 part.<newline/>
+<media id="id1171924036493_media" alt="A number line. Two marks: one on the left, labeled, whole number, and one on the right, labeled next whole number. An arrow is drawn from the whole number to the next whole number.">
+            <image mime-type="image/png" src="../../media/graphics2-4a76.png" id="id1171924036493__onlineimage" width="400" print-width="3.5in"/>
+          </media></para></item>
+<item><para id="eip-id1171666697438">2 equal parts.<newline/>
+<media id="id1171909751906_media" alt="A number line. Two marks: one on the left, labeled, whole number, and one on the right, labeled next whole number.  In between the two marks is the midway point. An arrow is drawn from the whole number to the midway point, and then from the midway point to the next whole number.">
+          <image mime-type="image/png" src="../../media/graphics3-1df3.png" id="id1171909751906__onlineimage" width="400" print-width="3.5in"/>
+        </media></para>
+      </item>
+<item><para id="eip-id1171661209524">3 equal parts.<newline/>
+<media id="id1171914499749_media" alt="A number line. Two marks: one on the left, labeled, whole number, and one on the right, labeled next whole number. There are three arrows, connecting the two whole numbers and two evenly-spaced hash marks in between the whole numbers. ">
+          <image mime-type="image/png" src="../../media/graphics4-6c91.png" id="id1171914499749__onlineimage" width="400" print-width="3.5in"/>
+        </media></para></item>
+<item><para id="eip-id1171662656849">4 equal parts.<newline/>
+<media id="id1171903752175_media" alt="A number line. Two marks: one on the left, labeled, whole number, and one on the right, labeled next whole number. There are four arrows, connecting the two whole numbers and three evenly-spaced hash marks in between the whole numbers. ">
+          <image mime-type="image/png" src="../../media/graphics5-abff.png" id="id1171903752175__onlineimage" width="400" print-width="3.5in"/>
+        </media></para></item></list>
+      
+      
+      
+      
+      
+      
+      <para id="id1171910520762"><title>The Latin Word Fractio</title>Notice that the number of parts, 2, 3, and 4, that we are breaking the original quantity into is always a <emphasis effect="italics">nonzero whole number</emphasis>. The idea of breaking up a whole quantity gives us the word <emphasis effect="italics">fraction</emphasis>. The word fraction comes from the Latin word "fractio" which means a breaking, or fracture.</para>
+      <para id="id1171923064187">Suppose we break up the interval from some whole number to the next whole number into five equal parts.</para>
+      
+      <para id="eip-369"><media id="id1171915841644_media" alt="A number line. Two marks: one on the left, labeled whole number, and one on the right, labeled next whole number. There are four hash marks in between the two whole numbers, creating five spaces of equal width, labeled Part 1 through Part 5. ">
+          <image mime-type="image/png" src="../../media/graphics6-6bd4.png" id="id1171915841644__onlineimage" width="400" print-width="3.5in"/>
+        </media></para><para id="id1171937625854">After starting to move from one whole number to the next, we decide to stop after covering only two parts. We have covered 2 parts of 5 equal parts. This situation is described by writing
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math>.</para>
+      
+      
+      <para id="eip-672"><media id="id1171910530857_media" alt="A number line. Two marks: one on the left, labeled whole number, and one on the right, labeled next whole number. There are four evenly-spaced hash marks in between the two marks. There is an arrow from the whole number to the first hash mark, and an arrow from the first hash mark to the second hash mark. ">
+          <image mime-type="image/png" src="../../media/graphics7-b2f5.png" id="id1171910530857__onlineimage" width="400" print-width="3.5in"/>
+        </media></para><para id="id1171913705020"><title>Positive Fraction</title>A number such as 
+<m:math><m:semantics>
+<m:mstyle displaystyle="true">
+<m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow>
+</m:mstyle>
+<m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math> is called a <term>positive fraction</term>, or more simply, a <term>fraction</term>. </para>
+    </section>
+    <section id="id1171909247373"><title>The Parts of a Fraction</title><para id="id1171909114074">A fraction has <emphasis effect="italics">three parts</emphasis>.</para>
+<list id="eip-id1164532308297" list-type="enumerated" number-style="arabic"><item>The fraction bar 
+<m:math><m:mrow><m:mfrac><m:mi>   </m:mi>
+<m:mi>   </m:mi></m:mfrac></m:mrow></m:math><space/>.<para id="eip-id1164524809218"><title>Fraction Bar</title> The <term>fraction bar</term> serves as a grouping symbol. It separates a quantity into individual groups. These groups have names, as noted in 2 and 3 below.</para></item>
+      
+      <item>The nonzero number below the fraction bar.<para id="eip-id3606753"><title>Denominator</title>  This number is called the <term>denominator</term> of the fraction, and it indicates the number of parts the whole quantity has been divided into. Notice that the denominator must be a nonzero whole number since the least number of parts any quantity can have is one.</para></item>
+      <item>The number above the fraction bar.
+<para id="eip-id1167181392822"><title>Numerator</title>  This number is called the <term>numerator</term> of the fraction, and it indicates how many of the specified parts are being considered. Notice that the numerator can be any whole number (including zero) since any number of the specified parts can be considered.</para>
+      <para id="eip-id1167179950851"><m:math>
+<m:mstyle displaystyle="true">
+                    <m:mfrac>
+                      <m:mtext>whole number</m:mtext>
+                      <m:mtext>nonzero whole number</m:mtext>
+                    </m:mfrac>
+                    <m:mi>↔</m:mi>
+                    <m:mfrac>
+                      <m:mtext>numerator</m:mtext>
+                      <m:mtext>denominator</m:mtext>
+                    </m:mfrac>
+</m:mstyle>
+        </m:math>
+      </para></item></list>
+      <section id="id1171914506769"><title>Sample Set A</title><para id="eip-267">The diagrams in the following problems are illustrations of fractions.</para>
+
+
+<example id="eip-id1168323993308"><figure id="id1171922681791"><label>Diagrams</label>
+<subfigure id="eip-id1172284754341"><media id="id1171922681791_media" alt="A whole circle.">
+            <image mime-type="image/png" src="../../media/graphics8-3c82.png" id="id1171922681791__onlineimage" width="100" print-width="1in"/>
+          </media>
+<caption>A whole circle</caption>        
+</subfigure>
+<subfigure id="eip-id1172291359869">
+<media id="id1171918350542323472_media" alt="A whole circle divided into 3 equal parts.">
+            <image mime-type="image/png" src="../../media/graphics9-6961.png" id="id117195435643354618350472__onlineimage" width="100" print-width="1in"/>
+          </media>
+        <caption>The whole circle divided into 3 equal parts</caption>
+</subfigure>
+<subfigure id="eip-id7428119">
+<media id="id1171936934245323463612_media" alt="A whole circle divided into 3 equal parts. One of the parts is shaded.">
+              <image mime-type="image/png" src="../../media/graphics10-f909.png" id="id34523445321171936963612__onlineimage" width="100" print-width="1in"/>
+            </media>
+<caption>1 of the 3 equal parts</caption>
+</subfigure>
+</figure>
+        
+        
+        
+        
+        
+        <para id="id1171916567596"><media id="id1171916567596_media" alt="The fraction one-third. This would be read, 1 of 3 equal parts.">
+            <image mime-type="image/png" src="../../media/graphics11-9ba2.png" id="id1171916567596__onlineimage" width="200" print-width="2in"/>
+          </media>
+        </para>
+        <para id="id1171922559069">The fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> is read as "one third."</para>
+</example>
+
+<example id="eip-id1168151076518"><figure id="id1171914681080"><subfigure id="eip-id1167249679059">
+<media id="id1171914681080_media" alt="A rectangle.">
+            <image mime-type="image/png" src="../../media/graphics12-0ca5.png" id="id1171914681080__onlineimage" width="125" print-width="1.5in"/>
+          </media><caption>A whole rectangle</caption>
+ </subfigure>
+<subfigure id="eip-id1167237393394">       
+<media id="id1171903800456_media" alt="A rectangle divided into five equal parts by vertical bars.">
+            <image mime-type="image/png" src="../../media/graphics13-63b0.png" id="id1171903800456__onlineimage" width="125" print-width="1.5in"/>
+          </media> <caption>The whole rectangle divided into 5 equal parts</caption>
+  </subfigure>      
+
+<subfigure id="eip-id1164544979189">
+<media id="id1171929402594_media" alt="A rectangle divided into five equal parts by vertical bars. The three leftmost bars are shaded.">
+            <image mime-type="image/png" src="../../media/graphics14-74b1.png" id="id1171929402594__onlineimage" width="125" print-width="1.5in"/>
+          </media>
+<caption>3 of the 5 equal parts</caption>
+</subfigure></figure>
+        
+        
+        
+        
+        
+        <para id="id1171913918312"><media id="id1171912215677_media" alt="The fraction three-fifths. This would be read, 3 of 5 equal parts.">
+              <image mime-type="image/png" src="../../media/graphics15-6bd8.png" id="id1171912215677__onlineimage" print-width="2in" width="200"/>
+            </media>
+        </para>
+        <para id="id1171935527320">The fraction 
+<m:math><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:math> "is read as "three fifths."</para>
+</example>
+<example id="eip-id1168151137064"><figure id="id1171931351674" orient="vertical"><subfigure id="eip-id5145128">
+<media id="id1171931351674_media" alt="A number line with two marks, 0 and 1.">
+            <image mime-type="image/png" src="../../media/graphics16-ad61.png" id="id1171931351674__onlineimage" width="400" print-width="3.5in"/>
+          </media>
+<caption>The number line between 0 and 1</caption>
+</subfigure>
+   <subfigure id="eip-id4844929">     
+<media id="id1171923678269_media" alt="A number line with two marks, 0, and 1, and six hash marks in between.">
+            <image mime-type="image/png" src="../../media/graphics17-4809.png" id="id1171923678269__onlineimage" width="400" print-width="3.5in"/>
+          </media>
+<caption>The number line between 0 and 1 divided into 7 equal parts</caption>
+</subfigure>
+<subfigure id="eip-id1168345298990">
+<media id="id1171907149116_media" alt="A number line with two marks, 0, and 1, and six hash marks in between. There is an arrow drawn from the zero to the first hash mark, and then from that hash mark to the next, until the sixth hash mark, where the arrows stop.">
+            <image mime-type="image/png" src="../../media/graphics18-bb04.png" id="id1171907149116__onlineimage" width="400" print-width="3.5in"/>
+          </media>
+<caption>6 of the 7 equal parts</caption>
+</subfigure></figure>
+        
+        
+        
+        
+        
+        <para id="eip-id1169672887598"><media id="id2021856_media" alt="The fraction six-sevenths. This would be read, 6 of the 7 equal parts.">
+            <image mime-type="image/png" src="../../media/graphics19-d15f.png" id="id2021856__onlineimage" width="200" print-width="2in"/>
+          </media>
+        </para>
+        <para id="id1171918019718">The fraction 
+<m:math><m:mfrac><m:mn>6</m:mn><m:mn>7</m:mn></m:mfrac></m:math>   is read as "six sevenths."</para>
+</example>
+<example id="eip-id1168160830439"><para id="id1171912629728">
+          <figure id="id1171929659290"><subfigure id="eip-id1171543250543"><media id="id1171929659290_media" alt="A whole circle.">
+              <image mime-type="image/png" src="../../media/graphics20-e34e.png" id="id1171929659290__onlineimage" width="100" print-width="1in"/>
+            </media>
+<caption>A whole circle</caption>
+</subfigure>
+  
+<subfigure id="eip-id1171552502092">        
+<media id="id1171908938623_media" alt="A whole circle divided into four equal parts.">
+            <image mime-type="image/png" src="../../media/graphics21-c1e5.png" id="id1171908938623__onlineimage" width="100" print-width="1in"/>
+          </media>
+<caption>The whole circle divided into 4 equal parts</caption>
+</subfigure>
+        <subfigure id="eip-id1164545744641">
+<media id="id1171918855620_media" alt="A whole circle divided into four equal parts. All four parts are shaded.">
+            <image mime-type="image/png" src="../../media/graphics22-6467.png" id="id1171918855620__onlineimage" width="100" print-width="1in"/>
+          </media>
+<caption>4 of the 4 equal parts</caption>
+</subfigure></figure>
+        </para>
+        
+        
+        
+        
+        
+        <para id="id1171915396296"><media id="id1171915396296_media" alt="The fraction four-fourths. This would be read, 4 of the 4 equal parts.">
+            <image mime-type="image/png" src="../../media/graphics23-8641.png" id="id1171915396296__onlineimage" width="200" print-width="2in"/>
+          </media>
+        </para>
+        <para id="id1171924216859">When the numerator and denominator are equal, the fraction represents the entire quantity, and its value is 1.</para>
+        <para id="id2801430"><m:math>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mtext>nonzero whole number</m:mtext>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mtext>same nonzero whole number</m:mtext>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>1</m:mn>
+          </m:math>
+        </para>
+        
+      </example></section>
+      <section id="id3330135">
+        <title>Practice Set A</title>
+        <para id="id1171908954204">Specify the numerator and denominator of the following fractions.</para>
+        <exercise id="id1171938122117"><problem id="oo-id1171903340967">
+            <para id="id1171903811380"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {7} } } {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+        <solution id="eip-id1167553384863"><para id="eip-id6381331">4, 7</para></solution></exercise>
+        <exercise id="id1171913203176"><problem id="oo-id1171908599712">
+            <para id="id1171918360814"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } } {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+        <solution id="eip-id7771598"><para id="eip-id5346371">5, 8</para></solution></exercise>
+        <exercise id="id1171928191093"><problem id="oo-id1171931208660">
+            <para id="id1171930209996"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>10</m:mtext><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"10"}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+        <solution id="eip-id1167252081507"><para id="eip-id1167241739035">10, 15</para></solution></exercise>
+        <exercise id="id1803047"><problem id="oo-id1171922136699">
+            <para id="id1171912690344"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {9} } } {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+        <solution id="eip-id8537246"><para id="eip-id8537247">1, 9</para></solution></exercise>
+        <exercise id="id1171903816913"><problem id="oo-id1171908304307">
+            <para id="id1171922985153"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>0</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {2} } } {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+        <solution id="eip-id1164819416350"><para id="eip-id1164813878259">0, 2</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1171909694524">
+      <title>Reading and Writing Fractions</title>
+      <para id="id1171913948196">In order to properly translate fractions from word form to number form, or from number form to word form, it is necessary to understand the use of the <emphasis effect="italics">hyphen</emphasis>.</para>
+      <para id="id1642702"><title>Use of the Hyphen</title>One of the main uses of the <term>hyphen</term> is to tell the reader that two words not ordinarily joined are to be taken in combination as a unit. Hyphens are <emphasis effect="italics">always</emphasis> used for numbers between and including 21 and 99 (except those ending in zero).</para>
+      <section id="id1171910771901"><title>Sample Set B</title><para id="id1171916570270">Write each fraction using whole numbers.</para>
+        <example id="oo-id1171937586686">
+          <para id="id1171912465654">Fifty three-hundredths.<space count="5"/> The hyphen joins the words three and hundredths and tells us to consider them as a single unit. Therefore, <newline/>fifty three-hundredths translates as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>50</m:mtext><m:mtext>300</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"50"}  over  {"300"} } } {}</m:annotation></m:semantics></m:math></para>
+</example>
+<example id="eip-id6038581">
+          <para id="id1171938672575">Fifty-three hundredths.<space count="5"/> The hyphen joins the numbers fifty and three and tells us to con­sider them as a single unit. Therefore, <newline/>fifty-three hundredths translates as
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>53</m:mtext><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"53"}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para>
+</example>
+<example id="eip-id1164479982832">
+          <para id="id1171935466125">Four hundred seven-thousandths.<space count="5"/> The hyphen joins the words seven and thousandths and tells us to consider them as a single unit. Therefore, <newline/>four hundred seven-thousandths translates as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>400</m:mtext><m:mtext>7,000</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"400"}  over  {"7000"} } } {}</m:annotation></m:semantics></m:math></para></example>
+<example id="eip-id1164477687777">
+          <para id="id1171918325615">Four hundred seven thousandths.<space count="5"/> The absence of hyphens indicates that the words <emphasis effect="italics">seven</emphasis> and <emphasis effect="italics">thousandths</emphasis> are to be considered individually. <newline/>four hundred seven thousandths translates as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>407</m:mtext><m:mtext>1000</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"407"}  over  {"1000"} } } {}</m:annotation></m:semantics></m:math></para>
+        </example>
+        <para id="id1171934692675">Write each fraction using words.</para>
+        <example id="oo-id1171904133572">
+          <para id="id1171916636057"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>21</m:mtext><m:mtext>85</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"21"}  over  {"85"} } } {}</m:annotation></m:semantics></m:math>  translates as twenty-one eighty-fifths.</para></example>
+<example id="eip-id1164477878787">
+          <para id="id1171914548506"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>200</m:mtext><m:mtext>3,000</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"200"}  over  {"3000"} } } {}</m:annotation></m:semantics></m:math>  translates as two hundred three-thousandths.<space count="5"/> A hyphen is needed between the words three and thousandths to tell the reader that these words are to be considered as a single unit.</para></example>
+<example id="eip-id1164479051366">
+          <para id="id1171910607143"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>203</m:mtext><m:mtext>1,000</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"203"}  over  {"1000"} } } {}</m:annotation></m:semantics></m:math>  translates as two hundred three thousandths.</para>
+        </example>
+      </section>
+      <section id="id1171909918207"><title>Practice Set B</title><para id="id1171931763432">Write the following fractions using whole numbers.</para>
+        <exercise id="eip-id1171549853934"><problem id="eip-id1171536155792"><para id="id1171932029738">one tenth</para></problem><solution id="eip-id1171541185943"><para id="eip-id1171550189316">  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1171919127106">
+          <problem id="oo-id1171919924778">
+            <para id="id1171910600183">eleven fourteenths </para></problem> <solution id="eip-id1171546747423"><para id="eip-id1171542850919">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>11</m:mtext><m:mtext>14</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"11"}  over  {"14"} } } {}</m:annotation></m:semantics></m:math></para>
+          </solution>
+        </exercise>
+        <exercise id="id1171917005773">
+          <problem id="oo-id1171904096063">
+            <para id="id1171935584554">sixteen thirty-fifths  </para></problem><solution id="eip-id1171542630032"><para id="eip-id1171545361513">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mtext>35</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {"35"} } } {}</m:annotation></m:semantics></m:math></para>
+          </solution>
+        </exercise>
+        <exercise id="id1171938618066">
+          <problem id="oo-id1171903910441">
+            <para id="id1171921847654">eight hundred seven-thousandths </para></problem><solution id="eip-id1171540911552"><para id="eip-id1171541117247">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>800</m:mtext><m:mrow><m:mn>7,</m:mn><m:mtext>000</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"800"}  over  {7,"000"} } } {}</m:annotation></m:semantics></m:math></para>
+          </solution>
+        </exercise>
+        <para id="id1171934723992">Write the following using words.</para>
+        <exercise id="id1171909732601">
+          <problem id="oo-id3038187">
+            <para id="id1171914433749"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} } } {}</m:annotation></m:semantics></m:math></para></problem><solution id="eip-id1171541403754"><para id="eip-id1171543022871"> three eighths</para>
+          </solution>
+        </exercise>
+        <exercise id="id1171914652776">
+          <problem id="oo-id1171913835010">
+            <para id="id1171918018771"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para></problem><solution id="eip-id4090906"><para id="eip-id1171549165505"> one tenth</para>
+          </solution>
+        </exercise>
+        <exercise id="id1171931134855">
+          <problem id="oo-id1171931788631">
+            <para id="id1171931783363"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>250</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"250"} } } {}</m:annotation></m:semantics></m:math></para></problem><solution id="eip-id1171552724141"><para id="eip-id8234606"> three two hundred fiftieths</para>
+          </solution>
+        </exercise>
+        <exercise id="id1171902960206">
+          <problem id="oo-id2980920">
+            <para id="id1171910558987"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>114</m:mtext><m:mtext>3,190</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"114"}  over  {"3190"} } } {}</m:annotation></m:semantics></m:math></para></problem><solution id="eip-id1171548986074"><para id="eip-id1171541048946">one hundred fourteen three thousand one hundred ninetieths</para></solution>
+        </exercise>
+        <para id="id1171914681044">Name the fraction that describes each shaded portion.</para>
+<exercise id="eip-id3127885"><problem id="eip-id1171544867595">
+        <para id="id1171930059440"><media id="id1171914728537_media" alt="A whole circle divided into eight equal parts, with three parts shaded.">
+              <image mime-type="image/png" src="../../media/graphics24-93fc.png" id="id1171914728537__onlineimage" width="100" print-width="1in"/>
+            </media>
+          </para></problem>
+<solution id="eip-id1171537580548"><para id="eip-id1171541607087">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>3</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para></solution></exercise>
+<exercise id="eip-id1171540884616"><problem id="eip-id1171549110750">
+        <para id="id2881791"><media id="id1171910897405_media" alt="A whole circle divided into sixteen equal parts, with one part shaded.">
+              <image mime-type="image/png" src="../../media/graphics25-c79a.png" id="id1171910897405__onlineimage" width="100" print-width="1in"/>
+            </media>
+          </para></problem>
+<solution id="eip-id1171540960250"><para id="eip-id8953451">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mtext>16</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"16"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para></solution></exercise>
+        <para id="id1171928425544">In the following 2 problems, state the numerator and denominator, and write each fraction in words.</para>
+        <exercise id="id1171913197222">
+          <problem id="oo-id1171918158819">
+            <para id="id1171913681309">The number 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {9} } } {}</m:annotation></m:semantics></m:math> is used in converting from Fahrenheit to Celsius. </para>
+          </problem>
+<solution id="eip-id1171549219495"><para id="eip-id1171545419707">5, 9, five ninths</para></solution>
+        </exercise>
+        <exercise id="id1171920023806">
+          <problem id="oo-id1171903418431">
+            <para id="id1171909529645">A dime is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> of a dollar. </para>
+          </problem>
+<solution id="eip-id1171544875440"><para id="eip-id1171551556002">1, 10, one tenth</para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1171912689068"><title>Exercises</title><para id="id1171909556817">For the following 10 problems, specify the numerator and denominator in each fraction.</para>
+
+      <exercise id="id1171907302497">
+        <problem id="oo-id1171904979409">
+          <para id="id1171906501567"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1171540916018"><para id="eip-id7866629">numerator, 3; denominator, 4</para></solution>
+      </exercise>
+      <exercise id="id1171912410338">
+        <problem id="oo-id1171909897763">
+          <para id="id1171933474120"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171910545183">
+        <problem id="oo-id1171911944424">
+          <para id="id1171918197185"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {5} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1171548665094"><para id="eip-id1171551588418">numerator, 1; denominator, 5</para></solution>
+      </exercise>
+      <exercise id="id1171903857900">
+        <problem id="oo-id1171904513642">
+          <para id="id1171914503345"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171913722246">
+        <problem id="oo-id1171908139633">
+          <para id="id1171931223022"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {7} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id6603777"><para id="eip-id1171551178355">numerator, 7; denominator, 7</para></solution>
+      </exercise>
+      <exercise id="id1171934762789">
+        <problem id="oo-id1171908374813">
+          <para id="id1171910510961"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171915939975">
+        <problem id="oo-id1171922118292">
+          <para id="id1171922122971"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>0</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {"12"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1171550716935"><para id="eip-id1171541296601">numerator, 0; denominator, 12</para></solution>
+      </exercise>
+      <exercise id="id1171912997525">
+        <problem id="oo-id1171903578958">
+          <para id="id1171912408366">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>25</m:mtext><m:mtext>25</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"25"}  over  {"25"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171914567841">
+        <problem id="oo-id1171929546579">
+          <para id="id1171939460517"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>18</m:mtext><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"18"}  over  {1} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1171541072956"><para id="eip-id1171541107374">numerator, 18; denominator, 1</para></solution>
+      </exercise>
+      <exercise id="id1171903832795">
+        <problem id="oo-id1171904053174">
+          <para id="id1171912730190">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>0</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {0}  over  {"16"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <para id="id1171928958710">For the following 10 problems, write the fractions using whole numbers.</para>
+      <exercise id="id1171915419231">
+        <problem id="oo-id1171904601515">
+          <para id="id1171928244024">four fifths 
+</para>
+        </problem>
+<solution id="eip-id1171539527733"><para id="eip-id1171548578203"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171902992715">
+        <problem id="oo-id1171913846391">
+          <para id="id1171929295934">two ninths</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171910368321">
+        <problem id="oo-id1171908566791">
+          <para id="id1171910511135">fifteen twentieths 
+</para>
+        </problem>
+<solution id="eip-id1171538657810"><para id="eip-id8361122"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>15</m:mtext><m:mtext>20</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"}  over  {"20"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171908686814">
+        <problem id="oo-id1171904667004">
+          <para id="id3207552">forty-seven eighty-thirds</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171916665630">
+        <problem id="oo-id1171904363746">
+          <para id="id1171909674188">ninety-one one hundred sevenths 
+</para>
+        </problem>
+<solution id="eip-id1171542403531"><para id="eip-id1171546469424"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>91</m:mtext><m:mtext>107</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"91"}  over  {"107"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171903821089">
+        <problem id="oo-id1171923090443">
+          <para id="id1171909908309">twenty-two four hundred elevenths</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171926266439">
+        <problem id="oo-id1171903024124">
+          <para id="id1171910566063">six hundred five eight hundred thirty-fourths 
+</para>
+        </problem>
+<solution id="eip-id1171541159564"><para id="eip-id1171542412224"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>605</m:mtext><m:mtext>834</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"658"}  over  {"134"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171910555681">
+        <problem id="oo-id1171909839264">
+          <para id="id1171910775207">three thousand three forty-four ten-thousandths</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171926152256">
+        <problem id="oo-id1171909900269">
+          <para id="id1171910724136">ninety-two one-millionths  
+</para>
+        </problem>
+<solution id="eip-id1171540927843"><para id="eip-id1171551374726"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>92</m:mtext><m:mrow><m:mn>1,</m:mn><m:mtext>000</m:mtext><m:mi>,</m:mi><m:mtext>000</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"92"}  over  {1,"000","000"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1171929518103">
+        <problem id="oo-id1171904104214">
+          <para id="id1171914427485">one three-billionths</para>
+        </problem>
+      </exercise>
+      <para id="id1171937620508">For the following 10 problems, write the fractions using words.</para>
+      <exercise id="id1171928540845">
+        <problem id="oo-id1171907978327">
+          <para id="id1171913195540"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {9} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1171550387027"><para id="eip-id1171539472122">five ninths</para></solution>
+      </exercise>
+      <exercise id="id1171921637440">
+        <problem id="oo-id1171904480242">
+          <para id="id1171932582934"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171913228677">
+        <problem id="oo-id1171912929847">
+          <para id="id1171914743086"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"15"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1171539641017"><para id="eip-id1171545348620">eight fifteenths</para></solution>
+      </exercise>
+      <exercise id="id1171914867804">
+        <problem id="oo-id1171909706352">
+          <para id="id1171904166122">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>10</m:mtext><m:mtext>13</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"10"}  over  {"13"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171920073024">
+        <problem id="oo-id1171910586669">
+          <para id="id3346625"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>75</m:mtext><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"75"}  over  {"100"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1171539522710"><para id="eip-id1171544845032">seventy-five one hundredths</para></solution>
+      </exercise>
+      <exercise id="id1171912614590">
+        <problem id="oo-id1171903746273">
+          <para id="id1686018"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>86</m:mtext><m:mtext>135</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"86"}  over  {"135"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171919755357">
+        <problem id="oo-id1171920033517">
+          <para id="id1171922327992"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>916</m:mtext><m:mtext>1,014</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"916"}  over  {"1014"} } } {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1171550235585"><para id="eip-id1171542879248">nine hundred sixteen one thousand fourteenths</para></solution>
+      </exercise>
+      <exercise id="id8135990">
+        <problem id="oo-id1171904673632">
+          <para id="id1171920870113"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>501</m:mtext><m:mtext>10,001</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"501"}  over  {"10001"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1171922541905">
+        <problem id="oo-id1171935643026">
+          <para id="id8144690"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>18</m:mtext><m:mtext>31,608</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"18"}  over  {"31608"} } } {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1171541888669"><para id="eip-id1171544852975">eighteen thirty-one thousand six hundred eighths</para></solution>
+      </exercise>
+      <exercise id="id1171908194863">
+        <problem id="oo-id1171910261564">
+          <para id="id1171918217691"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>500,000</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"500000"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <para id="id1171909147851">For the following 4 problems, name the fraction corresponding to the shaded portion.</para>
+<exercise id="eip-id4209750">   <problem id="eip-id1165608371579">  
+ <para id="id1171909086083"><media id="id1171932612223_media" alt="A whole circle divided into two equal parts, with one part shaded.">
+            <image mime-type="image/png" src="../../media/graphics26-b5c3.png" id="id1171932612223__onlineimage" width="100" print-width="1in"/>
+          </media></para></problem>
+       <solution id="eip-id7678890"><para id="eip-id1165599294699">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>1</m:mn>
+                    <m:mn>2</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para></solution></exercise>
+<exercise id="eip-id1165606843617"><problem id="eip-id1165635674751">
+      <para id="id1171903058413"><media id="id1171910588815_media" alt="A whole circle divided into six equal parts, with two parts shaded.">
+            <image mime-type="image/png" src="../../media/graphics27-f454.png" id="id1171910588815__onlineimage" width="100" print-width="1in"/>
+          </media>
+        
+      </para></problem></exercise>
+<exercise id="eip-id1165602120063"><problem id="eip-id4130588">
+      <para id="id3077345"><media id="id1171903838414_media" alt="A rectangle divided into seven equal parts, with four parts shaded.">
+            <image mime-type="image/png" src="../../media/graphics28-a805.png" id="id1171903838414__onlineimage" width="150" print-width="1.5in"/>
+          </media>
+        </para>
+</problem><solution id="eip-id1165628122167"><para id="eip-id1165620514692">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mfrac>
+                    <m:mn>4</m:mn>
+                    <m:mn>7</m:mn>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {7} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para></solution></exercise>
+
+<exercise id="eip-id1165627660868"><problem id="eip-id1165596278201">
+      <para id="id1171922476555"><media id="id1171914460081_media" alt="A rectangle divided into three equal parts, with zero parts shaded.">
+            <image mime-type="image/png" src="../../media/graphics29-8d6c.png" id="id1171914460081__onlineimage" width="150" print-width="1.5in"/>
+          </media>
+        
+      </para></problem></exercise>
+
+      <para id="id1171913915702">For the following 4 problems, shade the portion corresponding to the given fraction on the given figure.</para>
+<exercise id="eip-id1165618825517"><problem id="eip-id1165601510313">
+      <para id="id1171911175255"><m:math><m:mrow><m:mfrac><m:mi>3</m:mi><m:mi>5</m:mi></m:mfrac></m:mrow></m:math> <newline/>
+<media id="id1171913244907_media" alt="A rectangle divided into five equal parts."><image mime-type="image/png" src="../../media/graphics31-e9dc.png" id="id1171913244907__onlineimage" width="150" print-width="1.5in"/></media></para></problem>
+
+<solution id="eip-id1165632197091">
+<para id="eip-id1164107509928"><media id="id1171929676924_media" alt="A rectangle divided into five equal parts, with three parts shaded."><image mime-type="image/png" src="../../media/graphics32-c5b1.png" id="id1171929676924__onlineimage" width="150" print-width="1.5in"/></media>
+</para>
+</solution></exercise>
+
+<exercise id="eip-id1164541572090"><problem id="eip-id1164542444231">
+      <para id="id1171910234407"><m:math><m:mrow><m:mfrac><m:mi>1</m:mi><m:mi>8</m:mi></m:mfrac></m:mrow></m:math>
+<newline/><media id="id1171908867319_media" alt="A circle divided into eight equal parts."><image mime-type="image/png" src="../../media/graphics34-ba25.png" id="id1171908867319__onlineimage" width="100" print-width="1in"/></media></para></problem></exercise>
+
+<exercise id="eip-id1164545246279"><problem id="eip-id1164542318221">
+      <para id="id1171909874184"><m:math><m:mrow><m:mfrac><m:mi>6</m:mi><m:mi>6</m:mi></m:mfrac></m:mrow></m:math>
+<newline/>
+<media id="id1171918354170_media" alt="A rectangle divided into six equal parts."><image mime-type="image/png" src="../../media/graphics36-ede9.png" id="id1171918354170__onlineimage" width="150" print-width="1.5in"/></media></para></problem>
+
+<solution id="eip-id1164541005841"><para id="eip-id1164547152964"><media id="id1171917567732_media" alt="A rectangle divided into six equal parts, with all six parts shaded."><image mime-type="image/png" src="../../media/graphics37-22c7.png" id="id1171917567732__onlineimage" width="150" print-width="1.5in"/></media></para></solution></exercise>
+
+      <exercise id="eip-id1164543581063"><problem id="eip-id1164540856327"><para id="id2752231"><m:math><m:mrow><m:mfrac><m:mi>0</m:mi><m:mi>3</m:mi></m:mfrac></m:mrow></m:math><newline/>
+
+<media id="id1171932763010_media" alt="A circle divided into three equal parts."><image mime-type="image/png" src="../../media/graphics39-d7d8.png" id="id1171932763010__onlineimage" width="100" print-width="1.5in"/></media></para></problem></exercise>
+
+
+      <para id="id1171927395713">State the numerator and denominator and write in words each of the fractions appearing in the state­ments for the following 10 problems.</para>
+      <exercise id="id1171908027654"><problem id="oo-id1171913681077">
+          <para id="id1171935657214">A contractor is selling houses on 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math> acre lots. </para>
+        </problem>
+      <solution id="eip-id1171836705339"><para id="eip-id1171847178208">Numerator, 1; denominator, 4; one fourth</para></solution></exercise>
+      <exercise id="id1171910340662">
+        <problem id="oo-id1171913958396">
+          <para id="id1171910720515">The fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>22</m:mtext><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"22"}  over  {7} } } {}</m:annotation></m:semantics></m:math> is sometimes used as an approximation to the number <m:math>
+<m:mi>π</m:mi>
+</m:math>. (The symbol is read “pi.")</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171924050877"><problem id="oo-id3184956">
+          <para id="id1171910711119">The fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {3} } } {}</m:annotation></m:semantics></m:math> is used in finding the volume of a sphere. </para>
+        </problem>
+      <solution id="eip-id1171548094056"><para id="eip-id1171550216749">Numerator, 4; denominator, 3; four thirds</para></solution></exercise>
+      <exercise id="id1171913923280">
+        <problem id="oo-id2228295">
+          <para id="id1171912484906">One inch is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"12"} } } {}</m:annotation></m:semantics></m:math> of a foot.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171910564729"><problem id="oo-id1171920398887">
+          <para id="id1171917126484">About 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {7} } } {}</m:annotation></m:semantics></m:math> of the students in a college statistics class received a “B” in the course. </para>
+        </problem>
+      <solution id="eip-id1171549031445"><para id="eip-id1171541325528">Numerator, 2; denominator, 7; two sevenths</para></solution></exercise>
+      <exercise id="id1171926949886">
+        <problem id="oo-id1171909107172">
+          <para id="id1171912677942">The probability of randomly selecting a club when drawing one card from a standard deck of 52 cards is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>13</m:mtext><m:mtext>52</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"13"}  over  {"52"} } } {}</m:annotation></m:semantics></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1171910185649"><problem id="oo-id1171909625686">
+          <para id="id1171915575810">In a box that contains eight computer chips, five are known to be good and three are known to be defective. If three chips are selected at random, the probability that all three are defective is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>56</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"56"} } } {}</m:annotation></m:semantics></m:math>. </para>
+        </problem>
+      <solution id="eip-id1168326596563"><para id="eip-id2361112">Numerator, 1; denominator, 56; one fifty-sixth</para></solution></exercise>
+      <exercise id="id1171919951988">
+        <problem id="oo-id1171923194436">
+          <para id="id1171912419254">In a room of 25 people, the probability that at least two people have the same birthdate (date and month, not year) is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>569</m:mtext><m:mtext>1000</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"569"}  over  {"1000"} } } {}</m:annotation></m:semantics></m:math>.</para>
+        </problem>
+      </exercise>
+      <exercise id="id2959069"><problem id="oo-id1171909586582">
+          <para id="id1171914898285">The mean (average) of the numbers 21, 25, 43, and 36 is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>125</m:mtext><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"125"}  over  {4} } } {}</m:annotation></m:semantics></m:math>. </para>
+        </problem>
+      <solution id="eip-id1171856325800"><para id="eip-id1171836868600">Numerator, 125; denominator, 4; one hundred twenty-five fourths</para></solution></exercise>
+      <exercise id="id1171922456196">
+        <problem id="oo-id1818657">
+          <para id="id1171904156378">If a rock falls from a height of 20 meters on Jupiter, the rock will be 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>32</m:mtext><m:mtext>25</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"32"}  over  {"25"} } } {}</m:annotation></m:semantics></m:math> meters high after 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {5} } } {}</m:annotation></m:semantics></m:math> seconds.</para>
+        </problem>
+      </exercise>
+      <section id="id1171916637129">
+        <title>Exercises For Review</title>
+        <exercise id="id1171904154519"><problem id="oo-id1171912636050">
+            <para id="id8168586">(<link document="m34802"/>) Use the numbers 3 and 11 to illustrate the commutative property of addition. 
+</para>
+          </problem>
+        <solution id="eip-id1165618468268"><para id="eip-id1165623720702"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>11</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>11</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>3</m:mn></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>14</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3+"11"="11"+3="14"} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1171925287053">
+          <problem id="oo-id1171905862702">
+            <para id="id1171914583907">(<link document="m34865"/>) Find the quotient. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>676</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>26</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"676" div "26"} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        </exercise>
+        <exercise id="id1171924222949"><problem id="oo-id1171928198530">
+            <para id="id1171910879789">(<link document="m34871"/>) Write 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 cdot 7 cdot 7 cdot 7 cdot 7} {}</m:annotation></m:semantics></m:math> using exponents. 
+</para>
+          </problem>
+        <solution id="eip-id1167426189960"><para id="eip-id1167454017029"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mn>7</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 rSup { size 8{5} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1171911791104">
+          <problem id="oo-id1171903814419">
+            <para id="id1171914470289">(<link document="m34872"/>) Find the value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">⋅</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>20</m:mtext></m:mrow></m:mfenced></m:mrow><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">+</m:mo><m:mtext>16</m:mtext></m:mrow></m:mfenced></m:mrow><m:mtext>22</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8 cdot  left (6+"20" right )}  over  {8} } + {  {3 cdot  left (6+"16" right )}  over  {"22"} } } {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1171924068066"><problem id="oo-id1171907088566">
+            <para id="id1171915991579">(<link document="m34876"/>) Find the least common multiple of 12, 16, and 18. </para>
+          </problem>
+        <solution id="eip-id1171853929552"><para id="eip-id1171875553730">144</para></solution></exercise>
+      </section>
+    </section>
+  </content>
+</document>

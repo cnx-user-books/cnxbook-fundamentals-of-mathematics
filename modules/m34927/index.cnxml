@@ -1,0 +1,1509 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Equivalent Fractions, Reducing Fractions to Lowest Terms, and Raising Fractions to Higher Terms </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34927</md:content-id>
+  <md:title>Equivalent Fractions, Reducing Fractions to Lowest Terms, and Raising Fractions to Higher Terms </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses equivalent fractions, reducing fractions to lowest terms, and raising fractions to higher terms. By the end of the module students should be able to recognize equivalent fractions, reduce a fraction to lowest terms and be able to raise a fraction to higher terms.</md:abstract>
+  <md:uuid>1c6882d0-3c11-4d5a-9e49-a4d8f480f641</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1167436209956">
+      <title>Section Overview</title>
+      <list id="id1167439927355" list-type="bulleted">
+        <item>Equivalent Fractions</item>
+        <item>Reducing Fractions to Lowest Terms</item>
+        <item>Raising Fractions to Higher Terms</item>
+      </list>
+    </section>
+    <section id="id1167438205950">
+      <title>Equivalent Fractions</title>
+      <para id="id1167436669598">Let's examine the following two diagrams.</para>
+      
+      <para id="eip-507"><media id="id1167436195168_media" alt="A rectangle divided equally into three parts, each marked one-third. The left two parts are shaded. To the right of the box is the caption, two-thirds of the whole is shaded. Below this is a rectangle equally divided into six part, with the leftmost four part shaded. to the right of this rectangle is the caption, four-sixths of the whole is shaded.">
+          <image mime-type="image/png" src="../../media/graphics1-743e.png" id="id1167436195168__onlineimage" width="400" print-width="3.5in"/>
+        </media></para><para id="id1167452664731">Notice that both 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {6} } } {}</m:annotation></m:semantics></m:math> represent the <emphasis effect="italics">same part</emphasis> of the whole, that is, they represent the same number.</para>
+      <para id="id1167436972074"><title>Equivalent Fractions</title>Fractions that have the same value are called <term>equivalent fractions</term>. Equiva­lent fractions may look different, but they are still the same point on the number line.</para>
+      <para id="id1167440257106">There is an interesting property that equivalent fractions satisfy.</para>
+      <para id="id1167438386273"><media id="eip-id1168808310136" alt="two-thirds and four-sixths, with an arrow from each denominator pointing to the numerator of the opposite fraction."><image mime-type="image/png" src="../../media/eqn1.png" width="50" print-width=".5in"/></media></para>
+      
+      <para id="id1167436225399"><title>A Test for Equivalent Fractions Using the Cross Product</title>These pairs of products are called <term>cross products</term>.</para>
+      <para id="id1167436863844"><media id="eip-id1170172789121" alt="Is two time six equal to three times four? Yes."><image mime-type="image/png" src="../../media/eqn2.png" width="85" print-width="1in"/></media></para>
+      
+      <para id="id1167440249566">If the cross products are equal, the fractions are equivalent. If the cross products are not equal, the fractions are not equivalent.</para>
+      <para id="id1167446139544">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {6} } } {}</m:annotation></m:semantics></m:math> are equivalent, that is, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } = {  {4}  over  {6} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <section id="id1167436742452"><title>Sample Set A</title><para id="id1167436856129">Determine if the following pairs of fractions are equivalent.</para>
+       
+<example id="eip-id1164461587277">
+ <para id="id7075030"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mi/><m:mtext>and </m:mtext><m:mfrac><m:mn>6</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } `"and " {  {6}  over  {8} } } {}</m:annotation></m:semantics></m:math>. Test for equality of the cross products.</para>
+        <para id="id1167438083671"><media id="eip-id1168814187745" alt="three-fourths and six-eigths, with an arrow from each denominator pointing to the numerator of the opposite fraction."><image mime-type="image/png" src="../../media/eqn3.png" width="50" print-width=".5in"/></media></para>
+        <para id="id1167439869513"><media id="eip-id1170173604018" alt="Is three times eight equal to six times four? yes."><image mime-type="image/png" src="../../media/eqn4.png" width="85" print-width="1in"/></media> The cross products are equals.</para><para id="eip-722">The fractions <m:math><m:mrow><m:mfrac><m:mi>3</m:mi><m:mi>4</m:mi></m:mfrac></m:mrow></m:math> and <m:math><m:mrow><m:mfrac><m:mi>6</m:mi><m:mi>8</m:mi></m:mfrac></m:mrow></m:math> are equivalent, so <m:math><m:mrow><m:mfrac><m:mi>3</m:mi><m:mi>4</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>6</m:mi><m:mi>8</m:mi></m:mfrac></m:mrow></m:math>.</para>
+</example>
+<example id="eip-id1164467359271">
+        <para id="id1167436113396"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mtext> and </m:mtext><m:mfrac><m:mn>9</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} } " and " {  {9}  over  {"16"} } } {}</m:annotation></m:semantics></m:math>. Test for equality of the cross products.</para>
+        <para id="id8455678"><media id="eip-id1171643084280" alt="Three-eights and nine-sixteenths, with an arrow from each denominator pointing to the numerator of the opposite fraction."><image mime-type="image/png" src="../../media/eqn5.png" width="50" print-width=".5in"/></media></para>
+        <para id="id1167436338450"><media id="eip-id1168805868354" alt="is three times sixteen equal to nine times eight? No. forty-eight does not equal seventy-two."><image mime-type="image/png" src="../../media/eqn6.png" width="85" print-width="1in"/></media> The cross products are <emphasis effect="italics">not</emphasis> equal.</para>
+
+
+        <para id="id1167437591271">The fractions 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"16"} } } {}</m:annotation></m:semantics></m:math> are not equivalent.</para>
+      </example></section>
+      <section id="id1167448691707">
+        <title>Practice Set A</title>
+        <para id="id1167436308747">Determine if the pairs of fractions are equivalent.</para>
+        <exercise id="id1167452205527"><problem id="oo-id1167438089283">
+            <para id="id1167439808863"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>,
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1171896153131"><para id="eip-id2085667"><media id="eip-id1168883913571" alt="Six equals six."><image mime-type="image/png" src="../../media/eqn7.png" width="40" print-width=".4in"/></media>, yes</para></solution></exercise>
+        <exercise id="id1167447699952"><problem id="oo-id1167437257142">
+            <para id="id1167437058113"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } } {}</m:annotation></m:semantics></m:math>,
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>12</m:mtext><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"12"}  over  {"15"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+     <solution id="eip-id1165971021964"><para id="eip-id1165974987661"><media id="eip-id1165975833671" alt="Sixty equals sixty."><image mime-type="image/png" src="../../media/eqn8.png" width="50" print-width=".5in"/></media>, yes</para></solution></exercise>
+        <exercise id="id1167450800384"><problem id="oo-id1167442038657">
+            <para id="id1167436262399"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math>,
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"15"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+     <solution id="eip-id1166820501541"><para id="eip-id5358943"><m:math><m:mrow><m:mi>30</m:mi><m:mo>≠</m:mo><m:mi>24</m:mi></m:mrow></m:math>, no</para></solution></exercise>
+        <exercise id="id1167438056719"><problem id="oo-id1167441643539">
+            <para id="id1167438285584"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math>,
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>40</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"40"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+       <solution id="eip-id4404540"><para id="eip-id1171702155624"><media id="eip-id1171683906597" alt="Forty equals forty."><image mime-type="image/png" src="../../media/eqn10.png" width="50" print-width=".5in"/></media>, yes</para></solution></exercise>
+        
+        <exercise id="id1167450566271"><problem id="oo-id5400509">
+            <para id="id3710177"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"12"} } } {}</m:annotation></m:semantics></m:math>,
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+      <solution id="eip-id1168402014600"><para id="eip-id1168386877283"><media id="eip-id1168382021499" alt="Twelve equals twelve."><image mime-type="image/png" src="../../media/eqn11.png" width="50" print-width=".5in"/></media>, yes</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1167438045119">
+      <title>Reducing Fractions to Lowest Terms</title>
+      <para id="id1167439828240">It is often very useful to <emphasis effect="italics">conver</emphasis>t one fraction to an equivalent fraction that has reduced values in the numerator and denominator. We can suggest a method for doing so by considering the equivalent fractions 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math>. First, divide both the numerator and denominator of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> by 3. The fractions 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math> are equivalent.</para>
+      <para id="id1167438081873">(Can you prove this?) So, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>15</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"15"} } = {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math>. We wish to convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math>. Now divide the numerator and denominator of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> by 3, and see what happens.</para>
+      
+      
+      <para id="eip-342"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>9</m:mn>
+                        <m:mo stretchy="false">÷</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mtext>15</m:mtext>
+                        <m:mo stretchy="false">÷</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>3</m:mn>
+                      <m:mn>5</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {9 div 3}  over  {"15" div 3} } = {  {3}  over  {5} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1167439907867">The fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> is converted to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1167437581162">A natural question is "Why did we choose to divide by 3?" Notice that</para>
+      
+      <para id="eip-118"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>9</m:mn>
+                      <m:mtext>15</m:mtext>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"15"} } = {  {3 cdot 3}  over  {5 cdot 3} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1167436447630">We can see that the <emphasis effect="italics">factor</emphasis> 3 is common to both the numerator and denominator.</para>
+      <para id="id1167438334843"><title>Reducing a Fraction</title>From these observations we can suggest the following method for converting one fraction to an equivalent fraction that has reduced values in the numerator and denominator. The method is called <term>reducing a fraction</term>.</para>
+      <para id="id1167436886390">A fraction can be <term>reduced</term> by dividing <emphasis effect="italics">both</emphasis> the numerator and denominator by the <emphasis effect="italics">same</emphasis> nonzero whole number.</para>
+      
+      <para id="eip-403"><media id="id1167436683509_media" alt="Nine-twelfths is equal to nine divided by three, over nine divided by three, which is equal to three-fourths. Sixteen thirtieths is equal to sixteen divided by two, over thirty divided by 2, which is equal to eight-fifteenths. Notice that three over three and two over two are both equal to 1.">
+          <image mime-type="image/png" src="../../media/graphics2-aa69.png" id="id1167436683509__onlineimage" width="275" print-width="3in"/>
+        </media></para><para id="id1167437102022">Consider the collection of equivalent fractions</para>
+      <para id="id1167437599036"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>20</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"20"} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {"16"} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"12"} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {8} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1167450854057"><title>Reduced to Lowest Terms</title>Notice that each of the first four fractions can be <emphasis effect="italics">reduced</emphasis> to the last fraction, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math>, by dividing both the numerator and denominator by, respectively, 5, 4, 3, and 2. When a fraction is converted to the fraction that has the smallest numerator and denomi­nator in its collection of equivalent fractions, it is said to be <term>reduced to lowest terms</term>. The fractions 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} } } {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> are all reduced to lowest terms. </para>
+      <para id="id1167440173584">Observe a very important property of a fraction that has been reduced to lowest terms. The <emphasis effect="italics">only</emphasis> whole number that divides <emphasis effect="italics">both</emphasis> the numerator and denominator without a remainder is the number 1. When 1 is the only whole number that divides two whole numbers, the two whole numbers are said to be <term>relatively prime</term>.</para>
+      <para id="id1167440233896"><title>Relatively Prime</title>A fraction is reduced to lowest terms if its numerator and denominator are <term>relatively prime</term>.</para>
+    
+    <section id="id1167436251999">
+      <title>Methods of Reducing Fractions to Lowest Terms</title>
+      
+      <list id="id1167436248668" list-type="enumerated" number-style="arabic"><title>Method 1: Dividing Out Common Primes</title><item>Write the numerator and denominator as a product of primes.</item>
+        <item>Divide the numerator and denominator by each of the common prime factors. We often indicate this division by drawing a slanted line through each divided out factor. This process is also called <term>cancelling common factors</term>.</item>
+        <item>The product of the remaining factors in the numerator and the product of remaining factors of the denominator are relatively prime, and this fraction is reduced to lowest terms.</item>
+      </list>
+      <section id="id1167436690809"><title>Sample Set B</title><para id="id1167438350509">Reduce each fraction to lowest terms.</para>
+<example id="eip-id1164903397574">
+        <para id="id1167450969503"><m:math>
+
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>18</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mover><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:mover><m:mo stretchy="false">⋅</m:mo><m:mover><m:menclose notation="updiagonalstrike"><m:mn>3</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:mover></m:mrow><m:mrow><m:mrow><m:munder><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:munder><m:mo stretchy="false">⋅</m:mo><m:munder><m:menclose notation="updiagonalstrike"><m:mn>3</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:munder></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {"18"} } = {  { { { {2}}}  cSup { size 8{1} }  cdot  { { {3}}}  cSup { size 8{1} } }  over  { { { {2}}}  cSub { size 8{1} }  cdot  { { {3}}}  cSub { size 8{1} }  cdot 3} } = {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> 1 and 3 are relatively prime.</para>
+</example>
+<example id="eip-id903320">
+        <para id="id1167436304537"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mtext>20</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mrow><m:mrow><m:mover><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:mover><m:mo stretchy="false">⋅</m:mo><m:mover><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:mover></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mrow><m:munder><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:munder><m:mo stretchy="false">⋅</m:mo><m:munder><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:munder></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {"20"} } = {  { { { {2}}}  cSup { size 8{1} }  cdot  { { {2}}}  cSup { size 8{1} }  cdot 2 cdot 2}  over  { { { {2}}}  cSub { size 8{1} }  cdot  { { {2}}}  cSub { size 8{1} }  cdot 5} } = {  {4}  over  {5} } } {}</m:annotation></m:semantics></m:math> 4 and 5 are relatively prime.</para>
+</example>
+<example id="eip-id1164912199807">
+        <para id="id1167442763634"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mtext>56</m:mtext><m:mtext>104</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mrow><m:mrow><m:mover><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:mover><m:mo stretchy="false">⋅</m:mo><m:mover><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:mover></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mover><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:mover></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>7</m:mn></m:mrow><m:mrow><m:mrow><m:mrow><m:munder><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:munder><m:mo stretchy="false">⋅</m:mo><m:munder><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:munder></m:mrow><m:mo stretchy="false">⋅</m:mo><m:munder><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:munder></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mtext>13</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>7</m:mn><m:mtext>13</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"56"}  over  {"104"} } = {  { { { {2}}}  cSup { size 8{1} }  cdot  { { {2}}}  cSup { size 8{1} }  cdot  { { {2}}}  cSup { size 8{1} }  cdot 7}  over  { { { {2}}}  cSub { size 8{1} }  cdot  { { {2}}}  cSub { size 8{1} }  cdot  { { {2}}}  cSub { size 8{1} }  cdot "13"} } = {  {7}  over  {"13"} } } {}</m:annotation></m:semantics></m:math> 7 and 13 are relatively prime (and also truly prime) </para>
+</example>
+<example id="eip-id1164912935373">
+        <para id="id1167450610922"><m:math>
+<m:semantics>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mrow>
+<m:mrow>
+<m:mfrac>
+<m:mtext>315</m:mtext>
+<m:mtext>336</m:mtext>
+</m:mfrac>
+<m:mo stretchy="false">=</m:mo>
+<m:mrow>
+<m:mfrac>
+<m:mrow>
+<m:mrow>
+<m:mrow>
+<m:mover><m:menclose notation="updiagonalstrike"><m:mn>3</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:mover><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">⋅</m:mo><m:mover><m:menclose notation="updiagonalstrike"><m:mn>7</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:mover></m:mrow></m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:munder><m:menclose notation="updiagonalstrike"><m:mn>3</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:munder></m:mrow><m:mo stretchy="false">⋅</m:mo><m:munder><m:menclose notation="updiagonalstrike"><m:mn>7</m:mn></m:menclose><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:munder></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>15</m:mtext><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtd></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{ {  {"315"}  over  {"336"} } = {  { { { {3}}}  cSup { size 8{1} }  cdot 3 cdot  cdot 5 cdot  { { {7}}}  cSup { size 8{1} } }  over  {2 cdot 2 cdot 2 cdot 2 cdot  { { {3}}}  cSub { size 8{1} }  cdot  { { {7}}}  cSub { size 8{1} }  cdot } } = {  {"15"}  over  {"16"} } } {}</m:annotation></m:semantics></m:math> 15 and 16 are relatively prime.</para>
+</example>
+<example id="eip-id1164910478552"><para id="id1167450640750"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>15</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"15"} } = {  {2 cdot 2 cdot 2}  over  {3 cdot 5} } } {}</m:annotation></m:semantics></m:math> No common prime factors, so 8 and 15 are relatively prime.</para>
+<para id="eip-id1164715702240">The fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> is reduced to lowest terms.</para></example>
+        
+      </section>
+      <section id="id7616467">
+        <title>Practice Set B</title>
+        <para id="id7338402">Reduce each fraction to lowest terms.</para>
+        <exercise id="id1167450573985"><problem id="oo-id1167436971312">
+            <para id="id1167451163079"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1164915583892"><para id="eip-id1164906695108"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167438213142"><problem id="oo-id1167441403445">
+            <para id="id1167438206066"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {"15"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1164912968484"><para id="eip-id1164905359526"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167436716524"><problem id="oo-id1167436817685">
+            <para id="id1167438122127">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>48</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {"48"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1169018367865"><para id="eip-id1169027586363"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167453084828"><problem id="oo-id1167436808432">
+            <para id="id1167447266336"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>21</m:mtext><m:mtext>48</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"21"}  over  {"48"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1512464"><para id="eip-id1164905321978"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"16"} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167439818510"><problem id="oo-id1167438363363">
+            <para id="id1167436097387"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>72</m:mtext><m:mtext>42</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"72"}  over  {"42"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1164911802336"><para id="eip-id1164904043546"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>12</m:mtext><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"12"}  over  {7} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167439901603"><problem id="oo-id1167439939640">
+            <para id="id1167436170554">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>135</m:mtext><m:mtext>243</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"135"}  over  {"243"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1166815990688"><para id="eip-id1166825486130"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {9} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        
+      </section>
+
+        <list id="id1167437092416" list-type="enumerated" number-style="arabic"><title>Method 2: Dividing Out Common Factors</title><item>Mentally divide the numerator and the denominator by a factor that is com­mon to each. Write the quotient above the original number.</item>
+          <item>Continue this process until the numerator and denominator are relatively prime.</item>
+        </list>
+      <section id="id1167438082743"><title>Sample Set C</title><para id="id1167440216838">Reduce each fraction to lowest terms.</para>
+<example id="eip-id1163773760984">
+        <para id="id1167454857289"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>25</m:mtext><m:mtext>30</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"25"}  over  {"30"} } } {}</m:annotation></m:semantics></m:math>.  5 divides into both 25 and 30.</para>
+        <para id="id1167436786812"><emphasis effect="bold"/>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mover>
+                          <m:mrow>
+                            <m:menclose notation="updiagonalstrike"><m:mn>25</m:mn></m:menclose>
+                            
+                          </m:mrow>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mover>
+                        <m:munder>
+                          <m:mrow>
+                            <m:menclose notation="updiagonalstrike"><m:mn>30</m:mn></m:menclose>
+                            
+                          </m:mrow>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munder>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>5</m:mn>
+                        <m:mn>6</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  { { { {2}} { {5}}}  cSup { size 8{5} } }  over  { { { {3}} { {0}}}  cSub { size 8{6} } } } = {  {5}  over  {6} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+              5 and 6 are relatively prime.
+        </para>
+</example>
+<example id="eip-id1163785281586">
+        <para id="id1167436740588"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>18</m:mtext><m:mtext>24</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"18"}  over  {"24"} } } {}</m:annotation></m:semantics></m:math>.  Both numbers are even so we can divide by 2.</para>
+        <para id="eip-8"><m:math>
+<m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mover>
+                          <m:mrow>
+                            <m:menclose notation="updiagonalstrike"><m:mn>18</m:mn></m:menclose>
+                            
+                          </m:mrow>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                             
+                                <m:mn>9</m:mn>
+                                
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mover>
+                        <m:munder>
+                          <m:mrow>
+                            <m:menclose notation="updiagonalstrike"><m:mn>24</m:mn></m:menclose>
+                            
+                          </m:mrow>
+                          <m:mtext>12</m:mtext>
+                        </m:munder>
+                      </m:mfrac>
+</m:mrow>
+</m:mrow>
+</m:mstyle>
+
+
+</m:mrow>
+
+</m:math> Now, both 9 and 12 are divisible by 3.</para><para id="id1167436237837"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mover>
+                          <m:mrow>
+                            <m:menclose notation="updiagonalstrike"><m:mn>18</m:mn></m:menclose>
+                            
+                          </m:mrow>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mover>
+                                <m:menclose notation="updiagonalstrike"><m:mn>9</m:mn></m:menclose>
+                                <m:mstyle fontsize="6pt">
+                                  <m:mrow>
+                                    <m:mn>3</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mover>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mover>
+                        <m:munder>
+                          <m:mrow>
+                            <m:menclose notation="updiagonalstrike"><m:mn>24</m:mn></m:menclose>
+                            
+                          </m:mrow>
+                          <m:munder><m:menclose notation="updiagonalstrike"><m:mtext>12</m:mtext></m:menclose><m:mn>4</m:mn></m:munder>
+                        </m:munder>
+                      </m:mfrac>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow/>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:mn>3</m:mn>
+                              <m:mn>4</m:mn>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {  { { { {1}} { {8}}}  cSup { size 8{ { { {9}}}  cSup { size 6{3} } } } }  over  { { { {2}} { {4}}}  cSub {"12"} } }  size 12{ {}= {  {3}  over  {4} } }} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+           3 and 4 are relatively prime.
+        </para>
+</example>
+<example id="eip-id1163775431584">
+        <para id="id1167438290862"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>210</m:mn></m:menclose></m:mrow><m:mstyle fontsize="8pt"><m:mrow><m:mover><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>21</m:mn></m:menclose></m:mrow><m:mstyle fontsize="6pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:mover></m:mrow></m:mstyle></m:mover><m:munder><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>150</m:mn></m:menclose></m:mrow><m:munder><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>15</m:mn></m:menclose></m:mrow><m:mstyle fontsize="6pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:munder></m:munder></m:mfrac><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { { {2}} { {1}} { {0}}}  cSup { size 8{ { { {2}} { {1}}}  cSup { size 6{7} } } } }  over  { { { {1}} { {5}} { {0}}}  cSub { { { {1}} { {5}}}  cSub { size 6{5} } } } }  size 12{ {}= {  {7}  over  {5} } }} {}</m:annotation></m:semantics></m:math>.  7 and 5 are relatively prime.</para>
+</example>
+<example id="eip-id1163773770257">
+        <para id="id1167436250947"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mtext>36</m:mtext><m:mtext>96</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>18</m:mtext><m:mtext>48</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>9</m:mn><m:mtext>24</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"36"}  over  {"96"} } = {  {"18"}  over  {"48"} } = {  {9}  over  {"24"} } = {  {3}  over  {8} } } {}</m:annotation></m:semantics></m:math>. 3 and 8 are relatively prime. </para>
+      </example></section>
+      <section id="id1167441726726">
+        <title>Practice Set C</title>
+        <para id="id1167438318054">Reduce each fraction to lowest terms.</para>
+        <exercise id="id1167443260043"><problem id="oo-id1167437709748">
+            <para id="id1167437696313"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>12</m:mtext><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"12"}  over  {"16"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id6717506"><para id="eip-id6717507"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167436660147"><problem id="oo-id1167436084427">
+            <para id="id1167450756498"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>24</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"24"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1168697618024"><para id="eip-id1168697618025"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167439776456"><problem id="oo-id1167437569181">
+            <para id="id1167436418365">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>21</m:mtext><m:mtext>84</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"21"}  over  {"84"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1172604985181"><para id="eip-id1172610939059"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167452672779"><problem id="oo-id1167438307267">
+            <para id="id1167436256499"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>48</m:mtext><m:mtext>64</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"48"}  over  {"64"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1166808097666"><para id="eip-id1166812593025"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167436737141"><problem id="oo-id1167444503792">
+            <para id="id1167438206704">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>63</m:mtext><m:mtext>81</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"63"}  over  {"81"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1169019406950"><para id="eip-id1169018225321"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {9} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="id1167443398327"><problem id="oo-id1167441738535">
+            <para id="id1167439823688">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>150</m:mtext><m:mtext>240</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"150"}  over  {"240"} } } {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id6780471"><para id="eip-id6780472"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } } {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+      </section>
+    </section>
+</section>
+    <section id="id1167436884758">
+      <title>Raising Fractions to Higher Terms</title>
+      <para id="id1167436806095">Equally as important as reducing fractions is raising fractions to higher terms. Raising a fraction to higher terms is the process of constructing an equivalent fraction that has higher values in the numerator and denominator than the original fraction.</para>
+      
+      <para id="id1167437550984">The fractions 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> are equivalent, that is,
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>9</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } = {  {9}  over  {"15"} } } {}</m:annotation></m:semantics></m:math>. Notice also,</para>
+      
+      <para id="eip-474"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mn>3</m:mn>
+                      </m:mrow>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>9</m:mn>
+                      <m:mtext>15</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {3 cdot 3}  over  {5 cdot 3} } = {  {9}  over  {"15"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1167436339328">Notice that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {3} } =1} {}</m:annotation></m:semantics></m:math> and that 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} }  cdot 1= {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math>. We are not changing the value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1167436929289">From these observations we can suggest the following method for converting one fraction to an equivalent fraction that has higher values in the numerator and denominator. This method is called <term>raising a fraction to higher terms</term>.</para>
+      
+      <para id="id1167440001665"><title>Raising a Fraction to Higher Terms</title>A fraction can be raised to an equivalent fraction that has higher terms in the numerator and denominator by multiplying both the numerator and denominator by the same nonzero whole number.</para>
+      <para id="id1167438230711">The fraction 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math> can be raised to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>24</m:mtext><m:mtext>32</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"24"}  over  {"32"} } } {}</m:annotation></m:semantics></m:math> by multiplying both the numerator and denominator by 8.</para>
+      
+      
+      <para id="eip-302"><media id="id6751483_media" alt="Three fourths equals three times eight, over four time eight, which is equal to twenty-four over thirty-two. Notice that eight over eight is equal to 1.">
+          <image mime-type="image/png" src="../../media/graphics3-cd1c.png" id="id6751483__onlineimage" width="250" print-width="2.5in"/>
+        </media></para><para id="id1167438146661">Most often, we will want to convert a given fraction to an equivalent fraction with a higher specified denominator. For example, we may wish to convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } } {}</m:annotation></m:semantics></m:math> to an equivalent fraction that has denominator 32, that is,</para>
+      
+      <para id="id1167441059782">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>5</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mi>?</m:mi>
+                      <m:mtext>32</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } = {  {?}  over  {"32"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1167438266869">This is possible to do because we know the process. We must multiply <emphasis effect="italics">both</emphasis> the numerator and denominator of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } } {}</m:annotation></m:semantics></m:math> by the <emphasis effect="italics">same</emphasis> nonzero whole number in order to 8 obtain an equivalent fraction.</para>
+      
+      
+      
+      <para id="id8846974">We have some information. The denominator 8 was raised to 32 by multiplying it by some nonzero whole number. Division will give us the proper factor. Divide the original denominator into the new denominator.</para>
+      
+      <para id="eip-997"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>32 </m:mtext>
+                      <m:mo stretchy="false">÷</m:mo>
+                      <m:mtext> 8 </m:mtext>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext> 4</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"32 " div " 8 "=" 4"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1167445465542">Now, multiply the numerator 5 by 4.</para>
+      
+      <para id="eip-291"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>5 </m:mtext>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mtext>4 </m:mtext>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtext> 20</m:mtext>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"5 " cdot "4 "=" 20"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1167438322111">Thus,</para>
+      
+      <para id="eip-651"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>5</m:mn>
+                        <m:mn>8</m:mn>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>8</m:mn>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mtext>20</m:mtext>
+                      <m:mtext>32</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } = {  {5 cdot 4}  over  {8 cdot 4} } = {  {"20"}  over  {"32"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1167436859519">So,</para>
+      
+      <para id="eip-322"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>5</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mtext>20</m:mtext>
+                      <m:mtext>32</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } = {  {"20"}  over  {"32"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <section id="id1167436267652"><title>Sample Set D</title><para id="id1167438288368">Determine the missing numerator or denominator.</para>
+<example id="eip-id8010614">
+        <para id="id1167439384155"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>35</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {7} } = {  {?}  over  {"35"} } } {}</m:annotation></m:semantics></m:math>. Divide the original denominator into the new denominator.</para>
+        <para id="id1167439876125"><m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>35</m:mtext>
+                        <m:mi>÷</m:mi>
+                        <m:mrow>
+                          <m:mn>7</m:mn>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mn>5</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{"35"¸7=5} {}</m:annotation>
+              </m:semantics>
+            </m:math> The quotient is 5. Multiply the original numerator by 5.
+        </para>
+        <para id="id1167441829101"><m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>3</m:mn>
+                            <m:mn>7</m:mn>
+                          </m:mfrac>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mn>5</m:mn>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>7</m:mn>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mn>5</m:mn>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mtext>15</m:mtext>
+                          <m:mtext>35</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {7} } = {  {3 cdot 5}  over  {7 cdot 5} } = {  {"15"}  over  {"35"} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+       
+         The missing numerator is 15.
+        </para>
+</example>
+<example id="eip-id8010804">
+        <para id="id1167438228507"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>45</m:mtext><m:mi>?</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } = {  {"45"}  over  {?} } } {}</m:annotation></m:semantics></m:math>. Divide the original numerator into the new numerator.</para>
+        <para id="id1167437585951"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>45</m:mtext>
+                      <m:mi>÷</m:mi>
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>9</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"45"¸5=9} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+           The quotient is 9. Multiply the original denominator by 9.
+        </para>
+        <para id="id1167436967806"><m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>5</m:mn>
+                            <m:mn>6</m:mn>
+                          </m:mfrac>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>5</m:mn>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mn>9</m:mn>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>6</m:mn>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mn>9</m:mn>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mtext>45</m:mtext>
+                          <m:mtext>54</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } = {  {5 cdot 9}  over  {6 cdot 9} } = {  {"45"}  over  {"54"} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+      
+           The missing denominator is 45.
+        </para>
+      </example></section>
+      <section id="id1167436786116">
+        <title>Practice Set D</title>
+        <para id="id1167441230597">Determine the missing numerator or denominator.</para>
+        <exercise id="id8273263"><problem id="oo-id7060183">
+            <para id="id1167439911869">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>40</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } = {  {?}  over  {"40"} } } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+        <solution id="eip-id1167454793826"><para id="eip-id1167457021311">32</para></solution></exercise>
+        <exercise id="id1167436300684"><problem id="oo-id1167437123251">
+            <para id="id1167438333451"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>28</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {7} } = {  {?}  over  {"28"} } } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+        <solution id="eip-id1169019696334"><para id="eip-id1169018732767">12</para></solution></exercise>
+        
+        <exercise id="id1167451805243"><problem id="oo-id1167441981068">
+            <para id="id1167441984170"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>24</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {6} } = {  {?}  over  {"24"} } } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+        <solution id="eip-id7415892"><para id="eip-id7415893">4</para></solution></exercise>
+        <exercise id="id1167436716234"><problem id="oo-id1167437119771">
+            <para id="id1167437486089">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>10</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>45</m:mtext><m:mi>?</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"10"} } = {  {"45"}  over  {?} } } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+        <solution id="eip-id4352154"><para id="eip-id4297148">150</para></solution></exercise>
+        <exercise id="id1167454780044"><problem id="oo-id4113722">
+            <para id="id1167439970786">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>15</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>165</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"15"} } = {  {?}  over  {"165"} } } {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+        <solution id="eip-id1166815782749"><para id="eip-id1166819189680">88</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1167436932678"><title>Exercises</title><para id="id1167439795762">For the following problems, determine if the pairs of fractions are equivalent.</para>
+      <exercise id="id1167437512233">
+        <problem id="oo-id1167439195279">
+          <para id="id1167442055208"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mn>5</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } , {  {5}  over  {"10"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172611336995"><para id="eip-id1172624933727">equivalent</para></solution>
+      </exercise>
+      <exercise id="id1167442324847">
+        <problem id="oo-id1167453454625">
+          <para id="id1167454176508"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mn>8</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } , {  {8}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167437122812">
+        <problem id="oo-id1167451534592">
+          <para id="id1167438633659"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>12</m:mtext></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mtext>10</m:mtext><m:mtext>24</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"12"} } , {  {"10"}  over  {"24"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172642249354"><para id="eip-id1172605423816">equivalent</para></solution>
+      </exercise>
+      <exercise id="id1167441598124">
+        <problem id="oo-id1167437164938">
+          <para id="id1167440769745"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mn>3</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } , {  {3}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id8278625">
+        <problem id="oo-id1167440097083">
+          <para id="id1167438087427"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mtext>12</m:mtext><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {5} } , {  {"12"}  over  {"15"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id2146320"><para id="eip-id1172625176425">not equivalent</para></solution>
+      </exercise>
+      <exercise id="id1167443185055">
+        <problem id="oo-id1167443212077">
+          <para id="id1167436144385"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mn>7</m:mn><m:mtext>42</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {6} } , {  {7}  over  {"42"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167440084648">
+        <problem id="oo-id1167438206530">
+          <para id="id6598332"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mtext>25</m:mtext></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mtext>49</m:mtext><m:mtext>75</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {"25"} } , {  {"49"}  over  {"75"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172618668435"><para id="eip-id1172618712989">not equivalent</para></solution>
+      </exercise>
+      <exercise id="id1167450752384">
+        <problem id="oo-id1167436130654">
+          <para id="id1167436255156"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>28</m:mtext></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mtext>20</m:mtext><m:mtext>112</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"28"} } , {  {"20"}  over  {"112"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167441831606">
+        <problem id="oo-id1167436673519">
+          <para id="id1167440222198"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>10</m:mtext></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mtext>36</m:mtext><m:mtext>110</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"10"} } , {  {"36"}  over  {"110"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172606611852"><para id="eip-id1172618076498">not equivalent</para></solution>
+      </exercise>
+      <exercise id="id2612321">
+        <problem id="oo-id1167443226820">
+          <para id="id1167446191664"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>10</m:mtext></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mtext>18</m:mtext><m:mtext>32</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {"10"} } , {  {"18"}  over  {"32"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167454615025">
+        <problem id="oo-id1167437529226">
+          <para id="id1167452765246"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mtext>15</m:mtext><m:mtext>24</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } , {  {"15"}  over  {"24"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172626548975"><para id="eip-id1733083">equivalent</para></solution>
+      </exercise>
+      <exercise id="id1167443048010">
+        <problem id="oo-id1167438268319">
+          <para id="id1167439862727"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>10</m:mtext><m:mtext>16</m:mtext></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mtext>15</m:mtext><m:mtext>24</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"10"}  over  {"16"} } , {  {"15"}  over  {"24"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167438947673">
+        <problem id="oo-id1167436769932">
+          <para id="id1167436928709"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } , {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172611168586"><para id="eip-id1172616850591">not equivalent</para></solution>
+      </exercise>
+      <exercise id="id1167445559144">
+        <problem id="oo-id1167436257203">
+          <para id="id1167436909584"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>7</m:mn></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mtext>15</m:mtext><m:mtext>21</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {7} } , {  {"15"}  over  {"21"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167438627321">
+        <problem id="oo-id1167453435944">
+          <para id="id8609493"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>11</m:mtext></m:mfrac><m:mi>,</m:mi><m:mfrac><m:mtext>11</m:mtext><m:mn>9</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"11"} } , {  {"11"}  over  {9} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172618301593"><para id="eip-id1172605065747">not equivalent</para></solution>
+      </exercise>
+      <para id="id1167450537946">For the following problems, determine the missing numerator or denominator.</para>
+      <exercise id="id1167439377466">
+        <problem id="oo-id1167436655888">
+          <para id="id1167438192362"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } = {  {?}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167453180057">
+        <problem id="oo-id1167454659818">
+          <para id="id1167450435530"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>30</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {5} } = {  {?}  over  {"30"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172635587341"><para id="eip-id1172619815147">6</para></solution>
+      </exercise>
+      <exercise id="id7884493">
+        <problem id="oo-id1167450921113">
+          <para id="id1167441659470"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mn>9</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } = {  {?}  over  {9} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167445473749">
+        <problem id="oo-id1167439944918">
+          <para id="id1167436866710"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>30</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {5} } = {  {?}  over  {"30"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172611244740"><para id="eip-id1172608569873">12</para></solution>
+      </exercise>
+      <exercise id="eip-983"><problem id="eip-556">
+  <para id="eip-496">
+<m:math>
+<m:mfrac>
+<m:mn>2</m:mn>
+<m:mn>3</m:mn>
+</m:mfrac>
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mo>?</m:mo>
+<m:mn>9</m:mn>
+</m:mfrac>
+</m:math>
+
+  </para>
+</problem>
+
+</exercise><exercise id="eip-586"><problem id="eip-319">
+  <para id="eip-473">
+<m:math>
+<m:mfrac>
+<m:mn>3</m:mn>
+<m:mn>4</m:mn>
+</m:mfrac> 
+<m:mo>=</m:mo>
+<m:mfrac>
+<m:mo>?</m:mo>
+<m:mn>16</m:mn>
+</m:mfrac> 
+</m:math>
+ </para>
+</problem>
+
+<solution id="eip-978">
+  <para id="eip-644">12
+  </para>
+</solution>
+</exercise><exercise id="id1167450970605">
+        <problem id="oo-id1167438082917">
+          <para id="id1167437712658"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>18</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {6} } = {  {?}  over  {"18"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id7648399">
+        <problem id="oo-id1167441980914">
+          <para id="id1167440817675"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>25</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } = {  {?}  over  {"25"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172635110516"><para id="eip-id1172643905448">20</para></solution>
+      </exercise>
+      <exercise id="id1167440226311">
+        <problem id="oo-id1167437587294">
+          <para id="id1167439831488"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>4</m:mn><m:mi>?</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } = {  {4}  over  {?} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167442749264">
+        <problem id="oo-id1167436227736">
+          <para id="id1167436777647"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>25</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>27</m:mtext><m:mi>?</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"25"} } = {  {"27"}  over  {?} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172639398356"><para id="eip-id1172634784914">75</para></solution>
+      </exercise>
+      <exercise id="id1167439923469">
+        <problem id="oo-id1167438175044">
+          <para id="id1167451828624"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>18</m:mtext><m:mi>?</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {2} } = {  {"18"}  over  {?} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167437608424">
+        <problem id="oo-id1167446496038">
+          <para id="id1167442307434"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>80</m:mtext><m:mi>?</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3} } = {  {"80"}  over  {?} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172617323232"><para id="eip-id1172618618281">48</para></solution>
+      </exercise>
+      <exercise id="id1167438724297">
+        <problem id="oo-id1167436706683">
+          <para id="id1167440227809"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mi>?</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } = {  {3}  over  {?} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167437241657">
+        <problem id="oo-id1167442886020">
+          <para id="id1167436357202"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } = {  {?}  over  {"100"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172616132333"><para id="eip-id1172620701575">80</para></solution>
+      </exercise>
+      <exercise id="id1167453976091">
+        <problem id="oo-id6330540">
+          <para id="id1167437591909"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>25</m:mtext><m:mi>?</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } = {  {"25"}  over  {?} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167437139608">
+        <problem id="oo-id1167437152612">
+          <para id="id1167437133534"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>16</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>96</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"16"} } = {  {?}  over  {"96"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172618001277"><para id="eip-id1172621064991">18</para></solution>
+      </exercise>
+      <exercise id="id1167438085063">
+        <problem id="oo-id1167439938886">
+          <para id="id1167437506459"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>15</m:mtext><m:mtext>16</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>225</m:mtext><m:mi>?</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"}  over  {"16"} } = {  {"225"}  over  {?} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167437187774">
+        <problem id="oo-id1167440000415">
+          <para id="id8723734"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>11</m:mtext><m:mtext>12</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>168</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"11"}  over  {"12"} } = {  {?}  over  {"168"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172621850878"><para id="eip-id4887931">154</para></solution>
+      </exercise>
+      <exercise id="id1167436264504">
+        <problem id="oo-id1167437590509">
+          <para id="id1167454052941"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>13</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>286</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"13"} } = {  {?}  over  {"286"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167452953394">
+        <problem id="oo-id1167453083198">
+          <para id="id1167438630077"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>32</m:mtext><m:mtext>33</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>?</m:mi><m:mtext>1518</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"32"}  over  {"33"} } = {  {?}  over  {"1518"} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172605117265"><para id="eip-id1172635499365">1,472</para></solution>
+      </exercise>
+      <exercise id="id1167450750644">
+        <problem id="oo-id1167437140487">
+          <para id="id1167436666209"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>19</m:mtext><m:mtext>20</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>1045</m:mtext><m:mi>?</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"19"}  over  {"20"} } = {  {"1045"}  over  {?} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id8115192">
+        <problem id="oo-id1167450715307">
+          <para id="id1167440054220"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mtext>37</m:mtext><m:mtext>50</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mtext>1369</m:mtext><m:mi>?</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"37"}  over  {"50"} } = {  {"1369"}  over  {?} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1172632428022"><para id="eip-id1172606899739">1,850</para></solution>
+      </exercise>
+      <para id="id1167454627843">For the following problems, reduce, if possible, each of the fractions to lowest terms.</para>
+      <exercise id="id1167436809136">
+        <problem id="oo-id1167436333901">
+          <para id="id1167437039777"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167445918041">
+        <problem id="oo-id1167439915929">
+          <para id="id1167437997522"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172622282238"><para id="eip-id1172607699654"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167436957447">
+        <problem id="oo-id1167437570996">
+          <para id="id1167438167388"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167454612922">
+        <problem id="oo-id1167441986056">
+          <para id="id1167437583440"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>14</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {"14"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172621896921"><para id="eip-id1172609976179"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {7} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id6759136">
+        <problem id="oo-id1167439384233">
+          <para id="id1167442877474"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167437600834">
+        <problem id="oo-id1167439280473">
+          <para id="id1167450515282"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mtext>14</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {"14"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172624977189"><para id="eip-id1172637139804"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {7} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id8172452">
+        <problem id="oo-id1167438213026">
+          <para id="id1167439930998"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167436234216">
+        <problem id="oo-id1167436889315">
+          <para id="id1167441804465"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172618889138"><para id="eip-id1172620966981"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167437117559">
+        <problem id="oo-id1167442878582">
+          <para id="id1167439192144"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>18</m:mtext><m:mtext>14</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"18"}  over  {"14"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167442922518">
+        <problem id="oo-id1167438586669">
+          <para id="id1167440129399"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>20</m:mtext><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"20"}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172629874108"><para id="eip-id1172616085808"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {2} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167438165996">
+        <problem id="oo-id1167437165866">
+          <para id="id1167439894991"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id1167439981117">
+        <problem id="oo-id1167437493409">
+          <para id="id1167436272094"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>10</m:mtext><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"10"}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172618292777"><para id="eip-id1172611151784"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167438590553">
+        <problem id="oo-id1167452377598">
+          <para id="id1167452419301"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>14</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {"14"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167440197242">
+        <problem id="oo-id1167438331363">
+          <para id="id1167439850605"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>14</m:mtext><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"14"}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172607922355"><para id="eip-id1172615342654"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167453476025">
+        <problem id="oo-id8233469">
+          <para id="id2137920"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>10</m:mtext><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"10"}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167438534373">
+        <problem id="oo-id1167441828729">
+          <para id="id1167443219414"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mtext>70</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {"70"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172626161922"><para id="eip-id1172605448755"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>35</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"35"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167441010188">
+        <problem id="oo-id1167436883001">
+          <para id="id1167439845849"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>40</m:mtext><m:mtext>60</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"40"}  over  {"60"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id4184208">
+        <problem id="oo-id1167452664945">
+          <para id="id1167437069711"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>20</m:mtext><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"20"}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172611057988"><para id="eip-id1172621642317"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167452182147">
+        <problem id="oo-id1167449125916">
+          <para id="id1167440041574"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>32</m:mtext><m:mtext>28</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"32"}  over  {"28"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167445348003">
+        <problem id="oo-id1167437133940">
+          <para id="id1167439795240"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>36</m:mtext><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"36"}  over  {"10"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172606949647"><para id="eip-id1172606933587"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>18</m:mtext><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"18"}  over  {5} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167436720551">
+        <problem id="oo-id1939200">
+          <para id="id1167437067924"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>36</m:mtext><m:mtext>60</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"36"}  over  {"60"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167443100872">
+        <problem id="oo-id1167438063969">
+          <para id="id1167442054910"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>12</m:mtext><m:mtext>18</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"12"}  over  {"18"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172621210199"><para id="eip-id2116979"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167436704184">
+        <problem id="oo-id1167438290630">
+          <para id="id1167453331534">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>18</m:mtext><m:mtext>27</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"18"}  over  {"27"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1744437">
+        <problem id="oo-id1167439852693">
+          <para id="id1167436264089"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>18</m:mtext><m:mtext>24</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"18"}  over  {"24"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id4966387"><para id="eip-id1172620441515"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167442877854">
+        <problem id="oo-id1167452806970">
+          <para id="id1167437214101"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>32</m:mtext><m:mtext>40</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"32"}  over  {"40"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167437488968">
+        <problem id="oo-id1167443076892">
+          <para id="id1167438041175"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>11</m:mtext><m:mtext>22</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"11"}  over  {"22"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172626403162"><para id="eip-id1172605180425"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167454515807">
+        <problem id="oo-id1167436143855">
+          <para id="id1167436869278">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>27</m:mtext><m:mtext>81</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"27"}  over  {"81"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167437702552">
+        <problem id="oo-id1167436828026">
+          <para id="id1167453548803"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>17</m:mtext><m:mtext>51</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"17"}  over  {"51"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172608569596"><para id="eip-id1172605053277"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167449468744">
+        <problem id="oo-id1167437164706">
+          <para id="id1167438384243"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>16</m:mtext><m:mtext>42</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"16"}  over  {"42"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167450978841">
+        <problem id="oo-id1167445340030">
+          <para id="id1167440188240"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>39</m:mtext><m:mtext>13</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"39"}  over  {"13"} } } {}</m:annotation></m:semantics></m:math>    </para>
+        </problem>
+<solution id="eip-id1172617916843"><para id="eip-id1172626721572">3</para></solution>
+      </exercise>
+      <exercise id="id1167437200528">
+        <problem id="oo-id1167436086639">
+          <para id="id1167436772153"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>44</m:mtext><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"44"}  over  {"11"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167440023076">
+        <problem id="oo-id8906966">
+          <para id="id1167438097809"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>66</m:mtext><m:mtext>33</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"66"}  over  {"33"} } } {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1172641107335"><para id="eip-id1172614606540">2</para></solution>
+      </exercise>
+      <exercise id="id1167436321927">
+        <problem id="oo-id1167441835764">
+          <para id="id1167436775890">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>15</m:mtext><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"}  over  {1} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167436335707">
+        <problem id="oo-id1167439944396">
+          <para id="id1167438338903">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>15</m:mtext><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"}  over  {"16"} } } {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1172616690361"><para id="eip-id4819043">already reduced</para></solution>
+      </exercise>
+      <exercise id="id1167437226131">
+        <problem id="oo-id1167445658863">
+          <para id="id1167445776664"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>15</m:mtext><m:mtext>40</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"}  over  {"40"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167452199090">
+        <problem id="oo-id1167439931636">
+          <para id="id1167439961970"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>36</m:mtext><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"36"}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172607237368"><para id="eip-id4385120"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>25</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {"25"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167436229667">
+        <problem id="oo-id1167437484920">
+          <para id="id8899073"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>45</m:mtext><m:mtext>32</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"45"}  over  {"32"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167436825458">
+        <problem id="oo-id1167445248590">
+          <para id="id1167436876347"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>30</m:mtext><m:mtext>75</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"30"}  over  {"75"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id2029796"><para id="eip-id1172611320676"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167437223173">
+        <problem id="oo-id1167436208788">
+          <para id="id1167437139782"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>121</m:mtext><m:mtext>132</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"121"}  over  {"132"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167438131059">
+        <problem id="oo-id4009780">
+          <para id="id1167438342789"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>72</m:mtext><m:mtext>64</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"72"}  over  {"64"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172610085513"><para id="eip-id1172626219911"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>9</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {9}  over  {8} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167454115548">
+        <problem id="oo-id1167442867000">
+          <para id="id1167449462432">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>30</m:mtext><m:mtext>105</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"30"}  over  {"105"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167438197060">
+        <problem id="oo-id1167436821190">
+          <para id="id1167438153062">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>46</m:mtext><m:mtext>60</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"46"}  over  {"60"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172620488367"><para id="eip-id1172610454322"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>23</m:mtext><m:mtext>30</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"23"}  over  {"30"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1753345">
+        <problem id="oo-id1167448975444">
+          <para id="id1167439977405">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>75</m:mtext><m:mtext>45</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"75"}  over  {"45"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167441987614">
+        <problem id="oo-id1167450785130">
+          <para id="id1167439768549">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>40</m:mtext><m:mtext>18</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"40"}  over  {"18"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172610757682"><para id="eip-id1172630270977"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>20</m:mtext><m:mn>9</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"20"}  over  {9} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167453717389">
+        <problem id="oo-id1167451559460">
+          <para id="id1167440042386">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>108</m:mtext><m:mtext>76</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"108"}  over  {"76"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167450439880">
+        <problem id="oo-id1167436689997">
+          <para id="id1167439966262"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>21</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"21"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172609873876"><para id="eip-id1172606432724"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167438344007">
+        <problem id="oo-id1167440168272">
+          <para id="id1167452241474"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>51</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {"51"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167450492689">
+        <problem id="oo-id1167439830154">
+          <para id="id1167438005332"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>51</m:mtext><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"51"}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172629764350"><para id="eip-id1172608600757"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>17</m:mtext><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"17"}  over  {4} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167437150356">
+        <problem id="oo-id1167437025176">
+          <para id="id1167441867313">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"100"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167442823345">
+        <problem id="oo-id1167436663188">
+          <para id="id1167442885220">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>51</m:mtext><m:mtext>54</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"51"}  over  {"54"} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+<solution id="eip-id1172611201660"><para id="eip-id1172612965984"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>17</m:mtext><m:mtext>18</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"17"}  over  {"18"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167436725515">
+        <problem id="oo-id1167439957330">
+          <para id="id1167450561225"> A ream of paper contains 500 sheets. What frac­tion of a ream of paper is 200 sheets? Be sure to reduce.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167437505523">
+        <problem id="oo-id1167436062142">
+          <para id="id1167440999586"> There are 24 hours in a day. What fraction of a day is 14 hours? 
+</para>
+        </problem>
+<solution id="eip-id1172631737292"><para id="eip-id1172637621645"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"12"} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="id1167437982946"><problem id="oo-id1167439815668">
+          <para id="id1167436339743"> A full box contains 80 calculators. How many calculators are in 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation></m:semantics></m:math> of a box?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167453717464"><problem id="oo-id1167442911816">
+          <para id="id1167436331622"> There are 48 plants per flat. How many plants are there in 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {3} } } {}</m:annotation></m:semantics></m:math> of a flat? </para>
+        </problem>
+      <solution id="eip-id1166239597117"><para id="eip-id1166239048895">16</para></solution></exercise>
+      <exercise id="id8742736"><problem id="oo-id4267175">
+          <para id="id1167442049551"> A person making $18,000 per year must pay $3,960 in income tax. What fraction of this per­son's yearly salary goes to the IRS?</para>
+        </problem>
+      </exercise>
+      <para id="id8053401">For the following problems, find the mistake.</para>
+      <exercise id="id1167436876115"><problem id="oo-id1167450748266">
+          <para id="id2069471"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mtext>24</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:menclose notation="updiagonalstrike"><m:mn>3</m:mn></m:menclose><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>3</m:mn></m:menclose><m:mo stretchy="false">⋅</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>0</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {"24"} } = {  { { {3}}}  over  { { {3}} cdot 8} } = {  {0}  over  {8} } =0} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1172619907786"><para id="eip-id1172626423492">Should be 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math>; the cancellation is division, so the numerator should be 1.</para></solution></exercise>
+      <exercise id="id1167436786522"><problem id="oo-id8074787">
+          <para id="id1167437025234">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>10</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>2</m:mn></m:menclose><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>6</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"10"} } = {  { { {2}}+6}  over  { { {2}}+8} } = {  {6}  over  {8} } = {  {3}  over  {4} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167437523906"><problem id="oo-id1167450569345">
+          <para id="id1167440116243"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>15</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:menclose notation="updiagonalstrike"><m:mn>7</m:mn></m:menclose><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>7</m:mn></m:menclose><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"15"} } = {  { { {7}}}  over  { { {7}}+8} } = {  {1}  over  {8} } } {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+      <solution id="eip-id1164200378674"><para id="eip-id1164200378675">Cancel factors only, not addends; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>15</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"15"} } } {}</m:annotation></m:semantics></m:math> is already reduced.</para></solution></exercise>
+      <exercise id="id1167440141371"><problem id="oo-id1167439934768">
+          <para id="id1167450605644"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>6</m:mn><m:mn>7</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>5</m:mn></m:menclose><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:menclose notation="updiagonalstrike"><m:mn>5</m:mn></m:menclose><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {7} } = {  { { {5}}+1}  over  { { {5}}+2} } = {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1167436314290"><problem id="oo-id1167436348908">
+          <para id="id1167440996427">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:menclose notation="updiagonalstrike"><m:mn>9</m:mn></m:menclose><m:menclose notation="updiagonalstrike"><m:mn>9</m:mn></m:menclose></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>0</m:mn><m:mn>0</m:mn></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { { {9}}}  over  { { {9}}} } = {  {0}  over  {0} } =0} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+      <solution id="eip-id1166235651832"><para id="eip-id1166240139340">Same as <link target-id="id1167436876115"/>; answer is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {1} } } {}</m:annotation></m:semantics></m:math> or 1.</para></solution></exercise>
+    
+    <section id="id1167438007340">
+      <title>Exercises for Review</title>
+      <exercise id="id1167439860813">
+        <problem id="oo-id1167438216390">
+          <para id="id1167436289464">(<link document="m34780"/>) Round 816 to the nearest thousand.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167440060484"><problem id="oo-id1167436885396">
+          <para id="id1167444751964">(<link document="m34864"/>) Perform the division: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 div 6} {}</m:annotation></m:semantics></m:math>.    </para>
+        </problem>
+      <solution id="eip-id1168395391208"><para id="eip-id1168394851129">0</para></solution></exercise>
+      <exercise id="id1167437984454">
+        <problem id="oo-id1167437217581">
+          <para id="id1167439956808">(<link document="m34873"/>) Find all the factors of 24.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1167445911211"><problem id="oo-id8070091">
+          <para id="id1167445992170">(<link document="m34874"/>) Find the greatest common factor of 12 and 18.  </para>
+        </problem>
+      <solution id="eip-id1169019705962"><para id="eip-id1169023654089">6</para></solution></exercise>
+      <exercise id="id1167437703025">
+        <problem id="oo-id2082345">
+          <para id="id1167437961525">(<link document="m34912"/>) Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>15</m:mtext><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"15"}  over  {8} } } {}</m:annotation></m:semantics></m:math> to a mixed number.</para>
+        </problem>
+      </exercise>
+    </section>
+</section>
+  </content>
+</document>

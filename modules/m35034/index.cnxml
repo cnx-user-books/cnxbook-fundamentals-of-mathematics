@@ -1,0 +1,385 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Summary of Key Concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35034</md:content-id>
+  <md:title>Summary of Key Concepts</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module reviews the key concepts from the chapter "Signed Numbers."</md:abstract>
+  <md:uuid>7866123e-6294-4f9d-b162-26aec93b4540</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1167928959181"><title>Summary of Key Concepts</title><para id="id1167936952773"><title>Variables and Constants (<link document="m35027"/>)</title>A <emphasis>variable</emphasis> is a letter or symbol that represents any member of a set of two or more numbers. A <emphasis>constant</emphasis> is a letter or symbol that represents a specific number. For example, the Greek letter <m:math>
+<m:mi>π</m:mi>
+</m:math> (pi) represents the constant 3.14159 . . . .</para>
+      <para id="id1167941594833"><title>The Real Number Line (<link document="m35027"/>)</title>  The <emphasis>real number line </emphasis>allows us to visually display some of the numbers in which we are interested.</para>
+      
+      <para id="eip-960"><media id="id1167930713939_media" alt="A number line with hash marks from -3 to 3.">
+          <image mime-type="image/png" src="../../media/graphics1-6acf.png" id="id1167930713939__onlineimage" width="250" print-width="2.5in"/>
+        </media></para><para id="id1167928500316"><title>Coordinate and Graph (<link document="m35027"/>)</title> The number associated with a point on the number line is called the <emphasis>coordinate </emphasis>of the point. The point associated with a number is called the <emphasis>graph </emphasis>of the number.</para>
+      <para id="id1167938739506"><title>Real Number (<link document="m35027"/>)</title> A <emphasis>real number</emphasis> is any number that is the coordinate of a point on the real number line.</para>
+      <para id="id1167949401017"><title>Types of Real Numbers (<link document="m35027"/>)</title> The set of <emphasis>real numbers</emphasis> has many subsets. The ones of most interest to us are:<newline/>
+      The <emphasis>natural numbers</emphasis>: {1, 2, 3, 4, . . .}<newline/>
+      The <emphasis>whole numbers</emphasis>: {0, 1, 2, 3, 4, . . .}<newline/>
+      The <emphasis>integers</emphasis>: {. . . ,-3,-2,-1,0, 1, 2, 3, . . .}<newline/>
+      The <emphasis>rational numbers</emphasis>: {All numbers that can be expressed as the quotient of two integers.}</para>
+      <para id="id1167918670034"><title>Positive and Negative Numbers (<link document="m35029"/>)</title> A number is denoted as <emphasis>positive</emphasis> if it is directly preceded by a plus sign (+) or no sign at all. A number is denoted as <emphasis>negative</emphasis> if it is directly preceded by a minus sign (–).</para>
+      <para id="id1167934035389"><title>Opposites (<link document="m35029"/>)</title> <emphasis>Opposites</emphasis> are numbers that are the same distance from zero on the number line but have opposite signs. The numbers 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - a} {}</m:annotation></m:semantics></m:math> are opposites.</para>
+      <para id="id1167932631894"><title>Double-Negative Property (<link document="m35029"/>)</title> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mi>a</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  \(  - a \) =a} {}</m:annotation></m:semantics></m:math></para>
+      
+      <para id="id1167928338054"><title>Absolute Value (Geometric) (<link document="m35030"/>)</title> The <emphasis>absolute value</emphasis> of a number 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math>, denoted 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">∣</m:mo><m:mi>a</m:mi><m:mo stretchy="false">∣</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ lline a rline } {}</m:annotation></m:semantics></m:math>, is the distance from 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> to 0 on the number line.</para>
+      <para id="id1167910216154"><title>Absolute Value (Algebraic)  (<link document="m35030"/>)</title>
+<m:math>
+<m:mo stretchy="false">|</m:mo>
+<m:mi>a</m:mi>
+<m:mo stretchy="false">|</m:mo>
+<m:mo>=</m:mo>
+<m:mfenced open="{" close="">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mi>a</m:mi>
+<m:mo>,</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>if </m:mtext>
+<m:mi>a</m:mi>
+<m:mo>≥</m:mo>
+<m:mn>0</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mo>-</m:mo>
+<m:mi>a</m:mi>
+<m:mo>,</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>if </m:mtext>
+<m:mi>a</m:mi>
+<m:mo>&lt;</m:mo>
+<m:mn>0</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mfenced>
+</m:math></para>
+      <para id="id1167914945369"><title>Addition of Signed Numbers (<link document="m35031"/>)</title> To <emphasis>add two numbers</emphasis> with
+<list id="eip-id1171761857356" list-type="enumerated" number-style="arabic"><item><emphasis>like signs</emphasis>, add the absolute values of the numbers and associate with the sum the common sign.</item>
+<item><emphasis>unlike signs</emphasis>, subtract the smaller absolute value from the larger absolute value and associate with the difference the sign of the larger absolute value.</item></list></para>
+      
+      
+      <para id="id1167928296655"><title>Addition with Zero (<link document="m35031"/>)</title> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>0 </m:mtext><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mtext>any number</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mtext> that particular number</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"0 "+  \( "any number" \)  =" that particular number"} {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1167909457158"><title>Additive Identity (<link document="m35031"/>)</title> Since adding 0 to any real number leaves that number unchanged, 0 is called the <emphasis>additive identity</emphasis>.</para>
+      <para id="id1167947310120"><title>Definition of Subtraction (<link document="m35032"/>)</title> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mi>b</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mo stretchy="false">−</m:mo><m:mi>b</m:mi></m:mrow></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a - b=a+ \(  - b \) } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1167934080119"><title>Subtraction of Signed Numbers (<link document="m35032"/>)</title>To perform the <emphasis>subtraction</emphasis> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>a</m:mi><m:mo stretchy="false">−</m:mo><m:mi>b</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a - b} {}</m:annotation></m:semantics></m:math>, add the opposite of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math> to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math>, that is, change the sign of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>b</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{b} {}</m:annotation></m:semantics></m:math> and follow the addition rules (<link document="m35031"/>).</para>
+      <para id="id1167917767415"><title>Multiplication and Division of Signed Numbers (<link document="m35033"/>)</title> 
+<m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mfenced>
+                    <m:mrow>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ left (+{} right ) left (+{} right )= left (+{} right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  { left (+{} right )}  over  { left (+{} right )} } = left (+{} right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  { left (+{} right )}  over  { left ( - {} right )} } = left ( - {} right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      <newline/>
+<m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mfenced>
+                    <m:mrow>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ left ( - {} right ) left ( - {} right )= left (+{} right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      <newline/>
+<m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mfenced>
+                    <m:mrow>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ left (+{} right ) left ( - {} right )= left ( - {} right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  { left ( - {} right )}  over  { left ( - {} right )} } = left (+{} right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mfrac>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mfenced>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  { left ( - {} right )}  over  { left (+{} right )} } = left ( - {} right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      <newline/>
+<m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfenced open="(" close=")">
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mrow/>
+                      </m:mrow>
+                    </m:mfenced>
+                    <m:mrow>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mrow/>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ left ( - {} right ) left (+{} right )= left ( - {} right )} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      
+      
+      
+      
+    </section>
+  </content>
+</document>

@@ -1,0 +1,166 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Summary of Key Concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35008</md:content-id>
+  <md:title>Summary of Key Concepts</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module reviews the key concepts from the chapter "Ratios and Rates."</md:abstract>
+  <md:uuid>61d3f53a-844f-435e-bb86-4f551ecfe4cd</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1172142227838"><title>Summary of Key Concepts</title><para id="id1172147461660"><title>Denominate Numbers (<link document="m34980"/>)</title>Numbers that appear along with units are <emphasis>denominate numbers</emphasis>. The amounts 6 dollars and 4 pints are examples of denominate numbers.</para>
+      <para id="id1172146431392"><title>Like and Unlike Denominate Numbers (<link document="m34980"/>)</title>Like denominate numbers are denominate numbers with like units. If the units are not the same, the numbers are <emphasis>unlike denominate numbers</emphasis>.</para>
+      <para id="id1172143562200"><title>Pure Numbers (<link document="m34980"/>)</title>Numbers appearing without a unit are <emphasis>pure numbers</emphasis>.</para>
+      <para id="id1172139604647"><title>Comparing Numbers by Subtraction and Division (<link document="m34980"/>)</title>Comparison of two numbers by subtraction indicates how much more one number is than another. Comparison by division indicates how many times larger or smaller one number is than another.</para>
+      <para id="id1172141897909"><title>Comparing Pure or Like Denominate Numbers by Subtraction (<link document="m34980"/>)</title>Numbers can be compared by subtraction if and only if they are pure numbers or like denominate numbers.</para>
+      <para id="id1172160638178"><title>Ratio Rate (<link document="m34980"/>)</title>A comparison, by division, of two like denominate numbers is a <emphasis>ratio</emphasis>. A comparison, by division, of two unlike denominate numbers is a <emphasis>rate</emphasis>.</para>
+      <para id="id1794843"><title>Proportion (<link document="m34981"/>)</title>A <emphasis>proportion</emphasis> is a statement that two ratios or rates are equal.</para>
+      <para id="id1172157522401"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mn>3</m:mn><m:mi/><m:mtext>  people</m:mtext></m:mrow><m:mtext>2 jobs</m:mtext></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>6</m:mn><m:mi/><m:mtext>  people</m:mtext></m:mrow><m:mtext>4 jobs</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3`"people"}  over  {"2 jobs"} } = {  {6`"people"}  over  {"4 jobs"} } } {}</m:annotation></m:semantics></m:math> is a proportion.</para>
+      <para id="id1172153073060"><title>Solving a Proportion (<link document="m34981"/>)</title>To <emphasis>solve a proportion</emphasis> that contains three known numbers and a letter that repre­sents an unknown quantity, perform the cross multiplication, then divide the product of the two numbers by the number that multiplies the letter.</para>
+      
+      <para id="id1172145410985"><title>Proportions Involving Rates (<link document="m34981"/>)</title>When writing a proportion involving rates it is very important to write it so that the same type of units appears on the same side of either the equal sign or the fraction bar.</para>
+      
+      <para id="eip-847"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mtext>unit type 1</m:mtext>
+                        <m:mtext>unit type 2</m:mtext>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mtext>unit type 1</m:mtext>
+                        <m:mtext>unit type 2</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mi/>
+                    <m:mstyle fontstyle="italic">
+                      <m:mrow>
+                        <m:mtext>  or  </m:mtext>
+                      </m:mrow>
+                    </m:mstyle>
+                    <m:mi/>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mtext>unit type 1</m:mtext>
+                        <m:mtext>unit type 1</m:mtext>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mtext>unit type 2</m:mtext>
+                        <m:mtext>unit type 2</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {"unit type 1"}  over  {"unit type 2"} } = {  {"unit type 1"}  over  {"unit type 2"} } ```````` ital "or"`````` {  {"unit type 1"}  over  {"unit type 1"} } = {  {"unit type 2"}  over  {"unit type 2"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id8146328"><title>Five-Step Method for Solving Proportions (<link document="m34982"/>)</title><list id="id1172139811705" list-type="enumerated" number-style="arabic">
+        <item>By careful reading, determine what the unknown quantity is and represent it with some letter. There will be only one unknown in a problem.</item>
+        <item>Identify the three specified numbers.</item>
+        <item>Determine which comparisons are to be made and set up the proportion.</item>
+        <item>Solve the proportion.</item>
+        <item>Interpret and write a conclusion.</item>
+      </list>
+When solving applied problems, ALWAYS begin by determining the unknown quantity and representing it with a letter.</para>
+      
+      
+      <para id="id1172138583082"><title>Percents (<link document="m34983"/>)</title>A ratio in which one number is compared to 100 is a <emphasis>percent</emphasis>. Percent means "for each hundred."</para>
+      <para id="id1172141751661"><title>Conversion of Fractions, Decimals, and Percents (<link document="m34983"/>)</title>It is possible to convert decimals to percents, fractions to percents, percents to decimals, and percents to fractions.</para>
+      <para id="id1172139389072"><title>Applications of Percents: </title>The three basic types of percent problems involve a <emphasis>base</emphasis>, a <emphasis>percentage</emphasis>, and a <emphasis>percent</emphasis>.</para>
+      <para id="id1172153480461"><title>Base (<link document="m35007"/>)</title>The <emphasis>base</emphasis> is the number used for comparison.</para>
+      <para id="id1172164843167"><title>Percentage (<link document="m35007"/>)</title>The <emphasis>percentage</emphasis> is the number being compared to the base.</para>
+      <para id="id1172161077022"><title>Percent (<link document="m35007"/>)</title>By its definition, <emphasis>percent</emphasis> means <emphasis effect="italics">part of</emphasis>.</para>
+      
+      
+      <para id="eip-989"><title>Solving Problems  (<link document="m35007"/>)</title><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>Percentage</m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mo stretchy="false">(</m:mo>
+                    </m:mrow>
+                    <m:mtext>percent</m:mtext>
+                    <m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">×</m:mo>
+                      <m:mo stretchy="false">(</m:mo>
+                    </m:mrow>
+                    <m:mtext>base</m:mtext>
+                    <m:mo stretchy="false">)</m:mo>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"Percentage"= \( "percent" \)  times  \( "base" \) } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      <newline/>
+<m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>Percent</m:mtext>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mtext>percentage</m:mtext>
+                      <m:mtext>base</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"Percent"= {  {"percentage"}  over  {"base"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      <newline/>
+
+<m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>Base</m:mtext>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mtext>percentage</m:mtext>
+                      <m:mtext>percent</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"Base"= {  {"percentage"}  over  {"percent"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      
+    </section>
+  </content>
+</document>

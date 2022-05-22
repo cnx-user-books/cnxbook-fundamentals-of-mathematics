@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Proficiency Exam </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34870</md:content-id>
+  <md:title>Proficiency Exam </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module is a proficiency exam to the chapter "Multiplication and Division of Whole Numbers." Each problem is accompanied with a reference link pointing back to the module that discusses the type of problem demonstrated in the question. The problems in this exam are accompanied by solutions.</md:abstract>
+  <md:uuid>ba89ae0a-0bfe-470e-86b8-f4ac92ceb794</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1169307764685">
+      <title>Proficiency Exam</title>
+      <exercise id="id1169316656611"><problem id="oo-id1169316652386">
+          <para id="id1169311656043">(<link document="m34863"/>) In the multiplication of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">×</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>56</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 times 7="56"} {}</m:annotation></m:semantics></m:math>, what are the names given to the 8 and 7 and the 56? </para>
+        </problem>
+      <solution id="eip-id1167194535448"><para id="eip-id1167194485295">8 and 7 are factors; 56 is the product</para></solution></exercise>
+      <exercise id="id5091658"><problem id="oo-id1169311047696">
+          <para id="id1169319845959">(<link document="m34863"/>) Multiplication is a description of what repeated process? </para>
+        </problem>
+      <solution id="eip-id1172427065901"><para id="eip-id1172427771268">Addition</para></solution></exercise>
+      <exercise id="id1169293689818"><problem id="oo-id1169289494064">
+          <para id="id1169317581732">(<link document="m34864"/>) In the division 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12" div 3=4} {}</m:annotation></m:semantics></m:math>, what are the names given to the 3 and the 4? </para>
+        </problem>
+      <solution id="eip-id1164369924611"><para id="eip-id1164365001545">3 is the divisor; 4 is the quotient</para></solution></exercise>
+      <exercise id="id1169309799206"><problem id="oo-id1169324452467">
+          <para id="id1169302468175">(<link document="m34866"/>) Name the digits that a number must end in to be divisible by 2. </para>
+        </problem>
+      <solution id="eip-id1166634510163"><para id="eip-id1166649304270">0, 2, 4, 6, or 8</para></solution></exercise>
+      <exercise id="id6126430"><problem id="oo-id1169325374233">
+          <para id="id1169309860578">(<link document="m34867"/>) Name the property of multiplication that states that the order of the factors in a multiplication can be changed without changing the product. </para>
+        </problem>
+      <solution id="eip-id1167194663561"><para id="eip-id1167194456304">commutative</para></solution></exercise>
+      <exercise id="id1169303896902"><problem id="oo-id1169316789595">
+          <para id="id1169302762480">(<link document="m34867"/>) Which number is called the multiplicative identity? </para>
+        </problem>
+      <solution id="eip-id1168697287552"><para id="eip-id1168687396740">1</para></solution></exercise>
+      <para id="id1169322176639">For problems 7-17, find the product or quotient. </para>
+      <exercise id="id1169317678637"><problem id="oo-id1169309799072">
+          <para id="id1169320818437">(<link document="m34863"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>14</m:mtext><m:mo stretchy="false">×</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"14" times 6} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1165639295813"><para id="eip-id1165640393130">84</para></solution></exercise>
+      <exercise id="id1169310735293"><problem id="oo-id1169316661838">
+          <para id="id1169310651378">(<link document="m34863"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>37</m:mtext><m:mo stretchy="false">×</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"37" times 0} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1169176117415"><para id="eip-id5148168">0</para></solution></exercise>
+      <exercise id="id1169307009313"><problem id="oo-id1169294259132">
+          <para id="id1169297647945">(<link document="m34863"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>352</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>1000</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"352" times "1000"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1172424997482"><para id="eip-id1172425359120">352,000</para></solution></exercise>
+      <exercise id="id1169288322766"><problem id="oo-id1169318174716">
+          <para id="id1169316659947">(<link document="m34863"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>5986</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>70</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"5986" times "70"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1167200677112"><para id="eip-id1167194539052">419,020</para></solution></exercise>
+      <exercise id="id1169299755265"><problem id="oo-id1169322619488">
+          <para id="id1169325985009">(<link document="m34863"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12" times "12"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1172431571735"><para id="eip-id1172425374481">252</para></solution></exercise>
+      <exercise id="id1169297159987"><problem id="oo-id1169307924858">
+          <para id="id1169317678493">(<link document="m34864"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>856</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"856" div 0} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1169177352233"><para id="eip-id1169181718418">not defined</para></solution></exercise>
+      <exercise id="id1169312728907"><problem id="oo-id1169325464318">
+          <para id="id1169322830192">(<link document="m34864"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 div 8} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1169177198603"><para id="eip-id1169178718713">0</para></solution></exercise>
+      <exercise id="id1169319189437"><problem id="oo-id1169299951855">
+          <para id="id1169319216124">(<link document="m34865"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>136</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"136" div 8} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1165640354686"><para id="eip-id1165640346837">17</para></solution></exercise>
+      
+      <exercise id="id1169317678055"><problem id="oo-id8731566">
+          <para id="id1169324150442">(<link document="m34865"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>432</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>24</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"432" div "24"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1165640354549"><para id="eip-id1165659289964">18</para></solution></exercise>
+      <exercise id="id1169322366742"><problem id="oo-id7517922">
+          <para id="id1169295994666">(<link document="m34865"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>5286</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>37</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"5286" div "37"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1164369868455"><para id="eip-id1164363909876">142 remainder 32</para></solution></exercise>
+      <exercise id="id1169297491394"><problem id="oo-id1169311462614">
+          <para id="id1169292968861">(<link document="m34867"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>211</m:mtext><m:mo stretchy="false">×</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"211" times 1} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+      <solution id="eip-id1166078348396"><para id="eip-id1166056622174">211</para></solution></exercise>
+      <para id="id1169311917756">For problems 18-20, use the numbers 216, 1,005, and 640.</para>
+      <exercise id="id1169298396464"><problem id="oo-id1169310958422">
+          <para id="id1169316657972">(<link document="m34866"/>) Which numbers are divisible by 3? </para>
+        </problem>
+      <solution id="eip-id1164365924330"><para id="eip-id1164365453112">216; 1,005</para></solution></exercise>
+      <exercise id="id1169316660981"><problem id="oo-id1169311066889">
+          <para id="id1169298202007">(<link document="m34866"/>) Which number is divisible by 4? </para>
+        </problem>
+      <solution id="eip-id1169469237929"><para id="eip-id1169449426129">216; 640</para></solution></exercise>
+      <exercise id="id1169311157540"><problem id="oo-id1169316655700">
+          <para id="id1169296518327">(<link document="m34866"/>) Which number(s) is divisible by 5? </para>
+        </problem>
+      <solution id="eip-id1166073739535"><para id="eip-id1166073660253">1,005; 640</para></solution></exercise>
+    </section>
+  </content>
+</document>

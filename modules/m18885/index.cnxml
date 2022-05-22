@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Objectives</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m18885</md:content-id>
+  <md:title>Objectives</md:title>
+  <md:abstract>This module contains the learning objectives for the chapter "Addition and Subtraction of Whole Numbers" from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, jr.</md:abstract>
+  <md:uuid>ab16de34-d040-445e-b3db-5f04f94af5b8</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id5771831">After completing this chapter, you should</para>
+    
+    <list id="id5544377" list-type="bulleted"><title>Whole Numbers (<link document="m34795"/>)</title><item>know the difference between numbers and numerals</item>
+      <item>know why our number system is called the Hindu-Arabic numeration system</item>
+      <item>understand the base ten positional number system</item>
+      <item>be able to identify and graph whole numbers</item>
+    </list>
+    
+    <list id="id6048928" list-type="bulleted"><title>Reading and Writing Whole Numbers (<link document="m34778"/>)</title><item>be able to read and write a whole number</item>
+    </list>
+    
+    <list id="id4927326" list-type="bulleted"><title>Rounding Whole Numbers (<link document="m34780"/>)</title><item>understand that rounding is a method of approximation</item>
+      <item>be able to round a whole number to a specified position</item>
+    </list>
+    
+    <list id="id4107008" list-type="bulleted"><title>Addition of Whole Numbers (<link document="m34786"/>)</title><item>understand the addition process</item>
+      <item>be able to add whole numbers</item>
+      <item>be able to use the calculator to add one whole number to another</item>
+    </list>
+    
+    <list id="id5519430" list-type="bulleted"><title>Subtraction of Whole Numbers (<link document="m34784"/>)</title><item>understand the subtraction process</item>
+      <item>be able to subtract whole numbers</item>
+      <item>be able to use a calculator to subtract one whole number from another whole number</item>
+    </list>
+    
+    <list id="id5417482" list-type="bulleted"><title>Properties of Addition (<link document="m34802"/>)</title><item>understand the commutative and associative properties of addition</item>
+    <item>understand why 0 is the additive identity</item></list>
+    
+  </content>
+</document>

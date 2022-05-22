@@ -1,0 +1,1232 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Rounding Whole Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34780</md:content-id>
+  <md:title>Rounding Whole Numbers</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to round whole numbers. By the end of the module students should be able to understand that rounding is a method of approximation and round a whole number to a specified position.</md:abstract>
+  <md:uuid>d06ebba2-5e1d-40e7-948a-c6e0e01f6343</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id6572015">
+      <title>Section Overview</title>
+      <list id="id6167819" list-type="bulleted">
+        <item>Rounding as an Approximation</item>
+        <item>The Method of Rounding Numbers</item>
+      </list>
+    </section>
+    <section id="id1164839297977"><title>Rounding as an Approximation</title><para id="id1164839252241">A primary use of whole numbers is to keep count of how many objects there are in a collection. Sometimes we're only interested in the approximate number of objects in the collection rather than the precise number. For example, there are <emphasis effect="italics">approxi­mately</emphasis> 20 symbols in the collection below.</para>
+      <para id="eip-id1171645788007"><media id="id1164851143972_media" alt="An arrangement of symbols.">
+          <image mime-type="image/png" src="../../media/graphics1-19ac.png" id="id1164851143972__onlineimage" height="172" width="599" print-width="4.5in"/>
+        </media>
+</para>
+      <para id="id1164840115770">The <emphasis effect="italics">precise</emphasis> number of symbols in the above collection is 18.</para>
+      <para id="id8572438"><title>Rounding</title>We often approximate the number of objects in a collection by mentally seeing the collection as occurring in groups of tens, hundreds, thousands, etc. This process of approximation is called <term>rounding</term>. Rounding is very useful in estimation. We will study estimation in Chapter 8.</para>
+      <para id="id2044368">When we think of a collection as occurring in groups of tens, we say we're <emphasis effect="italics">rounding to the nearest ten</emphasis>. When we think of a collection as occurring in groups of hundreds, we say we're <emphasis effect="italics">rounding to the nearest hundred</emphasis>. This idea of rounding continues through thousands, ten thousands, hundred thousands, millions, etc.</para>
+      <para id="id4925819">The process of rounding whole numbers is illustrated in the following examples.</para>
+      
+
+<example id="eip-id1170217271938"><para id="id1164835904577">Round 67 to the nearest ten.</para>
+      <para id="id6243159">On the number line, 67 is more than halfway from 60 to 70. The digit immedi­ately to the right of the tens digit, the round-off digit, is the indicator for this.</para>
+        <media id="id1164835858165_media" alt="A number line from 0 to 70. At the dash for the number sixty is a label, 6 tens. At the dash for 70 is a label, 7 tens. In between the two dashes is a dot on the number 67. Below, is a statement. 67 is closer to 7 tens than it is to 6 tens.">
+          <image mime-type="image/png" src="../../media/graphics2-1e01.png" id="id1164835858165__onlineimage" width="500" print-width="4in"/>
+        </media>
+      <para id="id1164827672690">Thus, 67, rounded to the nearest ten, is 70.</para>
+</example>     
+
+<example id="eip-id1170217433764"><para id="id1164838134571">Round 4,329 to the nearest hundred.</para>
+      <para id="id1164840306149">On the number line, 4,329 is less than halfway from 4,300 to 4,400. The digit to the immediate right of the hundreds digit, the round-off digit, is the indicator.</para>
+        <media id="id1164840046336_media" alt="A number line from 0 to 4,400. The mark for 4,300 is labeled, 3 hundreds. The mark for 4,400 is labeled, 4 hundreds. A dot on the number 4,329 is in between the two marks. Below the number line is a statement. 4,329 is closer to 43 hundreds than it is to 44 hundreds.">
+          <image mime-type="image/png" src="../../media/graphics3-1d0f.png" id="id1164840046336__onlineimage" width="500" print-width="4in"/>
+        </media>
+      
+<para id="id7529660">Thus, 4,329, rounded to the nearest hundred is 4,300.</para>
+</example>
+<example id="eip-id1170217397570">
+      <para id="id6662179">Round 16,500 to the nearest thousand.</para>
+      <para id="id1164831476454">On the number line, 16,500 is exactly halfway from 16,000 to 17,000.</para>
+      <para id="id7608667"><media id="id1896628_media" alt="A number line from 0 to 17,000. The 16,000 mark is labeled, 6 thousands. The 17,000 mark is labeled, 7 thousands. In between the two marks is a dot on the number 16,500.">
+            <image mime-type="image/png" src="../../media/graphics4-98a0.png" id="id1896628__onlineimage" width="500" print-width="4in"/>
+          </media>
+
+      </para>
+      <para id="id6584374">By convention, when the number to be rounded is <emphasis effect="italics">exactly halfway</emphasis> between two numbers, it is rounded to the <emphasis effect="italics">higher</emphasis> number.</para>
+      <para id="id7810314">Thus, 16,500, rounded to the nearest thousand, is 17,000.</para>
+</example>
+<example id="eip-id4252016">
+      <para id="id2389017">A person whose salary is $41,450 per year might tell a friend that she makes $41,000 per year. She has rounded 41,450 to the nearest thousand. The number 41,450 is closer to 41,000 than it is to 42,000.</para>
+</example>      
+
+    </section>
+<section id="id5705593">
+        <title>The Method of Rounding Whole Numbers</title>
+        <para id="id4927597">From the observations made in the preceding examples, we can use the following method to <term>round a whole number</term> to a particular position.</para>
+        <list id="id7741239" list-type="enumerated" number-style="arabic">
+          <item>Mark the position of the round-off digit.</item>
+          <item>Note the digit to the immediate right of the round-off digit.<list id="id5201476" list-type="enumerated" number-style="lower-alpha"><item>If it is less than 5, replace it and all the digits to its right with zeros. Leave the round-off digit unchanged.</item><item>If it is 5 or larger, replace it and all the digits to its right with zeros. Increase the round-off digit by 1.</item></list></item>
+        </list>
+     
+      <section id="id8890202"><title>Sample Set A</title><para id="id1164835554578">Use the method of rounding whole numbers to solve the following problems.</para>
+<example id="eip-id7495254">
+        <para id="id6522954">Round 3,426 to the nearest ten.</para>
+        <list id="id2322298" list-type="enumerated" number-style="arabic"><item>We are rounding to the tens position. Mark the digit in the tens position<newline/>
+          <media id="id5092567_media" alt="3,426, with the 2 labeled, tens position.">
+            <image mime-type="image/png" src="../../media/graphics5-daba.png" id="id5092567__onlineimage" width="125" print-width=".75in"/>
+          </media>
+</item>
+          <item>Observe the digit immediately to the right of the tens position. It is 6. Since 6 is greater than 5, we <emphasis effect="italics">round up</emphasis> by replacing 6 with 0 and adding 1 to the digit in the tens position (the round-off position): <m:math>
+<m:mn>2</m:mn>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+<m:mn>3</m:mn>
+</m:math> .
+  <newline/>
+ 3,430
+<newline/>
+      </item>
+</list>
+<para id="eip-id1164704978143">Thus, 3,426 rounded to the nearest ten is 3,430.</para>
+</example>
+<example id="eip-id6847211"> 
+       <para id="id4546272">Round 9,614,018,007 to the nearest ten million.</para>
+        <list id="id7503926" list-type="enumerated" number-style="arabic"><item>We are rounding to the nearest ten million. <newline/>
+          <media id="id1682505_media" alt="9,614,018,007, with the first 1 labeled, ten millions position.">
+            <image mime-type="image/png" src="../../media/graphics6-403d.png" id="id1682505__onlineimage" width="160" print-width="1.25in"/>
+          </media></item>
+          <item>Observe the digit immediately to the right of the ten millions position. It is 4. Since 4 is less than 5, we <emphasis effect="italics">round down</emphasis> by replacing 4 and all the digits to its right with zeros.<newline/>
+9,610,000,000<newline/>
+</item>
+</list>
+<para id="eip-id1164688740281">Thus, 9,614,018,007 rounded to the nearest ten million is 9,610,000,000.</para>
+</example>
+
+<example id="eip-id6877386">
+        <para id="id4573175">Round 148,422 to the nearest million.</para>
+        <list id="id4669267" list-type="enumerated" number-style="arabic"><item>Since we are rounding to the nearest million, we'll have to <emphasis effect="italics">imagine</emphasis> a digit in the millions position. We'll write 148,422 as 0,148,422.
+<newline/>
+            <media id="id1164838782902_media" alt="0,148,422, with the 0 labeled, millions position.">
+              <image mime-type="image/png" src="../../media/graphics7-b0c2.png" id="id1164838782902__onlineimage" width="135" print-width="1in"/>
+            </media>
+          </item>
+          <item>The digit immediately to the right is 1. Since 1 is less than 5, we'll <emphasis effect="italics">round down</emphasis> by replacing it and all the digits to its right with zeros.<newline/>
+0,000,000<newline/>
+This number is 0.<newline/>
+</item>
+</list>
+<para id="eip-id1164688517452">Thus, 148,422 rounded to the nearest million is 0.</para>
+</example>
+<example id="eip-id8161734">
+        <para id="id1164834691449">Round 397,000 to the nearest ten thousand.</para>
+        <list id="id1164840103764" list-type="enumerated" number-style="arabic"><item>We are rounding to the nearest ten thousand.
+<newline/>
+
+          <media id="id1164851572046_media" alt="397,000, with the 9 labeled, ten thousand position.">
+            <image mime-type="image/png" src="../../media/graphics8-7802.png" id="id1164851572046__onlineimage" width="175" print-width="1.25in"/>
+          </media>
+</item>
+
+          <item>The digit immediately to the right of the ten thousand position is 7. Since 7 is greater than 5, we round up by replacing 7 and all the digits to its right with zeros and adding 1 to the digit in the ten thousands position. But <m:math>
+<m:mn>9</m:mn>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+<m:mo>=</m:mo>
+<m:mn>10</m:mn>
+</m:math> and we must carry the 1 to the next (the hundred thousands) position.
+<newline/>
+400,000
+<newline/>
+</item>
+</list>
+<para id="eip-id1164687770659">Thus, 397,000 rounded to the nearest ten thousand is 400,000.</para>
+</example>
+      </section>
+      <section id="id1164853572654">
+        <title>Practice Set A</title>
+        <para id="id8981165">Use the method of rounding whole numbers to solve each problem.</para>
+        <exercise id="id1164838050834"><problem id="oo-id1164840312146">
+            <para id="id8612407">Round 3387 to the nearest hundred.</para>
+          </problem>
+        <solution id="eip-id1170216349545">
+<para id="eip-id1170216519664">
+3400
+</para>
+</solution></exercise>
+        <exercise id="id2773408"><problem id="oo-id1967208">
+            <para id="id1164836956563">Round 26,515 to the nearest thousand. </para>
+          </problem>
+        <solution id="eip-id8161340">
+<para id="eip-id8165864">
+27,000</para>
+</solution></exercise>
+        <exercise id="id1951738"><problem id="oo-id6680272">
+            <para id="id1164827788747">Round 30,852,900 to the nearest million. </para>
+          </problem>
+<solution id="eip-id1166703803918">
+<para id="eip-id1166715578440">
+31,000,000</para>
+</solution>
+        </exercise>
+        <exercise id="id1164844595624"><problem id="oo-id5664134">
+            <para id="id1774681">Round 39 to the nearest hundred.</para>
+          </problem>
+        <solution id="eip-id8493890">
+<para id="eip-id8387481">
+0</para>
+</solution></exercise>
+        
+        <exercise id="id1164840071349"><problem id="oo-id2251595">
+            <para id="id1164845486532">Round 59,600 to the nearest thousand. </para>
+          </problem>
+        <solution id="eip-id1164840736097">
+<para id="eip-id1164845219983">
+60,000</para>
+</solution></exercise>
+      </section>
+</section>
+
+    <section id="id1164835645282"><title>Exercises</title><para id="id2475310">For the following problems, complete the table by rounding each number to the indicated positions.</para>
+      <exercise id="id3812173"><problem id="oo-id3819186">
+          <para id="id1164831371699">1,642</para>
+        <table id="id1993599" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem>
+      <solution id="eip-id1164284101121">     
+ <table id="id1164834745210" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry>1,600</entry>
+              <entry>2000</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+      </exercise>
+      
+      <exercise id="id1164839144694">
+        <problem id="oo-id1164833717237">
+          <para id="id8567415">5,221</para>
+        <table id="id1164847936143" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem>
+      </exercise>
+            
+<exercise id="id1164847951896">
+        <problem id="oo-id7671539">
+          <para id="id1164836897466">91,803 </para>
+      <table id="id8427601" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem>
+<solution id="eip-id1170386146277">
+      <table id="id1164840019534" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry>91,800</entry>
+              <entry>92,000</entry>
+              <entry>90,000</entry>
+              <entry>0</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+</exercise>
+      <exercise id="id7438722">
+        <problem id="oo-id1164840133442">
+          <para id="id2349347">106,007</para>
+      <table id="id1852655" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+  </problem>
+      </exercise>
+            
+<exercise id="id1164838969646">
+        <problem id="oo-id1164838108868">
+          <para id="id2227920">208</para>
+      <table id="id1164845971740" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+  </problem>
+      <solution id="eip-id1170394116578">      
+<table id="id1872261" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry>200</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+</exercise>
+      <exercise id="id1164853401494">
+        <problem id="oo-id1164853348634">
+          <para id="id6373166">199</para>
+       <table id="id7351395" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+    </problem>
+      </exercise>
+            
+ <exercise id="id1164853452623">
+        <problem id="oo-id1164840046276">
+          <para id="id2154105">863</para>
+      <table id="id1164840004419" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+    </problem>
+    <solution id="eip-id1170387089004">    
+  <table id="id1164835749292" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry>900</entry>
+              <entry>1,000</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+</exercise>
+      <exercise id="id1954808">
+        <problem id="oo-id2401082">
+          <para id="id2123835">794</para>
+      <table id="id1978321" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+
+      <exercise id="id7734831">
+        <problem id="oo-id1164853456580">
+          <para id="id1164840029218">925</para>
+      <table id="id8656319" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+        </problem>
+<solution id="eip-id1170385925712">
+      <table id="id1164834750268" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry>900</entry>
+              <entry>1,000</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+</exercise>
+      <exercise id="id1164847711366">
+        <problem id="oo-id1164840236488">
+          <para id="id1164839257979">909</para>
+        
+      <table id="id1164827732795" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem>
+      </exercise>      
+<exercise id="id8289644">
+        <problem id="oo-id1164844876378">
+          <para id="id2714182">981</para>
+       <table id="id6386987" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+   </problem>
+    <solution id="eip-id1170386044768">     
+ <table id="id8799049" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry>1,000</entry>
+              <entry>1,000</entry>
+              <entry>0</entry>
+              <entry>0</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+</exercise>
+      <exercise id="id5360194">
+        <problem id="oo-id3156952">
+          <para id="id1164853418574">965</para>
+        
+      <table id="id1164845679696" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem>
+      </exercise>      
+<exercise id="id1164833244264">
+        <problem id="oo-id1164838968650">
+          <para id="id8509502">551,061,285</para>
+        
+      <table id="id1164839131866" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem>
+<solution id="eip-id1170386982374">
+
+      <table id="eip-id1170387785397" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry>551,061,300</entry>
+              <entry>551,061,000</entry>
+              <entry>551,060,000</entry>
+              <entry>551,000,000</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+      </exercise>
+
+      <exercise id="id1164835647590">
+        <problem id="oo-id1164847837410">
+          <para id="id7615448">23,047,991,521</para>
+       <table id="id1164835884569" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+  </problem>
+      </exercise>
+     <exercise id="eip-id8764987">
+<problem id="eip-id1170393263210">      
+<para id="id5839952">106,999,413,206</para>
+      <table id="id5438471" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem>
+<solution id="eip-id1170388868056">      
+<table id="id1164839914791" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry>106,999,413,200</entry>
+              <entry>106,999,413,000</entry>
+              <entry>106,999,410,000</entry>
+              <entry>106,999,000,000</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+</exercise>    
+  <exercise id="id1164836822554">
+        <problem id="oo-id1942778">
+          <para id="id1164836946510">5,000,000</para>
+       <table id="id1164840037229" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+   </problem>
+      </exercise>
+         
+ <exercise id="id5001062">
+        <problem id="oo-id1164838980746">
+          <para id="id7438134">8,006,001</para>
+       <table id="id1164847794736" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+    </problem>
+      <solution id="eip-id1170389460755">    
+  <table id="id1164840141821" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Hundred</entry>
+              <entry>Thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>Million</entry>
+            </row>
+            <row>
+              <entry>8,006,000</entry>
+              <entry>8,006,000</entry>
+              <entry>8,010,000</entry>
+              <entry>8,000,000</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+</exercise>
+      <exercise id="id4596065">
+        <problem id="oo-id1164847806093">
+          <para id="id1164840002168">94,312</para>
+        
+      <table id="id1164837927005" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem>
+      </exercise>      
+
+<exercise id="id1164834795416">
+        <problem id="oo-id4869679">
+          <para id="id8893483">33,486</para>
+        
+      <table id="id5650629" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem>
+      <solution id="eip-id7633905">      
+<table id="id1164837966227" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry>33,500</entry>
+              <entry>33,000</entry>
+              <entry>30,000</entry>
+              <entry>0</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+</exercise>
+      <exercise id="id1164837973568">
+        <problem id="oo-id1920347">
+          <para id="id1164844751352">560,669</para>
+        <table id="id1164840275632" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+ </problem>
+      </exercise>
+          
+ <exercise id="id2089940">
+        <problem id="oo-id1978153">
+          <para id="id1164840255041">388,551</para>
+       <table id="id2321466" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+   </problem>
+    <solution id="eip-id1170385567592">     
+ <table id="id1164851370883" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry>388,600</entry>
+              <entry>389,000</entry>
+              <entry>390,000</entry>
+              <entry>0</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+</exercise>
+      <exercise id="id2392092"><problem id="oo-id1164840211943">
+          <para id="id1164854529710">4,752</para>
+        <table id="id5656596" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem></exercise>
+      <exercise id="id1164825105640">
+        <problem id="oo-id5008948">
+          <para id="id1164842217637">8,209</para>
+        <table id="id1164844677585" summary="An empty table of the hundreds, thousands, ten thousands, and millions positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem>
+      <solution id="eip-id1170388593184">      
+<table id="id3159915" summary="A table listing the hundreds, thousands, ten thousands, and millions positions of the number in the problem.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>hundred</entry>
+              <entry>thousand</entry>
+              <entry>ten thousand</entry>
+              <entry>million</entry>
+            </row>
+            <row>
+              <entry>8,200</entry>
+              <entry>8,000</entry>
+              <entry>10,000</entry>
+              <entry>0</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution>
+</exercise>
+      <exercise id="id2427473">
+        <problem id="oo-id1164844699471">
+          <para id="id1164839304481">In 1950, there were 5,796 cases of diphtheria reported in the United States. Round to the nearest hundred. </para>
+        </problem>
+      </exercise>
+      <exercise id="id1164835742109"><problem id="oo-id1745138">
+          <para id="id1912310">In 1979, 19,309,000 people in the United States received federal food stamps. Round to the near­est ten thousand. </para>
+        </problem>
+      <solution id="eip-id1166716426491">
+<para id="eip-id1166708754781">19,310,000</para>
+</solution></exercise>
+      <exercise id="id1826616">
+        <problem id="oo-id8744411">
+          <para id="id1164838784009">In 1980, there were 1,105,000 people between 30 and 34 years old enrolled in school. Round to the nearest million.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164840087040"><problem id="oo-id7226207">
+          <para id="id6287475">In 1980, there were 29,100,000 reports of aggra­vated assaults in the United States. Round to the nearest million. </para>
+        </problem>
+      <solution id="eip-id1170542045085">
+<para id="eip-id1170542102364">
+29,000,000</para></solution></exercise>
+      <para id="id1934604">For the following problems, round the numbers to the posi­tion you think is most reasonable for the situation.</para>
+      <exercise id="id1164840296784">
+        <problem id="oo-id1164844759504">
+          <para id="id1481244">In 1980, for a city of one million or more, the average annual salary of police and firefighters was $16,096.</para>
+        </problem>
+      </exercise>
+      <exercise id="id8502750"><problem id="oo-id1164836598339">
+          <para id="id1164845827336">The average percentage of possible sunshine in San Francisco, California, in June is 73%. </para>
+        </problem>
+      <solution id="eip-id1170387602646">
+<para id="eip-id1170388740692">
+70% or 75%</para></solution></exercise>
+      
+      <exercise id="id1164851458529">
+        <problem id="oo-id7472678">
+          <para id="id3005688">In 1980, in the state of Connecticut, $3,777,000,000 in defense contract payroll was awarded.</para>
+        </problem>
+      </exercise>
+      <exercise id="id2175320"><problem id="oo-id1988337">
+          <para id="id1164835564697">In 1980, the federal government paid $5,463,000,000 to Viet Nam veterans and depen­dants. </para>
+        </problem>
+      <solution id="eip-id1164333333680">
+<para id="eip-id1164347266132">
+$5,500,000,000</para>
+</solution></exercise>
+      <exercise id="id2391184">
+        <problem id="oo-id2390496">
+          <para id="id8114346">In 1980, there were 3,377,000 salespeople em­ployed in the United States.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164835558946"><problem id="oo-id2271734">
+          <para id="id1164825113394">In 1948, in New Hampshire, 231,000 popular votes were cast for the president. </para>
+        </problem>
+      <solution id="eip-id1166702128076">
+<para id="eip-id1166704132688">
+230,000</para>
+</solution></exercise>
+      <exercise id="id1164840116427">
+        <problem id="oo-id2360458">
+          <para id="id1900731">In 1970, the world production of cigarettes was 2,688,000,000,000.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164853515990"><problem id="oo-id7503234">
+          <para id="id8833776">In 1979, the total number of motor vehicle regis­trations in Florida was 5,395,000. </para>
+        </problem>
+<solution id="eip-id1170386381985">
+<para id="eip-id1170386584742">
+5,400,000</para>
+</solution>
+      </exercise>
+      <exercise id="id1164840030295">
+        <problem id="oo-id5587915">
+          <para id="id1164838005372">In 1980, there were 1,302,000 registered nurses the United States.</para>
+        </problem>
+      </exercise>
+    <section id="id1164838151788">
+      <title>Exercises for Review</title>
+      <exercise id="id1164837901707"><problem id="oo-id8265354">
+          <para id="id1164851493732">(<link document="m34795"/>) There is a term that describes the visual displaying of a number. What is the term? </para>
+        </problem>
+<solution id="eip-id1171810247955">
+<para id="eip-id1171777033672">
+graphing</para>
+</solution>
+      </exercise>
+      <exercise id="id1164834765895">
+        <problem id="oo-id1164834516566">
+          <para id="id8316608">(<link document="m34795"/>) What is the value of 5 in 26,518,206?</para>
+        </problem>
+      </exercise>
+      <exercise id="id8018204"><problem id="oo-id1164844847917">
+          <para id="id5638684">(<link document="m34778"/>) Write 42,109 as you would read it. </para>
+        </problem>
+      <solution id="eip-id1166707869130">
+<para id="eip-id1166710978719">
+Forty-two thousand, one hundred nine</para>
+</solution></exercise>
+      <exercise id="id5069994">
+        <problem id="oo-id1164840044846">
+          <para id="id1164853451735">(<link document="m34778"/>) Write "six hundred twelve" using digits.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164851477652"><problem id="oo-id1164840256532">
+          <para id="id7471585">(<link document="m34778"/>) Write "four billion eight" using digits. </para>
+        </problem>
+      <solution id="eip-id1164811265569">
+<para id="eip-id1164830466710">
+4,000,000,008</para>
+</solution></exercise>
+    </section>
+</section>
+  </content>
+</document>

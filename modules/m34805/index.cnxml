@@ -1,0 +1,234 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Proficiency Exam</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34805</md:content-id>
+  <md:title>Proficiency Exam</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module is a proficiency exam to the chapter Addition and Subtraction of Whole Numbers. Each problem is accompanied with a reference link pointing back to the module that discusses the type of problem demonstrated in the question. The problems in this exam are accompanied by solutions.</md:abstract>
+  <md:uuid>47556464-e809-441b-bb4c-df725621b60d</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1167319987295"><title>Proficiency Exam</title><exercise id="id1167295866584"><problem id="oo-id1167337788598">
+          <para id="id1167297312890">(<link document="m34795"/>) What is the largest digit? </para>
+        </problem>
+      <solution id="eip-id1170498825015"><para id="eip-id1170509049472">9</para></solution></exercise>
+      <exercise id="id1167309645092"><problem id="oo-id2224701">
+          <para id="id1167316332564">(<link document="m34795"/>) In the Hindu-Arabic number system, each period has three values as­signed to it. These values are the same for each period. From right to left, what are they?</para>
+        </problem>
+      <solution id="eip-id1168669757161"><para id="eip-id1168664564988">ones, tens, hundreds</para></solution></exercise>
+      <exercise id="id1167313792633"><problem id="oo-id1167322978886">
+          <para id="id1167316243523">(<link document="m34795"/>) In the number 42,826, how many hundreds are there?</para>
+        </problem>
+      <solution id="eip-id1164915642839"><para id="eip-id1164915566145">8</para></solution></exercise>
+      <exercise id="id1167329968164"><problem id="oo-id1167311343197">
+          <para id="id1167299947118">(<link document="m34795"/>) Is there a largest whole number? If so, what is it?</para>
+        </problem>
+      <solution id="eip-id1164518336816"><para id="eip-id6431497">no</para></solution></exercise>
+      <exercise id="id1167311360258"><problem id="oo-id1167316738177">
+          <para id="id1167337908606">(<link document="m34795"/>) Graph the following whole numbers on the number line: 2, 3, 5.<newline/> <media id="id1167297918378_media" alt="A number line from 0 to 8.">
+          <image mime-type="image/png" src="../../media/graphics1-5236.png" id="id1167297918378__onlineimage" width="350" print-width="3in"/>
+        </media></para>
+        </problem>
+      <solution id="eip-id1168668720681">
+<para id="eip-id1166810303183">
+<media id="eip-id1172631561163" alt="A number line from 0 to 8 with a dot on the marks for 2, 3, and 5."><image mime-type="image/png" src="../../media/ex5s.png" width="350" print-width="3in"/></media></para>
+</solution></exercise>
+      
+      <exercise id="id1167326423459"><problem id="oo-id1167299590770">
+          <para id="id1167297027702">(<link document="m34778"/>) Write the number 63,425 as you would read it aloud. </para>
+        </problem>
+      <solution id="eip-id1166574677940"><para id="eip-id1166559655868">Sixty-three thousand, four hundred twenty-five</para></solution></exercise>
+      
+      <exercise id="id1167326251357"><problem id="oo-id1167312893273">
+          <para id="id1167306359030">(<link document="m34778"/>) Write the number eighteen million, three hundred fifty-nine thousand, seventy-two. </para>
+        </problem>
+      <solution id="eip-id1165293427031"><para id="eip-id1165288499401">18,359,072</para></solution></exercise>
+      <exercise id="id1167330793382"><problem id="oo-id1167299521219">
+          <para id="id1167302174655">(<link document="m34780"/>) Round 427 to the nearest hundred.  </para>
+        </problem>
+      <solution id="eip-id1170648440482"><para id="eip-id1170648231120">400</para></solution></exercise>
+      <exercise id="id1167304185231"><problem id="oo-id1167304876681">
+          <para id="id1167297902718">(<link document="m34780"/>) Round 18,995 to the nearest ten.  </para>
+        </problem>
+      <solution id="eip-id1164511459679"><para id="eip-id1164515967976">19,000</para></solution></exercise>
+      <exercise id="id1167297351576"><problem id="oo-id4398201">
+          <para id="id1167326426458">(<link document="m34780"/>) Round to the most reasonable digit: During a semester, a mathematics instructor uses 487 pieces of chalk.  </para>
+        </problem>
+      <solution id="eip-id1169259236116"><para id="eip-id1169263848798">500</para></solution></exercise>
+      
+          <para id="id1167319229979">For problems 11-17, find the sums and differences. </para>
+        
+      <exercise id="id1167339722810">
+        <problem id="oo-id1167294398259">
+          <para id="id6619136">(<link document="m34786"/>) 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>627</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  48</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> </para>
+        </problem>
+<solution id="fs-id1166548049810"><para id="fs-id1166573176921">675</para></solution>
+      </exercise>
+
+      <exercise id="id1167325442188">
+        <problem id="oo-id1167309984944">
+          <para id="id1167320305733">(<link document="m34786"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>3106</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>921</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"3106"+"921"} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="fs-id1166548202448"><para id="fs-id1166556980753">4,027</para></solution>
+      </exercise>
+
+      <exercise id="id1167296195744">
+        <problem id="oo-id1167327732048">
+          <para id="id1167295759277">(<link document="m34786"/>) 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>152</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  36</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>  </para>
+        </problem>
+<solution id="fs-id1166547165008"><para id="fs-id1166578399912">188</para></solution>
+      </exercise>
+
+      <exercise id="id1167324768008">
+        <problem id="oo-id1167300624332">
+          <para id="id1167323817640">(<link document="m34786"/>) 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>5,189</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>6,189</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>4,122</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>8,001</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        </problem>
+<solution id="fs-id1166559917596"><para id="fs-id1166547834495">23,501</para></solution>
+      </exercise>
+
+      <exercise id="id1167302787335">
+        <problem id="oo-id1167331238353">
+          <para id="id1167324649533">(<link document="m34786"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>21</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>16</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>42</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"21"+"16"+"42"+"11"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="fs-id1166549220789"><para id="fs-id1166547929271">90</para></solution>
+      </exercise>
+
+
+      <exercise id="id1167317366806">
+        <problem id="oo-id1167296416229">
+          <para id="id1167297671944">(<link document="m34784"/>) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>520</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>216</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"520" - "216"} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="fs-id1166547935645"><para id="fs-id1166559934311">304</para></solution>
+      </exercise>
+
+      <exercise id="id7784610">
+        <problem id="oo-id1167325558729">
+          <para id="id1167319551685">(<link document="m34784"/>) 
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>80,001</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  9,878</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>  </para>
+        </problem>
+<solution id="fs-id1166568920107"><para id="fs-id1166547167154">70,123</para></solution>
+      </exercise>
+
+      <exercise id="id1167295875690">
+        <problem id="oo-id1167334349603">
+          <para id="id1167313376420">(<link document="m34784"/>) Subtract 425 from 816.  </para>
+        </problem>
+<solution id="fs-id1166556488525"><para id="fs-id1166565479063">391</para></solution>
+      </exercise>
+
+      <exercise id="id1167317547868">
+        <problem id="oo-id1982422">
+          <para id="id4150611">(<link document="m34784"/>) Subtract 712 from the sum of 507 and 387.  </para>
+        </problem>
+<solution id="fs-id1166555601799"><para id="fs-id3427862">182</para></solution>
+      </exercise>
+
+      <exercise id="id1167313422604">
+        <problem id="oo-id1167302128485">
+          <para id="id1167296000279">(<link document="m34802"/>) Is the sum of 219 and 412 the same as the sum of 412 and 219? If so, what makes it so?  </para>
+        </problem>
+<solution id="fs-id1166548215208"><para id="fs-id1166573242066">Yes, commutative property of addition</para></solution>
+      </exercise>
+    </section>
+  </content>
+</document>

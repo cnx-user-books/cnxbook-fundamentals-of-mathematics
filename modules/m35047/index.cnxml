@@ -1,0 +1,1665 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Applications II: Solving Problems</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35047</md:content-id>
+  <md:title>Applications II: Solving Problems</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to solve algebraic problems. By the end of the module students should be more familiar with the five-step method for solving applied problems and be able to use the five-step method to solve number problems and geometry problems.</md:abstract>
+  <md:uuid>f8f55f57-2d4c-4ddf-95c6-adbb1f95579c</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1164962358578">
+      <title>Section Overview</title>
+      <list id="id1164962731395" list-type="bulleted">
+        <item>The Five-Step Method</item>
+        <item>Number Problems</item>
+        <item>Geometry Problems</item>
+      </list>
+    </section>
+    <section id="id1164968718114">
+      <title>The Five Step Method</title>
+      <para id="id1164956923524">We are now in a position to solve some applied problems using algebraic methods. The problems we shall solve are intended as logic developers. Although they may not seem to reflect real situations, they do serve as a basis for solving more complex, real situation, applied problems. To solve problems algebraically, we will use the five-step method.</para>
+      <para id="id1164959032017"><title>Strategy for Reading Word Problems</title>When solving mathematical word problems, you may wish to apply the following "<term>reading strategy</term>." Read the problem quickly to get a feel for the situation. Do not pay close attention to details. At the first reading, too much attention to details may be overwhelming and lead to confusion and discouragement. After the first, brief reading, read the problem carefully in <emphasis effect="italics">phrases</emphasis>. Reading phrases introduces information more slowly and allows us to absorb and put together important information. We can look for the unknown quantity by reading one phrase at a time.</para>
+      
+      <list id="id1164952339750" list-type="enumerated" number-style="arabic"><title>Five-Step Method for Solving Word Problems</title><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:mstyle></m:math> (or some other letter) represent the unknown quantity.</item>
+        <item>Translate the words to mathematical symbols and form an equation. Draw a picture if possible.</item>
+        <item>Solve the equation.</item>
+        <item>Check the solution by substituting the result into the original statement, not equation, of the problem.</item>
+        <item>Write a conclusion.</item>
+      </list>
+      <para id="id7806613">If it has been your experience that word problems are difficult, then follow the five-step method carefully. Most people have trouble with word problems for two reasons:</para>
+      <list id="id1164962458624" list-type="enumerated" number-style="arabic"><item>They are not able to translate the words to mathematical symbols. (See <link document="m35045"/>.)</item>
+        <item>They neglect step 1. After working through the problem phrase by phrase, to become familiar with the situation,</item>
+      </list>
+      <para id="id1164963875313">INTRODUCE A VARIABLE</para>
+      
+    </section>
+    <section id="id1164956728614">
+      <title>Number Problems</title>
+      <section id="id1164954737854"><title>Sample Set A</title><example id="eip-id1164920672992"><para id="id1164953043851">What number decreased by six is five?</para>
+<list id="eip-id1172323809370" mark-suffix=":" list-type="enumerated" number-style="arabic" class="stepwise"><item> Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n} {}</m:annotation></m:semantics></m:mstyle></m:math> represent the unknown number.</item>
+        <item> Translate the words to mathematical symbols and construct an equation. Read phrases.
+        <para id="id1164955981484"><m:math><m:mstyle displaystyle="true">
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtable>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>What number:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd>
+                              <m:mrow>
+                                <m:mi>n</m:mi>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>decreased by:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mrow/>
+                                </m:mrow>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>six:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd>
+                              <m:mrow>
+                                <m:mn>6</m:mn>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>is:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd>
+<m:mo>=</m:mo>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>five:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd>
+                              <m:mrow>
+                                <m:mn>5</m:mn>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                        </m:mtable>
+                        <m:mo stretchy="true">}</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>n</m:mi>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>6</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>5</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ left none  matrix {
+"What number:" {} # n {} ##
+"decreased by:" {} #  - {} {} ##
+"six:" {} # 6 {} ##
+"is:" {} # ={} {} ##
+"five:" {} # 5{}
+}  right rbrace n - 6=5} {}</m:annotation>
+            </m:semantics>
+          </m:mstyle></m:math>
+        </para></item>
+        <item> Solve this equation.<newline/>
+        <para id="id1164966623712"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n - 6=5} {}</m:annotation></m:semantics></m:mstyle></m:math>  Add 6 to <emphasis effect="italics">both</emphasis> sides.
+<newline/>
+          <m:math><m:mstyle displaystyle="true">
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>n</m:mi>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>6</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>6</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mn>5</m:mn>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>6</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{n - 6+6=5+6} {}</m:annotation>
+            </m:semantics>
+          </m:mstyle></m:math>
+        <newline/>
+          <m:math><m:mstyle displaystyle="true">
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>n</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>11</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{n="11"} {}</m:annotation>
+            </m:semantics>
+          </m:mstyle></m:math>
+</para>        
+
+</item>
+        <item> Check the result.<newline/>
+        <para id="id1164959952680">When 11 is decreased by 6, the result is 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11" - 6} {}</m:annotation></m:semantics></m:mstyle></m:math>, which is equal to 5. The solution checks.</para></item>
+
+        <item> The number is 11.</item>
+</list></example>
+<example id="eip-id1164940596223"><para id="id1164968088795">When three times a number is increased by four, the result is eight more than five times the number.</para>
+
+<list id="eip-id1165796508834" mark-suffix=":" list-type="enumerated" number-style="arabic" class="stepwise"><item> Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x={}} {}</m:annotation></m:semantics></m:mstyle></m:math>the unknown number.</item>
+        <item> Translate the phrases to mathematical symbols and construct an equation.<newline/>
+        <para id="id1164953700711"><m:math><m:mstyle displaystyle="true">
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtable>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>When three times a number:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+<m:mi>x</m:mi>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>is increased by:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mrow/>
+                                </m:mrow>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>four:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>the result is:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+<m:mo>=</m:mo>                              
+ </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>eight:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mn>8</m:mn>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>more than:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mrow/>
+                                </m:mrow>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>five times the number:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mn>5</m:mn>
+<m:mi>x</m:mi>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                        </m:mtable>
+                        <m:mo stretchy="true">}</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+<m:mi>x</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+<m:mi>x</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>8</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ left none  matrix {
+"When three times a number:" {} # 3x {} ##
+"is increased by:" {} # +{} {} ##
+"four:" {} # 4 {} ##
+"the result is:" {} # ={} {} ##
+"eight:" {} # 8 {} ##
+"more than:" {} # +{} {} ##
+"five times the number:" {} # 5x{}
+}  right rbrace 3x+4=5x+8} {}</m:annotation>
+            </m:semantics>
+          </m:mstyle></m:math>
+        </para>
+</item>
+        <item><newline/>
+<m:math><m:mstyle displaystyle="true">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>5</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3x+4=5x+8} {}</m:annotation></m:semantics><m:mo>.</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Subtract </m:mtext>
+<m:mn>3</m:mn>
+<m:mi>x</m:mi>
+<m:mtext> from</m:mtext><m:mtext mathvariant="italic"> both </m:mtext>
+<m:mtext>sides.</m:mtext></m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd columnalign="left">
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+<m:mi>x</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>3</m:mn>
+<m:mi>x</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+<m:mi>x</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>8</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>3</m:mn>
+<m:mi>x</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{3x+4 - 3x=5x+8 - 3x} {}</m:annotation>
+            </m:semantics>
+          </m:mtd>
+<m:mtd/>
+</m:mtr>
+ 
+<m:mtr>
+<m:mtd columnalign="left">
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2x</m:mn><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4=2x+8} {}</m:annotation></m:semantics></m:mtd>
+<m:mtd columnalign="left">
+<m:mtext> Subtract 8 from</m:mtext><m:mtext mathvariant="italic"> both </m:mtext>
+<m:mtext>sides.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>4</m:mn>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>8</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>2x</m:mn>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>8</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>8</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{4 - 8=2x+8 - 8} {}</m:annotation>
+            </m:semantics>
+          </m:mtd>
+<m:mtd/>
+</m:mtr>
+
+<m:mtr>
+<m:mtd columnalign="left">
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>2x</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 4=2x} {}</m:annotation></m:semantics></m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Divide</m:mtext><m:mtext mathvariant="italic"> both </m:mtext>
+<m:mtext>sides by 2.</m:mtext>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+
+<m:mtr>
+<m:mtd columnalign="left">
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mi>x</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ - 2=x} {}</m:annotation>
+            </m:semantics>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:mstyle></m:math>
+</item>
+        <item>Check this result.<newline/>
+        Three times <m:math><m:mstyle displaystyle="true">
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+</m:mstyle></m:math> is <m:math><m:mstyle displaystyle="true">
+<m:mo>-</m:mo>
+<m:mn>6</m:mn>
+</m:mstyle></m:math>. Increasing <m:math><m:mstyle displaystyle="true">
+<m:mo>-</m:mo>
+<m:mn>6</m:mn>
+</m:mstyle></m:math> by 4 results in 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 6+4= - 2} {}</m:annotation></m:semantics></m:mstyle></m:math>. Now, five times <m:math><m:mstyle displaystyle="true">
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+</m:mstyle></m:math> is <m:math><m:mstyle displaystyle="true">
+<m:mo>-</m:mo>
+<m:mn>10</m:mn>
+</m:mstyle></m:math>. <newline/>
+ Increasing <m:math><m:mstyle displaystyle="true">
+<m:mo>-</m:mo>
+<m:mn>10</m:mn>
+</m:mstyle></m:math> by 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:mstyle></m:math> results in 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>10</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "10"+8= - 2} {}</m:annotation></m:semantics></m:mstyle></m:math>. The results agree, and the solution checks.
+        </item>
+<item> The number is <m:math><m:mstyle displaystyle="true">
+<m:mo>-</m:mo>
+<m:mn>2</m:mn>
+</m:mstyle></m:math></item>
+</list>
+</example>
+<example id="eip-id1164910120521"><para id="id1164956827594">Consecutive integers have the property that if</para>
+
+        
+        <para id="id1164959480118"><m:math><m:mstyle displaystyle="true">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>n</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left"> 
+<m:mtext>the smallest integer, then</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>n</m:mi>
+<m:mo>+</m:mo>
+<m:mn>1</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left"> 
+<m:mtext>the next integer, and</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>n</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left"> 
+<m:mtext>the next integer, and so on.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mstyle></m:math>
+
+
+
+
+
+
+
+</para>
+        
+        <para id="id1164960729112">Consecutive odd or even integers have the property that if</para>
+        <para id="id6043745"><m:math><m:mstyle displaystyle="true">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>n</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left"> 
+<m:mtext>the smallest integer, then</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>n</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left"> 
+<m:mtext>the next odd or even integer (since odd or even numbers differ by 2), and</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mi>n</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left"> 
+<m:mtext>the next odd or even integer, and so on.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mstyle></m:math>
+
+
+
+
+
+
+
+</para>
+        
+        
+        <para id="id1164948396651">The sum of three consecutive odd integers is equal to one less than twice the first odd integer. Find the three integers.</para>
+
+<list id="eip-id1170301333353" list-type="enumerated" number-style="arabic" class="stepwise"><item><m:math><m:mstyle displaystyle="true">
+<m:mtable>
+<m:mtr>
+<m:mtd><m:mo>Let </m:mo></m:mtd>
+<m:mtd columnalign="right">
+<m:mi>n</m:mi>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left"> 
+<m:mtext>the first odd integer. Then,</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mi>n</m:mi>
+<m:mo>+</m:mo>
+<m:mn>2</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left"> 
+<m:mtext>the second odd integer, and</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mi>n</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left"> 
+<m:mtext>the third odd integer.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mstyle></m:math>
+
+
+
+
+
+
+
+
+</item>      
+
+  <item>Translate the words to mathematical symbols and construct an equation. Read phrases.
+        <para id="eip-id1170940839829"><m:math><m:mstyle displaystyle="true">
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtable>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>The sum of:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>add some numbers</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>three consecutive odd integers:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mi>n</m:mi>
+                                <m:mi>, </m:mi>
+                                <m:mrow>
+                                  <m:mi>n</m:mi>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>2, </m:mn>
+                                </m:mrow>
+                                <m:mrow>
+                                  <m:mi>n</m:mi>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mn>4</m:mn>
+                                </m:mrow>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>is equal to:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+                             <m:mo>=</m:mo>                             </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>one less than:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>subtract 1 from</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mtext>twice the first odd integer:</m:mtext>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                            <m:mtd columnalign="left">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+<m:mi>n</m:mi>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                        </m:mtable>
+                        <m:mo stretchy="true">}</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mo stretchy="false">(</m:mo>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mi>n</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mn>4</m:mn>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:mo stretchy="false">)</m:mo>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+<m:mi>n</m:mi>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ left none  matrix {
+"The sum of:" {} # "add some numbers" {} ##
+"three consecutive odd integers:" {} # n,n+2,n+4 {} ##
+"is equal to:" {} # ={} {} ##
+"one less than:" {} # "subtract 1 from" {} ##
+"twice the first odd integer:" {} # 2n{}
+}  right rbrace n+ \( n+2 \) + \( n+4 \) =2n - 1} {}</m:annotation>
+            </m:semantics>
+          </m:mstyle></m:math>
+        </para></item>
+
+        <item> <para id="eip-id1170934737341"><m:math><m:mstyle displaystyle="true">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">+</m:mo><m:mi>n</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>n</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn>
+<m:mi>n</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n+n+2+n+4=2n - 1} {}</m:annotation></m:semantics></m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+        <m:mtd columnalign="left"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn>
+<m:mi>n</m:mi><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn>
+<m:mi>n</m:mi><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3n+6=2n - 1} {}</m:annotation></m:semantics></m:mtd>
+<m:mtd columnalign="left"><m:mtext> Subtract  </m:mtext> 
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>2</m:mn>
+<m:mi>n</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2n} {}</m:annotation></m:semantics><m:mtext>  from</m:mtext><m:mtext mathvariant="italic"> both </m:mtext>
+<m:mtext> sides.</m:mtext></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+        
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+<m:mi>n</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>6</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>2</m:mn>
+<m:mi>n</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+<m:mi>n</m:mi>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>2</m:mn>
+<m:mi>n</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{3n+6 - 2n=2n - 1 - 2n} {}</m:annotation>
+            </m:semantics>
+          </m:mtd>
+</m:mtr>
+<m:mtr>
+     <m:mtd columnalign="left">
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n+6= - 1} {}</m:annotation></m:semantics></m:mtd>
+<m:mtd columnalign="left">
+<m:mtext> Subtract 6 from</m:mtext><m:mtext mathvariant="italic"> both </m:mtext>
+<m:mtext> sides.</m:mtext>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd columnalign="left">        
+    <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>n</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>6</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>6</m:mn>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mn>1</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:mn>6</m:mn>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{n+6 - 6= - 1 - 6} {}</m:annotation>
+            </m:semantics>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+     <m:mtr>
+    <m:mtd columnalign="left">
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n= - 7} {}</m:annotation></m:semantics></m:mtd>
+<m:mtd columnalign="left">
+<m:mtext> The first integer is -7.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n+2= - 7+2= - 5} {}</m:annotation></m:semantics></m:mtd>
+<m:mtd columnalign="left">
+<m:mtext> The second integer is -5.</m:mtext></m:mtd>
+</m:mtr>
+<m:mtr>
+       <m:mtd columnalign="left">
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n+4= - 7+4= - 3} {}</m:annotation></m:semantics></m:mtd>
+<m:mtd columnalign="left"><m:mtext> The third integer is -3.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mstyle></m:math></para>
+</item>
+       
+ <item> Check this result.<newline/>
+        The sum of the three integers is
+        <para id="id1164960929904"><m:math><m:mstyle displaystyle="true">
+
+                  <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mn>7</m:mn>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mo stretchy="false">(</m:mo>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>5</m:mn>
+                                  <m:mo stretchy="false">)</m:mo>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mo stretchy="false">(</m:mo>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mn>3</m:mn>
+                                <m:mo stretchy="false">)</m:mo>
+</m:mtd>
+<m:mtd>
+                                <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">        
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mtext>12</m:mtext>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:mo stretchy="false">(</m:mo>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mn>3</m:mn>
+                              <m:mo stretchy="false">)</m:mo>
+</m:mtd>                        
+</m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                              <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                         <m:mo stretchy="false">−</m:mo>
+                                <m:mtext>15</m:mtext>
+</m:mtd>                          
+     </m:mtr>
+                  </m:mtable>
+          </m:mstyle></m:math>
+        </para>
+
+        <para id="id1164953458596">One less than twice the first integer is 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:mo stretchy="false">(</m:mo><m:mo stretchy="false">−</m:mo><m:mn>7</m:mn></m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>14</m:mtext></m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 \(  - 7 \)  - 1= - "14" - 1= - "15"} {}</m:annotation></m:semantics></m:mstyle></m:math>. Since these two results are equal, the solution checks.</para></item>
+        <item> The three odd integers are -7, -5, -3.<newline/>
+      </item></list></example></section>
+      <section id="id1164963210827">
+        <title>Practice Set A</title>
+        <exercise id="id1164965918233"><problem id="oo-id1164959834175">
+            <para id="id1164959100338">When three times a number is decreased by 5, the result is -23. Find the number.
+<newline/>
+<list id="eip-id1165206596299" mark-suffix=":" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let <m:math><m:mstyle displaystyle="true">
+<m:mi>x</m:mi>
+<m:mo>=</m:mo>
+</m:mstyle></m:math></item>
+<item>   </item>
+<item>   </item>
+<item> Check:</item>
+<item>The number is <space effect="underline" count="10"/>.</item>
+</list></para>
+          </problem>
+        <solution id="eip-id1849364"><para id="eip-id1171852259172">-6</para>
+</solution></exercise>
+        
+        
+        
+        
+        
+        
+        <exercise id="id1164959377636"><problem id="oo-id1164957358898">
+            <para id="id1164965948482">When five times a number is increased by 7, the result is five less than seven times the number. Find the number.
+<newline/>
+<list id="eip-id1171862615475" mark-suffix=":" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let <m:math><m:mstyle displaystyle="true">
+<m:mi>n</m:mi>
+<m:mo>=</m:mo>
+</m:mstyle></m:math></item>
+<item>   </item>
+<item>   </item>
+<item> Check:</item>
+<item>The number is <space effect="underline" count="10"/>.</item>
+</list></para>
+          </problem>
+        <solution id="eip-id1168599071962">
+<para id="eip-id1168599335263">6</para>
+</solution></exercise>
+        
+        
+        <exercise id="id1164969967421"><problem id="oo-id1164952695763">
+            <para id="id6990808">Two consecutive numbers add to 35. Find the numbers.
+
+<list id="eip-id1168610424971" mark-suffix=":" list-type="enumerated" number-style="arabic" class="stepwise"><item>   </item>
+<item>   </item>
+<item>   </item>
+<item> Check:</item>
+<item>The numbers are <space effect="underline" count="10"/> and <space effect="underline" count="10"/>.</item>
+</list></para>
+          </problem>
+        <solution id="eip-id1170971810338">
+<para id="eip-id1170957346254">17 and 18</para>
+</solution></exercise>
+        
+        
+        <exercise id="id1164959548036"><problem id="oo-id1164960977834">
+            <para id="id1164967780870">The sum of three consecutive even integers is six more than four times the middle integer. Find the integers.
+
+<list id="eip-id1172318473215" mark-suffix=":" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let <m:math><m:mstyle displaystyle="true">
+<m:mi>x</m:mi>
+<m:mo>=</m:mo></m:mstyle></m:math> smallest integer.<newline/>
+<space effect="underline" count="10"/>= next integer.<newline/>
+<space effect="underline" count="10"/>= largest integer.</item>
+<item>   </item>
+<item>   </item>
+<item> Check:</item>
+<item>The integers are <space effect="underline" count="10"/>, <space effect="underline" count="10"/>, and <space effect="underline" count="10"/>.</item>
+</list></para>
+          </problem>
+<solution id="eip-id1170934877888">
+<para id="eip-id1170933928654">-8, -6, and -4</para>
+</solution>
+        </exercise>
+        
+        
+      </section>
+    </section>
+    <section id="id6536874">
+      <title>Geometry Problems</title>
+      <section id="id1164955434640"><title>Sample Set B</title><example id="eip-id1166658606081"><para id="id1164957258525">The perimeter (length around) of a rectangle is 20 meters. If the length is 4 meters longer than the width, find the length and width of the rectangle.</para>
+   
+
+<list id="eip-id1170259635628" mark-suffix=":" list-type="enumerated" number-style="arabic" class="stepwise"><item> Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x={}} {}</m:annotation></m:semantics></m:mstyle></m:math>the width of the rectangle. Then, <newline/>
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+4={}} {}</m:annotation></m:semantics></m:mstyle></m:math>the length of the rectangle.</item>
+<item>
+     We can draw a picture.<newline/>
+<para id="eip-id1170279936533"><media id="id1164954606131_media" alt="A rectangle with base length the quantity x + 4 and height x.">
+            <image mime-type="image/png" src="../../media/graphics1-76b1.png" id="id1164954606131__onlineimage" width="300" print-width="2in"/>
+          </media>
+        </para><para id="eip-id1170288862467">The length around the rectangle is<newline/>
+ <m:math><m:mstyle displaystyle="true">
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mi>x</m:mi>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mtext> width</m:mtext>
+</m:munder>
+<m:mo>+</m:mo>
+
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mfenced open="(" close=")">
+<m:mrow>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+</m:mrow>
+</m:mfenced>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mtext>length</m:mtext>
+</m:munder>
+
+<m:mo>+</m:mo>
+
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mi>x</m:mi>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mtext> width</m:mtext>
+</m:munder>
+
+<m:mo>+</m:mo>
+
+<m:munder>
+<m:mrow>
+<m:munder>
+<m:mfenced open="(" close=")">
+<m:mrow>
+<m:mi>x</m:mi>
+<m:mo>+</m:mo>
+<m:mn>4</m:mn>
+</m:mrow>
+</m:mfenced>
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mtext>length</m:mtext>
+</m:munder>
+
+<m:mo>=</m:mo>
+<m:mn>20</m:mn>
+</m:mstyle></m:math></para>
+       </item> <item>
+<para id="eip-id1170264311024"><m:math><m:mstyle displaystyle="true">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mi>x</m:mi></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>20</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x+x+4+x+x+4="20"} {}</m:annotation></m:semantics>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>20</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4x+8="20"} {}</m:annotation></m:semantics></m:mtd>
+<m:mtd columnalign="left">
+<m:mtext> Subtract 8 from</m:mtext><m:mtext mathvariant="italic"> both </m:mtext>
+<m:mtext> sides.
+</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn>
+<m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4x="12"} {}</m:annotation></m:semantics>
+</m:mtd>
+<m:mtd columnalign="left"> 
+<m:mtext>Divide </m:mtext><m:mtext mathvariant="italic"> both </m:mtext>
+<m:mtext> sides by 4.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=3} {}</m:annotation></m:semantics></m:mtd>
+<m:mtd columnalign="left"><m:mtext>Then,</m:mtext>
+</m:mtd>
+</m:mtr> 
+<m:mtr>
+<m:mtd columnalign="left">
+   <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>x</m:mi>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mn>4</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>7</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{x+4=3+4=7} {}</m:annotation>
+            </m:semantics>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:mstyle></m:math>
+</para>      
+  </item>
+        <item> Check:<newline/>
+        <para id="id1164957602471"><media id="id1164962635354_media" alt="A rectangle with base length 7 and height 3.">
+              <image mime-type="image/png" src="../../media/graphics2-9498.png" id="id1164962635354__onlineimage" width="275" print-width="2in"/>
+            </media>
+<newline/>
+          <media id="id1164954829102_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-29a1.png" id="id1164954829102__onlineimage" width="125" print-width="1in"/>
+          </media>
+       </para>
+</item>
+ <item>The length of the rectangle is 7 meters. <newline/>
+The width of the rectangle is 3 meters.</item>
+      </list></example></section>
+      <section id="id1164959122298"><title>Practice Set B</title><exercise id="eip-id1164918882259"><problem id="eip-id1164928450522">       
+ <para id="id1164962982159">The perimeter of a triangle is 16 inches. The second leg is 2 inches longer than the first leg, and the third leg is 5 inches longer than the first leg. Find the length of each leg.</para>
+        <list id="id1164951875485" mark-suffix=":" list-type="enumerated" number-style="arabic" class="stepwise"><item> Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x={}} {}</m:annotation></m:semantics></m:mstyle></m:math> length of the first leg.<newline/>
+<space effect="underline" count="10"/>= length of the second leg.<newline/>
+ <space effect="underline" count="10"/>= length of the third leg.</item>
+          <item> We can draw a picture.</item>
+          <item/>
+          <item> Check:</item>
+          <item> The lengths of the legs are<space effect="underline" count="10"/>,<space effect="underline" count="10"/>, and<space effect="underline" count="10"/>. </item>
+        </list>
+      </problem>
+<solution id="eip-id1164940222220"><para id="eip-id1164945669797">
+3 inches, 5 inches, and 8 inches</para>
+</solution>
+</exercise></section>
+    </section>
+    <section id="id1164957074445"><title>Exercises</title><para id="id1164952879465">For the following 17 problems, find each solution using the five-step method. </para>
+      <exercise id="id1164956939358">
+        <problem id="oo-id5772697">
+          <para id="id1164961469122">What number decreased by nine is fifteen?</para>
+      <list id="id1164957439207" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n={}} {}</m:annotation></m:semantics></m:mstyle></m:math>the number. </item>
+        <item/>
+        <item/>
+        <item>Check:</item>
+        <item>The number is<space effect="underline" count="10"/>.   
+</item>
+      </list>
+        </problem>
+<solution id="eip-id1171123281423">
+<para id="eip-id1171111660787">24</para>
+</solution>
+      </exercise>
+
+      <exercise id="id1164965233753">
+        <problem id="oo-id1164959547224">
+          <para id="id1164960065502">What number increased by twelve is twenty?</para>
+      <list id="id1164959971483" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n={}} {}</m:annotation></m:semantics></m:mstyle></m:math>the number. </item>
+        <item/>
+        <item/>
+        <item>Check:</item>
+        <item>The number is<space effect="underline" count="10"/>. </item>
+      </list>
+   
+</problem>
+      </exercise>
+     
+   
+<exercise id="id1164961733061">
+        <problem id="oo-id1164954034196">
+          <para id="id1164954816432">If five more than three times a number is thirty-two, what is the number?</para>
+      <list id="id1164955335955" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x={}} {}</m:annotation></m:semantics></m:mstyle></m:math>the number. </item>
+        <item/>
+        <item/>
+        <item>Check:</item>
+        <item>The number is<space effect="underline" count="10"/>.    
+</item>
+      </list>
+  </problem>
+<solution id="eip-id1171123028994"><para id="eip-id1171112272475">9</para>
+</solution>
+      </exercise>
+                  <exercise id="id1164948735690">
+        <problem id="oo-id1164959820081">
+          <para id="id1164956196523">If four times a number is increased by fifteen, the result is five. What is the number?</para>
+      <list id="id1164963817754" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x={}} {}</m:annotation></m:semantics></m:mstyle></m:math></item>
+        <item/>
+        <item/>
+        <item>Check:</item>
+        <item>The number is<space effect="underline" count="10"/>.</item>
+      </list>
+  </problem>
+      </exercise>
+            
+<exercise id="id1164969939831"><problem id="oo-id1164962572638">
+          <para id="id1164950558680">When three times a quantity is decreased by five times the quantity, the result is negative twenty. What is the quantity?</para>
+      <list id="id1164952483958" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x={}} {}</m:annotation></m:semantics></m:mstyle></m:math></item>
+        <item/>
+        <item/>
+        <item>Check:</item>
+        <item>The quantity is<space effect="underline" count="10"/>.</item>
+      </list>
+  </problem>
+      <solution id="eip-id1165203172816">
+<para id="eip-id1165211656853">10</para>
+</solution></exercise>
+            
+<exercise id="id1164962139188"><problem id="oo-id1164959380437">
+          <para id="id1164961572932">If four times a quantity is decreased by nine times the quantity, the result is ten. What is the quantity?</para>
+      <list id="id1164960830991" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>y</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{y={}} {}</m:annotation></m:semantics></m:mstyle></m:math></item>
+        <item/>
+        <item/>
+        <item>Check:</item>
+        <item>The quantity is<space effect="underline" count="10"/>. </item>
+      </list>
+  </problem>
+      </exercise>
+            
+<exercise id="id1164951971436"><problem id="oo-id1164948393172">
+          <para id="id1164959208928">When five is added to three times some number, the result is equal to five times the number decreased by seven. What is the number?</para>
+      <list id="id1164966573295" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n={}} {}</m:annotation></m:semantics></m:mstyle></m:math></item>
+        <item/>
+        <item/>
+        <item>Check:</item>
+        <item>The number is<space effect="underline" count="10"/>.</item>
+      </list>
+  </problem>
+<solution id="eip-id1171118010876">
+<para id="eip-id1171114119910"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+</solution>
+      </exercise>
+            
+<exercise id="id1164957950687"><problem id="oo-id1164961573628">
+          <para id="id1164957925987">When six times a quantity is decreased by two, the result is six more than seven times the quantity. What is the quantity?</para>
+        <list id="id1164947491797" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>x</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x={}} {}</m:annotation></m:semantics></m:mstyle></m:math></item>
+        <item/>
+        <item/>
+        <item>Check:</item>
+        <item>The quantity is<space effect="underline" count="10"/>. </item>
+      </list>
+</problem>
+      </exercise>
+      
+      
+<exercise id="id1164957435611"><problem id="oo-id1164962967532">
+          <para id="id1164948573028">When four is decreased by three times some number, the result is equal to one less than twice the number. What is the number?</para>
+      <list id="id1164958014799" list-type="enumerated" number-style="arabic" class="stepwise"><item/>
+        <item/>
+        <item/>
+        <item>Check:</item>
+        <item>      </item>
+      </list>
+  </problem>
+      <solution id="eip-id1171870526940">
+<para id="eip-id4062274">1</para>
+</solution></exercise>
+            
+<exercise id="id1164952233567"><problem id="oo-id1164953952969">
+          <para id="id1164963773986">When twice a number is subtracted from one, the result is equal to twenty-one more than the number. What is the number?</para>
+      <list id="id1164954844310" list-type="enumerated" number-style="arabic" class="stepwise"><item/>
+        <item/>
+        <item/>
+        <item/>
+        <item/>
+      </list>
+  </problem>
+      </exercise>
+            
+<exercise id="id1164956889441"><problem id="oo-id1164955423364">
+          <para id="id1164957521130">The perimeter of a rectangle is 36 inches. If the length of the rectangle is 6 inches more than the width, find the length and width of the rectangle.</para>
+      <list id="id1164953043155" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>w</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{w={}} {}</m:annotation></m:semantics></m:mstyle></m:math>the width.<newline/>
+<space effect="underline" count="10"/>= the length.
+</item>
+        <item>We can draw a picture.<newline/><media id="id1164963990960_media" alt="A rectangle."><image mime-type="image/png" src="../../media/graphics4-6af3.png" id="id1164963990960__onlineimage" height="92" width="263" print-width="2in"/></media></item>
+        <item/>
+        <item>Check:</item>
+        <item>The length of the rectangle is<space effect="underline" count="10"/> inches, and the width is<space effect="underline" count="10"/>inches.</item>
+      </list>
+  </problem>
+      <solution id="eip-id1164934521868">
+<para id="eip-id1164927932839">Length=12 inches, 
+Width=6 inches</para></solution></exercise>
+      
+      
+
+      
+      
+
+
+
+
+<exercise id="id1164958745933"><problem id="oo-id1164959237290">
+          <para id="id1164964267991">The perimeter of a rectangle is 48 feet. Find the length and the width of the rectangle if the length is 8 feet more than the width.</para>
+      <list id="id1164954615520" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>w</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{w={}} {}</m:annotation></m:semantics></m:mstyle></m:math>the width.
+     <newline/><space effect="underline" count="10"/>= the length.</item>
+        <item>We can draw a picture. <newline/>
+<media id="id1164961739367_media" alt="A rectangle."><image mime-type="image/png" src="../../media/graphics5-6af3.png" id="id1164961739367__onlineimage" height="105" width="300" print-width="2in"/></media></item>
+        <item/>
+        <item>Check:</item>
+        <item>The length of the rectangle is<space effect="underline" count="10"/>feet, and the width is<space effect="underline" count="10"/>feet.</item>
+      </list>
+        </problem>
+      </exercise>
+
+      <exercise id="id1164948789175"><problem id="oo-id1164962737005">
+          <para id="id1164961008030">The sum of three consecutive integers is 48. What are they?</para>
+      <list id="id1164948516930" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n={}} {}</m:annotation></m:semantics></m:mstyle></m:math>the smallest integer.
+        <newline/><space effect="underline" count="10"/>= the next integer.
+        <newline/><space effect="underline" count="10"/>= the next integer. </item>
+        <item/>
+        <item/>
+        <item>Check:</item>
+        <item>The three integers are <space effect="underline" count="10"/>,<space effect="underline" count="10"/>, and <space effect="underline" count="10"/>. </item>
+      </list>
+   </problem>
+    <solution id="eip-id1164625369864">
+<para id="eip-id1164614200666">15, 16, 17</para>
+</solution>  </exercise>
+          
+
+ <exercise id="id1164953176133"><problem id="oo-id1164958047006">
+          <para id="id1164959884422">The sum of three consecutive integers is -27. What are they?</para>
+      <list id="id1164957950397" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n={}} {}</m:annotation></m:semantics></m:mstyle></m:math> the smallest integer.<newline/>
+<space effect="underline" count="10"/>= the next integer.
+<newline/>
+<space effect="underline" count="10"/>= the next integer. </item>
+        <item/>
+        <item/>
+        <item>Check:</item>
+        <item>The three integers are <space effect="underline" count="10"/>, <space effect="underline" count="10"/>, and <space effect="underline" count="10"/>.</item>
+      </list>
+   </problem>
+      </exercise>
+     
+
+      <exercise id="id1164960046940"><problem id="oo-id1164958995999">
+          <para id="id1164951223040">The sum of five consecutive integers is zero. What are they? </para>
+      <list id="id1164958507689" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n={}} {}</m:annotation></m:semantics></m:mstyle></m:math></item>
+        <item/>
+        <item/>
+        <item/>
+        <item>The five integers are <space effect="underline" count="10"/>, <space effect="underline" count="10"/>, <space effect="underline" count="10"/>, <space effect="underline" count="10"/>, and <space effect="underline" count="10"/>.</item>
+      </list>
+     </problem>
+<solution id="eip-id1165780785800">
+<para id="eip-id1165780785802">-2, -1, 0, 1, 2</para>
+</solution>
+      </exercise>
+      
+   <exercise id="id7736537"><problem id="oo-id1164959977170">
+          <para id="id1164953273852">The sum of five consecutive integers is -5. What are they?</para>
+         <list id="id1164948965531" list-type="enumerated" number-style="arabic" class="stepwise"><item>Let 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n={}} {}</m:annotation></m:semantics></m:mstyle></m:math></item>
+        <item/>
+        <item/>
+        <item/>
+        <item>The five integers are <space effect="underline" count="10"/>, <space effect="underline" count="10"/>,<space effect="underline" count="10"/>,<space effect="underline" count="10"/>, and <space effect="underline" count="10"/>.</item>
+      </list>
+</problem>
+      </exercise>
+           
+
+<para id="id1164962572754">Continue using the five-step procedure to find the solutions.</para>
+      <exercise id="id1164953920172"><problem id="oo-id1164956937676">
+          <para id="id1164951726856">The perimeter of a rectangle is 18 meters. Find the length and width of the rectangle if the length is 1 meter more than three times the width.</para>
+        </problem>
+<solution id="eip-id8400659">
+<para id="eip-id1168599408802">Length is 7, width is 2</para>
+</solution>
+      </exercise>
+      <exercise id="id1164953084625">
+        <problem id="oo-id1164952674094">
+          <para id="id1164963005839">The perimeter of a rectangle is 80 centimeters. Find the length and width of the rectangle if the length is 2 meters less than five times the width.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164959888250"><problem id="oo-id1164958006686">
+          <para id="id1164964275821">Find the length and width of a rectangle with perimeter 74 inches, if the width of the rectangle is 8 inches less than twice the length. </para>
+        </problem>
+      <solution id="eip-id1164625509932">
+<para id="eip-id7875484">Length is 15, width is 22
+</para>
+</solution></exercise>
+      <exercise id="id7322641">
+        <problem id="oo-id1164953878897">
+          <para id="id1164962417614">Find the length and width of a rectangle with perimeter 18 feet, if the width of the rectangle is 7 feet less than three times the length.</para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id1164960383349">
+        <problem id="oo-id1164962660100">
+          <para id="id1164965196259">A person makes a mistake when copying information regarding a particular rectangle. The copied information is as follows: The length of a rectangle is 5 inches less than two times the width. The perimeter of the rectangle is 2 inches. What is the mistake? </para>
+        </problem>
+<solution id="eip-id1171123470487">
+<para id="eip-id1171111453365">The perimeter is 20 inches. Other answers are possible. For example, perimeters such as 26, 32 are possible. </para>
+</solution>
+      </exercise>
+      <exercise id="id1164951525175">
+        <problem id="oo-id1164965575973">
+          <para id="id3327558">A person makes a mistake when copying information regarding a particular triangle. The copied information is as follows: Two sides of a triangle are the same length. The third side is 10 feet less than three times the length of one of the other sides. The perimeter of the triangle is 5 feet. What is the mistake?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164948662235">
+        <problem id="oo-id1164954119568">
+          <para id="id1164965299200">The perimeter of a triangle is 75 meters. If each of two legs is exactly twice the length of the shortest leg, how long is the shortest leg? </para>
+        </problem>
+<solution id="eip-id1171109329973"><para id="eip-id1171109329974">15 meters</para>
+</solution>
+      </exercise>
+      <exercise id="id1164968954815">
+        <problem id="oo-id1164954782614">
+          <para id="id1164956050092">If five is subtracted from four times some number the result is negative twenty-nine. What is the number?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164954567602">
+        <problem id="oo-id1164956722872">
+          <para id="id1164948546849">If two is subtracted from ten times some number, the result is negative two. What is the number? 
+
+</para>
+        </problem>
+<solution id="eip-id1171112594064">
+<para id="eip-id1171111107533">
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n=0} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+</solution>
+      </exercise>
+      <exercise id="id1164955740119">
+        <problem id="oo-id1164964086866">
+          <para id="id1164960508662">If three less than six times a number is equal to five times the number minus three, what is the number?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164963205665">
+        <problem id="oo-id1164957445877">
+          <para id="id1164957893781">If one is added to negative four times a number the result is equal to eight less than five times the number. What is the number? 
+</para>
+        </problem>
+<solution id="eip-id1171122674578">
+<para id="eip-id1171125515499"><m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n=1} {}</m:annotation></m:semantics></m:mstyle></m:math></para>
+</solution>
+      </exercise>
+      <exercise id="id1164953273678">
+        <problem id="oo-id1164962914175">
+          <para id="id1164959697350">Find three consecutive integers that add to -57.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164957302511">
+        <problem id="oo-id1164961095381">
+          <para id="id1164960234914">Find four consecutive integers that add to negative two.  </para>
+        </problem>
+<solution id="eip-id1171112924443">
+<para id="eip-id1171128948506">-2, -1, 0, 1</para>
+</solution>
+      </exercise>
+      <exercise id="id1164956041448">
+        <problem id="oo-id1164954854981">
+          <para id="id1164953236439">Find three consecutive even integers that add to -24.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164965896951">
+        <problem id="oo-id1164959364526">
+          <para id="id1164959944736">Find three consecutive odd integers that add to -99. </para>
+        </problem>
+<solution id="eip-id1171112940686">
+<para id="eip-id1171122044947">-35, -33, -31</para>
+</solution>
+      </exercise>
+      <exercise id="id1164959917001">
+        <problem id="oo-id1164952555744">
+          <para id="id1164957112410">Suppose someone wants to find three consecutive odd integers that add to 120. Why will that person not be able to do it?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164959724958">
+        <problem id="oo-id1164957655369">
+          <para id="id1164952902635">Suppose someone wants to find two consecutive even integers that add to 139. Why will that person not be able to do it?  </para>
+        </problem>
+<solution id="eip-id1171120275106">
+<para id="eip-id1171111369699">
+…because the sum of any even number (in this case, 2) o even integers (consecutive or not) is even and, therefore, cannot be odd (in this case, 139)</para>
+</solution>      
+</exercise>
+      <exercise id="id1164953720766">
+        <problem id="oo-id1164955985776">
+          <para id="id1164960646820">Three numbers add to 35. The second number is five less than twice the smallest. The third number is exactly twice the smallest. Find the numbers.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164966785249">
+        <problem id="oo-id1164956083246">
+          <para id="id1164956783182">Three numbers add to 37. The second number is one less than eight times the smallest. The third number is two less than eleven times the smallest. Find the numbers. </para>
+        </problem>
+<solution id="eip-id1171124239904">
+<para id="eip-id1171117502877">2, 15, 20</para>
+</solution>
+      </exercise>
+      <section id="id1164961175541">
+        <title>Exercises for Review</title>
+        <exercise id="id1164956322567">
+          <problem id="oo-id1164968685868">
+            <para id="id1164960947558">(<link document="m34968"/>) Find the decimal representation of 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>34992</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>32</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "34992" div 4 "." "32"} {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1164964231284">
+          <problem id="oo-id1164959709182">
+            <para id="id1164959149822">(<link document="m34982"/>) A 5-foot woman casts a 9-foot shadow at a particular time of the day. How tall is a person that casts a 10.8-foot shadow at the same time of the day? </para>
+          </problem>
+<solution id="eip-id1171130801430">
+<para id="eip-id1171130967351">6 feet tall</para>
+</solution>
+        </exercise>
+        <exercise id="id1164964208580">
+          <problem id="oo-id1164963789774">
+            <para id="id1164957061569">(<link document="m35014"/>) Use the method of rounding to estimate the sum: 
+<m:math><m:mstyle displaystyle="true"><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mrow><m:mfrac><m:mn>5</m:mn><m:mtext>12</m:mtext></m:mfrac><m:mo stretchy="false">+</m:mo><m:mtext>15</m:mtext></m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>25</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 {  {5}  over  {"12"} } +"15" {  {1}  over  {"25"} } } {}</m:annotation></m:semantics></m:mstyle></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1164953997247">
+          <problem id="oo-id1164953818904">
+            <para id="id1164963960046">(<link document="m35019"/>) Convert 463 mg to cg. </para>
+          </problem>
+<solution id="eip-id1171132956630">
+<para id="eip-id1171123905006">46.3 cg</para>
+</solution>
+        </exercise>
+        <exercise id="id1164953395917">
+          <problem id="oo-id1164963669921">
+            <para id="id1164963902178">(<link document="m35046"/>) Twice a number is added to 5. The result is 2 less than three times the number. What is the number?</para>
+          </problem>
+        </exercise>
+      </section>
+    </section>
+  </content>
+</document>

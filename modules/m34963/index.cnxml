@@ -1,0 +1,1281 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Multiplication of Decimals</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34963</md:content-id>
+  <md:title>Multiplication of Decimals</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to multiply decimals. By the end of the module students should understand the method used for multiplying decimals, be able to multiply decimals, be able to simplify a multiplication of a decimal by a power of 10 and understand how to use the word "of" in multiplication.</md:abstract>
+  <md:uuid>0e3fd052-45cf-4956-b958-3989de87c3a1</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id7402911">
+      <title>Section Overview</title>
+      <list id="id1171801037099" list-type="bulleted"><item>The Logic Behind the Method</item>
+        <item>The Method of Multiplying Decimals </item>
+<item>Calculators</item>
+        <item>Multiplying Decimals By Powers of 10</item>
+        <item>Multiplication in Terms of “Of”</item></list>
+    </section>
+    <section id="id1171793954973"><title>The Logic Behind the Method</title><para id="id1171798454973">Consider the product of 3.2 and 1.46. Changing each decimal to a fraction, we have</para>
+      
+      <para id="eip-980"><m:math>
+       
+           
+                <m:mtable>
+                  <m:mtr>
+<m:mtd>
+                   
+                      
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mn>3</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mn>2</m:mn>
+                            <m:mo stretchy="false">)</m:mo>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mn>1</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>46</m:mtext>
+                            
+                              <m:mo stretchy="false">)</m:mo>
+</m:mtd>
+<m:mtd>
+                              <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+                              <m:mn>3</m:mn>
+                           
+                            <m:mrow>
+                              <m:mfrac>
+                                <m:mn>2</m:mn>
+                                <m:mtext>10</m:mtext>
+                              </m:mfrac>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                            <m:mfrac>
+                              <m:mtext>46</m:mtext>
+                              <m:mtext>100</m:mtext>
+                            </m:mfrac>
+                         </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd/>
+                <m:mtd> <m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+                           
+                              <m:mfrac>
+                                <m:mtext>32</m:mtext>
+                                <m:mtext>10</m:mtext>
+                              </m:mfrac>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mfrac>
+                                <m:mtext>146</m:mtext>
+                                <m:mtext>100</m:mtext>
+                              </m:mfrac>
+                            </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd/>
+                    <m:mtd><m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mtext>32</m:mtext>
+                                <m:mo stretchy="false">⋅</m:mo>
+                                <m:mtext>146</m:mtext>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mtext>10</m:mtext>
+                                <m:mo stretchy="false">⋅</m:mo>
+                                <m:mtext>100</m:mtext>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd/>
+                    <m:mtd><m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+                            <m:mfrac>
+                              <m:mtext>4672</m:mtext>
+                              <m:mtext>1000</m:mtext>
+                            </m:mfrac>
+                          </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                   <m:mtd/>
+               <m:mtd> <m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+                              <m:mn>4</m:mn>
+                           
+                            <m:mfrac>
+                              <m:mtext>672</m:mtext>
+                              <m:mtext>1000</m:mtext>
+                            </m:mfrac>
+                         </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd/>
+                  <m:mtd><m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd>
+                            <m:mtext>four and six hundred seventy-two thousandths</m:mtext>
+                        </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd/>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+                            <m:mtext>4</m:mtext>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>672</m:mtext>
+                        </m:mtd>
+                  </m:mtr>
+                </m:mtable>
+               
+        </m:math>
+      </para><para id="id1171803799995">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mtext>46</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo><m:mtext> 4</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>672</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 3 "." 2 \)  \( 1 "." "46" \)  =" 4" "." "672"} {}</m:annotation></m:semantics></m:math>. </para>
+      <para id="id1171798865271">Notice that the factor</para>
+      <para id="id1171800864793"><m:math>
+   <m:mfenced open="" close="}">       
+            <m:mtable>
+              <m:mtr>
+                <m:mrow>
+                  
+                  <m:mtext>3.2 has 1 decimal place,</m:mtext>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mtr>
+              <m:mtr>
+                <m:mrow>
+                  
+                  <m:mtext>1.46 has 2 decimal places,</m:mtext>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mtr>
+              <m:mtr>
+                <m:mrow>
+                  <m:mtext>and the product</m:mtext>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mtr>
+              <m:mtr>
+                <m:mrow>
+                 
+                  <m:mtext>4.672 has 3 decimal places.</m:mtext>
+                  
+                  <m:mrow/>
+                </m:mrow>
+              </m:mtr>
+             </m:mtable>
+</m:mfenced>
+<m:mrow><m:mn>1</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow>
+        </m:math>
+      </para>
+      <para id="id1171799240247">Using this observation, we can suggest that the sum of the number of decimal places in the factors equals the number of decimal places in the product.</para>
+      <para id="id1171806783593"><media id="id1171800928509_media" alt="Vertical multiplication. 1.46 times 3.2. The first round of multiplication yields a first partial product of 292. The second round yields a second partial product of 438, aligned in the tens column. Take note that 2 decimal places in the first factor and 1 decimal place in the second factor sums to a total of three decimal places in the product. The final product is 4.672.">
+            <image mime-type="image/png" src="../../media/graphics1-e1ea.png" id="id1171800928509__onlineimage" width="237" print-width="2in"/>
+          </media>
+       
+      </para>
+    </section>
+    <section id="id1171803676086"><title>The Method of Multiplying Decimals</title><para id="id1171801620202"><title>Method of Multiplying Decimals</title>To multiply decimals, 
+<list id="id1171793958629" list-type="enumerated" number-style="arabic">
+        <item>Multiply the numbers as if they were whole numbers.</item>
+        <item>Find the sum of the number of decimal places in the factors.</item>
+        <item>The number of decimal places in the product is the sum found in step 2.</item>
+      </list>
+</para>
+      
+      <section id="id1171800155751"><title>Sample Set A</title><para id="id1171802354112">Find the following products.</para>
+<example id="eip-id1169673169636">
+        <para id="id1171793990254"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>5 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 4</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "5 " cdot " 4" "." 3} {}</m:annotation></m:semantics></m:math></para>
+        
+        <para id="eip-296"><media id="id1171802275420_media" alt="Vertical multiplication. 6.5 times 4.3. The first round of multiplication yields a first partial product of 195. The second round yields a second partial product of 260, aligned in the tens column. Take note that 1 decimal place in the first factor and 1 decimal place in the second factor sums to a total of two decimal places in the product. The final product is 27.95.">
+            <image mime-type="image/png" src="../../media/graphics2-7738.png" id="id1171802275420__onlineimage" width="530" print-width="4in"/>
+          </media></para><para id="id6083075">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">=</m:mo><m:mtext>27</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>95</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." 5 cdot 4 "." 3="27" "." "95"} {}</m:annotation></m:semantics></m:math>.</para>
+</example>
+<example id="eip-id1169673923147">
+        <para id="id1171802583531">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>23</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>96</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"23" "." 4 cdot 1 "." "96"} {}</m:annotation></m:semantics></m:math></para>
+        
+        <para id="eip-991"><media id="id1171793976921_media" alt="Vertical multiplication. 23.4 times 1.96. The first round of multiplication yields a first partial product of 1404. The second round yields a second partial product of 2106, aligned in the tens column. The third round yields a third partial product of 234, aligned in the hundred column. Take note that 1 decimal place in the first factor and 2 decimal places in the second factor sums to a total of three decimal places in the product. The final product is 45.864.">
+            <image mime-type="image/png" src="../../media/graphics3-f0be.png" id="id1171793976921__onlineimage" width="599" print-width="4in"/>
+          </media></para><para id="id1171808747509">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>23</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>96</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>45</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>864</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"23" "." 4 cdot 1 "." "96"="45" "." "864"} {}</m:annotation></m:semantics></m:math>.</para>
+</example>
+<example id="eip-id1169674220036">
+        <para id="id1171805570342">Find the product of 0.251 and 0.00113 and round to three decimal places.</para>
+        
+        <para id="eip-428"><media id="id1171804861965_media" alt="Vertical multiplication. 0.251 times 0.00113. The first round of multiplication yields a first partial product of 753. The second round yields a second partial product of 251, aligned in the tens column. The third round yields a third partial product of 251, aligned in the hundred column. Take note that 3 decimal places in the first factor and 5 decimal places in the second factor sums to a total of eight decimal places in the product. The final product is 0.00028363.">
+            <image mime-type="image/png" src="../../media/graphics4-2857.png" id="id1171804861965__onlineimage" width="599" print-width="4in"/>
+          </media></para><para id="id1171799043594">Now, rounding to three decimal places, we get</para><para id="eip-72"><media id="id1171799986844_media" alt="0.251 times 0.00113 = 0.000, if the product is rounded to three decimal places.">
+            <image mime-type="image/png" src="../../media/graphics5-ed8c.png" id="id1171799986844__onlineimage" width="400" print-width="3in"/>
+          </media></para>
+        
+      </example></section>
+      <section id="id1171799946360">
+        <title>Practice Set A</title>
+        <para id="id1171793863718">Find the following products.</para>
+        <exercise id="id1171799168585"><problem id="oo-id1171800459844">
+            <para id="id1171795426500">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext> 8</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 "." 3 cdot " 8" "." 6} {}</m:annotation></m:semantics></m:math>        </para>
+          </problem>
+        <solution id="eip-id1163985772450"><para id="eip-id1163984705502">45.58</para></solution></exercise>
+        <exercise id="id1171807893254"><problem id="oo-id1171807921254">
+            <para id="id7712830">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 4</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "12" cdot " 4" "." 9} {}</m:annotation></m:semantics></m:math>        </para>
+          </problem>
+        <solution id="eip-id1164953448313"><para id="eip-id1164949530398">10.388</para></solution></exercise>
+        <exercise id="id1171793756966"><problem id="oo-id1171800091004">
+            <para id="id1171794195047">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>054 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>16</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "054 " cdot " 0" "." "16"} {}</m:annotation></m:semantics></m:math>        </para>
+          </problem>
+        <solution id="eip-id1171660320617"><para id="eip-id1171660946946">0.16864</para></solution></exercise>
+        <exercise id="id1171807674769"><problem id="oo-id1171798927179">
+            <para id="id1171800944700"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00031 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>002</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "00031 " cdot " 0" "." "002"} {}</m:annotation></m:semantics></m:math>       </para>
+          </problem>
+        <solution id="eip-id1170363647470"><para id="eip-id1170350530238">0.00000062</para></solution></exercise>
+        <exercise id="id1171808076884"><problem id="oo-id1171802425687">
+            <para id="id1171793714590">Find the product of 2.33 and 4.01 and round to one decimal place. </para>
+          </problem>
+        <solution id="eip-id7551833"><para id="eip-id1164968746674">9.3</para></solution></exercise>
+        <exercise id="id1171796410311"><problem id="oo-id1171803666652">
+            <para id="id1171801147742">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>10 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 5</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>394</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10 " cdot " 5" "." "394"} {}</m:annotation></m:semantics></m:math>        </para>
+          </problem>
+        <solution id="eip-id1164107613897"><para id="eip-id1164107539336">53.94</para></solution></exercise>
+        <exercise id="id1171802787042"><problem id="oo-id1171799531701">
+            <para id="id1171803704920">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>100 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 5</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>394</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100 " cdot " 5" "." "394"} {}</m:annotation></m:semantics></m:math>        </para>
+          </problem>
+        <solution id="eip-id1170710648425"><para id="eip-id1170703962192">539.4</para></solution></exercise>
+        <exercise id="id1171799782009"><problem id="oo-id1171795219394">
+            <para id="id8007013">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>1000</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 5</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>394</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1000" cdot " 5" "." "394"} {}</m:annotation></m:semantics></m:math>       </para>
+          </problem>
+        <solution id="eip-id1171070141295"><para id="eip-id1171081757838">5,394</para></solution></exercise>
+        <exercise id="id1171802328379"><problem id="oo-id1171800986752">
+            <para id="id1171796463435">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>10,000 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 5</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>394</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10,000 " cdot " 5" "." "394"} {}</m:annotation></m:semantics></m:math>       </para>
+          </problem>
+        <solution id="eip-id1170365752270"><para id="eip-id1170363643295">59,340</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1171803746265">
+      <title>Calculators</title>
+      <para id="id1171800847868">Calculators can be used to find products of decimal numbers. However, a calculator that has only an eight-digit display may not be able to handle numbers or products that result in more than eight digits. But there are plenty of inexpensive ($50 - $75) calculators with more than eight-digit displays.</para>
+      <section id="id1171793772550"><title>Sample Set B</title><para id="id1171798302958">Find the following products, if possible, using a calculator.</para>
+<example id="eip-id1164947134818">
+        <para id="id1171806271998">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>58 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 8</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>61</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "58 " cdot " 8" "." "61"} {}</m:annotation></m:semantics></m:math></para>
+        <table id="id1171793842041" summary="Instructions for calculator entry.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type </entry>
+                <entry>2.58</entry>
+                <entry>2.58</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>×</entry>
+                <entry>2.58</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>8.61</entry>
+                <entry>8.61</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>22.2138</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1171801147394">The product is 22.2138.</para>
+</example>
+<example id="eip-id1164955654444">
+        <para id="id1171799831318">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>006 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>0042</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "006 " cdot " 0" "." "0042"} {}</m:annotation></m:semantics></m:math></para>
+        <table id="id1171801269780" summary="Instructions for calculator entry.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type </entry>
+                <entry>.006</entry>
+                <entry>.006</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>×</entry>
+                <entry>.006</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>.0042</entry>
+                <entry>0.0042</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>0.0000252</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1171794125160">We know that there will be seven decimal places in the product (since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>3 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 4 </m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext> 7</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"3 "+" 4 "=" 7"} {}</m:annotation></m:semantics></m:math>). Since the display shows 7 decimal places, we can assume the product is correct. Thus, the product is 0.0000252.</para>
+</example>
+<example id="eip-id1164950127662">
+        <para id="id1171799500864">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>0026 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>11976</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "0026 " cdot " 0" "." "11976"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1171804756863">Since we expect 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>4 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 5 </m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext> 9</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"4 "+" 5 "=" 9"} {}</m:annotation></m:semantics></m:math> decimal places in the product, we know that an eight-digit display calculator will not be able to provide us with the exact value. To obtain the exact value, we must use "hand technology." Suppose, however, that we agree to round off this product to three decimal places. We then need only four decimal places on the display.</para>
+        <table id="id1171808241853" summary="Instructions for calculator entry.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type </entry>
+                <entry>.0026</entry>
+                <entry>.0026</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>×</entry>
+                <entry>.0026</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>.11976</entry>
+                <entry>0.11976</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>0.0003114</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1171799230093">Rounding 0.0003114 to three decimal places we get 0.000. Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>0026 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>11976 </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>000</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "0026 " cdot " 0" "." "11976 "=" 0" "." "000"} {}</m:annotation></m:semantics></m:math> to three decimal places.</para>
+</example>
+      </section>
+      <section id="id1171793722746"><title>Practice Set B</title><para id="id1171800860791">Use a calculator to find each product. If the calculator will not provide the exact product, round the result to four decimal places.</para>
+        <exercise id="id1171796387276">
+          <problem id="oo-id1171801164404">
+            <para id="id1171793838793"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>126 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 4</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>08</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 "." "126 " cdot " 4" "." "08"} {}</m:annotation></m:semantics></m:math>    </para>
+          </problem>
+<solution id="eip-id1169677659930"><para id="eip-id1169672115060">20.91408</para></solution>
+        </exercise>
+        <exercise id="id1171798011015">
+          <problem id="oo-id1171794006834">
+            <para id="id1171802729647">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00165 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>04</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "00165 " cdot " 0" "." "04"} {}</m:annotation></m:semantics></m:math>   </para>
+          </problem>
+<solution id="eip-id1169673063046"><para id="eip-id1169673469494">0.000066</para></solution>
+        </exercise>
+        <exercise id="id1171793982948">
+          <problem id="oo-id1171803975076">
+            <para id="id1171793937065">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>5598 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>4281</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "5598 " cdot " 0" "." "4281"} {}</m:annotation></m:semantics></m:math>   </para>
+          </problem>
+<solution id="eip-id1169672329749"><para id="eip-id1169675954391">0.2397</para></solution>
+        </exercise>
+        <exercise id="id1171795868429">
+          <problem id="oo-id1171794943279">
+            <para id="id1171807956402"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>000002 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>06</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "000002 " cdot " 0" "." "06"} {}</m:annotation></m:semantics></m:math>   </para>
+          </problem>
+<solution id="eip-id1169673200184"><para id="eip-id1169676233937">0.0000</para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1171807770540">
+      <title>Multiplying Decimals by Powers of 10</title>
+      <para id="id1171802715352">There is an interesting feature of multiplying decimals by powers of 10. Consider the following multiplications.</para>
+      <table id="id1171802236896" summary="A table summarizing relevant information about the multiplication of a number by different powers of ten.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Multiplication</entry>
+              <entry>Number of Zeros in the Power of 10</entry>
+              <entry>Number of Positions the Decimal Point Has Been Moved to the Right</entry>
+            </row>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>10</m:mtext>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mn>8</m:mn>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mrow>
+                              <m:mtext>315274</m:mtext>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mtext>83</m:mtext>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>15274</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{"10" cdot 8 "." "315274"="83" "." "15274"} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>1</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mtext>100</m:mtext>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mn>8</m:mn>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mrow>
+                              <m:mtext>315274</m:mtext>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mtext>831</m:mtext>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>5274</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{"100" cdot 8 "." "315274"="831" "." "5274"} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>2</entry>
+              <entry>2</entry>
+            </row>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>1,</m:mn>
+                            <m:mrow>
+                              <m:mtext>000</m:mtext>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mn>8</m:mn>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mrow>
+                              <m:mtext>315274</m:mtext>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mn>8,</m:mn>
+                            </m:mrow>
+                            <m:mtext>315</m:mtext>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>274</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{1,"000" cdot 8 "." "315274"=8,"315" "." "274"} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>3</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mtext>10</m:mtext>
+                            <m:mi>,</m:mi>
+                            <m:mrow>
+                              <m:mtext>000</m:mtext>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mn>8</m:mn>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:mrow>
+                              <m:mtext>315274</m:mtext>
+                              <m:mo stretchy="false">=</m:mo>
+                              <m:mtext>83</m:mtext>
+                            </m:mrow>
+                            <m:mi>,</m:mi>
+                            <m:mtext>152</m:mtext>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>74</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{"10","000" cdot 8 "." "315274"="83","152" "." "74"} {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>4</entry>
+              <entry>4</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      <para id="id1171793772724"><title>Multiplying a Decimal by a Power of 10</title>To multiply a decimal by a power of 10, move the decimal place to the <emphasis effect="italics">right</emphasis> of its current position as many places as there are zeros in the power of 10. Add zeros if necessary.</para>
+      <section id="id1171801155746"><title>Sample Set C</title><para id="id1171800309357">Find the following products.</para>
+<example id="eip-id1163994972619"><para id="id7947577">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>100</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>34</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>876</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100" cdot "34" "." "876"} {}</m:annotation></m:semantics></m:math>. Since there are 2 zeros in 100, Move the decimal point in 34.876 two places to the right.</para>
+        <para id="id1171806713953"><media id="id1171805195274_media" alt="100 times 34.876 equals 3487.6. An arrows shows  how the decimal in 34.876 is moved two digits to the right to make 3,487.6">
+              <image mime-type="image/png" src="../../media/graphics6-2338.png" id="id1171805195274__onlineimage" width="190" print-width="1.5in"/>
+            </media>
+         
+        </para>
+</example>
+<example id="eip-id1163987098587">
+        <para id="id1171798481194">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1,</m:mn><m:mrow><m:mtext>000</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>8058</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1,"000" cdot 4 "." "8058"} {}</m:annotation></m:semantics></m:math>. Since there are 3 zeros in 1,000, move the decimal point in 4.8058 three places to the right.</para>
+       <para id="eip-id1163982018600"><media id="id1171794955160_media" alt="1,000 times 4.8058 equals 4805.8. An arrows shows  how the decimal in 4.8058 is moved three digits to the right to make 4,805.8">
+            <image mime-type="image/png" src="../../media/graphics7-5847.png" id="id1171794955160__onlineimage" width="200" print-width="1.6in"/>
+          </media>
+      </para>
+</example>
+<example id="eip-id1163981800250">
+        <para id="id1171800896233">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>000</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>56</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>82</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10","000" cdot "56" "." "82"} {}</m:annotation></m:semantics></m:math>. Since there are 4 zeros in 10,000, move the decimal point in 56.82 four places to the right. We will have to add two zeros in order to obtain the four places.</para>
+        <para id="id1171793921367"><media id="id8071275_media" alt="10,000 times 56.82 equals 568200. An arrows shows  how the decimal in 56.82 is moved four digits to the right to make 568,200."><image mime-type="image/png" src="../../media/graphics8-3477.png" id="id8071275__onlineimage" width="200" print-width="1.8in"/></media>
+<newline/>Since there is no fractional part, we can drop the decimal point.</para>
+</example>
+<example id="eip-id1163995168948">
+        <para id="id1171794926141"><media id="id1171797570649_media" alt="1,000,000 times 2.57 equals 2570000. An arrows shows  how the decimal in 2.57 is moved six digits to the right to make 2,570,000."><image mime-type="image/png" src="../../media/graphics9-2980.png" id="id1171797570649__onlineimage" width="220" print-width="1.8in"/></media></para>
+</example>
+<example id="eip-id1163995285228">
+        <para id="id1171800911605"><media id="id1171794150601_media" alt="1,000 times 0.0000029 equals 0.0029. An arrows shows  how the decimal in 0.0000029 is moved six digits to the right to make 0.0029."><image mime-type="image/png" src="../../media/graphics10-447f.png" id="id1171794150601__onlineimage" width="250" print-width="2in"/></media></para></example>
+      </section>
+      <section id="id1171804658398"><title>Practice Set C</title><para id="id1171799480377">Find the following products.</para>
+        <exercise id="id1171801162026">
+          <problem id="oo-id1171793856836">
+            <para id="id1171801048030"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>100 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 4</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>27</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100 " cdot " 4" "." "27"} {}</m:annotation></m:semantics></m:math>     </para>
+          </problem>
+<solution id="eip-id1171080374253"><para id="eip-id1171082517163">427</para></solution>
+        </exercise>
+        <exercise id="id1171793724823">
+          <problem id="oo-id1171794045051">
+            <para id="id1171800890427">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>10,000 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 16</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>52187</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10,000 " cdot " 16" "." "52187"} {}</m:annotation></m:semantics></m:math>    </para>
+          </problem>
+<solution id="eip-id1171078190846"><para id="eip-id1171081947351">165,218.7</para></solution>
+        </exercise>
+        <exercise id="id1171794421237">
+          <problem id="oo-id1171802657213">
+            <para id="id1171805197874">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>10</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>0188</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "10" \)  \( 0 "." "0188" \) } {}</m:annotation></m:semantics></m:math>    </para>
+          </problem>
+<solution id="eip-id1171078433695"><para id="eip-id1171077494258">0.188</para></solution>
+        </exercise>
+        <exercise id="id1171793767367">
+          <problem id="oo-id1171806303661">
+            <para id="id1171807058074">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>10,000,000,000</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>52</m:mtext><m:mtext>.</m:mtext><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "10,000,000,000" \)  \( "52" "." 7 \) } {}</m:annotation></m:semantics></m:math>   </para>
+          </problem>
+<solution id="eip-id1171077408588"><para id="eip-id1171076925296">527,000,000,000</para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1171799641872">
+      <title>Multiplication in Terms of “Of”</title>
+      <para id="id1171809069840">Recalling that the word "of" translates to the arithmetic operation of multiplica­tion, let's observe the following multiplications.</para>
+      <section id="id1171794099306"><title>Sample Set D</title><example id="eip-id1169676212818">
+        <para id="id1171801060261">Find 4.1 of 3.8. </para>
+        <para id="id1171795167649">Translating "of" to "×", we get</para>
+        <para id="id1171800916245"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>4.1</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>3.8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>328</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>123</m:mn><m:mtext>  </m:mtext>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>15.58</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1171798985764">Thus, 4.1 of 3.8 is 15.58.</para>
+</example>
+<example id="eip-id1169674211915">
+        <para id="id1171800919261">Find 0.95 of the sum of 2.6 and 0.8. </para>
+        <para id="id8530013">We first find the sum of 2.6 and 0.8.</para>
+        <para id="id1171798676780"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>2.6</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>0.8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>3.4</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1171801004909">Now find 0.95 of 3.4</para>
+        <para id="id1171802962882"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>3.4</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>0.95</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>170</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mn>306</m:mn><m:mtext>  </m:mtext>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>3.230</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1171793787047">Thus, 0.95 of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>6 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>8</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 2 "." "6 "+" 0" "." 8 \) } {}</m:annotation></m:semantics></m:math> is 3.230.</para>
+</example>
+      </section>
+      <section id="id1171796688532"><title>Practice Set D</title><exercise id="id1171793780558">
+          <problem id="oo-id1171799756866">
+            <para id="id1171795643250">Find 2.8 of 6.4.    </para>
+          </problem>
+<solution id="eip-id1171075000139"><para id="eip-id1171080972206">17.92</para></solution>
+        </exercise>
+        <exercise id="id1171805324389">
+          <problem id="oo-id1171793704841">
+            <para id="id1171793840359">Find 0.1 of 1.3.     </para>
+          </problem>
+<solution id="eip-id1171076647831"><para id="eip-id1171070314319">0.13</para></solution>
+        </exercise>
+        <exercise id="id1171797970643">
+          <problem id="oo-id1171794057626">
+            <para id="id1171802083544">Find 1.01 of 3.6.    </para>
+          </problem>
+<solution id="eip-id1171070216810"><para id="eip-id1171078567495">3.636</para></solution>
+        </exercise>
+        <exercise id="id1171804887142">
+          <problem id="oo-id1171804737589">
+            <para id="id1171799796313">Find 0.004 of 0.0009.   </para>
+          </problem>
+<solution id="eip-id1171085019400"><para id="eip-id1171071395689">0.0000036</para></solution>
+        </exercise>
+        <exercise id="id1171799872385">
+          <problem id="oo-id1171808249786">
+            <para id="id1171805460465">Find 0.83 of 12.</para>
+          </problem>
+<solution id="eip-id1171073950136"><para id="eip-id1171080129856">9.96</para></solution>
+        </exercise>
+        <exercise id="id8096250">
+          <problem id="oo-id1171793774638">
+            <para id="id1171801136974">Find 1.1 of the sum of 8.6 and 4.2.  </para>
+          </problem>
+<solution id="eip-id1171070238406"><para id="eip-id1171073161347">14.08</para></solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id7955873"><title>Exercises</title><para id="id1171795697523">For the following 30 problems, find each product and check each result with a calculator.</para>
+<exercise id="eip-id1164961423777"><problem id="eip-id3979990">
+      <para id="id1171793895276">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>9</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." 4 cdot 9 "." 2} {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164965570279"><para id="eip-id1164948887205">31.28</para></solution></exercise>
+      
+<exercise id="eip-id1164958061328"><problem id="eip-id1164949870162"><para id="id1171804896522"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>6</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." 5 cdot 6 "." 1} {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+
+<exercise id="eip-id1164965778617"><problem id="eip-id1164953091351"><para id="id1171799560500">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 "." 0 cdot 5 "." 9} {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id3025121"><para id="eip-id1164965903199">47.20</para></solution></exercise>
+
+<exercise id="eip-id1164957171234"><problem id="eip-id1164968204345"><para id="id1171799670857"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." 1 cdot 7} {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+
+<exercise id="eip-id1164955449566"><problem id="eip-id1164970841314"><para id="id1171796453838">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mtext>52</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 0 "." 1 \)  \( 1 "." "52" \) } {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164970766163"><para id="eip-id1164959348510">0.152</para></solution></exercise>
+
+
+<exercise id="eip-id1164954885123"><problem id="eip-id1164970846543"><para id="id1171794013820">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mtext>99</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>05</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 1 "." "99" \)  \( 0 "." "05" \) } {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+
+
+<exercise id="eip-id1164966096558"><problem id="eip-id1164952841149"><para id="id1171798048639">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>12</m:mtext><m:mtext>.</m:mtext><m:mtext>52</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>37</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "12" "." "52" \)  \( 0 "." "37" \) } {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164949078458"><para id="eip-id1164960241740">4.6324</para></solution></exercise>
+
+ <exercise id="eip-id1164965457257"><problem id="eip-id1164950792410"><para id="id1171797559594">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mtext>.</m:mtext><m:mtext>116</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mtext>21</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 5 "." "116" \)  \( 1 "." "21" \) } {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+
+<exercise id="eip-id1164956856115"><problem id="eip-id1164952778414"><para id="id1171802794922"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>31</m:mtext><m:mtext>.</m:mtext><m:mtext>82</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "31" "." "82" \)  \( 0 "." 1 \) } {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164956830841"><para id="eip-id1164966091164">3.182</para></solution></exercise>
+
+<exercise id="eip-id2710205"><problem id="eip-id1164964955504"><para id="id1171797019731">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>16</m:mtext><m:mtext>.</m:mtext><m:mtext>527</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>9</m:mn><m:mtext>.</m:mtext><m:mtext>16</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "16" "." "527" \)  \( 9 "." "16" \) } {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+
+
+<exercise id="eip-id1164954648895"><problem id="eip-id1164954595463"><para id="id1171808964561">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>0021</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>013</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "0021" cdot 0 "." "013"} {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id2014952"><para id="eip-id1164956742867">0.0000273</para></solution></exercise>
+      
+<exercise id="eip-id2355524"><problem id="eip-id1164949087242"><para id="id1171806698065">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>0037</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>00037</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "0037" cdot 1 "." "00037"} {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+
+<exercise id="eip-id1164949120860"><problem id="eip-id1164953380804"><para id="id1171800943540">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 1 "." 6 \)  \( 1 "." 6 \) } {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164959007406"><para id="eip-id1164966444951">2.56</para></solution></exercise>
+
+<exercise id="eip-id8945985"><problem id="eip-id1164967590224"><para id="id1171801072323">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mn>2</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 4 "." 2 \)  \( 4 "." 2 \) } {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+
+<exercise id="eip-id1164965128661"><problem id="eip-id1164965958199"><para id="id1171794949987">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." 9 cdot 0 "." 9} {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164962159319"><para id="eip-id1164957061395">0.81</para></solution></exercise>
+<exercise id="eip-id1164952515160"><problem id="eip-id1164968220263">
+      <para id="id1171798069886">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>11</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "11" cdot 1 "." "11"} {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+
+<exercise id="eip-id1164949503709"><problem id="eip-id1164959594849"><para id="id1171796691938"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>815</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>4</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "815" cdot 4 "." 3} {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164954340555"><para id="eip-id1164959961998">29.3045</para></solution>
+</exercise>
+<exercise id="eip-id1164960207402"><problem id="eip-id1164969775422">
+      <para id="id1171801126917"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>0168</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 "." "0168" cdot 1 "." 2} {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+
+<exercise id="eip-id3267132"><problem id="eip-id1164957502821"><para id="id1171800822158">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mtext>5162</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>0000003</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 3 "." "5162" \)  \( 0 "." "0000003" \) } {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164967377358"><para id="eip-id1164964363700">0.00000105486</para></solution></exercise>
+<exercise id="eip-id6382214"><problem id="eip-id1164959539189">
+      <para id="id7757869"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>000001</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>01</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 0 "." "000001" \)  \( 0 "." "01" \) } {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+<exercise id="eip-id1164948918442"><problem id="eip-id1164963271748">
+      <para id="id1171801188712">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>10</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mtext>96</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "10" \)  \( 4 "." "96" \) } {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164966111432"><para id="eip-id1164967766970">49.6</para></solution></exercise>
+<exercise id="eip-id1164968607663"><problem id="eip-id1164948945550">
+      <para id="id1171793749832">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>10</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>36</m:mtext><m:mtext>.</m:mtext><m:mtext>17</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "10" \)  \( "36" "." "17" \) } {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+<exercise id="eip-id1164965874744"><problem id="eip-id1164967354056">
+      <para id="id1171803720608">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>421</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>8842</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" cdot "421" "." "8842"} {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164952044986"><para id="eip-id1164967741098">4,218.842</para></solution></exercise>
+<exercise id="eip-id1164949063199"><problem id="eip-id1164951239193">
+      <para id="id1171802458114"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>8</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>0107</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" cdot 8 "." "0107"} {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+<exercise id="eip-id1164949894623"><problem id="eip-id1164970482188">
+      <para id="id1171805240179">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>100</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>19621</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100" cdot 0 "." "19621"} {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164963515409"><para id="eip-id1164952937076">19.621</para></solution></exercise>
+<exercise id="eip-id1164967453816"><problem id="eip-id1164963707439">
+      <para id="id1171800992610"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>100</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>779</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100" cdot 0 "." "779"} {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+<exercise id="eip-id1164966438592"><problem id="eip-id2382225">
+      <para id="id1171794040988"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>1000</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>596168</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1000" cdot 3 "." "596168"} {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164968432910"><para id="eip-id1164956057615">3,596.168</para></solution></exercise>
+<exercise id="eip-id1164955602151"><problem id="eip-id1164955266565">
+      <para id="id1171793707096"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>1000</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>42</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>7125571</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1000" cdot "42" "." "7125571"} {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+<exercise id="eip-id1164957765402"><problem id="eip-id1164948412143">
+      <para id="id1171805222588">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>1000</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>25</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>01</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1000" cdot "25" "." "01"} {}</m:annotation></m:semantics></m:math></para></problem>
+<solution id="eip-id1164959686793"><para id="eip-id1164956932567">25,010</para></solution></exercise>
+<exercise id="eip-id1164953685686"><problem id="eip-id1164963326648">
+      <para id="id1171803585303">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>100</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>000</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>9</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>923</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100","000" cdot 9 "." "923"} {}</m:annotation></m:semantics></m:math></para></problem></exercise>
+<exercise id="eip-id8473200"><problem id="eip-id1164951652696">
+      <para id="id1171800198722">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mn>6</m:mn><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mtext>17</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 4 "." 6 \)  \( 6 "." "17" \) } {}</m:annotation></m:semantics></m:math></para>
+
+      <table id="id1171797156617" summary="Exercises table with columns to show the solution rounded to different places.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Actual product</entry>
+              <entry>Tenths</entry>
+              <entry>Hundreds</entry>
+              <entry>Thousandths</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table></problem>
+<solution id="eip-id7570407">
+      <table id="id1171799976504" summary="Exercises table with columns to show the solution rounded to different places.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Actual product</entry>
+              <entry>Tenths</entry>
+              <entry>Hundreds</entry>
+              <entry>Thousandths</entry>
+            </row>
+            <row>
+              <entry>28.382</entry>
+              <entry>28.4</entry>
+              <entry>28.38</entry>
+              <entry>28.382</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution></exercise>
+<exercise id="eip-id5678136"><problem id="eip-id1168055262035">
+      <para id="id1171800147688">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>8</m:mn><m:mtext>.</m:mtext><m:mtext>09</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( 8 "." "09" \)  \( 7 "." 1 \) } {}</m:annotation></m:semantics></m:math></para>
+      <table id="id1171802274101" summary="Exercises table with columns to show the solution rounded to different places.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Actual product</entry>
+              <entry>Tenths</entry>
+              <entry>Hundreds</entry>
+              <entry>Thousandths</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table></problem></exercise>
+<exercise id="eip-id1168056562479"><problem id="eip-id1168057306108">
+      <para id="id1171793755574">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>11</m:mtext><m:mtext>.</m:mtext><m:mtext>1106</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mtext>12</m:mtext><m:mtext>.</m:mtext><m:mtext>08</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( "11" "." "1106" \)  \( "12" "." "08" \) } {}</m:annotation></m:semantics></m:math></para>
+      <table id="id1171802443618" summary="Exercises table with columns to show the solution rounded to different places.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Actual product</entry>
+              <entry>Tenths</entry>
+              <entry>Hundreds</entry>
+              <entry>Thousandths</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table></problem>
+<solution id="eip-id1168062236633">
+      <table id="id1171794100814" summary="Exercises table with columns to show the solution rounded to different places.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Actual product</entry>
+              <entry>Tenths</entry>
+              <entry>Hundreds</entry>
+              <entry>Thousandths</entry>
+            </row>
+            <row>
+              <entry>134.216048</entry>
+              <entry>134.2</entry>
+              <entry>134.22</entry>
+              <entry>134.216</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table></solution>
+</exercise>
+<exercise id="eip-id1168050984969"><problem id="eip-id1168056540353">
+      <para id="id1171793706052"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>0083</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>090901</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "0083" cdot 1 "." "090901"} {}</m:annotation></m:semantics></m:math></para>
+      <table id="id1171802407647" summary="Exercises table with columns to show the solution rounded to different places.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Actual product</entry>
+              <entry>Tenths</entry>
+              <entry>Hundreds</entry>
+              <entry>Thousandths</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem></exercise>
+<exercise id="eip-id1168044960088"><problem id="eip-id1168050810799">
+      <para id="id1171807008077">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>26</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>518</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 cdot "26" "." "518"} {}</m:annotation></m:semantics></m:math></para>
+      <table id="id1171799389836" summary="Exercises table with columns to show the solution rounded to different places.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Actual product</entry>
+              <entry>Tenths</entry>
+              <entry>Hundreds</entry>
+              <entry>Thousandths</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</problem>
+<solution id="eip-id1168061179409">
+      <table id="id1171794014284" summary="Exercises table with columns to show the solution rounded to different places.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Actual product</entry>
+              <entry>Tenths</entry>
+              <entry>Hundreds</entry>
+              <entry>Thousandths</entry>
+            </row>
+            <row>
+              <entry>185.626</entry>
+              <entry>185.6</entry>
+              <entry>185.63</entry>
+              <entry>185.626</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+</solution></exercise>
+      <para id="id8349379">For the following 15 problems, perform the indicated operations</para>
+
+      <exercise id="eip-id1168057497009"><problem id="eip-id1168055456607"><para id="id1171794262799">Find 5.2 of 3.7.</para></problem></exercise>
+      <exercise id="eip-id2957728"><problem id="eip-id1168057275095"><para id="id1171800842416">Find 12.03 of 10.1</para></problem>
+<solution id="eip-id5732442"><para id="eip-id1164949482329">121.503</para></solution></exercise>
+      <exercise id="eip-id1168053201187"><problem id="eip-id6947911"><para id="id1171793988282">Find 16 of 1.04</para></problem></exercise>
+      <exercise id="eip-id1168052908011"><problem id="eip-id5727604"><para id="id1171801393682">Find 12 of 0.1</para></problem>
+
+<solution id="eip-id1171922182009"><para id="eip-id1171898676001">1.2</para></solution></exercise>
+      <exercise id="eip-id1168055224718"><problem id="eip-id1168055350824"><para id="id1171801227490">Find 0.09 of 0.003</para></problem></exercise>
+      <exercise id="eip-id1168057278630"><problem id="eip-id1168056186108"><para id="id1171802480266">Find 1.02 of 0.9801</para></problem>
+
+<solution id="eip-id1900674"><para id="eip-id1164966136498">0.999702</para></solution></exercise>
+      <exercise id="eip-id1168045322171"><problem id="eip-id1168056104764"><para id="id8104312">Find 0.01 of the sum of 3.6 and 12.18</para></problem></exercise>
+      <exercise id="eip-id1168044298968"><problem id="eip-id1168056424489"><para id="id1171793700723">Find 0.2 of the sum of 0.194 and 1.07</para></problem>
+
+<solution id="eip-id1168041330998"><para id="eip-id1168041331000">0.2528</para></solution></exercise>
+      <exercise id="eip-id1168045417336"><problem id="eip-id1538012"><para id="id1171796237680">Find the difference of 6.1 of 2.7 and 2.7 of 4.03</para></problem></exercise>
+      <exercise id="eip-id1168061384046"><problem id="eip-id2814353"><para id="id1171800353331">Find the difference of 0.071 of 42 and 0.003 of 9.2</para></problem>
+
+<solution id="eip-id1171083648318"><para id="eip-id1171078505819">2.9544</para></solution></exercise>
+      <exercise id="eip-id1168057327410"><problem id="eip-id7865698"><para id="id1171793990776">If a person earns $8.55 an hour, how much does he earn in twenty-five hundredths of an hour?</para></problem></exercise>
+      <exercise id="eip-id1510152"><problem id="eip-id1168056428806"><para id="id1171800353846">A man buys 14 items at $1.16 each. What is the total cost?</para></problem>
+
+<solution id="eip-id1168217601990"><para id="eip-id6958517">$16.24</para></solution></exercise>
+      <exercise id="eip-id1382950"><problem id="eip-id2881337"><para id="id1171801146002">In the problem above, how much is the total cost if 0.065 sales tax is added?</para></problem></exercise>
+      <exercise id="eip-id1168052949786"><problem id="eip-id1168045055478"><para id="id1171806483986">A river rafting trip is supposed to last for 10 days and each day 6 miles is to be rafted. On the third day a person falls out of the raft after only 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math> of that day’s mileage. If this person gets discouraged and quits, what fraction of the entire trip did he complete?</para></problem>
+
+<solution id="eip-id1164727688065"><para id="eip-id1164726900484">0.24</para></solution></exercise>
+      <exercise id="eip-id1168051017772"><problem id="eip-id1168056208930"><para id="id1171806513385">A woman starts the day with $42.28. She buys one item for $8.95 and another for $6.68. She then buys another item for sixty two-hundredths of the remaining amount. How much money does she have left?</para></problem></exercise>
+    
+    <para id="eip-807"><title>Calculator Problems</title>For the following 10 problems, use a calculator to determine each product. If the calculator will not provide the exact product, round the results to five decimal places.</para><exercise id="eip-875"><problem id="eip-533">
+  <para id="eip-728">
+    <m:math>
+<m:mn>0.019</m:mn>
+<m:mo>⋅</m:mo>
+<m:mn>0.321</m:mn>
+</m:math>
+  </para>
+</problem>
+
+<solution id="eip-276">
+  <para id="eip-224">0.006099
+  </para>
+</solution>
+</exercise><exercise id="eip-306"><problem id="eip-35">
+  <para id="eip-320">
+    <m:math>
+<m:mn>0.261</m:mn>
+<m:mo>⋅</m:mo>
+<m:mn>1.96</m:mn>
+</m:math>
+  </para>
+</problem>
+</exercise><exercise id="eip-279"><problem id="eip-98">
+  <para id="eip-507">
+<m:math>
+<m:mn>4.826</m:mn>
+<m:mo>⋅</m:mo>
+<m:mn>4.827</m:mn>
+</m:math>
+  </para>
+</problem>
+
+<solution id="eip-953">
+  <para id="eip-622">23.295102
+  </para>
+</solution>
+</exercise><exercise id="eip-275"><problem id="eip-39">
+  <para id="eip-171">
+   <m:math>
+<m:msup>
+<m:mfenced open="(" close=")">
+<m:mn>9.46</m:mn>
+</m:mfenced>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>
+  </para>
+</problem>
+</exercise><exercise id="eip-620"><problem id="eip-323">
+  <para id="eip-27">
+  <m:math>
+<m:msup>
+<m:mfenced open="(" close=")">
+<m:mn>0.012</m:mn>
+</m:mfenced>
+<m:mn>2</m:mn>
+</m:msup>
+</m:math>
+  </para>
+</problem>
+
+<solution id="eip-808">
+  <para id="eip-197">0.000144</para>
+</solution>
+</exercise><exercise id="eip-742"><problem id="eip-545">
+  <para id="eip-857">
+    <m:math>
+<m:mn>0.00037</m:mn>
+<m:mo>⋅</m:mo>
+<m:mn>0.0065</m:mn>
+</m:math>
+  </para>
+</problem>
+</exercise><exercise id="eip-348"><problem id="eip-164">
+  <para id="eip-154">
+<m:math>
+<m:mn>0.002</m:mn>
+<m:mo>⋅</m:mo>
+<m:mn>0.0009</m:mn>
+</m:math>  
+  </para>
+</problem>
+
+<solution id="eip-758">
+  <para id="eip-902">0.0000018</para>
+</solution>
+</exercise><exercise id="eip-236"><problem id="eip-269">
+  <para id="eip-934">
+   <m:math>
+<m:mn>0.1286</m:mn>
+<m:mo>⋅</m:mo>
+<m:mn>0.7699</m:mn>
+</m:math>
+  </para>
+</problem>
+</exercise><exercise id="eip-965"><problem id="eip-152">
+  <para id="eip-46">
+   <m:math>
+<m:mn>0.01</m:mn>
+<m:mo>⋅</m:mo>
+<m:mn>0.00000471</m:mn>
+</m:math>
+  </para>
+</problem>
+
+<solution id="eip-135">
+  <para id="eip-124">0.0000000471</para>
+</solution>
+</exercise><exercise id="eip-831"><problem id="eip-118">
+  <para id="eip-438">
+   <m:math>
+<m:mn>0.00198709</m:mn>
+<m:mo>⋅</m:mo>
+<m:mn>0.03</m:mn>
+</m:math>
+  </para>
+</problem>
+</exercise><section id="id1171803970281"><title>Exercises for Review</title><exercise id="eip-id1164953840964"><problem id="eip-id1164956072373"> <para id="id1171793882471">(<link document="m34864"/>) Find the value, if it exists, of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>0 </m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext> 15</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"0 " div " 15"} {}</m:annotation></m:semantics></m:math>.</para></problem>
+<solution id="eip-id1164955882100"><para id="eip-id1164945344850">0</para></solution></exercise>
+
+      <exercise id="eip-id1164948207389"><problem id="eip-id1164946265382"><para id="id1171798617372">(<link document="m34874"/>) Find the greatest common factor of 210, 231, and 357.</para></problem></exercise>
+
+   <exercise id="eip-id1164944986945"><problem id="eip-id1164953728575"><para id="id1171794444151">(<link document="m34927"/>) Reduce 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>280</m:mtext><m:mrow><m:mn>2,</m:mn><m:mtext>156</m:mtext></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"280"}  over  {2,"156"} } } {}</m:annotation></m:semantics></m:math> to lowest terms.</para></problem>
+<solution id="eip-id1164948373199"><para id="eip-id1164949240544"><m:math><m:mrow><m:mfrac><m:mn>10</m:mn><m:mn>77</m:mn></m:mfrac></m:mrow></m:math></para></solution></exercise>
+      <exercise id="eip-id1164945474975"><problem id="eip-id1164945978828"><para id="id1171793722920">(<link document="m34957"/>) Write "fourteen and one hundred twenty-one ten-thousandths, using digits."</para></problem></exercise>
+<exercise id="eip-id1164948132912"><problem id="eip-id1164955775717">
+      <para id="id1171808006643">(<link document="m34960"/>) Subtract 6.882 from 8.661 and round the result to two decimal places.</para></problem>
+<solution id="eip-id1164945040425"><para id="eip-id8516869">1.78</para></solution></exercise>
+    </section>
+</section>
+  </content>
+</document>

@@ -1,0 +1,1626 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Division of Whole Numbers </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34865</md:content-id>
+  <md:title>Division of Whole Numbers </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to divide whole numbers. By the end of the module students should be able to be able to divide a whole number by a single or multiple digit divisor and interpret a calculator statement that a division results in a remainder.</md:abstract>
+  <md:uuid>c5512d4f-e786-4a0e-a341-624bbefce286</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1165261984247">
+      <title>Section Overview</title>
+      <list id="id3572193" list-type="bulleted">
+        <item>Division with a Single Digit Divisor</item>
+        <item>Division with a Multiple Digit Divisor</item>
+        <item>Division with a Remainder</item>
+        <item>Calculators</item>
+      </list>
+    </section>
+    <section id="id1165256104761">
+      <title>Division with a Single Digit Divisor</title>
+      <para id="id7323253">Our experience with multiplication of whole numbers allows us to perform such divisions as 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>75</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"75" div 5} {}</m:annotation></m:semantics></m:math>. We perform the division by performing the corresponding multiplication,
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">×</m:mo><m:mi>Q</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>75</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 times Q="75"} {}</m:annotation></m:semantics></m:math>. Each division we considered in <link document="m34864"/> had a one-digit quotient. Now we will consider divisions in which the quotient may consist of two or more digits. For example, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>75</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"75" div 5} {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id1165255665086">Let's examine the division 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>75</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"75" div 5} {}</m:annotation></m:semantics></m:math>. We are asked to determine how many 5's are contained in 75. We'll approach the problem in the following way.</para>
+      <list id="id1165269836125" list-type="enumerated" number-style="arabic">
+        <item>Make an educated guess based on experience with multiplication.</item>
+        <item>Find how close the estimate is by multiplying the estimate by 5.</item>
+        <item>If the product obtained in step 2 is less than 75, find out how much less by subtracting it from 75.</item>
+        <item>If the product obtained in step 2 is greater than 75, decrease the estimate until the product is less than 75. Decreasing the estimate makes sense because we do not wish to exceed 75.</item>
+      </list>
+      
+      <para id="id1165255055165">We can suggest from this discussion that the process of division consists of</para>
+      
+      <list id="id1165252782873" list-type="enumerated" number-style="arabic"><title>The Four Steps in Division</title><item>an educated guess</item>
+        <item>a multiplication</item>
+        <item>a subtraction</item>
+        <item>bringing down the next digit (if necessary)</item>
+      </list>
+      <para id="id3589150">The educated guess can be made by determining how many times the divisor is contained in the dividend by using only one or two digits of the dividend.</para>
+      <section id="id1165252850811"><title>Sample Set A</title><example id="eip-id1167500124986">
+        <para id="id1165259754423">Find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>75</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"75" div 5} {}</m:annotation></m:semantics></m:math>.
+
+
+
+</para>
+        <para id="eip-285"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>5</m:mn>    <m:menclose notation="longdiv"><m:mn>75</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+
+Rewrite the problem using a division bracket.</para><para id="id3666836"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>10</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr> 
+  <m:mtd columnalign="right">
+<m:mn>5</m:mn>    <m:menclose notation="longdiv"><m:mn>75</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+
+<newline/>Make an educated guess by noting that one 5 is contained in 75 at most 10 times.<newline/>Since 7 is the tens digit, we estimate that 5 goes into 75 at most 10 times.</para>
+        
+        <para id="id1165270721043"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>10</m:mn>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>5</m:mn>    <m:menclose notation="longdiv"><m:mn>75</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>50</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>25</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+
+
+<newline/> Now determine how close the estimate is. <newline/>10 fives is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">×</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>50</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" times 5="50"} {}</m:annotation></m:semantics></m:math>. Subtract 50 from 75. <newline/> Estimate the number of 5's in 25. <newline/> There are exactly 5 fives in 25.</para>
+        <para id="id1165270560859"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+
+<m:mtd columnalign="right">
+<m:mfenced open="" close="}">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign=" right">
+<m:mn>5</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>10</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mfenced>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mtext>10 fives + 5 fives = 15 fives.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mtext>There are 15 fives contained in 75.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>5</m:mn>    <m:menclose notation="longdiv"><m:mn>75</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>50</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>25</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>25</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>0</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</para>
+        
+        <para id="id3982408">Check: <media id="eip-id1168355114444" alt="Is 75 equal to 15 times 5? Yes."><image mime-type="image/png" src="../../media/sampseta.png" width="85" print-width=".5in"/></media></para>
+        <para id="id1165252672915">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>75</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"75" div 5="15"} {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1165269719406">The notation in this division can be shortened by writing.</para>
+        <para id="id1165259912727"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+
+<m:mtd columnalign="right">
+<m:mn>15</m:mn>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>5</m:mn>    <m:menclose notation="longdiv"><m:mn>75</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>5↓</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>25</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>25</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>0</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+<newline/>
+<m:math><m:mrow>
+<m:mfenced open="{" close="">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Divide:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>5 goes into 7 at most 1 time.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Multiply:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>1 × 5 = 5. Write 5 below 7.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Subtract:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>7 - 5 = 2. Bring down the 5.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mfenced>
+</m:mrow></m:math>
+<m:math><m:mrow>
+<m:mfenced open="{" close="">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Divide:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>5 goes into 25 exactly 5 times.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Multiply:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>5 × 5 = 25. Write 25 below 25.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Subtract:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>25 - 25 = 0.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mfenced>
+</m:mrow></m:math></para></example>
+<example id="eip-id1167499973169">
+        <para id="id1165253422978">Find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4,</m:mn><m:mrow><m:mtext>944</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4,"944" div 8} {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1165255540269"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>  
+<m:mtd columnalign="right">
+<m:mn>8</m:mn>    <m:menclose notation="longdiv"><m:mn>4944</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> <newline/> Rewrite the problem using a division bracket.</para>
+        <para id="id1165270006762"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right"><m:mn>600</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>8</m:mn>    <m:menclose notation="longdiv"><m:mn>4944</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>4800</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>144</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> <newline/> 8 goes into 49 at most 6 times, and 9 is in the hundreds column. We'll guess 600. <newline/>
+Then, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>600</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>4800</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 times "600"="4800"} {}</m:annotation></m:semantics></m:math>.</para>
+        
+        <para id="id1165252932048"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right"><m:mn>10</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right"><m:mn>600</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>8</m:mn>    <m:menclose notation="longdiv"><m:mn>4944</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>4800</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>144</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  80</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>64</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math> <newline/> 8 goes into 14 at most 1 time, and 4 is in the tens column. We'll guess 10.</para>
+        <para id="id1165252898216"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right"><m:mn>8</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right"><m:mn>10</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right"><m:mn>600</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>8</m:mn>    <m:menclose notation="longdiv"><m:mn>4944</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>4800</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>144</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  80</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>64</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>64</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>0</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id3322265">8 goes into 64 exactly 8 times. <newline/>
+600 eights + 10 eights + 8 eights = 618 eights.</para>
+        <para id="id1165255304965">Check: <media id="eip-id5514191" alt="Is 4944 equal to 8 times 18? Yes."><image mime-type="image/png" src="../../media/ssa2.png" width="110" print-width="1in"/></media></para>
+        <para id="id1165274348853">Thus,
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4,</m:mn><m:mrow><m:mrow><m:mtext>944</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>618</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4,"944" div 8="618"} {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1165259259764">As in the first problem, the notation in this division can be shortened by eliminating the subtraction signs and the zeros in each educated guess.</para>
+        <para id="id1165254511363"><media id="id1165276787373_media" alt="Long division. 4944 divided by 8. After each educated guess, the digit to the right is brought down to the next line.">
+              <image mime-type="image/png" src="../../media/graphics1-6bd2.png" id="id1165276787373__onlineimage" width="85" print-width=".75in"/>
+            </media>
+          
+      <newline/>   
+<m:math><m:mrow>
+<m:mfenced open="{" close="">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Divide:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>8 goes into 49 at most 6 times.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Multiply:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>6 × 8 = 48. Write 48 below 49.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Subtract:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>49 - 48 = 1. Bring down the 4.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mfenced>
+</m:mrow></m:math>
+
+<m:math><m:mrow>
+<m:mfenced open="{" close="">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Divide:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>8 goes into 14 at most 1 time.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Multiply:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>1 × 8 = 8. Write 8 below 14.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Subtract:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>14 - 8 = 6. Bring down the 4.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mfenced>
+</m:mrow></m:math>
+
+<m:math><m:mrow>
+<m:mfenced open="{" close="">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Divide:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>8 goes into 64 exactly 8 times.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Multiply:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>8 × 8 = 64. Write 64 below 64.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Subtract:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>64 - 64 = 0.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mfenced>
+</m:mrow></m:math>        </para></example>
+        <note id="id3216201" type="Note">Not all divisions end in zero. We will examine such divisions in a subsequent subsection.</note>
+      </section>
+      <section id="id1165259244919">
+        <title>Practice Set A</title>
+        <para id="id1165255207953">Perform the following divisions. </para>
+        <exercise id="id1165252810388"><problem id="oo-id1165270927242">
+            <para id="id3686810"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>126</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"126" div 7} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1168353877419"><para id="eip-id1168348758485">18</para></solution></exercise>
+        <exercise id="id1165259138154"><problem id="oo-id1165274022924">
+            <para id="id1165259354690"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>324</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"324" div 4} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id6563035"><para id="eip-id1167507737137">81</para></solution></exercise>
+        <exercise id="id1165262275398"><problem id="oo-id1165263605787">
+            <para id="id1165252872698"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2,</m:mn><m:mrow><m:mtext>559</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2,"559" div 3} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1169322994680"><para id="eip-id1169309354317">853</para></solution></exercise>
+        <exercise id="id1165276932015"><problem id="oo-id1165256500320">
+            <para id="id1165276607606"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5,</m:mn><m:mrow><m:mtext>645</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5,"645" div 5} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1171927157865"><para id="eip-id1171933053103">1,129</para></solution></exercise>
+        <exercise id="id1165252542002"><problem id="oo-id1165253524150">
+            <para id="id1165264379558"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>757</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>125</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"757","125" div 9} {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+        <solution id="eip-id1172459685396"><para id="eip-id1172474283396">84,125</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1165252535463">
+      <title>Division with a Multiple Digit Divisor</title>
+      <para id="id1165269820466">The process of division also works when the divisor consists of two or more digits. We now make educated guesses using the first digit of the divisor and one or two digits of the dividend.</para>
+      <section id="id1165254986085"><title>Sample Set B</title><example id="eip-id1166653673070">
+        <para id="id1165255644233">Find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2,</m:mn><m:mrow><m:mtext>232</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>36</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2,"232" div "36"} {}</m:annotation></m:semantics></m:math>. </para>
+        <para id="id1165253040679"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>36</m:mn>    <m:menclose notation="longdiv"><m:mn>2232</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1165252517239">Use the first digit of the divisor and the first two digits of the dividend to make the educated guess.</para>
+        <para id="id1165276301040">3 goes into 22 at most 7 times.</para>
+        <para id="id1165258795944">Try 7: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>36</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>252</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 times "36"="252"} {}</m:annotation></m:semantics></m:math> which is greater than 223. Reduce the estimate. </para>
+        <para id="id1165255391785">Try 6: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>36</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>216</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 times "36"="216"} {}</m:annotation></m:semantics></m:math> which is less than 223.</para>
+        
+        <para id="eip-681"><media id="id1165267892194_media" alt="The first step of a long division problem. 2232 divided by 36. 36 goes into 223 approximately 6 times, with a remainder of 7. The ones digit of 2232 is then brought down to adjoin the 7.">
+            <image mime-type="image/png" src="../../media/graphics2-3cd2.png" id="id1165267892194__onlineimage" width="100" print-width="1in"/>
+          </media>
+
+<m:math><m:mrow>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Multiply:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>6 × 36 = 216. Write 216 below 223.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Subtract:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>223 - 216 = 7. Bring down the 2.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mrow></m:math></para><para id="id1165266361852">Divide 3 into 7 to estimate the number of times 36 goes into 72. The 3 goes into 7 at most 2 times. </para>
+        <para id="id1165280618325">Try 2: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>36</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>72</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 times "36"="72"} {}</m:annotation></m:semantics></m:math>.</para>
+        
+        <para id="eip-514"><media id="id8182797_media" alt="Long division. 2232 divided by 36. 36 goes into 223 approximately 6 times, with a remainder of 7. The ones digit of 2232 is then brought down to adjoin the 7. 36 goes into 72 exactly twice, leaving a remainder of 0.">
+            <image mime-type="image/png" src="../../media/graphics3-5d4c.png" id="id8182797__onlineimage" width="75" print-width=".75in"/>
+          </media></para><para id="id1165276158033"><emphasis effect="italics">Check</emphasis>: <media id="eip-id1172327295673" alt="Is 2232 equal to 36 time 62? Yes."><image mime-type="image/png" src="../../media/ssb1.png" width="100" print-width="1in"/></media></para>
+        <para id="id1165268242639">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2,</m:mn><m:mrow><m:mrow><m:mtext>232</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>36</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>62</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2,"232" div "36"="62"} {}</m:annotation></m:semantics></m:math>.</para>
+</example>
+<example id="eip-id1166653671530">
+        <para id="id1165253021426">Find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2,</m:mn><m:mtext>417</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>228</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>802</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2,"417","228" div "802"} {}</m:annotation></m:semantics></m:math>. </para>
+        <para id="id1165253519623"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>802</m:mn>    <m:menclose notation="longdiv"><m:mn>2417228</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1165253519772">First, the educated guess: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mtext>24</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"24" div 8=3} {}</m:annotation></m:semantics></m:math>. Then 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>802</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>2406</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times "802"="2406"} {}</m:annotation></m:semantics></m:math>, which is less than 2417. Use 3 as the guess. Since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>802</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>2406</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 times "802"="2406"} {}</m:annotation></m:semantics></m:math>, and 2406 has four digits, place the 3 above the fourth digit of the dividend.</para>
+        
+        <para id="eip-189"><media id="id1165275352888_media" alt="The first step of a long division problem. 2417228 divided by 802. 802 goes into 2417 approximately 3 times, with a remainder of 11. The hundreds digit of 2417228 is then brought down to adjoin the 11.">
+            <image mime-type="image/png" src="../../media/graphics4-8fd6.png" id="id1165275352888__onlineimage" width="125" print-width="1.25in"/>
+          </media>
+<newline/>
+Subtract: 2417 - 2406 = 11. <newline/>
+Bring down the 2.</para><para id="id7640241">The divisor 802 goes into 112 at most 0 times. Use 0.</para>
+        
+        <para id="eip-550"><media id="id1165267841293_media" alt="The second step of a long division problem. 802 goes into 112 0 times, so a zero is placed above, and the next digit is brought down.">
+            <image mime-type="image/png" src="../../media/graphics5-9da8.png" id="id1165267841293__onlineimage" width="125" print-width="1.25in"/>
+          </media>
+<newline/>
+<m:math><m:mrow>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Multiply:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>0 × 802 = 0.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Subtract:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>112 - 0 = 112.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mtext>Bring down the 2.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mrow></m:math></para><para id="id1165267935277">The 8 goes into 11 at most 1 time, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>802</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>802</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 times "802"="802"} {}</m:annotation></m:semantics></m:math>, which is less than 1122. Try 1.</para>
+        <para id="id1165254990780"><media id="id1165253674099_media" alt="The third step of a long division problem. 802 goes into 1122 once, so a 1 is placed above and the ones digit is brought down. ">
+              <image mime-type="image/png" src="../../media/graphics6-97cc.png" id="id1165253674099__onlineimage" width="125" print-width="1.10in"/>
+            </media>
+<newline/>
+Subtract <m:math><m:mn>1122</m:mn><m:mo>-</m:mo><m:mn>802</m:mn>
+<m:mo>=</m:mo>
+<m:mn>320</m:mn>
+</m:math> <newline/>
+Bring down the 8.
+        </para>
+        <para id="id1165258530287">8 goes into 32 at most 4 times. </para>
+        <para id="id1165259602009"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">×</m:mo><m:mtext>802</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>3208</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 times "802"="3208"} {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1165252902579">Use 4.</para>
+        
+        <para id="eip-83"><media id="id3148861_media" alt="The third step of a long division problem. 2417228 divided by 802. 802 goes into 2417 approximately 3 times, with a remainder of 11. The hundreds digit of 2417228 is then brought down to adjoin the 11. 802 goes into 112 0 times, so a zero is placed above, and the next digit is brought down. 802 goes into 1122 once, so a 1 is placed above and the ones digit is brought down. 802 goes into 3208 4 times, leaving a remainder of 0.">
+            <image mime-type="image/png" src="../../media/graphics7-94d4.png" id="id3148861__onlineimage" width="125" print-width="1.15in"/>
+          </media></para><para id="id1165252741203">Check: <media id="eip-id1165264934616" alt="Is 2417228 equal to 3014 times 802? Yes."><image mime-type="image/png" src="../../media/ssb2.png" width="150" print-width="1.25in"/></media></para>
+        <para id="id1165252767829">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2,</m:mn><m:mtext>417</m:mtext><m:mi>,</m:mi><m:mrow><m:mrow><m:mtext>228</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>802</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>3,</m:mn></m:mrow><m:mtext>014</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2,"417","228" div "802"=3,"014"} {}</m:annotation></m:semantics></m:math>. </para>
+        </example>
+      </section>
+      <section id="id1165277565907">
+        <title>Practice Set B</title>
+        <para id="id1165255661173">Perform the following divisions.</para>
+        <exercise id="id1165263288565"><problem id="oo-id1165260533917">
+            <para id="id1165263195812"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1,</m:mn><m:mrow><m:mtext>376</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>32</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1,"376" div "32"} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1168348843486"><para id="eip-id1168351951070">43</para></solution></exercise>
+        <exercise id="id1165252718117"><problem id="oo-id1165252295447">
+            <para id="id1165261173624"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6,</m:mn><m:mrow><m:mtext>160</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>55</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6,"160" div "55"} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1168353201167"><para id="eip-id1168352719558">112</para></solution></exercise>
+        <exercise id="id1165256622212"><problem id="oo-id1165252782337">
+            <para id="id1165277466902"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>18</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>605</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>61</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"18","605" div "61"} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+  <solution id="eip-id1167506739802"><para id="eip-id1167501268082">305</para></solution>      </exercise>
+        
+        <exercise id="id1165268564798"><problem id="oo-id5320564">
+            <para id="id1165268563880"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>144</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>768</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>48</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"144","764" div "48"} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+       <solution id="eip-id1166075151073"><para id="eip-id1166076223845">3,016</para></solution> </exercise>
+      </section>
+    </section>
+    <section id="id1165253747289">
+      <title>Division with a Remainder</title>
+      <para id="id1165254935078">We might wonder how many times 4 is contained in 10. Repeated subtraction yields</para>
+      
+      <para id="eip-660"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>10</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  4</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>6</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>4</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>2</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para><para id="id1165252561583">Since the remainder is less than 4, we stop the subtraction. Thus, 4 goes into 10 two times with 2 remaining. We can write this as a division as follows.</para>
+      <para id="id1701674"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right"><m:mn>2</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>4</m:mn>    <m:menclose notation="longdiv"><m:mn>10</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>  8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>2</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+<newline/>
+<m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Divide:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>4 goes into 10 at most 2 times.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Multiply:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>2 × 4 = 8. Write 8 below 0.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Subtract:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>10 - 8 = 2.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable></m:math></para>
+      <para id="id1165279871121">Since 4 does not divide into 2 (the remainder is less than the divisor) and there are no digits to bring down to continue the process, we are done. We write</para>
+      <para id="id1165255046168"><m:math>
+<m:mtable columnspacing="0pt" rowspacing="0pt">
+<m:mtr>
+  <m:mtd columnalign="right"><m:mn>2</m:mn><m:mspace width="2px"/><m:mn>R</m:mn><m:mi>2</m:mi></m:mtd>
+</m:mtr>
+<m:mtr>
+  <m:mtd columnalign="right">
+<m:mn>4</m:mn>    <m:menclose notation="longdiv"><m:mn>   10</m:mn></m:menclose>
+  </m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>8</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>2</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+
+or
+
+<m:math><m:mrow><m:mi>10</m:mi><m:mo>÷</m:mo><m:mi>4</m:mi><m:mo>=</m:mo><m:munder><m:mrow><m:munder><m:mrow><m:mi>2</m:mi><m:mn>R</m:mn><m:mi>2</m:mi></m:mrow><m:mo stretchy="true">︸</m:mo></m:munder></m:mrow><m:mtext>2 with remainder 2</m:mtext></m:munder></m:mrow></m:math></para>
+      <section id="id1165255070319"><title>Sample Set C</title><example id="eip-id1172299534449">
+        <para id="id1165253611030">Find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>85</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"85" div 3} {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1165254528637"><media id="id1165270755557_media" alt="Long division. 85 divided by 3. 3 goes into 8 twice, with a remainder of 2. The ones digit is then brought down. 3 goes into 25 8 times, with a remainder of 1."><image mime-type="image/png" src="../../media/graphics8-c0d7.png" id="id1165270755557__onlineimage" width="50" print-width=".5in"/></media><newline/><m:math><m:mrow>
+<m:mfenced open="{" close="">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Divide:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>3 goes into 8 at most 2 times.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Multiply:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>2 × 3 = 6. Write 6 below 8.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Subtract:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>8 - 6 = 2. Bring down the 5.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mfenced>
+</m:mrow></m:math>
+
+<m:math><m:mrow>
+<m:mfenced open="{" close="">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Divide:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>3 goes into 25 at most 8 times.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Multiply:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>3 × 8 = 24. Write 24 below 25.</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>Subtract:</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>25 - 24 = 1.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mfenced>
+</m:mrow></m:math> </para>
+        <para id="id1165252741806">There are no more digits to bring down to continue the process. We are done. One is the remainder.</para>
+        <para id="id1165254395089">Check: Multiply 28 and 3, then add 1.</para>
+        
+        <para id="eip-327"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>28</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>×</m:mo>
+<m:mn>  3</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>84</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>  1</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>85</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para><para id="id1165252411767">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>85</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>28</m:mtext></m:mrow><m:mi/><m:mi>R1</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"85" div 3="28"`R1} {}</m:annotation></m:semantics></m:math>.</para>
+</example>
+<example id="eip-id1172307587986"><para id="id1165258748419">Find 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>726</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>23</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"726" div "23"} {}</m:annotation></m:semantics></m:math>.</para>
+          <media id="id1165258588646_media" alt="Long division. 726 divided by 23. 23 goes into 72 three times, with a remainder of 3. The ones digit is then brought down. 23 goes into 36 once, with a remainder of 13.">
+            <image mime-type="image/png" src="../../media/graphics9-ef5c.png" id="id1165258588646__onlineimage" width="70" print-width=".75in"/>
+          </media>
+        
+        <para id="id1165252808958">Check: Multiply 31 by 23, then add 13.</para>
+        <para id="id1165255094629"><media id="eip-id1166387650786" alt="31 times 23 equals 713. 713 plus 13 equals 726."><image mime-type="image/png" src="../../media/ssc1.png" width="50" print-width=".5in"/></media></para>
+        <para id="id1165262041260">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>726</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>23</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>31</m:mtext></m:mrow><m:mi>R</m:mi><m:mtext>13</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"726" div "23"="31"````R"13"} {}</m:annotation></m:semantics></m:math>.</para>
+      </example></section>
+      <section id="id5320562"><title>Practice Set C</title><para id="id1165255320662">Perform the following divisions.</para>
+        <exercise id="eip-id1166648508759"><problem id="eip-id1166646930290"><para id="id1165256590520">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>75</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"75" div 4} {}</m:annotation></m:semantics></m:math></para></problem>  <solution id="eip-id1166646969024"><para id="eip-id1166652963106">18 R3</para></solution></exercise>
+        <exercise id="eip-id1166643586053"><problem id="eip-id1166646798924"><para id="id1165278734228"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>346</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"346" div 8} {}</m:annotation></m:semantics></m:math></para></problem>  <solution id="eip-id1166648309152"><para id="eip-id1166646748151">43 R2</para></solution></exercise>
+        <exercise id="eip-id5198917"><problem id="eip-id1166650012858"><para id="id1165255678614">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>489</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>21</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"489" div "21"} {}</m:annotation></m:semantics></m:math></para></problem>  <solution id="eip-id1166643890346"><para id="eip-id1166649303377">23 R6</para></solution></exercise>
+        <exercise id="eip-id1166651394946"><problem id="eip-id1166646739665"><para id="id1165252679168">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5,</m:mn><m:mrow><m:mtext>016</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>82</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5,"016" div "82"} {}</m:annotation></m:semantics></m:math></para></problem>  <solution id="eip-id1166648665354"><para id="eip-id1166647709522">61 R14</para></solution></exercise>
+     <exercise id="eip-id1166645743651"><problem id="eip-id1166646726918"><para id="id1165255517896">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>41</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>196</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>67</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"41","196" div "67"} {}</m:annotation></m:semantics></m:math></para></problem>  <solution id="eip-id1166647591698"><para id="eip-id1166646902197">614 R58</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1165276740496">
+      <title>Calculators</title>
+      <para id="id1165259420129">The calculator can be useful for finding quotients with single and multiple digit divisors. If, however, the division should result in a remainder, the calculator is unable to provide us with the particular value of the remainder. Also, some calculators (most nonscientific) are unable to perform divisions in which one of the numbers has more than eight digits.</para>
+      <section id="id1165259909592"><title>Sample Set D</title><para id="id1165263072257">Use a calculator to perform each division.</para>
+<example id="eip-id1172456439719"><para id="eip-id1172462847566">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>328</m:mtext>
+                      <m:mo stretchy="false">÷</m:mo>
+                      <m:mn>8</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"328" div 8} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <table id="id1165256905829" summary="Instructions for calculator input.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Type</entry>
+                <entry>328</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>÷</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>8</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup>
+</table>
+        <para id="id1165252545718">The display now reads 41.</para>
+</example>
+<example id="eip-id1172474281482"><para id="eip-id1172457038495">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>53</m:mtext>
+                      <m:mi>,</m:mi>
+                      <m:mrow>
+                        <m:mtext>136</m:mtext>
+                        <m:mo stretchy="false">÷</m:mo>
+                        <m:mtext>82</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"53","136" div "82"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        
+        <table id="id1165260163177" summary="Instructions for calculator input.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Type</entry>
+                <entry>53136</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>÷</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>82</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1165255109014">The display now reads 648.</para>
+</example>
+<example id="eip-id1172456857634">
+        <para id="eip-id1172456904804">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>730</m:mtext>
+                      <m:mi>,</m:mi>
+                      <m:mtext>019</m:mtext>
+                      <m:mi>,</m:mi>
+                      <m:mrow>
+                        <m:mtext>001</m:mtext>
+                        <m:mo stretchy="false">÷</m:mo>
+                        <m:mtext>326</m:mtext>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"730","019","001" div "326"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id8163642">We first try to enter 730,019,001 but find that we can only enter 73001900. If our calculator has only an eight-digit display (as most nonscientific calculators do), we will be unable to use the calculator to perform this division.</para>
+</example>
+<example id="eip-id1172457195032"><para id="eip-id1172466182376">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>3727</m:mtext>
+                      <m:mo stretchy="false">÷</m:mo>
+                      <m:mtext>49</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"3727" div "49"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <table id="id1165256892520" summary="Instructions for calculator input.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Type</entry>
+                <entry>3727</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>÷</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>49</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1165258829772">The display now reads 76.061224.</para>
+        <para id="id1165276025158">This number is an example of a decimal number (see <link document="m18894"/>). When a decimal number results in a calculator division, we can conclude that the division produces a remainder.</para>
+      </example></section>
+      <section id="id1165252551292">
+        <title>Practice Set D</title>
+        <para id="id1165272214406">Use a calculator to perform each division.</para>
+        <exercise id="id1165265270016"><problem id="oo-id1165267288585">
+            <para id="id1165255150113"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3,</m:mn><m:mrow><m:mtext>330</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>74</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3,"330" div "74"} {}</m:annotation></m:semantics></m:math>    </para>
+          </problem>
+        <solution id="eip-id1171916279492"><para id="eip-id1171908192217">45</para></solution></exercise>
+        <exercise id="id1165254349995"><problem id="oo-id1165259426458">
+            <para id="id1165272766532"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>63</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>365</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>115</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"63","365" div "115"} {}</m:annotation></m:semantics></m:math>   </para>
+          </problem>
+     <solution id="eip-id1167275913845"><para id="eip-id1167258989158">551</para></solution>   </exercise>
+        <exercise id="id1165254159355"><problem id="oo-id1165258873593">
+            <para id="id1165254116276"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>21</m:mtext><m:mi>,</m:mi><m:mtext>996</m:mtext><m:mi>,</m:mi><m:mtext>385</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>287</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>53</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"21","996","385","287" div "53"} {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+        <solution id="eip-id1168358348882"><para id="eip-id1168354021869">Since the dividend has more than eight digits, this division cannot be performed on most nonscientific calculators. On others, the answer is 415,026,137.4</para></solution></exercise>
+        <exercise id="id1165272575379"><problem id="oo-id1924929">
+            <para id="id1165252421879"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4,</m:mn><m:mrow><m:mtext>558</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>67</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4,"558" div "57"} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+        <solution id="eip-id1167245162064"><para id="eip-id1167254678827">This division results in 68.02985075, a decimal number, and therefore, we cannot, at this time, find the value of the remainder. Later, we will discuss decimal numbers.</para></solution></exercise>
+        
+      </section>
+    </section>
+    <section id="id3583080"><title>Exercises</title><para id="id1165270350238">For the following problems, perform the divisions.</para>
+      <para id="id1165252677524">The first 38 problems can be checked with a calculator by multiplying the divisor and quotient then adding the remainder.</para>
+      <exercise id="id1165276018670"><problem id="oo-id1165268285278">
+          <para id="id8088778"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>52</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"52" div 4} {}</m:annotation></m:semantics></m:math>    </para>
+        </problem>
+      <solution id="eip-id8710002"><para id="eip-id8710003">13</para></solution></exercise>
+      <exercise id="id1165254554821">
+        <problem id="oo-id1165252683063">
+          <para id="id1165260112195"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>776</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"776" div 8} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165252809173">
+        <problem id="oo-id1165261479305">
+          <para id="id1165259433742"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>603</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"603" div 9} {}</m:annotation></m:semantics></m:math>    </para>
+        </problem>
+<solution id="eip-id1168039964532"><para id="eip-id1168039964533">67</para></solution>
+      </exercise>
+      <exercise id="id1165261159175">
+        <problem id="oo-id1165254511682">
+          <para id="id1165276455716"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>240</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"240" div 8} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165252523670">
+        <problem id="oo-id4631499">
+          <para id="id7666516"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>208</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"208" div 4} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039964611"><para id="eip-id1168039964612">52</para></solution>
+      </exercise>
+      <exercise id="id7190072">
+        <problem id="oo-id1165258510408">
+          <para id="id1165264449587"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>576</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"576" div 6} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165252412588">
+        <problem id="oo-id1165255341734">
+          <para id="id1165256201921"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>21</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"21" div 7} {}</m:annotation></m:semantics></m:math>     </para>
+        </problem>
+<solution id="eip-id1168039265904"><para id="eip-id1168039265906">3</para></solution>
+      </exercise>
+      <exercise id="id7333704">
+        <problem id="oo-id1165260659243">
+          <para id="id1165261057376"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>0</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 div 0} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1252131">
+        <problem id="oo-id1165252524242">
+          <para id="id1165263249535"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>140</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"140" div 2} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039265984"><para id="eip-id1168039265985">70</para></solution>
+      </exercise>
+      <exercise id="id1165278443891">
+        <problem id="oo-id1165263474574">
+          <para id="id2117877"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>528</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"528" div 8} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165261367610">
+        <problem id="oo-id1165255079459">
+          <para id="id1165259817970"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>244</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"244" div 4} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039266063"><para id="eip-id1168039266064">61</para></solution>
+      </exercise>
+      <exercise id="id1165257235792">
+        <problem id="oo-id1165252510699">
+          <para id="id1165264452541"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 div 7} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165259627780">
+        <problem id="oo-id1165252416770">
+          <para id="id1165254599262"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>177</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"177" div 3} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039266143"><para id="eip-id1168039265336">59</para></solution>
+      </exercise>
+      <exercise id="id1165270574137">
+        <problem id="oo-id1165252765650">
+          <para id="id1165255227977"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>96</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"96" div 8} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165252422737">
+        <problem id="oo-id1165267821187">
+          <para id="id1165258469323"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>67</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"67" div 1} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039265415"><para id="eip-id1168039265416">67</para></solution>
+      </exercise>
+      <exercise id="id1165271937770">
+        <problem id="oo-id1165258516693">
+          <para id="id1165259388491"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>896</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>56</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"896" div "56"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165263441837">
+        <problem id="oo-id1165252519847">
+          <para id="id1165252298040"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1,</m:mn><m:mrow><m:mtext>044</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1,"044" div "12"} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039265497"><para id="eip-id1168039265498">87</para></solution>
+      </exercise>
+      <exercise id="id1165276041122">
+        <problem id="oo-id1165264434274">
+          <para id="id3551292"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>988</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>19</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"988" div "19"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165254586244">
+        <problem id="oo-id1165255889692">
+          <para id="id1165256697392"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5,</m:mn><m:mrow><m:mtext>238</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>97</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5,"238" div "97"} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039265580"><para id="eip-id1168039265581">54</para></solution>
+      </exercise>
+      <exercise id="id3469366">
+        <problem id="oo-id1165255782620">
+          <para id="id1165254109169"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2,</m:mn><m:mrow><m:mtext>530</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>55</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2,"530" div "55"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165259105229">
+        <problem id="oo-id3666836">
+          <para id="id1165256442597"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4,</m:mn><m:mrow><m:mtext>264</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>82</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4,"264" div "82"} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039975854"><para id="eip-id1168039975855">52</para></solution>
+      </exercise>
+      <exercise id="id1165253101085">
+        <problem id="oo-id1165259247769">
+          <para id="id3325657"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>637</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>13</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"637" div "13"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165252702537">
+        <problem id="oo-id1165276756586">
+          <para id="id1165277423380"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3,</m:mn><m:mrow><m:mtext>420</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>90</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3,"420" div "90"} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039975937"><para id="eip-id1168039975938">38</para></solution>
+      </exercise>
+      <exercise id="id1165264454115">
+        <problem id="oo-id1165252427954">
+          <para id="id1165259099514"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5,</m:mn><m:mrow><m:mtext>655</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>87</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5,"655" div "87"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id8152861">
+        <problem id="oo-id1165276577395">
+          <para id="id1165260159794"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2,</m:mn><m:mrow><m:mtext>115</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>47</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2,"115" div "47"} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039976023"><para id="eip-id1168039976024">45</para></solution>
+      </exercise>
+      <exercise id="id1165276788635">
+        <problem id="oo-id1165252129040">
+          <para id="id1552769"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9,</m:mn><m:mrow><m:mtext>328</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>22</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9,"328" div "22"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165269863201">
+        <problem id="oo-id1165259601260">
+          <para id="id1165252531960"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>55</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>167</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>71</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"55","167" div "71"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1168039976111"><para id="eip-id1168039976112">777</para></solution>
+      </exercise>
+      <exercise id="id1165262005091">
+        <problem id="oo-id1165254553798">
+          <para id="id1165253584671"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>68</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>356</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>92</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"68","356" div "92"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id2064309">
+        <problem id="oo-id1165255380064">
+          <para id="id1165252523992"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>27</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>702</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>81</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"27","702" div "81"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1168039877659"><para id="eip-id1168039877660">342</para></solution>
+      </exercise>
+      <exercise id="id1165258820022">
+        <problem id="oo-id3454952">
+          <para id="id6484910"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6,</m:mn><m:mrow><m:mtext>510</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>31</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6,"510" div "31"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id1165255025963">
+        <problem id="oo-id1165258408998">
+          <para id="id1165260431972"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>60</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>536</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>94</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"60","536" div "94"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1168039877751"><para id="eip-id1168039877752">644</para></solution>
+      </exercise>
+      <exercise id="id1165255638082">
+        <problem id="oo-id1165259765615">
+          <para id="id1165256065998"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>31</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>844</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>38</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"31","844" div "38"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165279173270">
+        <problem id="oo-id1165252559547">
+          <para id="id1165271564048"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>23</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>985</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>45</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"23","985" div "45"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1168039877841"><para id="eip-id1168039877842">533</para></solution>
+      </exercise>
+      <exercise id="id1165265381485">
+        <problem id="oo-id1165256936670">
+          <para id="id1165259769667"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>60</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>606</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>74</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"60","606" div "74"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165259905470">
+        <problem id="oo-id1165253091866">
+          <para id="id1165259631856"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2,</m:mn><m:mtext>975</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>400</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>285</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2,"975","400" div "285"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1168039219305"><para id="eip-id1168039219306">10,440</para></solution>
+      </exercise>
+      <exercise id="id1165263279946">
+        <problem id="oo-id1165261142307">
+          <para id="id1165276796866"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1,</m:mn><m:mtext>389</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>660</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>795</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1,"389","660" div "795"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165258865507">
+        <problem id="oo-id1165276787373">
+          <para id="id1165259436079"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>7,</m:mn><m:mtext>162</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>060</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>879</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7,"162","060" div "879"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1168039219399"><para id="eip-id1168039219400">8,147 remainder 847</para></solution>
+      </exercise>
+      <exercise id="id1165255620150">
+        <problem id="oo-id1165252779764">
+          <para id="id1165262144094"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>7,</m:mn><m:mtext>561</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>060</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>909</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7,"561","060" div "909"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165260337544">
+        <problem id="oo-id1165255610783">
+          <para id="id1656983"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>38</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"38" div 9} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039219486"><para id="eip-id1168039219487">4 remainder 2</para></solution>
+      </exercise>
+      <exercise id="id3753186">
+        <problem id="oo-id1165263497014">
+          <para id="id1165259648469"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>97</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"97" div 4} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165258598630">
+        <problem id="oo-id1165268244434">
+          <para id="id7966006"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>199</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"199" div 3} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1168039219566"><para id="eip-id1168039219567">66 remainder 1</para></solution>
+      </exercise>
+      <exercise id="id1165260387593">
+        <problem id="oo-id7552136">
+          <para id="id1165255548965"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>573</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"573" div 6} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165254288224">
+        <problem id="oo-id1165258826970">
+          <para id="id1165256414082"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>701</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>13</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10","701" div "13"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1168039889862"><para id="eip-id1168039889863">823 remainder 2</para></solution>
+      </exercise>
+      <exercise id="id1165255678949">
+        <problem id="oo-id1165261093355">
+          <para id="id1165252702144"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>13</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>521</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>53</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"13","521" div "53"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165252713722">
+        <problem id="oo-id1165265435226">
+          <para id="id1165269875331"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3,</m:mn><m:mrow><m:mtext>628</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>90</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3,"628" div "90"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1168039889950"><para id="eip-id1168039889951">40 remainder 28</para></solution>
+      </exercise>
+      <exercise id="id1165275248698">
+        <problem id="oo-id1165262312287">
+          <para id="id1165277303452"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>592</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>43</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10","592" div "43"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165255584673">
+        <problem id="oo-id1165254598741">
+          <para id="id1165252581773"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>19</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>965</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>30</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"19","965" div "30"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168039890040"><para id="eip-id1168039890041">665 remainder 15</para></solution>
+      </exercise>
+      <exercise id="id1165261965130">
+        <problem id="oo-id1165253541365">
+          <para id="id1165255512998"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8,</m:mn><m:mrow><m:mtext>320</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>21</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8,"320" div "21"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165254491437">
+        <problem id="oo-id1165252680383">
+          <para id="id1165258983546"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>61</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>282</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>64</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"61","282" div "64"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168039890128"><para id="eip-id1168039890129">957 remainder 34</para></solution>
+      </exercise>
+      <exercise id="id1165260392550">
+        <problem id="oo-id1165252696856">
+          <para id="id1165255395602"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1,</m:mn><m:mrow><m:mtext>030</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>28</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1,"030" div "28"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165252529781">
+        <problem id="oo-id1165262275398">
+          <para id="id1165255621374"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>7,</m:mn><m:mrow><m:mtext>319</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7,"319" div "11"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1168039865256"><para id="eip-id1168039865257">665 remainder 4</para></solution>
+      </exercise>
+      <exercise id="id1165255032410">
+        <problem id="oo-id1165276601858">
+          <para id="id1165252401368"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3,</m:mn><m:mrow><m:mtext>628</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>90</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3,"628" div "90"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165261381479">
+        <problem id="oo-id1165265899180">
+          <para id="id1165259825945"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>35</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>279</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>77</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"35","279" div "77"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168039865344"><para id="eip-id1168039865345">458 remainder 13</para></solution>
+      </exercise>
+      <exercise id="id1165252505625">
+        <problem id="oo-id1165253041384">
+          <para id="id1165254362016"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>52</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>196</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>55</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"52","196" div "55"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165258974249">
+        <problem id="oo-id2357091">
+          <para id="id1165279107646"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>67</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>751</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>68</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"67","751" div "68"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168039865434"><para id="eip-id1168039865435">996 remainder 23</para></solution>
+      </exercise>
+      <para id="id1165254345495">For the following 5 problems, use a calculator to find the quo­tients.</para>
+      <exercise id="id1165264008015">
+        <problem id="oo-id1165255644233">
+          <para id="id1165270613367"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4,</m:mn><m:mrow><m:mtext>346</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>53</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4,"346" div "53"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1165268285298">
+        <problem id="oo-id7309113">
+          <para id="id1165252512379"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3,</m:mn><m:mrow><m:mtext>234</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>77</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3,"234" div "77"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168039865526"><para id="eip-id1168039865527">42</para></solution>
+      </exercise>
+      <exercise id="id1165253077751">
+        <problem id="oo-id1165253057895">
+          <para id="id1165263272482"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6,</m:mn><m:mrow><m:mtext>771</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>37</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6,"771" div "37"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id8196375">
+        <problem id="oo-id8770799">
+          <para id="id1165255389707"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4,</m:mn><m:mtext>272</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>320</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>520</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4,"272","320" div "520"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1168039264445"><para id="eip-id1168039264446">8,216</para></solution>
+      </exercise>
+      <exercise id="id3797935">
+        <problem id="oo-id1165258350450">
+          <para id="id1803826"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>7,</m:mn><m:mtext>558</m:mtext><m:mi>,</m:mi><m:mrow><m:mtext>110</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext>651</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7,"558","110" div "651"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1255049">
+        <problem id="oo-id1165273711997">
+          <para id="id1165256605726">A mathematics instructor at a high school is paid $17,775 for 9 months. How much money does this instructor make each month? </para>
+        </problem>
+<solution id="eip-id1168039264511"><para id="eip-id1168039264512">$1,975 per month</para></solution>
+      </exercise>
+      <exercise id="id1646884">
+        <problem id="oo-id1165253102657">
+          <para id="id1165261180722">A couple pays $4,380 a year for a one-bedroom apartment. How much does this couple pay each month for this apartment?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165256863228">
+        <problem id="oo-id1165270485269">
+          <para id="id3785545">Thirty-six people invest a total of $17,460 in a particular stock. If they each invested the same amount, how much did each person invest? </para>
+        </problem>
+<solution id="eip-id1168039264549"><para id="eip-id1168039264550">$485 each person invested</para></solution>
+      </exercise>
+      <exercise id="id1165262439518">
+        <problem id="oo-id1165255855022">
+          <para id="id1165270397456">Each of the 28 students in a mathematics class buys a textbook. If the bookstore sells $644 worth of books, what is the price of each book?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165259788666">
+        <problem id="oo-id1165259318435">
+          <para id="id1165254327285">A certain brand of refrigerator has an automatic ice cube maker that makes 336 ice cubes in one day. If the ice machine makes ice cubes at a constant rate, how many ice cubes does it make each hour? </para>
+        </problem>
+<solution id="eip-id1168039264587"><para id="eip-id1168039264588">14 cubes per hour</para></solution>
+      </exercise>
+      <exercise id="id7993843">
+        <problem id="oo-id1165259272512">
+          <para id="id1165256698725">A beer manufacturer bottles 52,380 ounces of beer each hour. If each bottle contains the same number of ounces of beer, and the manufacturer fills 4,365 bottles per hour, how many ounces of beer does each bottle contain?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165259306745">
+        <problem id="oo-id2107845">
+          <para id="id1165252723989">A computer program consists of 68,112 bits. 68,112 bits equals 8,514 bytes. How many bits in one byte? </para>
+        </problem>
+<solution id="eip-id1168039264626"><para id="eip-id1168039264627">8 bits in each byte</para></solution>
+      </exercise>
+      <exercise id="id1165252415912">
+        <problem id="oo-id1165274349165">
+          <para id="id1165252809244">A 26-story building in San Francisco has a total of 416 offices. If each floor has the same number of offices, how many floors does this building have?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165255221435">
+        <problem id="oo-id1165252564264">
+          <para id="id1165252524314">A college has 67 classrooms and a total of 2,546 desks. How many desks are in each classroom if each classroom has the same number of desks?</para>
+        </problem>
+<solution id="eip-id1168039264664"><para id="eip-id1168039264665">38</para></solution>
+      </exercise>
+    <section id="id1165274062189">
+      <title>Exercises for Review</title>
+      <exercise id="id1165266174012">
+        <problem id="oo-id1165270187784">
+          <para id="id3430876">(<link document="m34795"/>) What is the value of 4 in the number 124,621?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1606111"><problem id="oo-id1165253102836">
+          <para id="id1165252742315">(<link document="m34780"/>) Round 604,092 to the nearest hundred thousand.  </para>
+        </problem>
+      <solution id="eip-id1169308066235"><para id="eip-id1169319878993">600,000</para></solution></exercise>
+      <exercise id="id1165253701300">
+        <problem id="oo-id7317909">
+          <para id="id1165254396203">(<link document="m34802"/>) What whole number is the additive identity?</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165259279060"><problem id="oo-id6223826">
+          <para id="id1165264406322">(<link document="m34863"/>) Find the product. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6,</m:mn><m:mrow><m:mtext>256</m:mtext><m:mo stretchy="false">×</m:mo><m:mtext>100</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6,"256" times "100"} {}</m:annotation></m:semantics></m:math>. </para>
+        </problem>
+      <solution id="eip-id1169324900600"><para id="eip-id1169326053014">625,600</para></solution></exercise>
+      <exercise id="id1165252760289">
+        <problem id="oo-id1165253021935">
+          <para id="id1165260114208">(<link document="m34864"/>) Find the quotient. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">÷</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 div "11"} {}</m:annotation></m:semantics></m:math>.</para>
+        </problem>
+      </exercise>
+    </section>
+</section>
+  </content>
+</document>

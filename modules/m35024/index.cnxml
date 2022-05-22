@@ -1,0 +1,210 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Summary of Key Concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35024</md:content-id>
+  <md:title>Summary of Key Concepts</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module reviews the key concepts from the chapter "Measurement and Geometry."</md:abstract>
+  <md:uuid>52814792-7e22-4334-962e-9a6c1d77cba0</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id5946674"><title>Summary of Key Concepts</title><para id="id1165977274229"><title>Measurement (<link document="m35018"/>)</title><emphasis>Measurement</emphasis> is comparison to some standard.</para>
+      <para id="id1165977699569"><title>Standard Unit of Measure (<link document="m35018"/>)</title>A quantity that is used for comparison is called a <emphasis>standard unit of measure</emphasis>.</para>
+      <para id="id1165977382073"><title>Two Types of Measurement Systems (<link document="m35018"/>)</title>There are two major types of measurement systems in use today. They are the <emphasis>United States system</emphasis> and the <emphasis>metric system</emphasis>.</para>
+      <para id="id6198436"><title>Unit Fraction (<link document="m35018"/>)</title>A <emphasis>unit fraction</emphasis> is a fraction that has a value of 1. Unit fractions can be used to convert from one unit of measure to another.</para>
+      <para id="id1165975271951"><title>Meter, Liter, Gram, and associated prefixes (<link document="m35019"/>)</title>Common units of measure in the metric system are the <emphasis>meter</emphasis> (m), for length, the <emphasis>liter</emphasis> (L), for volume, and the <emphasis>gram</emphasis> (g), for mass. To each of these units, a prefix can be attached.
+<list id="eip-id1167954984234" list-type="labeled-item" mark-suffix=" —  "><item><label>kilo</label>thousand </item>
+        <item><label>deci</label>tenth</item>
+        <item><label>hecto</label>hundred </item>
+        <item><label>centi</label>hundredth</item>
+        <item><label>deka</label>ten </item>
+        <item><label>milli</label>thousandth</item>
+      </list></para>
+      
+      
+      
+      <para id="id1165971192766"><title>Metric Conversions (<link document="m35019"/>)</title>To <emphasis>convert</emphasis> from one metric unit to another:
+<list id="eip-id1171896289545" list-type="enumerated" number-style="arabic"><item>Determine the location of the original number on the metric scale.</item>
+        <item>Move the decimal point of the original number in the same direction and the same number of places as is necessary to move to the metric unit you wish to convert to.</item>
+      </list></para>
+      
+      <para id="id1165979341683"><title>Denominate Numbers (<link document="m35021"/>)</title>Numbers that have units of measure associated with them are <emphasis>denominate num­bers</emphasis>. The number 25 mg is a denominate number since the mg unit is associated with the pure number 25. The number 82 is not a denominate number since it has no unit of measure associated with it.</para>
+      <para id="id1165971783108"><title>Simplified Denominate Number (<link document="m35021"/>)</title>A denominate number is <emphasis>simplified</emphasis> when the number of standard units of measure associated with it does not exceed the next higher type of unit. 55 min is simplified, whereas 65 min is not simplified</para>
+      <para id="id1165977301490"><title>Addition and Subtraction of Denominate Numbers (<link document="m35021"/>)</title>Denominate numbers can be <emphasis>added</emphasis> or <emphasis>subtracted</emphasis> by
+<list id="eip-id7927194" list-type="enumerated" number-style="arabic"><item>writing the numbers vertically so that the like units appear in the same column.</item>
+        <item>adding or subtracting the number parts, carrying along the unit.</item>
+        <item>simplifying the sum or difference.</item>
+      </list></para>
+      
+      <para id="id7010726"><title>Multiplying a Denominate Number by a Whole Number (<link document="m35021"/>)</title>To <emphasis>multiply</emphasis> a denominate number by a whole number, multiply the number part of each unit by the whole number and affix the unit to the product.</para>
+      <para id="id2951217"><title>Dividing a Denominate Number by a Whole Number (<link document="m35021"/>)</title>To <emphasis>divide</emphasis> a denominate number by a whole number, divide the number part of each unit by the whole number beginning with the largest unit. Affix the unit to this quotient. Carry the remainder to the next unit.</para>
+      <para id="id1165970692433"><title>Polygon (<link document="m35022"/>)</title>A <emphasis>polygon</emphasis> is a closed plane (flat) figure whose sides are line segments (portions of straight lines).</para>
+      <para id="id1165976802166"><title>Perimeter (<link document="m35022"/>)</title>The <emphasis>perimeter</emphasis> of a polygon is the distance around the polygon.</para>
+      <para id="id6296595"><title>Circumference, Diameter, Radius (<link document="m35022"/>)</title>The <emphasis>circumference</emphasis> of a circle is the distance around the circle. The <emphasis>diameter</emphasis> of a circle is any line segment that passes through the center of the circle and has its endpoints on the circle. The <emphasis>radius</emphasis> of a circle is one half the diameter of the circle.</para>
+      <para id="id1165974641492"><title>The number <m:math><m:mi>π</m:mi></m:math> (<link document="m35022"/>)</title>The symbol <m:math><m:mi>π</m:mi></m:math>, read "pi," represents the nonterminating, nonrepeating decimal number 3.14159... . For computational purposes, <m:math><m:mi>π</m:mi></m:math> is often approximated by the number 3.14.</para>
+      
+      <para id="id1165978064968"><title>Formula (<link document="m35022"/>)</title>A <emphasis>formula</emphasis> is a rule for performing a task. In mathematics, a formula is a rule that directs us in computations.</para>
+      <para id="id1165976897989"><title>Circumference Formulas (<link document="m35022"/>) </title><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>C</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mi>π</m:mi>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mi>d</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{C=π cdot d} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+<space count="10"/>      
+
+  <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:mo stretchy="false">≈</m:mo>
+                      <m:mo stretchy="false">(</m:mo>
+                    </m:mrow>
+                    <m:mn>3</m:mn>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>14</m:mtext>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mi>d</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{C approx  \( 3 "." "14" \) d} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      <newline/>
+
+
+
+<m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>C</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mi>π</m:mi>
+                      </m:mrow>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mi>r</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{C=2 cdot π cdot r} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      
+<space count="8"/>
+
+  <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>C</m:mi>
+                      <m:mo stretchy="false">≈</m:mo>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mn>3</m:mn>
+                    <m:mtext>.</m:mtext>
+                    <m:mtext>14</m:mtext>
+                    <m:mo stretchy="false">)</m:mo>
+                    <m:mi>r</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{C approx 2 \( 3 "." "14" \) r} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      
+      
+      <para id="id1165976892984"><title>Area (<link document="m35023"/>) </title>The <emphasis>area</emphasis> of a surface is the amount of square length units contained in the surface.</para>
+      <para id="id1165974847634"><title>Volume (<link document="m35023"/>)</title>The <emphasis>volume</emphasis> of an object is a measure of the amount of cubic length units contained in the object.</para>
+      <para id="id1165971853007"><title>Area Formulas (<link document="m35023"/>)</title><emphasis>Triangle</emphasis>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mi>b</m:mi></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mi>h</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A= {  {1}  over  {2} }  cdot b cdot h} {}</m:annotation></m:semantics></m:math>
+
+
+<newline/>
+
+<emphasis>Rectangle</emphasis>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>l</m:mi><m:mo stretchy="false">⋅</m:mo><m:mi>w</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A=1 cdot w} {}</m:annotation></m:semantics></m:math>
+
+<newline/>
+
+<emphasis>Parallelogram</emphasis>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">⋅</m:mo><m:mi>h</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A=b cdot h} {}</m:annotation></m:semantics></m:math>
+
+
+<newline/>
+<emphasis>Trapezoid</emphasis>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>A</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mo stretchy="false">(</m:mo></m:mrow></m:mrow><m:mrow><m:msub><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">⋅</m:mo><m:mi>h</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A= {  {1}  over  {2} }  cdot  \( b rSub { size 8{1} } +b rSub { size 8{2} }  \)  cdot h} {}</m:annotation></m:semantics></m:math>
+
+
+<newline/>
+<emphasis>Circle</emphasis>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>A</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>π</m:mi><m:mo stretchy="false">⋅</m:mo><m:msup><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A=π cdot r rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para>
+
+      <para id="id1165975257907"><title>Volume Formulas (<link document="m35023"/>)</title><emphasis>Rectangle solid</emphasis>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>V</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mi>l</m:mi><m:mo stretchy="false">⋅</m:mo><m:mi>w</m:mi></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mi>h</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{V=l cdot w cdot h} {}</m:annotation></m:semantics></m:math>
+
+<newline/>
+
+
+<emphasis>Sphere</emphasis>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>V</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mi>π</m:mi></m:mrow><m:mo stretchy="false">⋅</m:mo><m:msup><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{V= {  {4}  over  {3} }  cdot π cdot r rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math>
+
+<newline/>
+
+
+<emphasis>Cylinder</emphasis>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>V</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mi>π</m:mi><m:mo stretchy="false">⋅</m:mo><m:msup><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mi>h</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{V=π cdot r rSup { size 8{2} }  cdot h} {}</m:annotation></m:semantics></m:math>
+
+
+<newline/>
+
+<emphasis>Cone</emphasis>: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>V</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mi>π</m:mi></m:mrow><m:mo stretchy="false">⋅</m:mo><m:msup><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mi>h</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{V= {  {1}  over  {3} }  cdot π cdot r rSup { size 8{2} }  cdot h} {}</m:annotation></m:semantics></m:math>
+    </para></section>
+  </content>
+</document>

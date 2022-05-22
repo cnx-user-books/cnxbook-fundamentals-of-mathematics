@@ -1,0 +1,1474 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Simplification of Denominate Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35021</md:content-id>
+  <md:title>Simplification of Denominate Numbers</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to simplify denominate numbers. By the end of the module students should be able to convert an unsimplified unit of measure to a simplified unit of measure, be able to add and subtract denominate numbers and be able to multiply and divide a denominate number by a whole number.</md:abstract>
+  <md:uuid>42560d3a-1833-4938-9445-3327e09fe62f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1165023796899">
+      <title>Section Overview</title>
+      <list id="id1165023041669" list-type="bulleted">
+        <item>Converting to Multiple Units</item>
+        <item>Adding and Subtracting Denominate Numbers</item>
+        <item>Multiplying a Denominate Number by a Whole Number</item>
+        <item>Dividing a Denominate Number by a Whole Number</item>
+      </list>
+    </section>
+    <section id="id1165018199143">
+      <title>Converting to Multiple Units </title>
+      <para id="id1165018214090"><title>Denominate Numbers</title>Numbers that have units of measure associated with them are called <term>denominate numbers</term>. It is often convenient, or even necessary, to simplify a denominate number.</para>
+      
+      <para id="id1165023858414"><title>Simplified Denominate Number </title>A denominate number is <term>simplified</term> when the number of standard units of measure associated With it does not exceed the next higher type of unit.</para>
+      <para id="id1165014199838">The denominate number 55 min is simplified since it is smaller than the next higher type of unit, 1 hr. The denominate number 65 min is <emphasis effect="italics">not</emphasis> simplified since it is not smaller than the next higher type of unit, 1 hr. The denominate number 65 min can be simplified to 1 hr 5 min. The denominate number 1 hr 5 min is simplified since the next higher type of unit is day, and 1 hr does not exceed 1 day.</para>
+      <section id="id1165028546230"><title>Sample Set A</title><example id="eip-id1170364910097">
+        <para id="id1165021455160">Simplify 19 in.</para>
+        <para id="id1165018333610">Since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mtext>  in</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>1 ft</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12"" in" "."  ="1 ft"} {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>19</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"19"="12"+7} {}</m:annotation></m:semantics></m:math>,</para>
+        <para id="id1165013605998"><m:math>
+                  <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">
+                              <m:mtext>19 in.</m:mtext></m:mtd>
+           <m:mtd>
+                                <m:mo stretchy="false">=</m:mo>
+                  </m:mtd>
+<m:mtd columnalign="left">
+              <m:mtext>12 in.</m:mtext>
+                         
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>7 in.</m:mtext>
+      </m:mtd>                                           </m:mtr>
+                    
+
+<m:mtr>
+<m:mtd/>
+<m:mtd>                                <m:mo stretchy="false">=</m:mo>
+       </m:mtd> 
+
+<m:mtd columnalign="left">                  <m:mtext> 1 ft </m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>7 in.</m:mtext></m:mtd>
+                    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>              
+                  <m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left">           
+                     <m:mtext> 1 ft 7 in.</m:mtext></m:mtd>
+                    </m:mtr>
+                  </m:mtable>
+          </m:math>
+        </para>
+</example>
+<example id="eip-id1170363724968">
+        <para id="id1165029515941">Simplify 4 gal 5 qt.</para>
+        <para id="id3496788">Since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mrow><m:mtext>  qt</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>1 gal</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4" qt"="1 gal"} {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5=4+1} {}</m:annotation></m:semantics></m:math>,</para>
+        <para id="id1165015371636"><m:math>
+                  <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">
+                              <m:mtext>4 gal 5 qt</m:mtext></m:mtd>
+<m:mtd>
+                              <m:mo stretchy="false">=</m:mo>
+       </m:mtd>
+<m:mtd columnalign="left">                   <m:mtext>4 gal</m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>4 qt</m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>1qt</m:mtext>
+</m:mtd>
+                    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>
+                              <m:mo stretchy="false">=</m:mo>
+</m:mtd>   
+        <m:mtd columnalign="left">                          <m:mtext>4 gal </m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>1 gal </m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>1 qt</m:mtext>
+</m:mtd>                   
+ </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                                <m:mtext>5 gal </m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext> 1 qt</m:mtext>
+</m:mtd>                    
+   </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">      
+                        <m:mtext> 5 gal 1 qt</m:mtext>
+</m:mtd>    
+                </m:mtr>
+                  </m:mtable>
+                   </m:math>
+        </para>
+</example>
+<example id="eip-id3548014"><para id="id1165023022554"> Simplify 2 hr 75 min.</para>
+        <para id="id1165027090470">Since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>60 min </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>1 hr</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"60 min "="1 hr"} {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>75</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mtext>60</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"75"="60"+"15"} {}</m:annotation></m:semantics></m:math>,</para>
+        <para id="id1165020845575"><m:math>
+                  <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">            
+                  <m:mtext>2 hr 75 min</m:mtext></m:mtd>
+<m:mtd>
+                              <m:mo stretchy="false">=</m:mo>
+</m:mtd>       
+<m:mtd columnalign="left">        
+                          <m:mtext> 2 hr </m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>60 min </m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext> 15 min</m:mtext>
+</m:mtd>                          
+  </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>2 hr </m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>1 hr</m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext> 15 min</m:mtext>
+</m:mtd> 
+                   </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">      
+                          <m:mtext>3 hr </m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>15 min</m:mtext>
+</m:mtd>                         
+</m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                       <m:mtext>3 hr 15 min</m:mtext>
+</m:mtd>       
+             </m:mtr>
+                  </m:mtable>
+</m:math>        
+</para>
+</example>
+<example id="eip-id1170370763189"><para id="id1165023656343">Simplify 43 fl oz.</para>
+        <para id="id1165021023095">Since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>8 fl oz</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>1 c</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"8 fl oz"="1 c"} {}</m:annotation></m:semantics></m:math> (1 cup), and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>43</m:mtext><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>5</m:mn></m:mrow><m:mtext> R3</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"43" div 8=5" R3"} {}</m:annotation></m:semantics></m:math>,</para>
+        <para id="id1165027046779"><m:math>
+
+                  <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">
+                              <m:mtext>43 fl oz </m:mtext>
+</m:mtd>
+<m:mtd>
+                              <m:mo stretchy="false">=</m:mo>
+</m:mtd>       
+<m:mtd columnalign="left">        
+                        <m:mtext> 40 fl oz</m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>3 fl oz</m:mtext>
+</m:mtd>                           
+</m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>5</m:mn>
+                                  <m:mo stretchy="false">⋅</m:mo>
+                                  <m:mtext>8 fl oz </m:mtext>
+                          
+      <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>3 fl oz </m:mtext>
+</m:mtd>
+                    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>       
+<m:mtd columnalign="left">         
+                         <m:mn>5</m:mn>
+                                  <m:mo stretchy="false">⋅</m:mo>
+                                  <m:mtext>1 c</m:mtext>
+                          
+      <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>3 fl oz</m:mtext>
+</m:mtd>
+                    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                      
+          <m:mtext>5 c</m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>3 fl oz</m:mtext>
+</m:mtd>
+                    </m:mtr>
+                  </m:mtable>
+
+          </m:math>
+        </para>
+        <para id="id1165018028775">But, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>2 c</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>1 pt</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"2 c"="1 pt"} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">÷</m:mo><m:mn>2</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow><m:mtext> R1</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 div 2=2" R1"} {}</m:annotation></m:semantics></m:math>. So,</para>
+        <para id="id1165022822647"><m:math>
+  
+                <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">
+                                <m:mtext>5 c</m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>3 fl oz </m:mtext>
+</m:mtd>
+<m:mtd>           
+                   <m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+<m:mtext> 2</m:mtext>
+                                    <m:mo stretchy="false">⋅</m:mo>
+                                    <m:mtext>2 c</m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>1 c</m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext> 3 fl oz</m:mtext>
+</m:mtd>
+                    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>
+                              <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">                            <m:mn>2</m:mn>
+                                    <m:mo stretchy="false">⋅</m:mo>
+                                    <m:mtext>1 pt</m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext> 1 c </m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext> 3 fl oz</m:mtext>
+</m:mtd>                 
+   </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                       
+           <m:mtext>2 pt </m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>1 c </m:mtext>
+
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>3 fl oz</m:mtext>
+</m:mtd>
+                    </m:mtr>
+                  </m:mtable>
+        
+  </m:math>
+        </para>
+        <para id="id1165016796261">But, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>2 pt</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>1 qt</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"2 pt"="1 qt"} {}</m:annotation></m:semantics></m:math>, so</para>
+        <para id="id1165014529498"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mtext>2 pt </m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext> 1 c </m:mtext>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext> 3 fl oz</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext> 1 qt 1 c 3 fl oz</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"1 pt "+" 1 c "+" 3 fl oz"=" 1 qt 1 c 3 fl oz"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      </example></section>
+      <section id="id1165026578501"><title>Practice Set A</title><para id="id1165029126235">Simplify each denominate number. Refer to the conversion tables given in <link document="m35018"/>, if necessary.</para>
+<exercise id="eip-id1171689378910">
+<problem id="eip-id1171694677337">        
+<para id="id1165018286879"> 18 in.</para>
+</problem>
+<solution id="eip-id1171698267058">
+<para id="eip-id1171680430624">  1 ft 6 in.</para>
+</solution>
+</exercise>
+<exercise id="eip-id1171695435425">
+<problem id="eip-id1171698401719">
+        <para id="id1165024688256"> 8 gal 9 qt</para>
+</problem>
+<solution id="eip-id1171680463009">
+<para id="eip-id2292479">  10 gal 1 qt</para>
+</solution>
+</exercise>
+<exercise id="eip-id1171688187383"><problem id="eip-id2341171">
+        <para id="id1165021876727"> 5 hr 80 min</para></problem>
+<solution id="eip-id1171682704352"><para id="eip-id1171686229137">  6 hr 20 min</para>
+</solution>
+</exercise>        
+<exercise id="eip-id1171680450170">
+<problem id="eip-id1171695948199">
+<para id="id1165032364491"> 8 wk 11 da</para>
+</problem>
+<solution id="eip-id1171693289862"><para id="eip-id1171681938404">  9 wk 4 da</para>
+</solution>
+</exercise>
+<exercise id="eip-id1171698194800">
+<problem id="eip-id1171696722463"> 
+       <para id="id1165018239554">86 da</para>
+</problem>
+<solution id="eip-id1171695226898"><para id="eip-id1171697822210">  12 wk 2 da</para>
+ </solution>
+</exercise>     </section>
+    </section>
+    <section id="id1165020783757"><title>Adding and Subtracting Denominate Numbers</title><para id="id1165009204431"><title>Adding and Subtracting Denominate Numbers </title>
+Denominate numbers can be added or subtracted by:
+      <list id="id1165015017622" list-type="enumerated" number-style="arabic">
+        <item>writing the numbers vertically so that the like units appear in the same column.</item>
+        <item>adding or subtracting the number parts, carrying along the unit.</item>
+        <item>simplifying the sum or difference.</item>
+      </list></para>
+      <section id="id1165017272883"><title>Sample Set B</title><example id="eip-id1170966525023"><para id="id1165018362337">Add 6 ft 8 in. to 2 ft 9 in.</para>
+        <para id="id1165028942048"><m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd columnalign="right"><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>6 ft  8 in</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd> <m:mtd/></m:mtr>
+
+
+<m:mtr><m:mtd columnalign="right"> <m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:munder accentunder="true"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>2 ft  9 in</m:mtext></m:mrow><m:mtext>.</m:mtext></m:mrow><m:mo>̲</m:mo></m:munder></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd><m:mtd/></m:mtr>
+
+<m:mtr><m:mtd columnalign="right"><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>8 ft 17 in</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd><m:mtd columnalign="left">
+<m:mtext>Simplify this denominate number.</m:mtext></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignr { stack {
+ size 12{"6 ft 8 in" "." }  {} # 
+ size 12{ {underline  {+"2 ft 9 in" "." }} }  {} # 
+ size 12{"8 ft 17 in" "." }  {} 
+} } {}</m:annotation></m:semantics></m:math> </para>
+        <para id="id1165018204009">Since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>12 in</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 1 ft</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12 in" "."  =" 1 ft"} {}</m:annotation></m:semantics></m:math>,</para>
+        <para id="id1165026630046"><m:math>
+      
+            <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">
+                                <m:mtext>8 ft </m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext> 12 in.</m:mtext>
+                           
+
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>5 in.</m:mtext>
+</m:mtd>
+<m:mtd>      
+                          <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                        
+            <m:mtext>8 ft </m:mtext>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:mtext>1 ft </m:mtext>
+
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>5 in.</m:mtext>
+</m:mtd>
+                    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>
+                         <m:mo stretchy="false">=</m:mo>
+</m:mtd>                                <m:mtd columnalign="left">                                  <m:mtext>9 ft </m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>5 in.</m:mtext>
+             </m:mtd>     
+  </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>                     
+           <m:mo stretchy="false">=</m:mo>
+</m:mtd>       
+<m:mtd columnalign="left">  
+                       <m:mtext>9 ft 5 in.</m:mtext>
+   </m:mtd>                        
+    </m:mtr>
+                  </m:mtable>
+           
+</m:math>
+        </para>
+</example>
+<example id="eip-id1170966474231"><para id="id1165020870447">Subtract 5 da 3 hr from 8 da 11 hr.</para>
+        <para id="id1165013396375"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mtext>8 da 11 hr</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>                    
+</m:mtr>
+                    <m:mtr>
+<m:mtd columnalign="right">        
+              <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+                              <m:mtext>5 da   3 hr</m:mtext>
+        </m:mrow>                      <m:mo>̲</m:mo>
+                            </m:munder>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>                    
+</m:mtr>
+                    <m:mtr>
+<m:mtd columnalign="right">        
+              <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mtext>3 da   8 hr</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>             
+       </m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignr { stack {
+ size 12{"8 da 11 hr"}  {} # 
+ size 12{ {underline  {"-5 da 3 hr"}} }  {} # 
+ size 12{"3 da 8 hr"}  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+</example>
+<example id="eip-id1170961725347"><para id="id1165026576456">Subtract 3 lb 14 oz from 5 lb 3 oz.</para>
+        <para id="id1165023896705"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">                   
+   <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mtext>5 lb   3 oz</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>                    
+</m:mtr>
+                    <m:mtr>
+<m:mtd columnalign="right">        
+              <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:munder accentunder="true"><m:mrow>
+<m:mo>-</m:mo>
+                              <m:mtext>3 lb 14 oz</m:mtext>
+              </m:mrow>                <m:mo>̲</m:mo>
+                            </m:munder>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>                    
+</m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignr { stack {
+ size 12{"5 lb 3 oz"}  {} # 
+ size 12{ {underline  {"-3 lb 14 oz"}} }  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1165023037146">We cannot directly subtract 14 oz from 3 oz, so we must borrow 16 oz from the pounds.</para>
+        <para id="id1165023251945"><m:math>
+                  <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right"> 
+                             <m:mtext>5 lb 3 oz</m:mtext></m:mtd>
+<m:mtd>
+                              <m:mo stretchy="false">=</m:mo>
+</m:mtd>       
+<m:mtd columnalign="left">         
+                       <m:mtext> 5 lb </m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>3 oz</m:mtext>
+</m:mtd>
+<m:mtd/>                          
+    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext> 4 lb </m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>1 lb </m:mtext>
+                          
+      <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>3 oz</m:mtext>
+</m:mtd>
+<m:mtd/>
+                    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                        <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+          <m:mtext>4 lb </m:mtext>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:mtext>16 oz </m:mtext>
+
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>3 oz       </m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">
+
+                              <m:mo stretchy="false">(</m:mo>
+
+<m:mtext>Since 1 lb</m:mtext>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mtext> 16 oz.</m:mtext>
+
+                        <m:mo stretchy="false">)</m:mo>
+</m:mtd>
+                    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+       
+                       <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+                                <m:mtext>4 lb </m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>19 oz</m:mtext>
+</m:mtd>                  
+<m:mtd/>        
+    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                       <m:mtext>4 lb 19 oz</m:mtext>
+</m:mtd>
+<m:mtd/>                          
+</m:mtr>
+                  </m:mtable>
+        
+  </m:math>
+        </para>
+        <para id="id1165033116944"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">                  
+    <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mtext>4 lb 19 oz</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>                    
+</m:mtr>
+                    <m:mtr>
+<m:mtd columnalign="right">        
+              <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:munder accentunder="true"><m:mrow>
+<m:mo>-</m:mo>
+                              <m:mtext>3 lb 14 oz</m:mtext>
+</m:mrow>
+                              <m:mo>̲</m:mo>
+                            </m:munder>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>                    
+</m:mtr>
+                    <m:mtr>
+<m:mtd columnalign="right">        
+              <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mtext>1 lb   5 oz</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>                    
+</m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignr { stack {
+ size 12{"4 lb 19 oz"}  {} # 
+ size 12{ {underline  {"-3 lb 14 oz"}} }  {} # 
+ size 12{"1 lb 5 oz"}  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+</example>
+<example id="eip-id1170962035053"><para id="id1165030447774">Subtract 4 da 9 hr 21 min from 7 da 10 min.</para>
+        <para id="id1165018145045"><m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr>
+<m:mtd columnalign="right">
+<m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mtext>7 da 0 hr 10 min</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow>
+</m:mtd>
+
+</m:mtr><m:mtr>
+<m:mtd columnalign="right">
+<m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:munder accentunder="true">
+<m:mrow><m:mo>-</m:mo>
+<m:mtext>4 da 9 hr 21 min</m:mtext></m:mrow><m:mo>̲</m:mo></m:munder></m:mrow></m:mstyle><m:mrow/></m:mrow>
+</m:mtd>
+</m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignr { stack {
+ size 12{"7 da 0 hr 10 min"}  {} # 
+ size 12{ {underline  {"-4 da 9 hr 21 min"}} }  {} 
+} } {}</m:annotation></m:semantics></m:math> Borrow 1 da from the 7 da.</para>
+        <para id="id1165023074444"><m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd columnalign="right"><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mtext>6 da 24 hr 10 min</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow>
+</m:mtd>
+
+</m:mtr><m:mtr>
+<m:mtd columnalign="right">
+<m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:munder accentunder="true"><m:mrow>
+<m:mo>-</m:mo><m:mtext>4 da   9 hr 21 min</m:mtext></m:mrow><m:mo>̲</m:mo></m:munder></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignr { stack {
+ size 12{"6 da 24 hr 10 min"}  {} # 
+ size 12{ {underline  {"-4 da 9 hr 21 min"}} }  {} 
+} } {}</m:annotation></m:semantics></m:math> Borrow 1 hr from the 24 hr.</para>
+        <para id="id1165033065933"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">                    
+  <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mtext>6 da 23 hr 70 min</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>                    
+</m:mtr>
+                    <m:mtr>
+<m:mtd columnalign="right">        
+              <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:munder accentunder="true"><m:mrow>
+<m:mo>-</m:mo>
+                              <m:mtext>4 da   9 hr 21 min</m:mtext></m:mrow>
+                              <m:mo>̲</m:mo>
+                            </m:munder>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>                    
+</m:mtr>
+                    <m:mtr>
+<m:mtd columnalign="right">        
+              <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mtext>2 da 14 hr 49 min</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+</m:mtd>                    
+</m:mtr>
+                  </m:mtable>
+                  <m:mrow/>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">alignr { stack {
+ size 12{"6 da 23 hr 70 min"}  {} # 
+ size 12{ {underline  {"-4 da 9 hr 21 min"}} }  {} # 
+ size 12{"2 da 14 hr 49 min"}  {} 
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      </example></section>
+      <section id="id1165025071658"><title>Practice Set B</title><para id="id1165020739233">Perform each operation. Simplify when possible.</para>
+        <exercise id="id1165022894957">
+          <problem id="oo-id1165014526598">
+            <para id="id1165023907720">Add 4 gal 3 qt to 1 gal 2 qt.   </para>
+          </problem>
+<solution id="eip-id1170961927753">
+<para id="eip-id1170962265683"> 6 gal 1 qt</para>
+</solution>
+        </exercise>
+        <exercise id="id3778214">
+          <problem id="oo-id1165024115926">
+            <para id="id1165033017002">Add 9 hr 48 min to 4 hr 26 min.   </para>
+          </problem>
+<solution id="eip-id1170956457330">
+<para id="eip-id1170955793216">14 hr 14 min</para>
+</solution>
+        </exercise>
+        <exercise id="id1165016179572">
+          <problem id="oo-id1165013081594">
+            <para id="id1165017372430">Subtract 2 ft 5 in. from 8 ft 7 in.</para>
+          </problem>
+<solution id="eip-id1170971188653">
+<para id="eip-id1170969433898">6 ft 2in.</para>
+</solution>
+        </exercise>
+        <exercise id="id1165027726854">
+          <problem id="oo-id1165033109694">
+            <para id="id1165010960492">Subtract 15 km 460 m from 27 km 800 m.  </para>
+          </problem>
+<solution id="eip-id1170966155077">
+<para id="eip-id1170971477285">12 km 340 m</para></solution>
+        </exercise>
+        <exercise id="id1165015349310">
+          <problem id="oo-id1165017976965">
+            <para id="id1165026350968">Subtract 8 min 35 sec from 12 min 10 sec.  </para>
+          </problem>
+<solution id="eip-id1170955796522">
+<para id="eip-id1170964372871">3 min 35 sec</para>
+</solution>
+        </exercise>
+        <exercise id="id1165011643982">
+          <problem id="oo-id1165013650090">
+            <para id="id1165029543367">Add 4 yd 2 ft 7 in. to 9 yd 2 ft 8 in.  </para>
+          </problem>
+<solution id="eip-id1170959679510">
+<para id="eip-id1170957850868">14 yd 2 ft 3 in</para>
+</solution>
+        </exercise>
+        <exercise id="id1165023995591">
+          <problem id="oo-id1165014208828">
+            <para id="id1165010197791">Subtract 11 min 55 sec from 25 min 8 sec.  </para>
+          </problem>
+<solution id="eip-id1170959217837">
+<para id="eip-id1170969415154">
+13 min 13 sec</para>
+</solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1165024365957">
+      <title>Multiplying a Denominate Number by a Whole Number</title>
+      <para id="id1165012844715">Let's examine the repeated sum</para>
+      <para id="id1165013551364"><m:math>
+<m:munder accentunder="true">
+<m:mrow>
+
+<m:munder accentunder="true">
+<m:mrow>
+<m:mtext>4 ft 9 in.</m:mtext>
+<m:mo>+</m:mo>
+<m:mtext>4 ft 9 in.</m:mtext>
+<m:mo>+</m:mo>
+<m:mtext>4 ft 9 in.</m:mtext>
+</m:mrow>
+
+<m:mo stretchy="true">︸</m:mo>
+</m:munder>
+</m:mrow>
+<m:mtext>3 times</m:mtext>
+</m:munder>
+<m:mo>=</m:mo>
+<m:mtext>12 ft 27 in.</m:mtext>
+</m:math></para>
+      <para id="id1165033002131">Recalling that multiplication is a description of repeated addition, by the distribu­tive property we have</para>
+      <para id="id1165028540310"><m:math>
+                <m:mtable>
+                  <m:mtr>
+<m:mtd columnalign="right">
+                            <m:mn>3</m:mn>
+                            <m:mo stretchy="false">(</m:mo>
+                            <m:mtext>4 ft 9 in</m:mtext>
+                            <m:mtext>.</m:mtext>
+                              <m:mo stretchy="false">)</m:mo>
+</m:mtd>
+<m:mtd>
+
+                              <m:mo stretchy="false">=</m:mo>
+</m:mtd>       
+<m:mtd columnalign="left"> 
+                      <m:mn>3</m:mn>
+                            <m:mo stretchy="false">(</m:mo>
+                              <m:mtext>4 ft </m:mtext>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mtext>9 in.</m:mtext>
+                            <m:mo stretchy="false">)</m:mo>
+</m:mtd>   
+<m:mtd/>
+               </m:mtr>
+                  <m:mtr>
+<m:mtd/>
+<m:mtd> 
+                             <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                           <m:mn>3</m:mn>
+                                  <m:mo stretchy="false">⋅</m:mo>
+                                  <m:mtext>4 ft </m:mtext>
+                          
+      <m:mo stretchy="false">+</m:mo>
+
+                                  <m:mn>3</m:mn>
+                                  <m:mo stretchy="false">⋅</m:mo>
+                                  <m:mtext>9 in.</m:mtext>
+</m:mtd>
+<m:mtd/>
+                  </m:mtr>
+                  <m:mtr>
+<m:mtd/>
+<m:mtd>     
+                         <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+                                <m:mtext>12 ft </m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>27 in.</m:mtext>
+</m:mtd>
+<m:mtd columnalign="left">                          
+  <m:mtext>   Now, 27 in.</m:mtext>
+                          
+    <m:mo stretchy="false">=</m:mo>
+                              <m:mtext>2 ft 3 in.</m:mtext>
+   </m:mtd>                      
+</m:mtr>
+                  <m:mtr>
+<m:mtd/>
+<m:mtd>           
+                   <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                     
+             <m:mtext> 12 ft</m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext> 2 ft</m:mtext>
+
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext> 3 in.</m:mtext>
+</m:mtd>
+<m:mtd/>
+                  </m:mtr>
+                  <m:mtr>
+                  
+<m:mtd/>
+<m:mtd>
+            <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                    
+            <m:mtext>14 ft </m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>3 in.</m:mtext>
+</m:mtd>
+<m:mtd/>
+               </m:mtr>
+                  <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+                              <m:mtext>14 ft 3 in.</m:mtext>
+</m:mtd>
+<m:mtd/>
+                  </m:mtr>
+                </m:mtable>
+        
+ </m:math>
+      </para>
+      <para id="id1165025568341">From these observations, we can suggest the following rule.</para>
+      <para id="id1165017372090"><title>Multiplying a Denominate Number by a Whole Number</title>To multiply a denominate number by a whole number, multiply the number part of each unit by the whole number and affix the unit to this product.</para>
+      <section id="id1165013121788"><title>Sample Set C</title><para id="id1165019056559">Perform the following multiplications. Simplify if necessary.</para>
+<example id="eip-id1167884130298">
+        <para id="id1165024230009"><m:math><m:mtable><m:mtr>
+<m:mtd columnalign="right">
+
+<m:mn>6</m:mn><m:mo stretchy="false">⋅</m:mo><m:mfenced open="(" close=")"><m:mtext>2 ft 4 in.</m:mtext></m:mfenced>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>6</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>2 ft</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>4 in.</m:mtext></m:mtd></m:mtr>
+
+<m:mtr><m:mtd/>
+<m:mtd><m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:mtext>12 ft </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 24 in.</m:mtext></m:mtd></m:mtr></m:mtable>
+</m:math></para>
+        <para id="id1165022834145">Since 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>3 ft</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 1 yd</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"3 ft"=" 1 yd"} {}</m:annotation></m:semantics></m:math> and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>12</m:mtext><m:mtext>  in</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>1 ft</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12"" in" "."  ="1 ft"} {}</m:annotation></m:semantics></m:math>,</para>
+        <para id="id1165018040020"><m:math>
+ 
+                 <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">
+                                <m:mtext>12 ft</m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>24 in.</m:mtext>
+  </m:mtd>                         
+<m:mtd>
+                                <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                           <m:mtext>4 yd </m:mtext>
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext>2 ft</m:mtext>
+</m:mtd>
+                          
+    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>
+                              <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                       <m:mtext>4 yd 2 ft</m:mtext>
+</m:mtd>                           
+  </m:mtr>
+                  </m:mtable>
+        
+  </m:math>
+        </para>
+</example>
+<example id="eip-id1167880410946">
+        <para id="id1165032520240"><m:math><m:mtable><m:mtr>
+<m:mtd columnalign="right">
+<m:mn>8</m:mn><m:mo stretchy="false">⋅</m:mo><m:mfenced open="(" close=")"><m:mtext>5 hr 21 min 55 sec</m:mtext></m:mfenced>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mn>8</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn><m:mtext> hr </m:mtext><m:mo stretchy="false">+</m:mo><m:mn> 8</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext>21 min </m:mtext><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn><m:mo stretchy="false">⋅</m:mo><m:mtext> 55 sec</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>40 hr </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>168 min </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 440sec</m:mtext>
+</m:mtd>
+</m:mtr><m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>40 hr </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>168 min </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>7 min </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 20 sec</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>40 hr </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 175 min </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>20 sec</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext> 40 hr</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 2 hr </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 55 min</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>20 sec</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+
+<m:mtext>42 hr </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 55 min</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 20 sec</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>24hr </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>18hr</m:mtext>
+<m:mo stretchy="false">+</m:mo><m:mtext>55 min </m:mtext>
+<m:mo stretchy="false">+</m:mo><m:mtext> 20 sec</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>1 da </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 18 hr </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 55 min </m:mtext>
+<m:mo stretchy="false">+</m:mo><m:mtext>20 sec</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>1 da 18 hr 55 min 20 sec</m:mtext>
+</m:mtd>
+</m:mtr></m:mtable>
+</m:math></para>
+      </example></section>
+      <section id="id1165027419427"><title>Practice Set C</title><para id="id1165013675090">Perform the following multiplications. Simplify.</para>
+        <exercise id="id1165016147975">
+          <problem id="oo-id1165036482741">
+            <para id="id1165013090410"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mfenced open="(" close=")"><m:mtext>10 min</m:mtext></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 cdot  left ("10 min" right )} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1171676384057">
+<para id="eip-id1171677669693"> 20 min</para>
+</solution>
+        </exercise>
+        <exercise id="id7507232">
+          <problem id="oo-id1165014211960">
+            <para id="id1165026179823"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">⋅</m:mo><m:mfenced open="(" close=")"><m:mtext>3 qt</m:mtext></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 cdot  left ("3 qt" right )} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1171677140983">
+<para id="eip-id1171694862339"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>15 qt</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>3 gal 3 qt</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15 qt"="3 gal 3 qt"} {}</m:annotation></m:semantics></m:math></para>
+</solution>
+        </exercise>
+        <exercise id="id1165030837473">
+          <problem id="oo-id1165013027338">
+            <para id="id1165013724240">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>5</m:mn><m:mtext> ft 8 in</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 cdot  left (5" ft 8 in" "."  right )} {}</m:annotation></m:semantics></m:math></para>
+          </problem>
+<solution id="eip-id1171692175740">
+<para id="eip-id1171688120229"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>20 ft 32 in</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 7 yd 1 ft 8 in</m:mtext></m:mrow><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"20 ft 32 in" "."  =" 7 yd 1 ft 8 in" "." } {}</m:annotation></m:semantics></m:math></para>
+</solution>
+        </exercise>
+        <exercise id="id1165029541279">
+          <problem id="oo-id1165014172110">
+            <para id="id1165027702003"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>2</m:mn><m:mtext> hr 15 min 40 sec</m:mtext></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" cdot  left (2" hr 15 min 40 sec" right )} {}</m:annotation></m:semantics></m:math></para>
+</problem>
+<solution id="eip-id1171690967241">
+<para id="eip-id1171695011500"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>20 hr 150 min 400 sec</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>22 hr 36 min 40 sec</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"20 hr 150 min 400 sec"="22 hr 36 min 40 sec"} {}</m:annotation></m:semantics></m:math></para>
+</solution>
+         
+        </exercise>
+      </section>
+    </section>
+    <section id="id1165022338388">
+      <title>Dividing a Denominate Number by a Whole Number</title>
+      <para id="id1165018488243"><title>Dividing a Denominate Number by a Whole Number</title>To divide a denominate number by a whole number, divide the number part of each unit by the whole number beginning with the largest unit. Affix the unit to this quotient. Carry any remainder to the next unit.</para>
+      <section id="id1165016150469"><title>Sample Set D</title><para id="id1165023314068">Perform the following divisions. Simplify if necessary.</para>
+<example id="eip-id1165437491018"><para id="id1165015219694"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mtext>12 min 40 sec</m:mtext></m:mfenced><m:mo stretchy="false">÷</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("12 min 40 sec" right ) div 4} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1165017354458"><media id="id1165017354458_media" alt="Long division. 12 min and 40 sec divided by 4. 4 goes into 12 minutes 3 times, making a quotient of 3 minutes with no remainder. 4 goes into 40 seconds 10 times, making a quotient of 10 seconds with no remainder. The total quotient is 3 min 10 sec.">
+            <image mime-type="image/png" src="../../media/graphics1-96b2.png" id="id1165017354458__onlineimage" width="125" print-width="1in"/>
+          </media>
+        </para>
+        <para id="id1165012848253">Thus 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mtext>12 min 40 sec</m:mtext></m:mfenced><m:mo stretchy="false">÷</m:mo><m:mn>4</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow><m:mtext> min 10 sec</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("12 min 40 sec" right ) div 4=3" min 10 sec"} {}</m:annotation></m:semantics></m:math></para>
+</example>        
+
+<example id="eip-id1165413407738"><para id="id1165032385190"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>5 yd 2 ft 9 in</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mfenced><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("5 yd 2 ft 9 in" "."  right ) div 3} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1165009580974"><media id="id1165021081777_media" alt="Long division. 5 yd 2 ft 9 in divided by 3. 3 goes into 5 yards one time with a remainder of 2 yards. Bring down the 2 feet. 2 yards and 2 feet is eight feet. 3 goes into eight feet twice with a remainder of 2 feet. Bring down the 9 inches. 2 feet 9 in is equal to 22 inches. 3 goes into 33 inches exactly 11 times. The total quotient is 1 yd 2 ft 11 in.">
+              <image mime-type="image/png" src="../../media/graphics2-0a51.png" id="id1165021081777__onlineimage" width="150" print-width="1.25in"/>
+            </media>
+          <m:math>
+<m:mtable>
+<m:mtr>
+
+                        <m:mtext>Convert to feet: 2 yd 2 ft</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>8 ft</m:mtext>
+
+                      <m:mtext>.</m:mtext>
+</m:mtr>
+<m:mtr>
+
+
+                      <m:mtext>Convert to inches: 2 ft 9 in</m:mtext>
+
+                        <m:mtext>.</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>33 in</m:mtext>
+
+                      <m:mtext>.</m:mtext>
+       </m:mtr>
+</m:mtable> 
+
+          </m:math>
+        </para>
+        
+        <para id="id1165013102880">Thus 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>5 yd 2 ft 9 in</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mfenced><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mtext> yd 2 ft 11 in</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("5 yd 2 ft 9 in" "."  right ) div 3=1" yd 2 ft 11 in" "." } {}</m:annotation></m:semantics></m:math></para>
+     
+ </example></section>
+      <section id="id1165018268496"><title>Practice Set D</title><para id="id1165018053038">Perform the following divisions. Simplify if necessary.</para>
+        <exercise id="id1165013965334">
+          <problem id="oo-id1165011621082">
+            <para id="id1165015043419"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mtext>18 hr 36 min</m:mtext></m:mfenced><m:mo stretchy="false">÷</m:mo><m:mn>9</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("18 hr 36 min" right ) div 9} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1167641751244">
+<para id="eip-id1167639574548">2 hr 4 min</para>
+</solution>
+        </exercise>
+        <exercise id="id1165022844198">
+          <problem id="oo-id1165020368638">
+            <para id="id1165021125202"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>34 hr 8 min</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mfenced><m:mo stretchy="false">÷</m:mo><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("34 hr 8 min" "."  right ) div 8} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1167638364602">
+<para id="eip-id1167632028800">4 hr 16 min</para>
+</solution>
+        </exercise>
+        <exercise id="id1165033259952">
+          <problem id="oo-id1165009212709">
+            <para id="id1165018359089"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>13 yd 7 in</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mfenced><m:mo stretchy="false">÷</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("13 yd 7 in" "."  right ) div 5} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1167640415439">
+<para id="eip-id1167631269782">2 yd 1 ft 11 in</para>
+</solution>        
+</exercise>
+        <exercise id="id1165018136758">
+          <problem id="oo-id1165015343626">
+            <para id="id1165016782894"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="(" close=")"><m:mtext>47 gal 2 qt 1 pt</m:mtext></m:mfenced><m:mo stretchy="false">÷</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("47 gal 2 qt 1 pt" right ) div 3} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+<solution id="eip-id1167645817521">
+<para id="eip-id1167638394407">15 gal 3 qt 1 pt</para>
+</solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1165015411426"><title>Exercises</title><para id="id1165017404966">For the following 15 problems, simplify the denominate numbers­.</para>
+      <exercise id="id1165015371056">
+        <problem id="oo-id1165024688172">
+          <para id="id1165013427542"> 16 in.  </para>
+        </problem>
+<solution id="eip-id1167640069992">
+<para id="eip-id1167637711248">1 foot 4 inches</para>
+</solution>
+      </exercise>
+      <exercise id="id1165027246806">
+        <problem id="oo-id1165016119250">
+          <para id="id1165018027673"> 19 ft</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165029654861">
+        <problem id="oo-id1165019281658">
+          <para id="id1165013644232"> 85 min  </para>
+        </problem>
+<solution id="eip-id1167640340729">
+<para id="eip-id1167636431887">1 hour 25 minutes</para>
+</solution>
+      </exercise>
+      <exercise id="id1165017998386">
+        <problem id="oo-id1165032932192">
+          <para id="id1165018331870">90 min</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165023456847">
+        <problem id="oo-id1165015405104">
+          <para id="id1165016115190"> 17 da  </para>
+        </problem>
+<solution id="eip-id1167636223814">
+<para id="eip-id1167642488892">2 weeks 3 days</para>
+</solution>
+      </exercise>
+      <exercise id="id1165014203898">
+        <problem id="oo-id1165013218866">
+          <para id="id1165022773558">25 oz</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165021866315">
+        <problem id="oo-id1165021152865">
+          <para id="id2257826">240 oz </para>
+        </problem>
+<solution id="eip-id1167644271219">
+<para id="eip-id1167639455017">15 pounds</para>
+</solution>
+      </exercise>
+      <exercise id="id1165016633390">
+        <problem id="oo-id1165030007741">
+          <para id="id1165013588556"> 3,500 lb</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165023158313">
+        <problem id="oo-id1992703">
+          <para id="id1165021031790">26 qt</para>
+        </problem>
+<solution id="eip-id1167638151745">
+<para id="eip-id3571572">6 gallons 2 quarts</para>
+</solution>
+      </exercise>
+      <exercise id="id1165030522086">
+        <problem id="oo-id1165029669172">
+          <para id="id1165026446133">300 sec</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165015260851">
+        <problem id="oo-id1165024900832">
+          <para id="id1165020845641">135 oz  </para>
+        </problem>
+<solution id="eip-id1167631906481">
+<para id="eip-id1167643627514">8 pounds 7 ounces</para>
+</solution>
+      </exercise>
+      <exercise id="id1165026634778">
+        <problem id="oo-id1165020747660">
+          <para id="id1165018055640">14 tsp</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165012855271">
+        <problem id="oo-id1165024191274">
+          <para id="id1165012816432">18 pt</para>
+        </problem>
+<solution id="eip-id1167635479099">
+<para id="eip-id1167645461678">
+2 gallons 1 quart</para>
+</solution>
+      </exercise>
+      <exercise id="id1165014666375">
+        <problem id="oo-id1165029491486">
+          <para id="id1165025759612">3,500 m</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165013740312">
+        <problem id="oo-id1165021135470">
+          <para id="id1165026642633">16,300 mL  </para>
+        </problem>
+<solution id="eip-id1167636525751">
+<para id="eip-id1167636237273">16 liters 300 milliliters (or 1daL 6 L 3dL)</para>
+</solution>
+      </exercise>
+      <para id="id1165018352275">For the following 15 problems, perform the indicated opera­tions and simplify the answers if possible.</para>
+      <exercise id="id1165020899355">
+        <problem id="oo-id1165034770399">
+          <para id="id1165016118670"> Add 6 min 12 sec to 5 min 15 sec.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165018443022">
+        <problem id="oo-id1165010424927">
+          <para id="id1165018281253"> Add 14 da 6 hr to 1 da 5 hr.  </para>
+        </problem>
+<solution id="eip-id1167636269231">
+<para id="eip-id1167632602615">15 days 11 hours</para>
+</solution>
+      </exercise>
+      <exercise id="id1165026746589">
+        <problem id="oo-id1165014199780">
+          <para id="id1165013768698">Add 9 gal 3 qt to 2 gal 3 qt.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165026578979">
+        <problem id="oo-id1165016099936">
+          <para id="id1165022952387">Add 16 lb 10 oz to 42 lb 15 oz.  </para>
+        </problem>
+<solution id="eip-id1167636454799">
+<para id="eip-id1167641180259">59 pounds 9 ounces</para>
+</solution>      
+</exercise>
+      <exercise id="id1165028665953">
+        <problem id="oo-id1165023028047">
+          <para id="id1165013959360">Subtract 3 gal 1 qt from 8 gal 3 qt.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165015730217">
+        <problem id="oo-id1165022978318">
+          <para id="id1165015038509">Subtract 3 ft 10 in. from 5 ft 8 in.  </para>
+        </problem>
+<solution id="eip-id1167631680543">
+<para id="eip-id1167643333683">1 foot 10 inches</para>
+</solution>
+      </exercise>
+      <exercise id="id1165023034188">
+        <problem id="oo-id1165013429746">
+          <para id="id1165023064211"> Subtract 5 lb 9 oz from 12 lb 5 oz.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165010437960">
+        <problem id="oo-id1165015246825">
+          <para id="id1165026633392"> Subtract 10 hr 10 min from 11 hr 28 min. </para>
+        </problem>
+<solution id="eip-id1167634206039"><para id="eip-id1167636512487">
+ 1 hour 18 minutes</para>
+</solution>
+      </exercise>
+      <exercise id="id1165017352966">
+        <problem id="oo-id1165017969896">
+          <para id="id1165012878239"> Add 3 fl oz 1 tbsp 2 tsp to 5 fl oz 1 tbsp 2 tsp.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165024239044">
+        <problem id="oo-id1165021039427">
+          <para id="id1165018599056"> Add 4 da 7 hr 12 min to 1 da 8 hr 53 min.  </para>
+        </problem>
+<solution id="eip-id1167636414661">
+<para id="eip-id1167636428639">5 days 16 hours 5 minutes</para>
+</solution>
+      </exercise>
+      <exercise id="id1165032462512">
+        <problem id="oo-id1165014138644">
+          <para id="id1165024262298"> Subtract 5 hr 21 sec from 11 hr 2 min 14 sec.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165015404408">
+        <problem id="oo-id1165013708359">
+          <para id="id1165013482809"> Subtract 6 T 1,300 lb 10 oz from 8 T 400 lb 10 oz.  </para>
+        </problem>
+<solution id="eip-id1167637877433">
+<para id="eip-id1167636419243">1 ton 1,100 pounds (or 1T 1,100 lb)</para>
+</solution>
+      </exercise>
+      <exercise id="id1165016505038">
+        <problem id="oo-id1165019467980">
+          <para id="id1165015335143"> Subtract 15 mi 10 in. from 27 mi 800 ft 7 in.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1165021209795">
+        <problem id="oo-id1165022862789">
+          <para id="id1165020840194"> Subtract 3 wk 5 da 50 min 12 sec from 5 wk 6 da 20 min 5 sec.  </para>
+        </problem>
+<solution id="eip-id1167643387918">
+<para id="eip-id1167641926572">
+2 weeks 23 hours 29 minutes 53 seconds </para>
+</solution>
+      </exercise>
+      <exercise id="id1165013949790">
+        <problem id="oo-id3650970">
+          <para id="id1165016163867">Subtract 3 gal 3 qt 1 pt 1 oz from 10 gal 2 qt 2 oz.</para>
+        </problem>
+      </exercise>
+      <section id="id1165013026758">
+        <title>Exercises for Review</title>
+        <exercise id="id2294259">
+          <problem id="oo-id1165029564549">
+            <para id="id1725990">(<link document="m34929"/>) Find the value: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mfenced open="(" close=")"><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:mfrac><m:mtext>39</m:mtext><m:mtext>64</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {5}  over  {8} }  right ) rSup { size 8{2} } + {  {"39"}  over  {"64"} } } {}</m:annotation></m:semantics></m:math>. </para>
+          </problem>
+<solution id="eip-id1167645853493">
+<para id="eip-id1167640407108">1</para>
+</solution>
+        </exercise>
+        <exercise id="id1165031661460">
+          <problem id="oo-id1165021909858">
+            <para id="id1165029028328">(<link document="m34936"/>) Find the sum: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8+6 {  {3}  over  {5} } } {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1165023052831">
+          <problem id="oo-id1165018170957">
+            <para id="id1165013535312">(<link document="m34958"/>) Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mtext>05</m:mtext><m:mfrac><m:mn>1</m:mn><m:mtext>11</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "05" {  {1}  over  {"11"} } } {}</m:annotation></m:semantics></m:math> to a fraction.  
+</para>
+          </problem>
+<solution id="eip-id1167636076797">
+<para id="eip-id1167643370100"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mfrac><m:mtext>14</m:mtext><m:mtext>275</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 {  {"14"}  over  {"275"} } } {}</m:annotation></m:semantics></m:math></para>
+</solution>
+        </exercise>
+        <exercise id="id1165024302097">
+          <problem id="oo-id1165013617382">
+            <para id="id1165024185504">(<link document="m34982"/>) An acid solution is composed of 3 parts acid to 7 parts water. How many parts of acid are there in a solution that contains 126 parts water?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1165014204768">
+          <problem id="oo-id1165026361991">
+            <para id="id1165013796461">(<link document="m35019"/>) Convert 126 kg to grams.  </para>
+          </problem>
+<solution id="eip-id1167633743575">
+<para id="eip-id1167638389671">126,000 g</para>
+</solution>        
+</exercise>
+      </section>
+    </section>
+  </content>
+</document>

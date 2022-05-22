@@ -1,0 +1,106 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Summary of Key Concepts </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34943</md:content-id>
+  <md:title>Summary of Key Concepts </md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module reviews the key concepts from the chapter "Addition and Subtraction of Fractions, Comparing Fractions, and Complex Fractions."</md:abstract>
+  <md:uuid>1c688966-5f43-4c44-a2ca-16d0c7a410fe</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id5858237">
+      <title>Summary of Key Concepts</title>
+      <para id="id6330565"><title>Addition and Subtraction of Fractions with Like Denomi­nators (<link document="m34934"/>)</title>To <emphasis effect="italics">add or subtract two fractions that have the same denominators</emphasis>, add or subtract the numerators and place the resulting sum or difference over the common denomi­nator. Reduce, if necessary. Do not add or subtract the denominators.</para>
+      
+      <para id="eip-713"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>8</m:mn>
+                          </m:mfrac>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mfrac>
+                            <m:mn>5</m:mn>
+                            <m:mn>8</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>5</m:mn>
+                          </m:mrow>
+                          <m:mn>8</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>6</m:mn>
+                        <m:mn>8</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>3</m:mn>
+                      <m:mn>4</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {8} } + {  {5}  over  {8} } = {  {1+5}  over  {8} } = {  {6}  over  {8} } = {  {3}  over  {4} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id6344266"><title>Basic Rule for Adding and Subtracting Fractions (<link document="m34935"/>)</title>Fractions can be added or subtracted conveniently only if they have like denomina­tors.</para>
+      <para id="id6164277"><title>Addition and Subtraction of Fractions with Unlike Denominators (<link document="m34935"/>)</title>To <emphasis effect="italics">add or subtract fractions having unlike denominators</emphasis>, convert each fraction to an equivalent fraction having as denominator the LCD of the original denominators.</para>
+      <para id="id6024020"><title>Addition and Subtraction of Mixed Numbers (<link document="m34936"/>)</title>1. To <emphasis effect="italics">add or subtract mixed numbers</emphasis>, convert each mixed number to an improper fraction, then add or subtract the fractions.</para>
+      <para id="id6337677"><title>Ordered Number System (<link document="m34937"/>)</title>Our number system is <emphasis effect="italics">ordered</emphasis> because the numbers in the system can be placed in order from smaller to larger.</para>
+      <para id="id6990630"><title>Inequality Symbols (<link document="m34937"/>)</title>&gt; represents the phrase "greater than." <newline/> &lt; represents the phrase "less than."</para>
+      <para id="id6414674"><title>Comparing Fractions (<link document="m34937"/>)</title>If two fractions have the same denominators, the fraction with the larger numera­tor is the larger fraction.</para>
+      
+      <para id="eip-132"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mfrac>
+                      <m:mn>5</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+                    <m:mo stretchy="false">&gt;</m:mo>
+                    <m:mfrac>
+                      <m:mn>3</m:mn>
+                      <m:mn>8</m:mn>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {5}  over  {8} } &gt; {  {3}  over  {8} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id6997677"><title>Simple Fractions (<link document="m34941"/>)</title>A <emphasis effect="italics">simple fraction</emphasis> is any fraction in which the numerator is any whole number and the denominator is any nonzero whole number.</para>
+      <para id="id6919765"><title>Complex Fractions (<link document="m34941"/>)</title>A <emphasis effect="italics">complex fraction</emphasis> is any fraction in which the numerator and/or the denominator is a fraction.</para>
+      <para id="id1111078">Complex fractions can be converted to simple fractions by employing the methods of adding, subtracting, multiplying, and dividing fractions.</para>
+    </section>
+  </content>
+</document>

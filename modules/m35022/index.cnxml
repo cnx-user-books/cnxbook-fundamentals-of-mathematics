@@ -1,0 +1,1088 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Perimeter and Circumference of Geometric Figures</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35022</md:content-id>
+  <md:title>Perimeter and Circumference of Geometric Figures</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses perimeter and circumference of geometric figures. By the end of the module students should know what a polygon is, know what perimeter is and how to find it, know what the circumference, diameter, and radius of a circle is and how to find each one, know the meaning of the symbol <m:math>
+<m:mi>π</m:mi>
+</m:math> and its approximating value and know what a formula is and four versions of the circumference formula of a circle.</md:abstract>
+  <md:uuid>e2517c1c-6fda-4655-ad0c-52b654cbfa6d</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1170279332434">
+      <title>Section Overview</title>
+      <list id="id1170275491705" list-type="bulleted">
+        <item>Polygons</item>
+        <item>Perimeter</item>
+        <item>Circumference/Diameter/Radius</item>
+        <item>The Number <m:math>
+<m:mi>π</m:mi>
+</m:math></item>
+        <item>Formulas</item>
+      </list>
+    </section>
+    <section id="id1170279277239">
+      <title>Polygons</title>
+      <para id="id1170289965482">We can make use of conversion skills with denominate numbers to make measure­ments of geometric figures such as rectangles, triangles, and circles. To make these measurements we need to be familiar with several definitions.</para>
+      <para id="id1170294157737"><title>Polygon</title>A <term>polygon</term> is a closed plane (flat) figure whose sides are line segments (portions of straight lines).</para>
+      <para id="id1170268222276"><title>Polygons</title><media id="id1170274768011_media" alt="Four shapes, each completely closed, with various numbers of straight line segments as sides."><image mime-type="image/png" src="../../media/graphics1-1638.png" id="id1170274768011__onlineimage" print-width=".75in" width="93"/></media>
+
+<media id="id1170282758102_media" alt=""><image mime-type="image/png" src="../../media/graphics2-40a9.png" id="id1170282758102__onlineimage" print-width=".75in" width="75"/></media>
+
+
+<media id="id1170277970467_media" alt=""><image mime-type="image/png" src="../../media/graphics3-fc87.png" id="id1170277970467__onlineimage" print-width=".75in" width="87"/></media>
+<media id="id1170290784750_media" alt=""><image mime-type="image/png" src="../../media/graphics4-9290.png" id="id1170290784750__onlineimage" print-width=".75in" width="74"/></media> </para>
+      <para id="id1170278430705"><title>Not polygons</title><media id="id1170279663023_media" alt="Four shapes. One three-sided open box. One oval. One oval-shaped object with one flat side, and one nondescript blob."><image mime-type="image/png" src="../../media/graphics5-01e1.png" id="id1170279663023__onlineimage" print-width=".75in" width="93"/></media><media id="id1170279863289_media" alt=""><image mime-type="image/png" src="../../media/graphics6-68a8.png" id="id1170279863289__onlineimage" print-width=".75in" width="87"/></media><media id="id1170293947855_media" alt=""><image mime-type="image/png" src="../../media/graphics7-fb89.png" id="id1170293947855__onlineimage" print-width=".75in" width="87"/></media><media id="id1170287192620_media" alt=""><image mime-type="image/png" src="../../media/graphics8-c88a.png" id="id1170287192620__onlineimage" print-width=".75in" width="87"/></media></para>
+    </section>
+    <section id="id1170287043769">
+      <title>Perimeter</title>
+      <para id="id1170292736188"><title>Perimeter</title>The <term>perimeter</term> of a polygon is the distance around the polygon.</para>
+      <para id="id1170272773245">To find the perimeter of a polygon, we simply add up the lengths of all the sides.</para>
+      <section id="id7799161"><title>Sample Set A</title><para id="id1170269105479">Find the perimeter of each polygon.</para>
+<example id="eip-id1167630138241"><para id="id1170287789446"><media id="id1170282361031_media" alt="A rectangle with short sides of length 2 cm and long sides of length 5 cm."><image mime-type="image/png" src="../../media/graphics9-b653.png" id="id1170282361031__onlineimage" print-width="1.75in" width="226"/></media></para>
+        <para id="id1170273943728"><m:math>
+ 
+                 <m:mtable>
+                    <m:mtr>
+
+<m:mtd columnalign="right">                              <m:mtext>Perimeter </m:mtext>
+</m:mtd>
+<m:mtd>                    
+          <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">       
+                       
+             <m:mtext>2 cm </m:mtext>
+                                    <m:mo stretchy="false">+</m:mo>
+                                    <m:mtext> 5 cm </m:mtext>
+
+                                  <m:mo stretchy="false">+</m:mo>
+                                  <m:mtext> 2 cm </m:mtext>
+
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>5 cm</m:mtext>
+</m:mtd>
+                    </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd>        
+                      <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+                              <m:mtext>14 cm</m:mtext>
+</m:mtd>                          
+   </m:mtr>
+                  </m:mtable>
+        
+  </m:math>
+        </para>
+</example>
+<example id="eip-id1167632914606"><para id="id1170281941789"><media id="id1170300885376_media" alt="A polygon with sides of the following lengths: 9.2cm, 31mm, 4.2mm, 4.3mm, 1.52cm, and 5.4mm."><image mime-type="image/png" src="../../media/graphics10-900c.png" id="id1170300885376__onlineimage" print-width="2in" width="263"/></media></para>
+        <para id="id1170268261732"><m:math>
+        
+          <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">
+<m:mtext>Perimeter</m:mtext>
+</m:mtd>
+<m:mtd>                           
+     <m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="right">                               <m:mtext>3.1   mm</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right"><m:mtext>4.2   mm</m:mtext>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right"><m:mtext>4.3   mm</m:mtext>
+</m:mtd>
+</m:mtr>
+
+
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right"><m:mtext>1.52 mm</m:mtext>
+</m:mtd>
+</m:mtr>
+
+
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right"><m:mtext>5.4   mm</m:mtext>
+</m:mtd>
+</m:mtr>
+
+
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mtext>9.2   mm</m:mtext>
+</m:mrow>
+<m:mo>̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right"><m:mtext>27.72 mm</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+                          
+  </m:math>
+        </para>
+</example>
+<example id="eip-id1167628792756"><para id="id1170279635014"><media id="id1170278017330_media" alt="A polygon with eight sides. It is not an octagon, but can be visualized as one large rectangle with two  smaller rectangles connected to it. "><image mime-type="image/png" src="../../media/graphics11-4598.png" id="id1170278017330__onlineimage" print-width="2in" width="338"/></media></para>
+        <para id="id7837157">Our first observation is that three of the dimensions are missing. However, we can determine the missing measurements using the following process. Let A, B, and C represent the missing measurements. Visualize</para>
+        <para id="id1170288327468"><media id="id1721682_media" alt="A polygon with eight sides. It is not an octagon, but can be visualized as one large rectangle with two  smaller rectangles connected to it.  The height and width are measured and labeled with variables, A, B, and C.">
+              <image mime-type="image/png" src="../../media/graphics12-5ab1.png" id="id1721682__onlineimage" print-width="2in" width="388"/>
+            </media>
+          
+</para>
+        <para id="id1170287152619"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>12m</m:mtext><m:mo>-</m:mo><m:mtext>2m</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>10m</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{A="12m - 2m"="10m"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+<newline/>       
+   <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>B</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mtext>9m</m:mtext>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mtext>1m</m:mtext>
+<m:mo>-</m:mo>
+<m:mtext>2m</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>8m</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{B="9m"+"1m-2m"="8m"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+<newline/>        
+  <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>C</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>12m</m:mtext>
+<m:mo>-</m:mo>
+<m:mtext>1m</m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>11m</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C="12m-1m"="11m"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1170279636812"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mtext>Perimeter</m:mtext>
+</m:mtd>
+<m:mtd>
+<m:mo>=</m:mo>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mtext>8 m</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>10 m</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>2 m</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>2 m</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>9 m</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>11 m</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>1 m</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mtext>  1 m</m:mtext>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>44 m</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+      </example></section>
+      <section id="id7775000"><title>Practice Set A</title><para id="id1170274552130">Find the perimeter of each polygon.</para>
+<exercise id="eip-id1172515787245">
+<problem id="eip-id1172511025161">
+        <para id="id1170275242853"><media id="id1170289672669_media" alt="A three-sided polygon with sides of the following lengths: 3 ft, 8 ft, and 9 ft."><image mime-type="image/png" src="../../media/graphics13-66c4.png" id="id1170289672669__onlineimage" print-width="1.25in" width="192"/></media> </para>
+</problem>
+<solution id="eip-id1172503197522">
+<para id="eip-id1172506555272">20 ft</para>
+</solution>
+</exercise>        
+
+<exercise id="eip-id1172507564805">
+<problem id="eip-id1172507575082">
+<para id="id1170279186226"><media id="id1170278353402_media" alt="A four-sided polygon with sides of the following length: 6.1m, 8.6m, 6.3m, and 5.8m."><image mime-type="image/png" src="../../media/graphics14-858c.png" id="id1170278353402__onlineimage" print-width="1.25in" width="218"/></media> </para>
+</problem>
+<solution id="eip-id1172521936089">
+<para id="eip-id1172509145010">26.8 m</para>
+</solution>
+</exercise>
+
+<exercise id="eip-id1172522612180">
+<problem id="eip-id1172505483975">
+        <para id="id1170286540801"><media id="id1170275619371_media" alt="A seven-sided polygon with sides of the following lengths: 10.07mi, 3.88mi, 4.54mi, 4.92mi, 12.61, 10.76mi, and 3.11mi."><image mime-type="image/png" src="../../media/graphics15-8f1a.png" id="id1170275619371__onlineimage" print-width="2in" width="293"/></media> </para>
+</problem>
+<solution id="eip-id1172515889548">
+<para id="eip-id1172508683403">49.89 mi</para>
+</solution>
+</exercise>
+      </section>
+    </section>
+    <section id="id1170289996702">
+      <title>Circumference/Diameter/Radius</title>
+      <para id="id1170273864968"><title>Circumference</title>The <term>circumference</term> of a circle is the distance around the circle.</para>
+      <para id="id1170282682522"><title>Diameter</title>A <term>diameter</term> of a circle is any line segment that passes through the center of the circle and has its endpoints on the circle.</para>
+      <para id="id1170284974944"><title>Radius</title>A <term>radius</term> of a circle is any line segment having as its endpoints the center of the circle and a point on the circle. <newline/>The radius is one half the diameter.</para>
+      <para id="id1170287083011"><media id="id2212654_media" alt="A circle with a line directly through the middle, ending at the edges of the shape. The entire length of the line is labeled diameter, and the length of the portion of the line from the center of the circle to the edge of the circle is labeled radius.">
+            <image mime-type="image/png" src="../../media/graphics16-4737.png" id="id2212654__onlineimage" print-width="1.25in" width="143"/>
+          </media>
+      
+</para>
+    </section>
+    <section id="id1170272424080">
+      <title>The Number <m:math>
+<m:mi>π</m:mi>
+</m:math> </title>
+      <para id="id1170266608815">The symbol <m:math>
+<m:mi>π</m:mi>
+</m:math>, read "pi," represents the nonterminating, nonrepeating decimal number 3.14159 … . This number has been computed to millions of decimal places without the appearance of a repeating block of digits.</para>
+      <para id="id1170273895304">For computational purposes, <m:math>
+<m:mi>π</m:mi>
+</m:math> is often approximated as 3.14. We will write 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>π</m:mi><m:mo stretchy="false">≈</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>14</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π approx 3 "." "14"} {}</m:annotation></m:semantics></m:math> to denote that <m:math>
+<m:mi>π</m:mi>
+</m:math> is approximately equal to 3.14. The symbol "≈" means "approximately equal to."</para>
+    </section>
+    <section id="id1170279407974"><title>Formulas</title><para id="id1170268763976">To find the circumference of a circle, we need only know its diameter or radius. We then use a formula for computing the circumference of the circle.</para>
+      <para id="id1170279898444"><title>Formula</title>A <term>formula</term> is a rule or method for performing a task. In mathematics, a formula is a rule that directs us in computations.</para>
+      <para id="id1170290008143">Formulas are usually composed of letters that represent important, but possibly unknown, quantities.</para>
+      <para id="id1170282080393">If 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C} {}</m:annotation></m:semantics></m:math>, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d} {}</m:annotation></m:semantics></m:math>, and 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>r</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> represent, respectively, the circumference, diameter, and radius of a circle, then the following two formulas give us directions for computing the circum­ference of the circle.</para>
+      <list id="eip-id1165327252673" list-type="enumerated" number-style="arabic"><title>Circumference Formulas </title><item> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">π</m:mi>
+<m:mi>d</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C=πd} {}</m:annotation></m:semantics></m:math> or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">≈</m:mo><m:mfenced open="(" close=")"><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mtext>14</m:mtext></m:mrow></m:mfenced></m:mrow><m:mi>d</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C approx  left (3 "." "14" right )d} {}</m:annotation></m:semantics></m:math></item>
+
+
+<item> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn>
+<m:mi>π</m:mi><m:mi>r</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C=2πr} {}</m:annotation></m:semantics></m:math> or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">≈</m:mo><m:mn>2</m:mn></m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mtext>14</m:mtext></m:mrow></m:mfenced><m:mi>r</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C approx 2 left (3 "." "14" right )r} {}</m:annotation></m:semantics></m:math></item>
+</list>
+      
+      
+      <section id="id1170289520494"><title>Sample Set B</title><example id="eip-id1170729529709"><para id="id1170290056234">Find the exact circumference of the circle. </para>
+        <para id="id1170279009270"><media id="id1170279009270_media" alt="A circle with a dashed line from one edge to the other, labeled d = 7 in.">
+            <image mime-type="image/png" src="../../media/graphics17-3d1c.png" id="id1170279009270__onlineimage" print-width="1.25in" width="192"/>
+          </media>
+        </para>
+        <para id="id1170290504753">Use the formula 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">π</m:mi>
+<m:mi>d</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C=πd} {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1170279087751">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>C</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mi>π</m:mi>
+                          <m:mo stretchy="false">⋅</m:mo>
+                          <m:mn>7</m:mn>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>in</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mtext>.</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C=π cdot 7 ital "in" "." } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1170266738048">By commutativity of multiplication,</para>
+        <para id="id1170285239121">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>C</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mn>7</m:mn>
+                      </m:mrow>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>in</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow>
+                        <m:mtext>.</m:mtext>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mi>π</m:mi>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C=7 ital "in" "."  cdot π} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id7465403"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mn>7</m:mn>
+<m:mi>π</m:mi></m:mrow><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>in</m:mtext></m:mrow></m:mstyle><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C=7π` ital "in" "." } {}</m:annotation></m:semantics></m:math>, exactly</para>
+        <para id="id1170268817209">This result is exact since <m:math>
+<m:mi>π</m:mi>
+</m:math> has not been approximated.</para>
+</example>
+<example id="eip-id6770369"><para id="id1170286654335">Find the approximate circumference of the circle.</para>
+        <para id="id1170277639154"><media id="id1170277639154_media" alt="A circle with a dashed line from one edge to the other, labeled d = 6.2 mm.">
+            <image mime-type="image/png" src="../../media/graphics18-62bd.png" id="id1170277639154__onlineimage" print-width="1.25in" width="175"/>
+          </media>
+        </para>
+        <para id="id1170276119693">Use the formula 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">π</m:mi>
+<m:mi>d</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C=πd} {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1170273845172">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>C</m:mi>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mfenced open="(" close=")">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>14</m:mtext>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mrow>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mn>6</m:mn>
+                          <m:mtext>.</m:mtext>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C approx  left (3 "." "14" right ) left (6 "." 2 right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1170294247750"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>C</m:mi>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mtext>19</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>648</m:mtext>
+                      <m:mtext>  mm</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C approx "19" "." "648"" mm"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1170275692589">This result is approximate since <m:math>
+<m:mi>π</m:mi>
+</m:math> has been approximated by 3.14.</para>
+</example>
+<example id="eip-id2141870"><para id="id1170287100005">Find the approximate circumference of a circle with radius 18 inches. </para>
+        <para id="id1170267885311">Since we're given that the radius, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>r</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math>, is 18 in., we'll use the formula 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>C</m:mi><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn>
+<m:mi>π</m:mi><m:mi>r</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{C=2πr} {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1170289451624"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>C</m:mi>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mfenced open="(" close=")">
+                          <m:mn>2</m:mn>
+                        </m:mfenced>
+                      </m:mrow>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>14</m:mtext>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mfenced open="(" close=")">
+                        <m:mrow>
+                          <m:mtext>18</m:mtext>
+                          <m:mtext>  in</m:mtext>
+                          <m:mtext>.</m:mtext>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C approx  left (2 right ) left (3 "." "14" right ) left ("18"" in" "."  right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id1170279779428"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>C</m:mi>
+                        <m:mo stretchy="false">≈</m:mo>
+                        <m:mtext>113</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>04</m:mtext>
+                      <m:mtext>  in</m:mtext>
+                      <m:mtext>.</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{C approx "113" "." "04"" in" "." } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+</example>
+<example id="eip-id7103155"><para id="id1170287031147">Find the approximate perimeter of the figure. </para>
+       <para id="eip-id1167885988437"><media id="id1170289089936_media" alt="A cane-shaped object of an even thickness, with one straight portion and one portion shaped in a half-circle. The thickness is 2.0cm, the length of the straight portion is 5.1cm, and the radius of the semicircle portion is 6.2cm.">
+            <image mime-type="image/png" src="../../media/graphics19-c65b.png" id="id1170289089936__onlineimage" print-width="2in" width="280"/>
+          </media>
+        </para>
+        <para id="id1170274472587">We notice that we have two semicircles (half circles).</para>
+        <para id="id1170275629637">The larger radius is 6.2 cm.</para>
+        <para id="id1170279347456">The smaller radius is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mtext>2 cm - 2</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>0 cm </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 4</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>2 cm</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "2 cm - 2" "." "0 cm "=" 4" "." "2 cm"} {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id1170285635458">The width of the bottom part of the rectangle is 2.0 cm.</para>
+        <para id="id1170300821421"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mtext>Perimeter</m:mtext>
+</m:mtd>
+<m:mtd>
+<m:mo stretchy="false">=</m:mo>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>2.0 cm</m:mtext>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="left">
+<m:mtext>5.1 cm</m:mtext>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="left">
+<m:mtext>2.0 cm</m:mtext>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="left">
+<m:mtext>5.1 cm</m:mtext>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="left">
+<m:mo stretchy="false">(</m:mo><m:mn>0.5</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">⋅</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mn>2</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">⋅</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mn>3.14</m:mn>
+<m:mo stretchy="false">)</m:mo>
+<m:mo stretchy="false">⋅</m:mo>
+<m:mo stretchy="false">(</m:mo>
+<m:mtext>6.2 cm</m:mtext>
+<m:mo stretchy="false">)</m:mo>
+</m:mtd>
+<m:mtd columnalign="left"><m:mtext> Circumference of outer semicircle.</m:mtext></m:mtd>
+</m:mtr>
+
+
+
+
+
+
+
+
+<m:mtr>
+<m:mtd/>
+<m:mtd><m:mo>    +</m:mo></m:mtd>
+<m:mtd columnalign="left">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>(</m:mo>
+<m:mn>0.5</m:mn>
+<m:mo>)</m:mo>
+<m:mo>⋅</m:mo>
+<m:mo>(</m:mo>
+<m:mn>2</m:mn>
+<m:mo>)</m:mo>
+<m:mo>⋅</m:mo>
+<m:mo>(</m:mo>
+<m:mn>3.14</m:mn>
+<m:mo>)</m:mo>
+<m:mo>⋅</m:mo>
+<m:mo>(</m:mo>
+<m:mtext>4.2 cm</m:mtext>
+<m:mo>)</m:mo>
+</m:mrow>
+
+<m:mo>̲</m:mo></m:munder>
+</m:mtd>
+<m:mtd columnalign="left"><m:mtext>Circumference of inner semicircle</m:mtext></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="left"><m:mtext>6.2 cm</m:mtext><m:mo>-</m:mo>
+<m:mtext>2.0 cm</m:mtext>
+<m:mo>=</m:mo>
+<m:mtext>4.2 cm</m:mtext>
+</m:mtd>
+</m:mtr>
+
+<m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="left" rowalign="top">
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="left">
+<m:mtext>The 0.5 appears because we want the  </m:mtext></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="left"><m:mtext>perimeter of only </m:mtext><m:mtext mathvariant="italic">half</m:mtext><m:mtext> a circle.</m:mtext></m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mtd>
+</m:mtr>
+
+</m:mtable></m:math>
+</para>
+        
+        
+        
+        <para id="id1170291611589"><m:math>
+   
+               <m:mtable>
+                    <m:mtr>
+<m:mtd columnalign="right">
+                                <m:mtext>Perimeter</m:mtext>
+</m:mtd>
+<m:mtd>                           
+     <m:mo stretchy="false">≈</m:mo>
+</m:mtd>
+<m:mtd columnalign="right">
+<m:mtext>2.0     cm</m:mtext>
+</m:mtd>
+   </m:mtr>
+                    <m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>5.1     cm</m:mtext>
+</m:mtd>   
+         </m:mtr>
+   <m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>2.0     cm</m:mtext>
+</m:mtd>   
+         </m:mtr>
+   <m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>5.1     cm</m:mtext>
+</m:mtd>   
+         </m:mtr>
+   <m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>19.468 cm</m:mtext>
+</m:mtd>   
+         </m:mtr>                 
+   <m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mtext>13.188 cm</m:mtext>
+</m:mrow>
+<m:mo>̲</m:mo>
+
+</m:munder>
+</m:mtd>   
+         </m:mtr>
+   <m:mtr>
+<m:mtd/>
+<m:mtd/>
+<m:mtd columnalign="right">
+<m:mtext>48.856 cm</m:mtext>
+</m:mtd>   
+         </m:mtr>
+</m:mtable>
+  </m:math>
+        </para>
+</example>      </section>
+      <section id="id1170295466321"><title>Practice Set B</title><exercise id="id1170267504015"><problem id="oo-id1170266537779">
+            <para id="id2384650">Find the exact circumference of the circle.<newline/>
+<media id="id1170288422797_media" alt="A circle with a line through the middle, ending at the edges of the circle. The line is labeled, d = 9.1in."><image mime-type="image/png" src="../../media/graphics20-4460.png" id="id1170288422797__onlineimage" print-width="1.25in" width="180"/></media> </para>
+ </problem>
+        <solution id="eip-id1165415529576">
+<para id="eip-id1165424586937">9.1<m:math>
+<m:mi>π</m:mi>
+</m:math> in.</para>
+</solution></exercise>
+        
+        <exercise id="id1170269406990"><problem id="oo-id1170266620759">
+            <para id="id1170301804782">Find the approximate circumference of the circle.<newline/>
+<media id="id1170267372281_media" alt="A circle with a line through the middle, ending at the edges of the circle. The line is labeled, d = 1.8in."><image mime-type="image/png" src="../../media/graphics21-add4.png" id="id1170267372281__onlineimage" print-width="1.25in" width="180"/></media></para>
+ </problem>
+        <solution id="eip-id2672478"><para id="eip-id1165421330082">5.652 mm</para>
+</solution></exercise>
+                
+<exercise id="id1170278007507"><problem id="oo-id1170279199452">
+            <para id="id1170292189618">Find the approximate circumference of the circle with radius 20.1 m. </para>
+          </problem>
+        <solution id="eip-id1170730760134"><para id="eip-id1973298">126.228 m</para>
+</solution></exercise>
+        <exercise id="id1170289168236"><problem id="oo-id1170283040527">
+            <para id="id1170281614797">Find the approximate outside perimeter of
+<newline/>
+<media id="id1170268912267_media" alt="A shape best visualized as a hollow half-circle. The thickness is 1.8mm, and the diameter of the widest portion of the half-circle is 16.2mm."><image mime-type="image/png" src="../../media/graphics22-3e8f.png" id="id1170268912267__onlineimage" print-width="2in" width="342"/></media></para>
+       </problem>
+        <solution id="eip-id1167871762392"><para id="eip-id1167873740781">41.634 mm</para>
+</solution></exercise>
+        </section>
+    </section>
+    <section id="id5892319"><title>Exercises</title><para id="id1170268208421">Find each perimeter or approxi­mate circumference. Use 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>π</m:mi><m:mo stretchy="false">=</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>14</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π=3 "." "14"} {}</m:annotation></m:semantics></m:math>.</para>
+<exercise id="eip-id1170728241664"><problem id="eip-id1170732679084">     
+
+ <para id="id1170278024406"><media id="id1170267561366_media" alt="A rectangle with sides of length 2.3cm and 8.6cm."><image mime-type="image/png" src="../../media/graphics23-a699.png" id="id1170267561366__onlineimage" print-width="1.5in" width="343"/></media></para>
+</problem>
+<solution id="eip-id1170727336055">
+<para id="eip-id1170727574556">21.8 cm
+</para>
+</solution>
+</exercise>
+
+<exercise id="eip-id1170733482101">
+<problem id="eip-id1170732059932">
+      <para id="id1170286589656"><media id="id1170269415101_media" alt="A triangle with sides of length 8mm, 9.3mm, and 3.8mm."><image mime-type="image/png" src="../../media/graphics24-6ce9.png" id="id1170269415101__onlineimage" print-width="1.5in" width="280"/></media></para></problem>
+</exercise>
+
+
+
+<exercise id="eip-id1170727360023">
+<problem id="eip-id1170734570863">
+      <para id="id5262098"><media id="id1170275421524_media" alt="A triangle with sides of length 4.8in, 16.11in, and 17.23in."><image mime-type="image/png" src="../../media/graphics25-1b0f.png" id="id1170275421524__onlineimage" print-width="1.5in" width="363"/></media></para>
+      </problem>
+
+<solution id="eip-id1170733855801">
+<para id="eip-id1170728999330">38.14 inches
+</para>
+</solution>
+</exercise>
+
+<exercise id="eip-id7346014">
+<problem id="eip-id1170734737455">
+<para id="id1170275605668"><media id="id1170282336381_media" alt="A four-sided polygon with sides of length 0.04ft, 0.07ft, 0.04ft, and 0.095ft."><image mime-type="image/png" src="../../media/graphics26-a0f5.png" id="id1170282336381__onlineimage" print-width="1.75in" width="351"/></media></para></problem>
+</exercise>
+      
+
+
+<exercise id="eip-id1170729481871">
+<problem id="eip-id1170729643008">
+<para id="id1170268772270"><media id="id1170274563930_media" alt="A four sided parallelogram with short sides of length 0.12m and long sides of length 0.31m."><image mime-type="image/png" src="../../media/graphics27-8869.png" id="id1170274563930__onlineimage" print-width="1.75in" width="380"/></media> </para>
+      </problem>
+
+<solution id="eip-id1170733273322">
+<para id="eip-id1170734936192">0.86 m
+</para>
+</solution>
+</exercise>
+
+
+<exercise id="eip-id1170729570779">
+<problem id="eip-id1379552">
+<para id="id1170275877543"><media id="id1170268855675_media" alt="A circle of radius 6m."><image mime-type="image/png" src="../../media/graphics28-5ef2.png" id="id1170268855675__onlineimage" print-width="1.25in" width="201"/></media></para></problem>
+</exercise>
+
+
+
+<exercise id="eip-id1170730039177">
+<problem id="eip-id1170733675629">
+      <para id="id1170267341068"><media id="id1170267558093_media" alt="A circle of radius 14m."><image mime-type="image/png" src="../../media/graphics29-0c39.png" id="id1170267558093__onlineimage" print-width="1.25in" width="206"/></media>  </para>
+      </problem>
+
+<solution id="eip-id1170732776964">
+<para id="eip-id1170728871520">87.92 m
+</para>
+</solution>
+</exercise>
+
+
+<exercise id="eip-id1170735036333">
+<problem id="eip-id1170729636207">
+<para id="id1170292193852"><media id="id2119456_media" alt="A circle of diameter 8mm."><image mime-type="image/png" src="../../media/graphics30-fdc6.png" id="id2119456__onlineimage" print-width="1.25in" width="190"/></media></para>
+      </problem>
+</exercise>
+
+
+
+<exercise id="eip-id1170727311857">
+<problem id="eip-id1170730327037">
+<para id="id1170266735463"><media id="id1170284319487_media" alt="A circle of diameter 2.6cm."><image mime-type="image/png" src="../../media/graphics31-7188.png" id="id1170284319487__onlineimage" print-width="1.25in" width="205"/></media> </para>
+     </problem>
+
+<solution id="eip-id1170730324581">
+<para id="eip-id1170727306655">16.328 cm
+</para>
+</solution>
+</exercise>
+
+
+<exercise id="eip-id1170734472340">
+<problem id="eip-id1170732735823">
+ <para id="id1170275621401"><media id="id2308374_media" alt="A half-circle of diameter 1.1mm."><image mime-type="image/png" src="../../media/graphics32-551a.png" id="id2308374__onlineimage" print-width="1.25in" width="200"/></media></para>
+      </problem>
+</exercise>
+
+
+
+<exercise id="eip-id1170729636127">
+<problem id="eip-id1170733274709">
+<para id="id1170279678435"><media id="id1170280017359_media" alt="A half-circle of diameter 0.03cm."><image mime-type="image/png" src="../../media/graphics33-9d08.png" id="id1170280017359__onlineimage" print-width="1.25in" width="200"/></media>  </para>
+      </problem>
+
+<solution id="eip-id7149948">
+<para id="eip-id1170729331110">0.0771 cm
+</para>
+</solution>
+</exercise>
+
+
+<exercise id="eip-id1170730782512">
+<problem id="eip-id1170732861284">
+<para id="id1170276132438"><media id="id1170282060841_media" alt="A quarter-circle of radius 5 in."><image mime-type="image/png" src="../../media/graphics34-7130.png" id="id1170282060841__onlineimage" print-width=".75in" width="100"/></media></para></problem>
+</exercise>
+
+
+
+
+
+<exercise id="eip-id1170733650346">
+<problem id="eip-id1170732756883">      <para id="id1170279026363"><media id="id1170285794076_media" alt="Three quarters of a circle. The radius is 18m."><image mime-type="image/png" src="../../media/graphics35-d9b1.png" id="id1170285794076__onlineimage" print-width="1.25in" width="200"/></media>  </para>
+      </problem>
+
+<solution id="eip-id1170727608599">
+<para id="eip-id1170733293337">120.78 m
+</para>
+</solution>
+</exercise>
+
+
+
+<exercise id="eip-id1170734675661">
+<problem id="eip-id1170733309527">
+<para id="id1170279808033"><media id="id1170290417709_media" alt="A shape best visualized as a rectangle connected to a half-circle on top. The rectangle's height is 4.1in, and the rectangle's width is 7.8in."><image mime-type="image/png" src="../../media/graphics36-03cb.png" id="id1170290417709__onlineimage" print-width="1.5in" width="200"/></media></para></problem>
+</exercise>
+      
+
+
+
+<exercise id="eip-id1170730191588">
+<problem id="eip-id1170730781898">
+<para id="id1170287079241"><media id="id1170279028857_media" alt="A shape best described as a rectangle with a half-circle sticking out of a portion of the top side of the rectangle. The height is 4in, the width of the rectangle is 6in, and the distance on the top between the left vertex and the edge of the circular portion is 3 in."><image mime-type="image/png" src="../../media/graphics37-fb5d.png" id="id1170279028857__onlineimage" print-width="1.5in" width="200"/></media></para>
+      </problem>
+
+<solution id="eip-id1170734976637">
+<para id="eip-id1170734296430">21.71 inches
+</para>
+</solution>
+</exercise>
+
+
+
+<exercise id="eip-id1170731816310">
+<problem id="eip-id1170733602977">
+<para id="id1170267209382"><media id="id1170278367960_media" alt="A shape best described as a rectangle with two half-circle slices taken out of the top and bottom. The rectangle's height is 18m, and the radius of the circles is 6m."><image mime-type="image/png" src="../../media/graphics38-8b37.png" id="id1170278367960__onlineimage" print-width="1.5in" width="200"/></media></para></problem>
+</exercise>
+
+
+
+
+<exercise id="eip-id8474604">
+<problem id="eip-id1170727332461">
+      <para id="id1170281341662"><media id="id4309722_media" alt="A shape best described as an ice cream cone, or a triangle with a half-circle attached to the top. The sides of the triangle are measured to be 14mm, and the diameter of the half-circle is 10mm."><image mime-type="image/png" src="../../media/graphics39-ef17.png" id="id4309722__onlineimage" print-width="1.5in" width="200"/></media> </para></problem>
+
+<solution id="eip-id1170734490130">
+<para id="eip-id1170734000173"> 43.7 mm
+</para>
+</solution>
+</exercise>
+
+
+
+
+<exercise id="eip-id1170734977637">
+<problem id="eip-id1170734718636">
+      <para id="id1170281458685"><media id="id1170267367549_media" alt="A tube in the shape of a half-circle with straight ends. The ends have a width of 2mm, and the inner side of the circular tube has a radius of 7mm."><image mime-type="image/png" src="../../media/graphics40-0c06.png" id="id1170267367549__onlineimage" print-width="1.5in" width="200"/></media></para>
+</problem>
+</exercise>
+
+
+
+<exercise id="eip-id1170728295344">
+<problem id="eip-id1170733552340">
+      <para id="id1170283367108"><media id="id1170279049833_media" alt="A rectangle that has three half-circular cutouts and three half-circular additions. The  vertical straight edge is length 4cm, and the radius of the circular cutouts and additions are 2cm."><image mime-type="image/png" src="../../media/graphics41-5478.png" id="id1170279049833__onlineimage" print-width="2in" width="350"/></media> </para>
+</problem>
+
+<solution id="eip-id1170734584761">
+<para id="eip-id1170734774296">45.68 cm
+</para>
+</solution>
+</exercise>      
+
+
+
+<exercise id="eip-id1170732875682">
+<problem id="eip-id1572909">
+<para id="id1170274748436"><media id="id1170272263597_media" alt="A complex shape."><image mime-type="image/png" src="../../media/graphics42-9ce4.png" id="id1170272263597__onlineimage" print-width="2in" width="300"/></media></para>
+</problem>
+</exercise>
+      <section id="id1170290594054">
+        <title>Exercises for Review</title>
+        <exercise id="id1170288713856">
+          <problem id="oo-id1170267681905">
+            <para id="id1170267452251">(<link document="m34928"/>) Find the value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>13</m:mtext></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:msqrt><m:mrow><m:mtext>10</m:mtext><m:mfrac><m:mn>9</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:msqrt></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 {  {8}  over  {"13"} }  cdot  sqrt {"10" {  {9}  over  {"16"} } } } {}</m:annotation></m:semantics></m:math>.  </para>
+          </problem>
+
+<solution id="eip-id1170729408459">
+<para id="eip-id1170732270506">8.5 or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>17</m:mtext><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"17"}  over  {2} } } {}</m:annotation></m:semantics></m:math> or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math>
+</para>
+</solution>        
+</exercise>
+        <exercise id="id1170277669266">
+          <problem id="oo-id1170279674317">
+            <para id="id1170277541817">(<link document="m34935"/>) Find the value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>8</m:mn><m:mtext>15</m:mtext></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>7</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mtext>21</m:mtext><m:mtext>60</m:mtext></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {8}  over  {"15"} } + {  {7}  over  {"10"} } + {  {"21"}  over  {"60"} } } {}</m:annotation></m:semantics></m:math>.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1170288155803">
+          <problem id="oo-id1170275896388">
+            <para id="id1170290862181">(<link document="m34970"/>) Convert 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {8} } } {}</m:annotation></m:semantics></m:math> to a decimal.  </para>
+      </problem>
+        
+
+<solution id="eip-id1170733020212">
+<para id="eip-id1170733066371">0.875
+</para>
+</solution>
+</exercise>
+        <exercise id="id1170275056726">
+          <problem id="oo-id1170268221514">
+            <para id="id1170296614001">(<link document="m35018"/>) What is the name given to a quantity that is used as a comparison to determine the measure of another quantity?</para>
+          </problem>
+        </exercise>
+        <exercise id="id1170279713972">
+          <problem id="oo-id1170275680699">
+            <para id="id1170279288143">(<link document="m35021"/>) Add 42 min 26 sec to 53 min 40 sec and simplify the result. </para>
+          </problem>
+
+<solution id="eip-id7458062">
+<para id="eip-id1170728907857"> 1 hour 36 minutes 6 seconds
+</para>
+</solution>        
+</exercise>
+      </section>
+    </section>
+  </content>
+</document>

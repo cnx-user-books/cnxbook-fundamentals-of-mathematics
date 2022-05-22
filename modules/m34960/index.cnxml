@@ -1,0 +1,763 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Addition and Subtraction of Decimals</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34960</md:content-id>
+  <md:title>Addition and Subtraction of Decimals</md:title>
+  <md:abstract>This module is from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, Jr. This module discusses how to add and subtract decimals. By the end of the module students should understand the method used for adding and subtracting decimals, be able to add and subtract decimals and be able to use the calculator to add and subtract decimals.</md:abstract>
+  <md:uuid>9178d924-5e4c-4294-8b9b-09ca23761acc</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1172297961628">
+      <title>Section Overview</title>
+      <list id="id1172295918297" list-type="bulleted">
+        <item>The Logic Behind the Method</item>
+        <item>The Method of Adding and Subtracting Decimals</item>
+        <item>Calculators</item>
+      </list>
+    </section>
+    <section id="id8740187">
+      <title>The Logic Behind the Method</title>
+      <para id="id1172289577002">Consider the sum of 4.37 and 3.22. Changing each decimal to a fraction, we have</para>
+      
+      <para id="eip-956"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>4</m:mn>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mtext>37</m:mtext>
+                        <m:mtext>100</m:mtext>
+                      </m:mfrac>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>3</m:mn>
+                    </m:mrow>
+                    <m:mfrac>
+                      <m:mtext>22</m:mtext>
+                      <m:mtext>100</m:mtext>
+                    </m:mfrac>
+                  
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{4 {  {"37"}  over  {"100"} } +3 {  {"22"}  over  {"100"} } " Performing the addition, we get"} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+   Performing the addition, we get   </para>
+      
+      <para id="eip-447"><m:math>
+        
+                <m:mtable>
+
+<m:mtr>
+<m:mtd>
+                    <m:mn>4</m:mn>
+                    <m:mtext>.</m:mtext>
+                    
+                      <m:mtext>37</m:mtext>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>3</m:mn>
+                    
+                    <m:mtext>.</m:mtext>
+                    
+                      <m:mtext>22</m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>4</m:mn>
+                   
+                      <m:mfrac>
+                        <m:mtext>37</m:mtext>
+                        <m:mtext>100</m:mtext>
+                      </m:mfrac>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mn>3</m:mn>
+                    
+                      <m:mfrac>
+                        <m:mtext>22</m:mtext>
+                        <m:mtext>100</m:mtext>
+                      </m:mfrac>
+</m:mtd>
+<m:mtd>
+                      <m:mo stretchy="false">=</m:mo>
+        </m:mtd>
+<m:mtd columnalign="left">              
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mtext>100</m:mtext>
+                            </m:mrow>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mtext>37</m:mtext>
+                          </m:mrow>
+                          <m:mtext>100</m:mtext>
+                        </m:mfrac>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mtext>100</m:mtext>
+                            </m:mrow>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mtext>22</m:mtext>
+                          </m:mrow>
+                          <m:mtext>100</m:mtext>
+                        </m:mfrac>
+                </m:mtd>
+</m:mtr>
+
+      
+                  <m:mtr>
+                    <m:mtd/>
+<m:mtd>
+                            <m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+                              <m:mfrac>
+                                <m:mtext>437</m:mtext>
+                                <m:mtext>100</m:mtext>
+                              </m:mfrac>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mfrac>
+                                <m:mtext>322</m:mtext>
+                                <m:mtext>100</m:mtext>
+                              </m:mfrac>
+                            </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                   <m:mtd/>
+                            <m:mtd><m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mtext>437</m:mtext>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>322</m:mtext>
+                              </m:mrow>
+                              <m:mtext>100</m:mtext>
+                            </m:mfrac>
+                         </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd/>
+      <m:mtd><m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+                            <m:mfrac>
+                              <m:mtext>759</m:mtext>
+                              <m:mtext>100</m:mtext>
+                            </m:mfrac>
+                          </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd/>
+       <m:mtd><m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+                              <m:mn>7</m:mn>
+                            
+                            <m:mfrac>
+                              <m:mtext>59</m:mtext>
+                              <m:mtext>100</m:mtext>
+                            </m:mfrac>
+                          </m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+                    <m:mtd/>
+         <m:mtd><m:mo stretchy="false">=</m:mo></m:mtd>
+    <m:mtd> <m:mtext>seven and fifty-nine hundredths</m:mtext></m:mtd>
+                  </m:mtr>
+                  <m:mtr>
+<m:mtd/>
+          <m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd columnalign="left">
+                            <m:mn>7.59</m:mn>
+                            
+                         </m:mtd>
+                  </m:mtr>
+                </m:mtable>
+                
+        </m:math>
+      </para><para id="id1172286006613">Thus,
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>37 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 3</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>22 </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 7</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>59</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." "37 "+" 3" "." "22 "=" 7" "." "59"} {}</m:annotation></m:semantics></m:math>.</para>
+    </section>
+    <section id="id1172291699114"><title>The Method of Adding and Subtracting Decimals</title><para id="id1172297983528">When writing the previous addition, we could have written the numbers in col­umns.</para>
+      <para id="id1172290549160"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>4.37</m:mn>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>3.22</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>7.59</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+      <para id="id1172301717543">This agrees with our previous result. From this observation, we can suggest a method for adding and subtracting decimal numbers.</para>
+      <para id="id1172291100838"><title>Method of Adding and Subtracting Decimals</title>To add or subtract decimals:
+<list id="id1172310265684" list-type="enumerated" number-style="arabic"><item>Align the numbers vertically so that the decimal points line up under each other and the corresponding decimal positions are in the same column.</item>
+        <item>Add or subtract the numbers as if they were whole numbers.</item>
+        <item>Place a decimal point in the resulting sum or difference directly under the other decimal points.</item>
+      </list>
+</para>
+      
+      <section id="id1172284486581"><title>Sample Set A</title><para id="id1172290808571">Find the following sums and differences. </para>
+       
+<example id="eip-id1165243796536">
+ <para id="id1172285558263">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>813</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>140</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 "." "813"+2 "." "140"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1172289026462"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>9.813</m:mn>
+</m:mtd>
+<m:mtd columnalign="left"> <m:mtext>The decimal points are aligned in the same column.</m:mtext></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>2.140</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>11.953</m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math>  </para>
+</example>
+<example id="eip-id1165235230125"><para id="id1172287544059">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>841</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>0056</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>47</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>016</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>19</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>058</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"841" "." "0056"+"47" "." "016"+"19" "." "058"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id1172287696470"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>841.0056</m:mn>
+</m:mtd>
+<m:mtd>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>47.016  </m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>19.058  </m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="eip-400">To insure that the columns align properly, we can write a 0 in the position at the end of the numbers 47.016 and 19.058 without changing their values.</para><para id="id1172284341344"><media id="eip-id1164953671634" alt="Vertical addition. 841.0056 plus 47.0160 plus 19.0580 equals 907.0796. A 1 needed to be carried in the hundredths, the tens, and the hundreds columns.">
+<image mime-type="image/png" src="../../media/carrytheones.png" width="90" print-width=".7in"/>
+</media></para>
+</example>
+<example id="eip-id1171069623047">
+<para id="eip-952"><m:math>
+<m:mn>1.314</m:mn>
+<m:mo>-</m:mo>
+<m:mn>0.58</m:mn>
+</m:math></para><para id="eip-178"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>1.314</m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>0.58  </m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+<m:mtd><m:mtext>Write a 0 in the thousandths position.</m:mtext></m:mtd>
+</m:mtr>
+
+</m:mtable>
+</m:math></para><para id="eip-720"><media id="eip-id1164726603195" alt="Vertical subtraction. 1.314 minus 0.580 equals 0.734. The ones, and hundredths digits need to be borrowed from once, and the tenths needs to be borrowed from twice to perform the subtraction.">
+<image mime-type="image/png" src="../../media/subtractallthat.png" width="75" print-width=".5in"/>
+</media></para>
+</example>
+<example id="eip-id1165232501227">
+<para id="eip-238"><m:math>
+<m:mn>16.01</m:mn>
+<m:mo>-</m:mo>
+<m:mn>7.053</m:mn>
+</m:math></para><para id="eip-741"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>16.01  </m:mn>
+</m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>-</m:mo>
+<m:mn>7.053</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write a 0 in the thousandths position.</m:mtext></m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para><para id="eip-218"><media id="eip-id1164727220864" alt="Vertical subtraction. 16.101 minus 7.053 equals 8.957. The ones, tenths, hundredths, and thousandths digits need to be borrowed from once to perform the subtraction.">
+<image mime-type="image/png" src="../../media/again.png" print-width=".75in" width="95"/>
+</media></para>
+</example>
+<example id="eip-id1165233070623">
+<para id="eip-315">Find the sum of 6.88106 and 3.5219 and round it to three decimal places.</para><para id="eip-795"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>6.88106</m:mn></m:mtd>
+<m:mtd/>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+<m:mo>+</m:mo>
+<m:mn>3.5219  </m:mn>
+
+</m:mrow>
+<m:mo stretchy="true">̲</m:mo>
+</m:munder>
+</m:mtd>
+<m:mtd columnalign="left">
+<m:mtext>Write a 0 in the ten thousandths position.</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para><para id="eip-433"><media id="eip-id6651034" alt="Vertical addition. 6.88106 plus 3.52190 equals 10.40296. A 1 needs to be carried over the tenths and ones digits to perform the addition.">
+<image mime-type="image/png" src="../../media/againagain.png" width="95" print-width=".7in"/>
+</media></para><para id="eip-166">We need to round the sum to the thousandths position. Since the digit in the position immediately to the right is 9, and 9&gt;5, we get</para><para id="eip-591">10.403</para>
+</example>
+<example id="eip-id1165245652717">
+<para id="eip-252">Wendy has $643.12 in her checking account. She writes a check for $16.92. How much is her new account balance?</para><para id="eip-661">To find the new account balance, we need to find the difference between 643.12 and 16.92. We will subtract 16.92 from 643.12.</para><para id="eip-564"><media id="eip-id1164740756378" alt="Vertical subtraction. 643.12 minus 16.92 equals 626.20.">
+<image mime-type="image/png" src="../../media/moresubtraction.png" width="75" print-width=".6in"/>
+</media></para><para id="eip-106">After writing a check for $16.92, Wendy now has a balance of $626.20 in her checking account.</para>
+     </example> </section>
+      <section id="id1172289193358">
+        <title>Practice Set A</title>
+        <para id="id1172303253142">Find the following sums and differences.</para>
+        <exercise id="id1172298888957"><problem id="oo-id1172284489075">
+            <para id="id1172289737805">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>187 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 2</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>992</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." "187 "+" 2" "." "992"} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+        <solution id="eip-id1171686871365"><para id="eip-id1171666928911">6.179</para></solution></exercise>
+        <exercise id="id1172283749983"><problem id="oo-id1172287543711">
+            <para id="id1172285478228"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>14</m:mtext><m:mtext>.</m:mtext><m:mtext>987 </m:mtext> <m:mo>-</m:mo><m:mtext> 5</m:mtext><m:mtext>.</m:mtext><m:mtext>341</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"14" "." "987 - 5" "." "341"} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+        <solution id="eip-id1171081560939"><para id="eip-id1171081691647">9.646</para></solution></exercise>
+        <exercise id="id1172307498761"><problem id="oo-id1172305951534">
+            <para id="id1172291101321">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>5261 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 1</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>0783</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "5261 "+" 1" "." "0783"} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+      <solution id="eip-id1164953436124"><para id="eip-id1164955439474">1.6044</para></solution>  </exercise>
+        <exercise id="id1172286943881"><problem id="oo-id1172316349569">
+            <para id="id1172291121672"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1.06</m:mn>
+<m:mo>-</m:mo>
+<m:mn>1.0535</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "06 - 1" "." "0535"} {}</m:annotation></m:semantics></m:math>  </para>
+          </problem>
+        <solution id="eip-id1168210061169"><para id="eip-id1168221823939">0.0065</para></solution></exercise>
+        <exercise id="id1172284781619"><problem id="oo-id1172282643435">
+            <para id="id1172298712489">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>16,521</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>07 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 9,256</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>15</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16,521" "." "07 "+" 9,256" "." "15"} {}</m:annotation></m:semantics></m:math> </para>
+          </problem>
+        <solution id="eip-id1164947628843"><para id="eip-id1164949000859">25,777.22</para></solution></exercise>
+        <exercise id="id1172287044771"><problem id="oo-id1172289313760">
+            <para id="id1172303442888">Find the sum of 11.6128 and 14.07353, and round it to two decimal places.</para>
+          </problem>
+        <solution id="eip-id1163985010778"><para id="eip-id1163983813048">25.69</para></solution></exercise>
+        
+      </section>
+    </section>
+    <section id="id1172298562015">
+      <title>Calculators</title>
+      <para id="id1172287073080">The calculator can be useful for finding sums and differences of decimal numbers. However, calculators with an eight-digit display cannot be used when working with decimal numbers that contain more than eight digits, or when the sum results in more than eight digits. In practice, an eight-place decimal will seldom be encoun­tered. There are some inexpensive calculators that can handle 13 decimal places.</para>
+      <section id="id1172291407369"><title>Sample Set B</title><para id="id1172287690647">Use a calculator to find each sum or difference.</para>
+        
+<example id="eip-id1170351685763">
+<para id="id1172284361949">42.0638 + 126.551</para>
+        <table id="id1172287110260" summary="Instructions for calculator input.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>42.0638</entry>
+                <entry>42.0638</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>+</entry>
+                <entry>42.0638</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>126.551</entry>
+                <entry>126.551</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>168.6148</entry>
+              </row>
+            </tbody>
+          
+</tgroup>
+</table>
+        <para id="id1172286751169">The sum is 168.6148.</para>
+</example>
+<example id="eip-id1170359337881">
+        <para id="id1172294302652">Find the difference between 305.0627 and 14.29667. </para>
+        <table id="id1172284964369" summary="Instructions for calculator input.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Display Reads</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>305.0627</entry>
+                <entry>305.0627</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>—</entry>
+                <entry>305.0627</entry>
+              </row>
+              <row>
+                <entry>Type</entry>
+                <entry>14.29667</entry>
+                <entry>14.29667</entry>
+              </row>
+              <row>
+                <entry>Press</entry>
+                <entry>=</entry>
+                <entry>290.76603</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup>
+</table>
+        <para id="id1172290668584">The difference is 290.76603</para>
+</example>
+<example id="eip-id1170355420319">
+        <para id="id1172285133243">51.07 + 3,891.001786</para>
+        <para id="id1172290771718">Since 3,891.001786 contains more than eight digits, we will be unable to use an eight-digit display calculator to perform this addition. We can, however, find the sum by hand.</para>
+        <para id="id1172284494315"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>51.070000</m:mn></m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd columnalign="right">
+<m:munder accentunder="true">
+<m:mrow>
+
+<m:mn>3891.001786</m:mn>
+</m:mrow>
+<m:mo stretchy="true">̲ </m:mo>
+</m:munder>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mn>3942.071786</m:mn>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math></para>
+        <para id="id1172292360470">The sum is 3,942.071786.</para>
+      </example></section>
+      <section id="id1172285292093">
+        <title>Practice Set B</title>
+        <para id="id1172305493519">Use a calculator to perform each operation.</para>
+        <exercise id="id1172289331076"><problem id="oo-id1172284961643">
+            <para id="id1172291989636">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>286 </m:mtext><m:mo stretchy="false">+</m:mo><m:mtext> 8</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>97</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." "286 "+" 8" "." "97"} {}</m:annotation></m:semantics></m:math>     </para>
+          </problem>
+        <solution id="eip-id1170727184217"><para id="eip-id1170708764542">13.256</para></solution></exercise>
+        <exercise id="id1172303507491"><problem id="oo-id1172292236699">
+            <para id="id1172286632313"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>452.0092</m:mn><m:mo>-</m:mo>
+<m:mn>392.558</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"452" "." "0092 - 392" "." "558"} {}</m:annotation></m:semantics></m:math>     </para>
+          </problem>
+        <solution id="eip-id1163984241913"><para id="eip-id1163990923228">59.4512</para></solution></exercise>
+        <exercise id="id1172303720184"><problem id="oo-id1172286177040">
+            <para id="id1172284554840">Find the sum of 0.095 and 0.001862  </para>
+          </problem>
+        
+<solution id="eip-id1171908286201"><para id="eip-id1171907343214">0.096862</para></solution></exercise>
+        <exercise id="id1172290603178"><problem id="oo-id1172303720565">
+            <para id="id1172285146873">Find the difference between 0.5 and 0.025  </para>
+          </problem>
+        <solution id="eip-id1171068759165"><para id="eip-id1171070832994">0.475</para></solution></exercise>
+        <exercise id="id1172284575952"><problem id="oo-id1172284368909">
+            <para id="id1172285734141">Find the sum of 2,776.00019 and 2,009.00012. </para>
+          </problem>
+        <solution id="eip-id1164952904112"><para id="eip-id1164957994463">Since each number contains more than eight digits, using some calculators may not be helpful. Adding these by “hand technology,” we get 4,785.00031</para></solution></exercise>
+      </section>
+    </section>
+    <section id="id1172301976540"><title>Exercises</title><para id="id1172285809809">For the following 15 problems, perform each addition or subtraction. Use a calculator to check each result.</para>
+      <exercise id="id1172294408591">
+        <problem id="oo-id1172288238592">
+          <para id="id1172290745655"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>84</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "84"+7 "." "11"} {}</m:annotation></m:semantics></m:math>    </para>
+        </problem>
+<solution id="eip-id1165422176217"><para id="eip-id1165407700049">8.95</para></solution>
+      </exercise>
+      <exercise id="id1172305873574">
+        <problem id="oo-id1172288818319">
+          <para id="id1172299506945">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>15</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>015</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>527</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15" "." "015"-6 "." "527"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1172291132162">
+        <problem id="oo-id1172284966515">
+          <para id="id1172291662761">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>842</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>28</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>004</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11" "." "842"+"28" "." "004"} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1165408816937"><para id="eip-id1165422236332">39.846</para></solution>
+      </exercise>
+      <exercise id="id1172291359869">
+        <problem id="oo-id1172311200003">
+          <para id="id1172310643542">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>16</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>52</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." "16"-2 "." "52"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1172300596163">
+        <problem id="oo-id1172305928845">
+          <para id="id1172284661238">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>55267</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>19664</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." "55267"+8 "." "19664"} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1165408407935"><para id="eip-id1165409559402">11.74931</para></solution>
+      </exercise>
+      <exercise id="id1172284815739">
+        <problem id="oo-id1172289269285">
+          <para id="id1172288827077">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>9162</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>0872</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "9162"-0 "." "0872"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1172301597124">
+        <problem id="oo-id1172287732543">
+          <para id="id1172300932082">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>65</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>512</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>3005</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"65" "." "512"-8 "." "3005"} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1165432412440"><para id="eip-id1165414330851">57.2115</para></solution>
+      </exercise>
+      <exercise id="id1172317184387">
+        <problem id="oo-id1172291368547">
+          <para id="id1172284384230">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>761</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>0808</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>53</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>198</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"761" "." "0808"-"53" "." "198"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1172287274043">
+        <problem id="oo-id1172287192420">
+          <para id="id1172288042648">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>305</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>119</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>817</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." "305"+2 "." "119"-3 "." "817"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+<solution id="eip-id1165409572980"><para id="eip-id1615246">2.607</para></solution>
+      </exercise>
+      <exercise id="id1172289645360">
+        <problem id="oo-id1172290270714">
+          <para id="id1172290190684"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>19</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>1161</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>27</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>8014</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>39</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>3161</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"19" "." "1161"+"27" "." "8014"+"39" "." "3161"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1172284381388">
+        <problem id="oo-id1172288010595">
+          <para id="id1172285717285">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>41276</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>0018</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>00011</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "41276"-0 "." "0018"-0 "." "00011"} {}</m:annotation></m:semantics></m:math> </para>
+        </problem>
+<solution id="eip-id1165407979338"><para id="eip-id1165409550329">0.41085</para></solution>
+      </exercise>
+      
+      <exercise id="id1172291495334">
+        <problem id="oo-id1172288080919">
+          <para id="id1172298779315">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>181</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>6</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>05</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>167</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>8</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>101</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "181"+6 "." "05"+1 "." "167"+8 "." "101"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1172286274416">
+        <problem id="oo-id1172284656192">
+          <para id="id1172311184735">1.0031+6.013106+0.00018+0.0092+2.11 </para>
+        </problem>
+<solution id="eip-id1165437832290"><para id="eip-id1165408551752">9.135586</para></solution>
+      </exercise>
+      <exercise id="id1172290561760">
+        <problem id="oo-id1172287396004">
+          <para id="id1172285083364">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>27</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>42</m:mtext></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>9</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>16</m:mtext><m:mo stretchy="false">−</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>1761</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>81</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"27"+"42"+9 "." "16"-0 "." "1761"+"81" "." 6} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1172288566368">
+        <problem id="oo-id1172290045114">
+          <para id="id1172291217740">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>10</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>28</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>11</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>111</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>86</m:mtext><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" "." "28"+"11" "." "111"+0 "." "86"+5 "." 1} {}</m:annotation></m:semantics></m:math>   </para>
+        </problem>
+<solution id="eip-id1165408079625"><para id="eip-id1165413005665">27.351</para></solution>
+      </exercise>
+      <para id="id1172285050766">For the following 10 problems, solve as directed. A calculator may be useful.</para>
+      <exercise id="id1172289419396">
+        <problem id="oo-id1172291414429">
+          <para id="id1172291382873">Add 6.1121 and 4.916 and round to 2 decimal places.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1172286777436">
+        <problem id="oo-id1172285917407">
+          <para id="id1172288440453">Add 21.66418 and 18.00184 and round to 4 decimal places.</para>
+        </problem>
+<solution id="eip-id1165438463174"><para id="eip-id1165437957637">39.6660</para></solution>
+      </exercise>
+     
+      <exercise id="id1172290283865">
+        <problem id="oo-id1172291441482">
+          <para id="id1172308022572">Subtract 5.2121 from 9.6341 and round to 1 decimal place.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1172291499800">
+        <problem id="oo-id1172287127058">
+          <para id="id1172282665947">Subtract 0.918 from 12.006 and round to 2 decimal places.</para>
+        </problem>
+<solution id="eip-id1165407824319"><para id="eip-id1165419543399">11.09</para></solution>
+      </exercise>
+    
+      <exercise id="id1172285812709">
+        <problem id="oo-id1172303726468">
+          <para id="id1172287400321">Subtract 7.01884 from the sum of 13.11848 and 2.108 and round to 4 decimal places.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1172304238260">
+        <problem id="oo-id1172285042593">
+          <para id="id1172289080133">A checking account has a balance of $42.51. A check is written for $19.28. What is the new balance?</para>
+        </problem>
+<solution id="eip-id1165408379968"><para id="eip-id1165414309380">$23.23</para></solution>
+      </exercise>
+      
+      <exercise id="id1172291212014">
+        <problem id="oo-id5049065">
+          <para id="id1172287822899">A checking account has a balance of $82.97. One check is written for $6.49 and another for $39.95. What is the new balance? </para>
+        </problem>
+      </exercise>
+      <exercise id="id1172290300373">
+        <problem id="oo-id1172287936031">
+          <para id="id1172291137730">A person buys $4.29 worth of hamburger and pays for it with a $10 bill. How much change does this person get?</para>
+        </problem>
+<solution id="eip-id1649041"><para id="eip-id1165414274833">$5.71</para></solution>
+      </exercise>
+      <exercise id="id1172288085733">
+        <problem id="oo-id1172303973027">
+          <para id="id1172307570855">A man buys $6.43 worth of stationary and pays for it with a $20 bill. After receiving his change, he realizes he forgot to buy a pen. If the total price of the pen is $2.12, and he buys it, how much of the $20 bill is left?</para>
+        </problem>
+      </exercise>
+      <exercise id="id3085934">
+        <problem id="oo-id1172286839899">
+          <para id="id1172288634484">A woman starts recording a movie on her video cassette recorder with the tape counter set at 21.93. The movie runs 847.44 tape counter units. What is the final tape counter reading? </para>
+        </problem>
+<solution id="eip-id1165420405897"><para id="eip-id1165414060420">869.37</para></solution>
+      </exercise>
+      
+      <section id="id1172284449135">
+        <title>Exercises for Review</title>
+        <exercise id="id1172316924214">
+          <problem id="oo-id1172305848082">
+            <para id="id1172285438421">(<link document="m34784"/>) Find the difference between 11,206 and 10,884.</para>
+          </problem>
+        </exercise>
+        <exercise id="id1172306944716">
+          <problem id="oo-id1172310302065">
+            <para id="id1172302364909">(<link document="m34863"/>) Find the product,
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>820 </m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext> 10,000</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"820 " cdot " 10,000"} {}</m:annotation></m:semantics></m:math>.   </para>
+          </problem>
+<solution id="eip-id1165408549137"><para id="eip-id1165414254418">8,200,000</para></solution>
+        </exercise>
+        <exercise id="id1172285042071">
+          <problem id="oo-id1172284656888">
+            <para id="id1172288210110">(<link document="m34872"/>) Find the value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msqrt><m:mtext>121</m:mtext></m:msqrt><m:mo stretchy="false">−</m:mo><m:msqrt><m:mtext>25</m:mtext></m:msqrt></m:mrow><m:mo stretchy="false">+</m:mo><m:msup><m:mn>8</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">+</m:mo><m:mrow><m:mtext>16</m:mtext><m:mo stretchy="false">÷</m:mo><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {"121"}  -  sqrt {"25"} +8 rSup { size 8{2} } +"16" div 2 rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> .</para>
+          </problem>
+        </exercise>
+        <exercise id="id8588070">
+          <problem id="oo-id1172289897204">
+            <para id="id1172309510106">(<link document="m34929"/>) Find the value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>8</m:mn><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo stretchy="false">⋅</m:mo><m:mfrac><m:mtext>36</m:mtext><m:mtext>75</m:mtext></m:mfrac></m:mrow><m:mo stretchy="false">÷</m:mo><m:mn>2</m:mn></m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 {  {1}  over  {3} }  cdot  {  {"36"}  over  {"75"} }  div 2 {  {2}  over  {5} } } {}</m:annotation></m:semantics></m:math>.   
+</para>
+          </problem>
+<solution id="eip-id1165408584276"><para id="eip-id1165410432902"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mtext>20</m:mtext><m:mn>9</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mtext> or </m:mtext><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"20"}  over  {9} } = {  {5}  over  {3} } " or " {  {2}  over  {9} } } {}</m:annotation></m:semantics></m:math></para></solution>
+        </exercise>
+        <exercise id="id1172288682269">
+          <problem id="oo-id1172298516131">
+            <para id="id1828083">(<link document="m34959"/>) Round 1.08196 to the nearest hundredth.</para>
+          </problem>
+        </exercise>
+      </section>
+    </section>
+  </content>
+</document>

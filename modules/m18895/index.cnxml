@@ -1,0 +1,46 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Objectives</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m18895</md:content-id>
+  <md:title>Objectives</md:title>
+  <md:abstract>This module contains the learning objectives for the chapter "Ratios and Rates" from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, jr.</md:abstract>
+  <md:uuid>f6f6a085-9af3-4d94-93fc-4ab49cab418b</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="07 Chapter.pdf" strength="3">Download Chapter 7</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id1165619953568">After completing this chapter, you should</para>
+    
+    <list id="id7798706" list-type="bulleted"><title>Ratios and Rates (<link document="m34980"/>)</title><item>be able to distinguish between denominate and pure numbers and between ratios and rates</item>
+    </list>
+    
+    <list id="id1165608090025" list-type="bulleted"><title>Proportions (<link document="m34981"/>)</title><item>be able to describe proportions and find the missing factor in a proportion</item>
+      <item>be able to work with proportions involving rates</item>
+    </list>
+    
+    <list id="id7561993" list-type="bulleted"><title>Applications of Proportions (<link document="m34982"/>)</title><item>solve proportion problems using the five-step method</item>
+    </list>
+    
+    <list id="id1165624092604" list-type="bulleted"><title>Percent (<link document="m34983"/>)</title><item>understand the relationship between ratios and percents</item>
+      <item>be able to make conversions between fractions, decimals, and percents</item>
+    </list>
+    
+    <list id="id1165629872041" list-type="bulleted"><title>Fractions of One Percent (<link document="m34997"/>)</title><item>understand the meaning of a fraction of one percent</item>
+      <item>be able to make conversions involving fractions of one percent</item>
+    </list>
+    
+    <list id="id1165601555912" list-type="bulleted"><title>Applications of Percents (<link document="m35007"/>)</title><item>be able to distinguish between base, percent, and percentage</item>
+    <item> be able to find the percentage, the percent, and the base</item></list>
+    
+  </content>
+</document>

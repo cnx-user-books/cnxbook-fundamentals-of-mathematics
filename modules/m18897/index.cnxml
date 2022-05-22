@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Objectives</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m18897</md:content-id>
+  <md:title>Objectives</md:title>
+  <md:abstract>This module contains the learning objectives for the chapter "Measurement and Geometry" from Fundamentals of Mathematics by Denny Burzynski and Wade Ellis, jr.</md:abstract>
+  <md:uuid>fcc16426-866d-487a-bb67-59a123c5f1fb</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id1169238003116">After completing this chapter, you should</para>
+    <list id="fs-id1170365305009"><title>Measurement and the United States System (<link document="m35018"/>)</title><item>know what the word measurement means</item>
+      <item>be familiar with United States system of measurement</item>
+      <item>be able to convert from one unit of measure in the United States system to another unit of measure</item>
+    </list>
+    <list id="fs-id1170371632815"><title>The Metric System of Measurement (<link document="m35019"/>)</title><item>be more familiar with some of the advantages of the base ten number system</item>
+      <item>know the prefixes of the metric measures</item>
+      <item>be familiar with the metric system of measurement</item>
+      <item>be able to convert from one unit of measure in the metric system to another unit of measure</item>
+    </list>
+   <list id="fs-id1170366263964"><title>Simplification of Denominate Numbers (<link document="m35021"/>)</title><item>be able to convert an unsimplified unit of measure to a simplified unit of measure</item>
+      <item>be able to add and subtract denominate numbers</item>
+      <item>be able to multiply and divide a denominate number by a whole number</item>
+    </list>
+ <list id="fs-id1170366274634"><title>Perimeter and Circumference of Geometric Figures (<link document="m35022"/>)</title><item>know what a polygon is</item>
+      <item>know what perimeter is and how to find it</item>
+      <item>know what the circumference, diameter, and radius of a circle is and how to find each one</item>
+      <item>know the meaning of the symbol <m:math>
+<m:mi>π</m:mi>
+</m:math> and its approximating value</item>
+      <item>know what a formula is and four versions of the circumference formula of a circle</item>
+    </list>
+<list id="fs-id1170366274750"><title>Area and Volume of Geometric Figures and Objects (<link document="m35023"/>)</title><item>know the meaning and notation for area</item>
+      <item>know the area formulas for some common geometric figures</item>
+      <item>be able to find the areas of some common geometric figures</item>
+      <item>know the meaning and notation for volume</item>
+      <item>know the volume formulas for some common geometric objects</item>
+    <item>be able to find the volume of some common geometric objects</item></list>
+  </content>
+</document>
