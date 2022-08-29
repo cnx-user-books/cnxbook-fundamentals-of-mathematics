@@ -1,1202 +1,627 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Textbook" authors="Denny Burzynski ,Wade Ellis">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12005</md:content-id>
-  <md:title>Algonquin College - QUA2227 - Business Math Foundations -  Part I: Elementary Mathematics - Version2016RevA</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>220ffadc-8925-4488-8298-b7f2df42c768</md:uuid>
-<md:slug>algonquin-college-qua2227-business-math-foundations-part-i-elementary-mathematics</md:slug>
-</metadata>
-
+    <md:content-id>col12005</md:content-id>
+    <md:title>Algonquin College - QUA2227 - Business Math Foundations -  Part I: Elementary Mathematics - Version2016RevA</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>220ffadc-8925-4488-8298-b7f2df42c768</md:uuid>
+    <md:slug>algonquin-college-qua2227-business-math-foundations-part-i-elementary-mathematics</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m62141">
-        <col:featured-links>
-          
+    <col:module document="m62141">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:subcollection>
+      <md:title>Addition and Subtraction of Whole Numbers</md:title>
+      <col:content>
+        <col:module document="m18885">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Addition and Subtraction of Whole Numbers</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m18885">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34795">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34795">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34778">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34778">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34780">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34780">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34786">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34786">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34784">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34784">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34802">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34802">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions </cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34798">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34798">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34800">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34800">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34805">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34805">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Multiplication and Division of Whole Numbers</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m18888">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Multiplication and Division of Whole Numbers</md:title>
+      <col:content>
+        <col:module document="m18888">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34863">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34863">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34864">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34864">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34865">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34865">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions </cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34866">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34866">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34867">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34867">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34868">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34868">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34869">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34869">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34870">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34870">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Exponents, Roots, and Factorization of Whole Numbers</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m18890">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Exponents, Roots, and Factorization of Whole Numbers</md:title>
+      <col:content>
+        <col:module document="m18890">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34871">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34871">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions </cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34872">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34872">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34873">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34873">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34874">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34874">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34876">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34876">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34877">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34877">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34878">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34878">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34879">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34879">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Introduction to Fractions and Multiplication and Division of Fractions</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m18892">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Introduction to Fractions and Multiplication and Division of Fractions</md:title>
+      <col:content>
+        <col:module document="m18892">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34908">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34908">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34912">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34912">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34927">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34927">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34928">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34928">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34929">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34929">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34930">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34930">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34931">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34931">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34932">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34932">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34933">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34933">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Addition and Subtraction of Fractions, Comparing Fractions, and Complex Fractions</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m18893">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Addition and Subtraction of Fractions, Comparing Fractions, and Complex Fractions</md:title>
+      <col:content>
+        <col:module document="m18893">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34934">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34934">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34935">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34935">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34936">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34936">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34937">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34937">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34941">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34941">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34942">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34942">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34943">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34943">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34944">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34944">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34948">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34948">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Decimals</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m18894">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Decimals</md:title>
+      <col:content>
+        <col:module document="m18894">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34957">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34957">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34958">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34958">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34959">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34959">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34960">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34960">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34963">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34963">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34968">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34968">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34969">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34969">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34970">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34970">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34971">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34971">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34972">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34972">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34978">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34978">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34979">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34979">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions </cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Ratios and Rates</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m18895">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ratios and Rates</md:title>
+      <col:content>
+        <col:module document="m18895">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34980">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34980">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34981">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34981">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34982">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34982">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34983">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34983">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m34997">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m34997">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35007">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35007">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35008">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35008">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35009">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35009">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35010">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35010">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Algebraic Expressions and Equations</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m18899">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Algebraic Expressions and Equations</md:title>
+      <col:content>
+        <col:module document="m18899">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m62528">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m62528">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35039">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35039">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35044">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35044">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35045">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35045">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35046">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35046">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35047">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35047">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35049">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35049">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35050">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35050">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m35052">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m35052">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
