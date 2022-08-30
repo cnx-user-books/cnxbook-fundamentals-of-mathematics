@@ -923,7 +923,7 @@
             <para id="id1171791493036">(<link document="m34802"/>) Use the number 5 and 7 to illustrate the commutative property of addition. 
 </para>
           </problem>
-<solution id="eip-id1164921450958"><para id="eip-id1164930073316"><m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
+<solution id="eip-id1164921450958"><para id="eip-id1164930073316"><m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mo stretchy="false">+</m:mo><m:mn>7</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">+</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>12</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{5+7="12"}  {} # 
  size 12{7+5="12"}  {} 
 } } {}</m:annotation></m:semantics></m:math></para></solution>

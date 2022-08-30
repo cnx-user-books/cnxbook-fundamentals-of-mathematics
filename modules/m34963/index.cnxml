@@ -148,32 +148,32 @@
    <m:mfenced open="" close="}">       
             <m:mtable>
               <m:mtr>
-                <m:mrow>
+                <m:mtd>
                   
                   <m:mtext>3.2 has 1 decimal place,</m:mtext>
                   <m:mrow/>
-                </m:mrow>
+                </m:mtd>
               </m:mtr>
               <m:mtr>
-                <m:mrow>
+                <m:mtd>
                   
                   <m:mtext>1.46 has 2 decimal places,</m:mtext>
                   <m:mrow/>
-                </m:mrow>
+                </m:mtd>
               </m:mtr>
               <m:mtr>
-                <m:mrow>
+                <m:mtd>
                   <m:mtext>and the product</m:mtext>
                   <m:mrow/>
-                </m:mrow>
+                </m:mtd>
               </m:mtr>
               <m:mtr>
-                <m:mrow>
+                <m:mtd>
                  
                   <m:mtext>4.672 has 3 decimal places.</m:mtext>
                   
                   <m:mrow/>
-                </m:mrow>
+                </m:mtd>
               </m:mtr>
              </m:mtable>
 </m:mfenced>
