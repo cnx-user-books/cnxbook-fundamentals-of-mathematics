@@ -566,8 +566,8 @@
 <m:mo>=</m:mo>
 </m:mtd>
 <m:mtd columnalign="left">
-<m:msup><m:mo>-</m:mo>
-<m:mn>3</m:mn><m:mn>2</m:mn></m:msup><m:mo>-</m:mo><m:mn>4</m:mn>
+<m:mmultiscripts><m:mo>-</m:mo>
+<m:mn>2</m:mn><m:mn>3</m:mn></m:mmultiscripts><m:mo>-</m:mo><m:mn>4</m:mn>
 </m:mtd>
 <m:mtd columnalign="left">
 <m:mtext>Be careful to square only the 3. The exponent 2 is connected    </m:mtext><m:mtext mathvariant="italic">only</m:mtext><m:mtext>    to 3, not -3</m:mtext>

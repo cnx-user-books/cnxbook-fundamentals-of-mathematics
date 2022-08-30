@@ -633,17 +633,17 @@
       <title>Exercises</title>
       <para id="id1167257250165">For the following problems, determine the missing factor(s). </para>
       <exercise id="id1167257831392"><problem id="oo-id1167250681305">
-          <para id="id1167264704305"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>14</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"14"=7 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>    </para>
+          <para id="id1167264704305"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>14</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>7</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"14"=7 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>    </para>
         </problem>
 <solution id="eip-id1165635844147"><para id="eip-id1165625159185">2</para></solution>
       </exercise>
       <exercise id="id1167273101733">
         <problem id="oo-id1459691">
-          <para id="id1167257319905"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"20"=4 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/></para>
+          <para id="id1167257319905"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>20</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"20"=4 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/></para>
         </problem>
       </exercise>
       <exercise id="id1167258682658"><problem id="oo-id1167259738347">
-          <para id="id1167266170328"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>36</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"36"=9 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>    </para>
+          <para id="id1167266170328"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>36</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"36"=9 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>    </para>
         </problem>
       <solution id="eip-id1172248444590"><para id="eip-id1172248890220">4</para></solution></exercise>
       <exercise id="id1167267301763"><problem id="oo-id1167250132917">
@@ -651,32 +651,32 @@
         </problem>
       </exercise>
       <exercise id="id8372365"><problem id="oo-id1167281971365">
-          <para id="id1167259543970"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>44</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"44"=4 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/></para>
+          <para id="id1167259543970"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>44</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"44"=4 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/></para>
         </problem>
       <solution id="eip-id1172301646757"><para id="eip-id1172286441197">11</para></solution></exercise>
       <exercise id="id1167250708370"><problem id="oo-id1167249259032">
-          <para id="id1167259601808"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>38</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"38"=2 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/></para>
+          <para id="id1167259601808"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>38</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"38"=2 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/></para>
         </problem>
       </exercise>
       <exercise id="id1167270396889"><problem id="oo-id1167249685272">
-          <para id="id1167257535449"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>18</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"18"=3 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
+          <para id="id1167257535449"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>18</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"18"=3 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
 <m:math><m:mrow><m:mo>⋅</m:mo></m:mrow></m:math><space effect="underline" count="10"/>
 </para>
         </problem>
       <solution id="eip-id1168517726896"><para id="eip-id1168508895535"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 cdot 2} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
       <exercise id="id1167245376740"><problem id="oo-id1167265842468">
-          <para id="id1167258284467"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>28</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"28"=2 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
+          <para id="id1167258284467"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>28</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"28"=2 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
 <m:math><m:mrow><m:mo>⋅</m:mo></m:mrow></m:math><space effect="underline" count="10"/></para>
         </problem>
       </exercise>
       <exercise id="id1167246426116"><problem id="oo-id1167274036409">
-          <para id="id1167259858328"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>300</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"300"=2 cdot 5 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
+          <para id="id1167259858328"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>300</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"300"=2 cdot 5 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
 <m:math><m:mrow><m:mo>⋅</m:mo></m:mrow></m:math><space effect="underline" count="10"/>
 </para>
         </problem>
       <solution id="eip-id1165623681995"><para id="eip-id1165629834518"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mn>3</m:mn></m:mrow><m:mo stretchy="false">⋅</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 cdot 3 cdot 5} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
       <exercise id="id1167244520047"><problem id="oo-id1167251983258">
-          <para id="id1167260005647"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mtext>840</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"840"=2 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
+          <para id="id1167260005647"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>840</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">⋅</m:mo><m:mrow/></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{"840"=2 cdot } {}</m:annotation></m:semantics></m:math><space effect="underline" count="10"/>
 <m:math><m:mrow><m:mo>⋅</m:mo></m:mrow></m:math><space effect="underline" count="10"/>
 <m:math><m:mrow><m:mo>⋅</m:mo></m:mrow></m:math><space effect="underline" count="10"/></para>
         </problem>
