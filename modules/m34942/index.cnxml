@@ -203,7 +203,7 @@
            <m:mfenced open="" close="}">
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mn>4</m:mn>
                       <m:mo stretchy="false">=</m:mo>
@@ -217,10 +217,10 @@
                       </m:msup>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mtext>12</m:mtext>
                       <m:mo stretchy="false">=</m:mo>
@@ -238,7 +238,7 @@
                       </m:mrow>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 
                 
@@ -404,7 +404,7 @@
             <m:mfenced open="" close="}">
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mn>9</m:mn>
                       <m:mo stretchy="false">=</m:mo>
@@ -418,10 +418,10 @@
                       </m:msup>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mn>4</m:mn>
                       <m:mo stretchy="false">=</m:mo>
@@ -435,7 +435,7 @@
                       </m:msup>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 
                 
